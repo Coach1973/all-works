@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<title>完整作品一覽</title>
+<style>
+:root{
+  --bg:#f6f4ee; --card:#ffffff; --ink:#1f2a24; --muted:#56635b; --line:#d9d6cb;
+  --accent:#2c6a4d; --accent-ink:#ffffff; --chip:#ebe8dd;
+  --s-works:#1f6b43; --s-works-bg:#dff1e5;
+  --s-curation:#8a5a00; --s-curation-bg:#fbefd0;
+  --s-github:#2d4f8a; --s-github-bg:#e0e9f8;
+  --s-off:#7a3030; --s-off-bg:#f6e0e0;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#16191a; --card:#1f2425; --ink:#ecece6; --muted:#a6b0aa; --line:#33393a;
+    --accent:#7cc7a0; --accent-ink:#10231a; --chip:#2a3032;
+    --s-works:#8fdcb0; --s-works-bg:#1d3a2b;
+    --s-curation:#f0c870; --s-curation-bg:#3b3118;
+    --s-github:#9dbcf2; --s-github-bg:#1f2e4a;
+    --s-off:#f0a3a3; --s-off-bg:#432525;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-size:20px;line-height:1.65;
+  font-family:-apple-system,BlinkMacSystemFont,"PingFang TC","Noto Sans TC","Microsoft JhengHei",sans-serif}
+.wrap{max-width:1040px;margin:0 auto;padding:28px 16px 80px}
+h1{margin:0 0 6px;font-size:40px;line-height:1.25}
+.sub{margin:0 0 22px;color:var(--muted);font-size:20px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-bottom:20px}
+.stat{background:var(--card);border:2px solid var(--line);border-radius:14px;padding:12px 16px;text-align:left;
+  font:inherit;color:inherit;cursor:pointer}
+.stat .n{display:block;font-size:44px;line-height:1.15;font-weight:700}
+.stat .l{display:block;font-size:20px;color:var(--muted)}
+.stat[aria-pressed="true"]{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent)}
+.stat.total{cursor:default;background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.stat.total .l{color:var(--accent-ink);opacity:.9}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 12px;border-bottom:1px solid var(--line);margin-bottom:14px}
+.search{width:100%;font:inherit;font-size:24px;padding:12px 16px;border:2px solid var(--line);border-radius:12px;
+  background:var(--card);color:var(--ink)}
+.search:focus{outline:3px solid var(--accent);border-color:var(--accent)}
+.filters{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:10px;align-items:center}
+.group{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.group>b{font-weight:600;color:var(--muted)}
+.pill{font:inherit;font-size:20px;line-height:1.3;padding:6px 14px;border-radius:999px;border:2px solid var(--line);
+  background:var(--chip);color:var(--ink);cursor:pointer}
+.pill[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+select{font:inherit;font-size:20px;padding:6px 10px;border-radius:10px;border:2px solid var(--line);background:var(--card);color:var(--ink);max-width:100%}
+label.chk{display:flex;gap:8px;align-items:center;cursor:pointer}
+label.chk input{width:22px;height:22px}
+.count{margin:6px 0 14px;color:var(--muted)}
+.list{display:grid;gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 18px}
+.top{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:6px}
+.tag{display:inline-block;font-size:20px;line-height:1.35;padding:2px 12px;border-radius:999px;background:var(--chip);color:var(--ink)}
+.tag.st-w{background:var(--s-works-bg);color:var(--s-works);font-weight:700}
+.tag.st-c{background:var(--s-curation-bg);color:var(--s-curation);font-weight:700}
+.tag.st-g{background:var(--s-github-bg);color:var(--s-github);font-weight:700}
+.tag.st-o{background:var(--s-off-bg);color:var(--s-off);font-weight:700}
+.tag.warn{border:2px dashed var(--s-off)}
+.name{margin:0 0 4px;font-size:24px;line-height:1.4;font-weight:700;word-break:break-word}
+.desc{margin:0 0 6px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.meta{margin:0 0 10px;color:var(--muted);word-break:break-all}
+.acts{display:flex;flex-wrap:wrap;gap:10px}
+.btn{font:inherit;font-size:20px;line-height:1.3;padding:8px 16px;border-radius:10px;border:2px solid var(--accent);
+  background:var(--accent);color:var(--accent-ink);text-decoration:none;cursor:pointer;display:inline-block}
+.btn.ghost{background:transparent;color:var(--accent)}
+.btn:focus-visible,.pill:focus-visible,.stat:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
+.empty{padding:40px 8px;text-align:center;color:var(--muted)}
+.foot{margin-top:28px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}
+.foot p{margin:4px 0}
+.err{color:var(--s-off)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>完整作品一覽</h1>
+  <p class="sub">自從建立 SOP 上架機制以來，做過的所有網頁與作品——不管有沒有上架。只給教練自己看。</p>
+
+  <div class="stats" id="stats" aria-live="polite"></div>
+
+  <div class="bar">
+    <input id="q" class="search" type="search" inputmode="search" autocomplete="off"
+           placeholder="輸入人名、店名、關鍵字，例如：曾博士、Scott" aria-label="搜尋作品">
+    <div class="filters">
+      <div class="group" id="srcGroup"><b>來源</b></div>
+      <div class="group"><b>分類</b><select id="cat" aria-label="分類"></select></div>
+      <div class="group"><b>排序</b>
+        <select id="sort" aria-label="排序">
+          <option value="new">最近更新在前</option>
+          <option value="old">最舊在前</option>
+          <option value="name">名稱</option>
+        </select>
+      </div>
+      <label class="chk"><input type="checkbox" id="webOnly"> 隱藏後台管理頁與內部倉庫</label>
+    </div>
+  </div>
+
+  <div class="count" id="count"></div>
+  <div class="list" id="list"></div>
+
+  <div class="foot" id="foot"></div>
+</div>
+
+<script>
+(function(){
+'use strict';
+var C888_URL='https://event.bymyway.com/api/coach888/state';
+var GH_URL='https://api.github.com/users/Coach1973/repos?per_page=100&page=';
+var STATUS=[
+  {key:'works',   label:'已收進作品一覽',      cls:'st-w'},
+  {key:'curation',label:'只在策展中心',        cls:'st-c'},
+  {key:'github',  label:'只有 GitHub 沒上架',  cls:'st-g'},
+  {key:'off',     label:'已下架',              cls:'st-o'}
+];
+var SOURCES=['GitHub','策展中心','作品一覽'];
+var state={items:[],q:'',status:'',src:'',cat:'',sort:'new',webOnly:false,
+           info:{generated:'',c888:'',gh:'',err:[]}};
+
+/* 與 scripts/all_works_refresh.py 的 canon() 規則完全一致：去協定、參數、結尾斜線與 index.html，全小寫 */
+function canon(u){
+  try{
+    var x=new URL(u);
+    var p=x.pathname.replace(/\/index\.html?$/i,'').replace(/\/+$/,'');
+    return (x.host+p).toLowerCase();
+  }catch(e){return String(u||'').toLowerCase();}
+}
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+function norm(s){return String(s||'').normalize('NFKC').toLowerCase().replace(/臺/g,'台');}
+function twTime(iso){
+  if(!iso)return '—';
+  var d=new Date(iso); if(isNaN(d))return iso;
+  return d.toLocaleString('zh-TW',{timeZone:'Asia/Taipei',hour12:false});
+}
+function fetchJson(url,opts){
+  return fetch(url,opts).then(function(r){if(!r.ok)throw new Error(url.split('?')[0]+' → HTTP '+r.status);return r.json();});
+}
+
+/* ---------- 資料合併 ---------- */
+function autoKeys(name){
+  var n=name.toLowerCase();
+  return ['coach1973.github.io/'+n,'event.bymyway.com/curated/'+n,'event.bymyway.com/'+n,n+'.netlify.app',n+'.bymyway.com'];
+}
+function overlayGithub(items,repos){
+  var byId={};items.forEach(function(i){byId[i.id]=i;});
+  repos.forEach(function(r){
+    var id=r.name.toLowerCase(),day=(r.pushed_at||'').slice(0,10),it=byId[id];
+    if(it){ if(day>(it.updated||''))it.updated=day; return; }
+    var web=r.has_pages;
+    var ni={id:id,name:r.name,desc:r.description||'',url:web?'https://coach1973.github.io/'+r.name+'/':r.html_url,
+      repoUrl:r.html_url,repo:r.name,private:false,archived:!!r.archived,keys:autoKeys(r.name),
+      cat:id.indexOf('_archived_')===0?'封存副本':(web?'GitHub 網頁':'程式／內部倉庫'),updated:day,inRegistry:false,
+      delisted:id.indexOf('_archived_')===0,unlistedAt:'',aliases:[],fresh:true};
+    items.push(ni);byId[id]=ni;
+  });
+}
+function mergeC888(items,st){
+  var layout=JSON.parse(st.coach888_layout||'{}'),names=JSON.parse(st.coach888_names||'{}'),
+      its=JSON.parse(st.coach888_items||'{}'),badges=JSON.parse(st.coach888_badges||'{}'),
+      titles=JSON.parse(st.coach888_titles||'{}');
+  items=items.filter(function(i){return !i.fromC888;});
+  items.forEach(function(i){i.c888=[];i.kids=0;i.c888Deleted=false;});
+  var idx=new Map();
+  items.forEach(function(i){(i.keys||[]).forEach(function(k){if(!idx.has(k))idx.set(k,i);});});
+  var keyList=Array.from(idx.keys()),extra=[],total=0;
+  Object.keys(layout).forEach(function(sec){
+    (layout[sec]||[]).forEach(function(u){
+      total++;
+      var ck=canon(u),it=its[u]||{};
+      var e={url:u,section:titles[sec]||sec,secKey:sec,name:names[u]||it.name||'',badge:badges[u]||it.badge||''};
+      var hit=idx.get(ck);
+      if(hit){hit.c888.push(e);if(sec==='recentlydeleted')hit.c888Deleted=true;return;}
+      var best=null;
+      for(var j=0;j<keyList.length;j++){var k=keyList[j];if(ck.indexOf(k+'/')===0&&(!best||k.length>best.length))best=k;}
+      if(best)idx.get(best).kids++;
+      extra.push({id:'c8:'+ck,name:e.name||u,desc:'',url:u,repoUrl:'',repo:'',private:false,archived:false,keys:[ck],
+        cat:e.section,updated:'',inRegistry:false,delisted:false,unlistedAt:'',aliases:[],c888:[e],kids:0,
+        c888Deleted:sec==='recentlydeleted',fromC888:true});
+    });
+  });
+  state.info.c888Total=total;
+  return items.concat(extra);
+}
+function statusOf(i){
+  if(i.delisted||i.c888Deleted)return 'off';
+  if(i.c888.length||i.kids)return 'works';
+  if(i.inRegistry)return 'curation';
+  return 'github';
+}
+function sourcesOf(i){
+  var s=[];
+  if(i.repo)s.push('GitHub');
+  if(i.inRegistry)s.push('策展中心');
+  if(i.c888.length||i.kids)s.push('作品一覽');
+  return s;
+}
+function isTool(i){
+  if(i.c888.some(function(c){return c.badge==='後臺'||/後[台臺]/.test(c.section);}))return true;
+  return i.cat==='程式／內部倉庫'||i.cat==='封存副本';
+}
+function derive(items){
+  items.forEach(function(i){
+    i.status=statusOf(i);i.sources=sourcesOf(i);i.tool=isTool(i);
+    i.title=(i.c888[0]&&i.c888[0].name)||i.name;
+    i.category=(i.c888[0]&&i.c888[0].section)||i.cat;
+    i.hay=norm([i.name,i.desc,i.repo,i.url,i.cat,i.aliases.join(' '),
+      i.c888.map(function(c){return c.name+' '+c.section+' '+c.url;}).join(' ')].join(' '));
+    i.nameHay=norm([i.title,i.name,i.repo,i.aliases.join(' ')].join(' '));
+  });
+}
+
+/* ---------- 搜尋 ---------- */
+function cjkOnly(t){return /^[一-鿿]{3,}$/.test(t);}
+/* 「曾博士」要找得到「曾志雄博士」：三個字以上的中文，在名稱欄位裡依序出現、中間最多夾 3 個字就算命中 */
+function fuzzy(text,t){
+  var first=text.indexOf(t[0]);
+  while(first>=0){
+    var pos=first,ok=true;
+    for(var k=1;k<t.length;k++){
+      var nx=text.indexOf(t[k],pos+1);
+      if(nx<0||nx-pos>4){ok=false;break;}
+      pos=nx;
+    }
+    if(ok&&pos-first<=t.length+3)return true;
+    first=text.indexOf(t[0],first+1);
+  }
+  return false;
+}
+function matches(i,tokens){
+  for(var k=0;k<tokens.length;k++){
+    var t=tokens[k];
+    if(i.hay.indexOf(t)>=0)continue;
+    if(cjkOnly(t)&&fuzzy(i.nameHay,t))continue;
+    return false;
+  }
+  return true;
+}
+
+/* ---------- 畫面 ---------- */
+var $=function(id){return document.getElementById(id);};
+function counts(){
+  var c={total:state.items.length,works:0,curation:0,github:0,off:0};
+  state.items.forEach(function(i){c[i.status]++;});
+  return c;
+}
+function renderStats(){
+  var c=counts(),h='<div class="stat total"><span class="n">'+c.total+'</span><span class="l">累計作品與網頁（已去重）</span></div>';
+  STATUS.forEach(function(s){
+    h+='<button type="button" class="stat" data-st="'+s.key+'" aria-pressed="'+(state.status===s.key)+'">'+
+       '<span class="n">'+c[s.key]+'</span><span class="l">'+s.label+'</span></button>';
+  });
+  $('stats').innerHTML=h;
+}
+function renderControls(){
+  var g='<b>來源</b>';
+  [''].concat(SOURCES).forEach(function(s){
+    g+='<button type="button" class="pill" data-src="'+esc(s)+'" aria-pressed="'+(state.src===s)+'">'+(s||'全部')+'</button>';
+  });
+  $('srcGroup').innerHTML=g;
+  var cats={};state.items.forEach(function(i){cats[i.category]=(cats[i.category]||0)+1;});
+  var keys=Object.keys(cats).sort(function(a,b){return cats[b]-cats[a]||a.localeCompare(b,'zh-Hant');});
+  var o='<option value="">全部分類（'+state.items.length+'）</option>';
+  keys.forEach(function(k){o+='<option value="'+esc(k)+'"'+(state.cat===k?' selected':'')+'>'+esc(k)+'（'+cats[k]+'）</option>';});
+  $('cat').innerHTML=o;
+}
+function visible(){
+  var tokens=norm(state.q).split(/\s+/).filter(Boolean);
+  var out=state.items.filter(function(i){
+    if(state.status&&i.status!==state.status)return false;
+    if(state.src&&i.sources.indexOf(state.src)<0)return false;
+    if(state.cat&&i.category!==state.cat)return false;
+    if(state.webOnly&&i.tool)return false;
+    return !tokens.length||matches(i,tokens);
+  });
+  var s=state.sort;
+  out.sort(function(a,b){
+    if(s==='name')return a.title.localeCompare(b.title,'zh-Hant');
+    var da=a.updated||'',db=b.updated||'';
+    if(!da&&db)return 1;if(da&&!db)return -1;
+    return s==='old'?(da<db?-1:da>db?1:0):(da<db?1:da>db?-1:0);
+  });
+  return out;
+}
+function card(i){
+  var st=STATUS.filter(function(s){return s.key===i.status;})[0];
+  var tags='<span class="tag '+st.cls+'">'+st.label+'</span>';
+  i.sources.forEach(function(s){tags+='<span class="tag">'+s+'</span>';});
+  if(i.private)tags+='<span class="tag">私有倉庫</span>';
+  if(i.archived)tags+='<span class="tag">GitHub 封存</span>';
+  if(i.status==='off'&&i.c888.length)tags+='<span class="tag warn">作品一覽裡還有</span>';
+  if(i.kids)tags+='<span class="tag">子頁 '+i.kids+' 個在作品一覽</span>';
+  if(i.fresh)tags+='<span class="tag">剛出現的新倉庫</span>';
+  var meta=[i.category,'最後更新 '+(i.updated||'—')];
+  if(i.repo)meta.push('倉庫 '+i.repo);
+  if(i.unlistedAt)meta.push('下架於 '+i.unlistedAt);
+  var link=i.c888.length?i.c888[0].url:i.url;
+  var acts='';
+  if(link)acts+='<a class="btn" href="'+esc(link)+'" target="_blank" rel="noopener">開啟網站</a>';
+  if(i.repoUrl)acts+='<a class="btn ghost" href="'+esc(i.repoUrl)+'" target="_blank" rel="noopener">GitHub</a>';
+  if(link)acts+='<button type="button" class="btn ghost" data-copy="'+esc(link)+'">複製網址</button>';
+  return '<article class="card"><div class="top">'+tags+'</div><h2 class="name">'+esc(i.title)+'</h2>'+
+    (i.desc?'<p class="desc">'+esc(i.desc)+'</p>':'')+
+    '<p class="meta">'+esc(meta.join('　·　'))+(link?'<br>'+esc(link):'')+'</p><div class="acts">'+acts+'</div></article>';
+}
+function renderList(){
+  var v=visible();
+  $('count').textContent=(state.q||state.status||state.src||state.cat||state.webOnly)
+    ?'符合條件：'+v.length+' 筆（全部 '+state.items.length+' 筆）':'共 '+v.length+' 筆';
+  $('list').innerHTML=v.length?v.map(card).join(''):
+    '<div class="empty">找不到符合的項目。<br>試試只打姓氏、英文名，或清掉上面的篩選。</div>';
+}
+function renderFoot(){
+  var f=state.info,gh=state.items.filter(function(i){return i.repo;}).length,
+      reg=state.items.filter(function(i){return i.inRegistry;}).length;
+  var h='<p>來源：GitHub '+gh+' 個倉庫　·　策展名冊 '+reg+' 站　·　大樹作品一覽 '+(f.c888Total||0)+' 項。指到同一個作品的已合併成一筆；同一個網站底下的子頁面，在作品一覽裡各自算一筆。</p>'+
+    '<p>GitHub／策展名冊快照：'+twTime(f.generated)+'（新作品上架、策展下架、建新倉庫那一刻自動更新）</p>'+
+    '<p>大樹作品一覽：'+(f.c888?'已即時讀取 '+twTime(f.c888):'<span class="err">這次讀取失敗，狀態可能不準</span>')+'</p>'+
+    '<p>GitHub 公開倉庫：'+(f.gh?'已即時讀取 '+twTime(f.gh):'即時讀取沒成功，用快照（不影響使用）')+'</p>';
+  if(f.err.length)h+='<p class="err">注意：'+esc(f.err.join('；'))+'</p>';
+  $('foot').innerHTML=h;
+}
+function render(){renderStats();renderControls();renderList();renderFoot();}
+
+/* ---------- 事件 ---------- */
+function bind(){
+  $('q').addEventListener('input',function(e){state.q=e.target.value;renderList();});
+  $('cat').addEventListener('change',function(e){state.cat=e.target.value;renderList();});
+  $('sort').addEventListener('change',function(e){state.sort=e.target.value;renderList();});
+  $('webOnly').addEventListener('change',function(e){state.webOnly=e.target.checked;renderList();});
+  document.addEventListener('click',function(e){
+    var t=e.target.closest('[data-st],[data-src],[data-copy]');
+    if(!t)return;
+    if(t.hasAttribute('data-st')){var k=t.getAttribute('data-st');state.status=state.status===k?'':k;renderStats();renderList();}
+    else if(t.hasAttribute('data-src')){state.src=t.getAttribute('data-src');renderControls();renderList();}
+    else if(t.hasAttribute('data-copy')){
+      var u=t.getAttribute('data-copy');
+      (navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(function(){
+        t.textContent='已複製';setTimeout(function(){t.textContent='複製網址';},1500);
+      }).catch(function(){window.prompt('複製這個網址',u);});
+    }
+  });
+}
+
+/* ---------- 啟動：每次開頁即時讀取（事件＝開頁），沒有任何定時重抓 ---------- */
+function load(){
+  var bust='?t='+Date.now();
+  Promise.allSettled([
+    fetchJson('data.json'+bust,{cache:'no-store'}),
+    fetchJson(C888_URL,{cache:'no-store'}),
+    fetchJson(GH_URL+'1'),
+    fetchJson(GH_URL+'2')
+  ]).then(function(r){
+    if(r[0].status!=='fulfilled'){
+      $('list').innerHTML='<div class="empty err">資料檔讀取失敗：'+esc(r[0].reason&&r[0].reason.message)+'</div>';
+      return;
+    }
+    var data=r[0].value,items=data.items;
+    state.info.generated=data.generated;
+    var live=[];
+    if(r[2].status==='fulfilled')live=live.concat(r[2].value);
+    if(r[3].status==='fulfilled')live=live.concat(r[3].value);
+    if(r[2].status==='fulfilled'){overlayGithub(items,live);state.info.gh=new Date().toISOString();}
+    if(r[1].status==='fulfilled'){
+      try{items=mergeC888(items,r[1].value);state.info.c888=new Date().toISOString();}
+      catch(e){state.info.err.push('作品一覽資料格式讀不懂：'+e.message);items.forEach(function(i){i.c888=[];i.kids=0;});}
+    }else{
+      items.forEach(function(i){i.c888=[];i.kids=0;});
+      state.info.err.push('作品一覽讀取失敗，「已收進作品一覽」數字不準（'+(r[1].reason&&r[1].reason.message)+'）');
+    }
+    derive(items);
+    state.items=items;
+    var q=new URLSearchParams(location.search).get('q');
+    if(q){state.q=q;$('q').value=q;}
+    render();
+  });
+}
+bind();load();
+})();
+</script>
+</body>
+</html>
