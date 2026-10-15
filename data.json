@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "ruifeng",
+   "name": "何瑞峰牧師｜祝福的最高級——從華岡團契到泰緬邊境",
+   "desc": "德生堂教會何瑞峰牧師，從華岡團契到泰緬邊境，用廿餘年走出一條以福音為本的公益之路。",
+   "url": "https://event.bymyway.com/curated/ruifeng/",
+   "repoUrl": "https://github.com/Coach1973/ruifeng",
+   "repo": "ruifeng",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/ruifeng",
+    "event.bymyway.com/curated/ruifeng",
+    "event.bymyway.com/ruifeng",
+    "ruifeng.bymyway.com",
+    "ruifeng.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -3776,5 +3799,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-15T12:34:24Z"
+ "generated": "2026-10-15T16:41:37Z"
 }
