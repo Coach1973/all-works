@@ -232,6 +232,29 @@
    "aliases": []
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-15",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tut-memory",
    "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
    "desc": "",
@@ -3730,5 +3753,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-15T08:09:34Z"
+ "generated": "2026-10-15T08:16:01Z"
 }
