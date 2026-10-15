@@ -39,7 +39,9 @@ h1{margin:0 0 6px;font-size:40px;line-height:1.25}
 .stat[aria-pressed="true"]{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent)}
 .stat.total{cursor:default;background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .stat.total .l{color:var(--accent-ink);opacity:.9}
-.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 12px;border-bottom:1px solid var(--line);margin-bottom:14px}
+.bar{background:var(--bg);padding:10px 0 12px;border-bottom:1px solid var(--line);margin-bottom:14px}
+/* 手機上搜尋列太高，固定住會吃掉大半螢幕；只有大螢幕才釘在上方 */
+@media (min-width:900px) and (min-height:760px){.bar{position:sticky;top:0;z-index:5}}
 .search{width:100%;font:inherit;font-size:24px;padding:12px 16px;border:2px solid var(--line);border-radius:12px;
   background:var(--card);color:var(--ink)}
 .search:focus{outline:3px solid var(--accent);border-color:var(--accent)}
