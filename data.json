@@ -71,6 +71,29 @@
    "aliases": []
   },
   {
+   "id": "rongtree",
+   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
+   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
+   "url": "https://event.bymyway.com/curated/rongtree/",
+   "repoUrl": "https://github.com/Coach1973/rongtree",
+   "repo": "rongtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rongtree",
+    "event.bymyway.com/curated/rongtree",
+    "event.bymyway.com/rongtree",
+    "rongtree.bymyway.com",
+    "rongtree.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-15",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -158,6 +181,29 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-10-15",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "lidie",
+   "name": "張麗蝶｜T1科技 ‧ 元照科技照明 董事長 — 讓每一盞燈照亮健康，也照亮社會",
+   "desc": "張麗蝶，T1科技股份有限公司／元照科技照明有限公司董事長。從銀行高階主管轉身投入全光譜健康照明，長年陪伴社福團體、推動時間銀行與企業 ESG。",
+   "url": "https://event.bymyway.com/curated/lidie/",
+   "repoUrl": "https://github.com/Coach1973/lidie",
+   "repo": "lidie",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lidie",
+    "event.bymyway.com/curated/lidie",
+    "event.bymyway.com/lidie",
+    "lidie.bymyway.com",
+    "lidie.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-15",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -365,29 +411,6 @@
     "runforfuture.netlify.app"
    ],
    "cat": "策展・育",
-   "updated": "2026-10-14",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "rongtree",
-   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
-   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
-   "url": "https://event.bymyway.com/curated/rongtree/",
-   "repoUrl": "https://github.com/Coach1973/rongtree",
-   "repo": "rongtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rongtree",
-    "event.bymyway.com/curated/rongtree",
-    "event.bymyway.com/rongtree",
-    "rongtree.bymyway.com",
-    "rongtree.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-10-14",
    "inRegistry": true,
    "delisted": false,
@@ -3753,5 +3776,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-15T08:16:01Z"
+ "generated": "2026-10-15T12:34:24Z"
 }
