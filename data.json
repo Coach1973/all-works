@@ -25,6 +25,31 @@
    "aliases": []
   },
   {
+   "id": "andy-chen",
+   "name": "陳顯立執行長｜好廣告數據創辦人・《信任效應》作者",
+   "desc": "陳顯立（Andy Chen），好廣告數據創辦人暨執行長、《信任效應》作者、東吳大學企管系專技副教授。25 年數位與零售轉型經驗，連續 20 年每月認養家扶學童。",
+   "url": "https://event.bymyway.com/curated/andy-chen/",
+   "repoUrl": "https://github.com/Coach1973/andy-chen",
+   "repo": "andy-chen",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "andy-chen.bymyway.com",
+    "andy-chen.netlify.app",
+    "coach1973.github.io/andy-chen",
+    "event.bymyway.com/andy-chen",
+    "event.bymyway.com/curated/andy-chen"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "陳執行長"
+   ]
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -3799,5 +3824,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-15T16:41:37Z"
+ "generated": "2026-10-15T17:15:42Z"
 }
