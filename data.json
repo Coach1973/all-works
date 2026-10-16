@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "yijing-ai-backup",
+   "name": "yijing-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/yijing-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
+   "repo": "yijing-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yijing-ai-backup",
+    "event.bymyway.com/curated/yijing-ai-backup",
+    "event.bymyway.com/yijing-ai-backup",
+    "yijing-ai-backup.bymyway.com",
+    "yijing-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "ruifeng",
    "name": "何瑞峰牧師｜祝福的最高級——從華岡團契到泰緬邊境",
    "desc": "德生堂教會何瑞峰牧師，從華岡團契到泰緬邊境，用廿餘年走出一條以福音為本的公益之路。",
@@ -20,6 +43,75 @@
    "cat": "教練個人創作",
    "updated": "2026-10-16",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-16",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -48,29 +140,6 @@
    "aliases": [
     "陳執行長"
    ]
-  },
-  {
-   "id": "yijing-ai-backup",
-   "name": "yijing-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/yijing-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
-   "repo": "yijing-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yijing-ai-backup",
-    "event.bymyway.com/curated/yijing-ai-backup",
-    "event.bymyway.com/yijing-ai-backup",
-    "yijing-ai-backup.bymyway.com",
-    "yijing-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "tava-brand-web-playbook",
@@ -119,6 +188,29 @@
    "aliases": []
   },
   {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-15",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "rongtree",
    "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
    "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
@@ -137,29 +229,6 @@
    "cat": "策展・樂",
    "updated": "2026-10-15",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-15",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -211,29 +280,6 @@
    "aliases": []
   },
   {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "lidie",
    "name": "張麗蝶｜T1科技 ‧ 元照科技照明 董事長 — 讓每一盞燈照亮健康，也照亮社會",
    "desc": "張麗蝶，T1科技股份有限公司／元照科技照明有限公司董事長。從銀行高階主管轉身投入全光譜健康照明，長年陪伴社福團體、推動時間銀行與企業 ESG。",
@@ -252,29 +298,6 @@
    "cat": "策展・育",
    "updated": "2026-10-15",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-15",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -413,29 +436,6 @@
     "social-good.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-10-14",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-10-14",
    "inRegistry": true,
    "delisted": false,
@@ -3824,5 +3824,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-15T17:15:42Z"
+ "generated": "2026-10-16T04:18:02Z"
 }
