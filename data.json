@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "tainan-shangquan",
+   "name": "tainan-shangquan",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "ruifeng",
    "name": "何瑞峰牧師｜祝福的最高級——從華岡團契到泰緬邊境",
    "desc": "德生堂教會何瑞峰牧師，從華岡團契到泰緬邊境，用廿餘年走出一條以福音為本的公益之路。",
@@ -117,6 +140,52 @@
    "aliases": []
   },
   {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "champagne-salon",
+   "name": "香檳下午茶國際禮儀沙龍｜台灣形象設計發展協會",
+   "desc": "你不需要變成另一個人，只需要讓更好的自己，自然地被看見。2026/11/9 台南香格里拉遠東國際大飯店，限額 20 席。",
+   "url": "https://event.bymyway.com/curated/champagne-salon/",
+   "repoUrl": "https://github.com/Coach1973/champagne-salon",
+   "repo": "champagne-salon",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "champagne-salon.bymyway.com",
+    "champagne-salon.netlify.app",
+    "coach1973.github.io/champagne-salon",
+    "event.bymyway.com/champagne-salon",
+    "event.bymyway.com/curated/champagne-salon"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-10-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "andy-chen",
    "name": "陳顯立執行長｜好廣告數據創辦人・《信任效應》作者",
    "desc": "陳顯立（Andy Chen），好廣告數據創辦人暨執行長、《信任效應》作者、東吳大學企管系專技副教授。25 年數位與零售轉型經驗，連續 20 年每月認養家扶學童。",
@@ -142,6 +211,29 @@
    ]
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tava-brand-web-playbook",
    "name": "tava-brand-web-playbook",
    "desc": "",
@@ -156,29 +248,6 @@
     "event.bymyway.com/tava-brand-web-playbook",
     "tava-brand-web-playbook.bymyway.com",
     "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tainan-shangquan",
-   "name": "tainan-shangquan",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-10-15",
@@ -303,29 +372,6 @@
    "aliases": []
   },
   {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "angel-sister",
    "name": "陳淑玲｜CBMC 高雄一分會會長・職場宣教者",
    "desc": "CBMC 國際基督徒工商人員協會高雄一分會會長陳淑玲。護理師出身，人生三次因病轉型，用耶穌基督的愛與能力轉化工商職場。",
@@ -344,29 +390,6 @@
    "cat": "教練個人創作",
    "updated": "2026-10-15",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-15",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -3824,5 +3847,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-16T04:18:02Z"
+ "generated": "2026-10-16T06:59:06Z"
 }
