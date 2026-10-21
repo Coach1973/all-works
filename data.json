@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "lovingfamily",
+   "name": "戀家大叔 李忠儒｜戀家小舖創辦人・20 年電商實戰家",
+   "desc": "戀家大叔李忠儒（Allen）：2006 年創辦台灣自製寢具品牌戀家小舖，渠道商學院共同創辦人，20 年電商實戰經驗。生平學經歷、專長、故事、公益足跡、媒體報導與照片。",
+   "url": "https://event.bymyway.com/curated/lovingfamily/",
+   "repoUrl": "https://github.com/Coach1973/lovingfamily",
+   "repo": "lovingfamily",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lovingfamily",
+    "event.bymyway.com/curated/lovingfamily",
+    "event.bymyway.com/lovingfamily",
+    "lovingfamily.bymyway.com",
+    "lovingfamily.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -18,7 +41,7 @@
     "yijing-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-17",
+   "updated": "2026-10-21",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -41,7 +64,30 @@
     "taipeiema1017.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-10-17",
+   "updated": "2026-10-21",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "rongtree",
+   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
+   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
+   "url": "https://event.bymyway.com/curated/rongtree/",
+   "repoUrl": "https://github.com/Coach1973/rongtree",
+   "repo": "rongtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rongtree",
+    "event.bymyway.com/curated/rongtree",
+    "event.bymyway.com/rongtree",
+    "rongtree.bymyway.com",
+    "rongtree.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-21",
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
@@ -64,7 +110,30 @@
     "peipei-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-17",
+   "updated": "2026-10-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "my-tools",
+   "name": "my-tools",
+   "desc": "",
+   "url": "https://coach1973.github.io/my-tools/",
+   "repoUrl": "https://github.com/Coach1973/my-tools",
+   "repo": "my-tools",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/my-tools",
+    "event.bymyway.com/curated/my-tools",
+    "event.bymyway.com/my-tools",
+    "my-tools.bymyway.com",
+    "my-tools.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-21",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -87,7 +156,7 @@
     "mac-openclaw-workflows.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-17",
+   "updated": "2026-10-21",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -110,7 +179,7 @@
     "kong-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-17",
+   "updated": "2026-10-21",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -133,7 +202,7 @@
     "event.bymyway.com/curated/coach888"
    ],
    "cat": "GitHub 網頁",
-   "updated": "2026-10-17",
+   "updated": "2026-10-21",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -155,6 +224,123 @@
     "coach1973.github.io/bni-chapters",
     "event.bymyway.com/bni-chapters",
     "event.bymyway.com/curated/bni-chapters"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "joseph-cloth",
+   "name": "約瑟布｜生命農業與永續商業計畫",
+   "desc": "從功能型布材到城市綠化、生命農業與長期租賃服務，探索約瑟布的完整商業計畫、實景案例與策略合作。",
+   "url": "https://event.bymyway.com/curated/joseph-cloth/",
+   "repoUrl": "https://github.com/Coach1973/joseph-cloth",
+   "repo": "joseph-cloth",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/joseph-cloth",
+    "event.bymyway.com/curated/joseph-cloth",
+    "event.bymyway.com/joseph-cloth",
+    "joseph-cloth.bymyway.com",
+    "joseph-cloth.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "inventor",
+   "name": "像瘋子的發明家｜黃國彰",
+   "desc": "黃國彰，台南歸仁的發明人。十多年來在台灣、中國、美國、日本、德國、加拿大、菲律賓布局能源專利，把風、水、浪、洋流變成電。這是一個需要隊友的傳奇。",
+   "url": "https://event.bymyway.com/curated/inventor/",
+   "repoUrl": "https://github.com/Coach1973/inventor",
+   "repo": "inventor",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/inventor",
+    "event.bymyway.com/curated/inventor",
+    "event.bymyway.com/inventor",
+    "inventor.bymyway.com",
+    "inventor.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "hnv-cc",
+   "name": "楊博士｜一滴水裡的細胞能量學",
+   "desc": "楊博士與漢諾威研發團隊：常溫石墨烯物理降氘技術，讓低氘水走進一般家庭。",
+   "url": "https://event.bymyway.com/curated/hnv-cc/",
+   "repoUrl": "https://github.com/Coach1973/hnv-cc",
+   "repo": "hnv-cc",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/hnv-cc",
+    "event.bymyway.com/curated/hnv-cc",
+    "event.bymyway.com/hnv-cc",
+    "hnv-cc.bymyway.com",
+    "hnv-cc.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bigtree",
+   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "url": "https://coach1973.github.io/bigtree/",
+   "repoUrl": "https://github.com/Coach1973/bigtree",
+   "repo": "bigtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree.bymyway.com",
+    "bigtree.netlify.app",
+    "coach1973.github.io/bigtree",
+    "event.bymyway.com/bigtree",
+    "event.bymyway.com/curated/bigtree"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-10-17",
@@ -258,29 +444,6 @@
    ]
   },
   {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-16",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "tava-brand-web-playbook",
    "name": "tava-brand-web-playbook",
    "desc": "",
@@ -327,29 +490,6 @@
    "aliases": []
   },
   {
-   "id": "rongtree",
-   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
-   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
-   "url": "https://event.bymyway.com/curated/rongtree/",
-   "repoUrl": "https://github.com/Coach1973/rongtree",
-   "repo": "rongtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rongtree",
-    "event.bymyway.com/curated/rongtree",
-    "event.bymyway.com/rongtree",
-    "rongtree.bymyway.com",
-    "rongtree.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-15",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "patrick-chu",
    "name": "朱元中 Patrick｜幫企業認真導入 ESG 的人",
    "desc": "天下顧問（B 型企業）執行長朱元中 Patrick：從思科、台積電、TutorABC 到 ESG 培訓、輔導與第三方查證。",
@@ -368,29 +508,6 @@
    "cat": "策展・育",
    "updated": "2026-10-15",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "my-tools",
-   "name": "my-tools",
-   "desc": "",
-   "url": "https://coach1973.github.io/my-tools/",
-   "repoUrl": "https://github.com/Coach1973/my-tools",
-   "repo": "my-tools",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/my-tools",
-    "event.bymyway.com/curated/my-tools",
-    "event.bymyway.com/my-tools",
-    "my-tools.bymyway.com",
-    "my-tools.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-15",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -550,52 +667,6 @@
     "event.bymyway.com/kr1003",
     "kr1003.bymyway.com",
     "kr1003.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-14",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "joseph-cloth",
-   "name": "約瑟布｜生命農業與永續商業計畫",
-   "desc": "從功能型布材到城市綠化、生命農業與長期租賃服務，探索約瑟布的完整商業計畫、實景案例與策略合作。",
-   "url": "https://event.bymyway.com/curated/joseph-cloth/",
-   "repoUrl": "https://github.com/Coach1973/joseph-cloth",
-   "repo": "joseph-cloth",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/joseph-cloth",
-    "event.bymyway.com/curated/joseph-cloth",
-    "event.bymyway.com/joseph-cloth",
-    "joseph-cloth.bymyway.com",
-    "joseph-cloth.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-14",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "inventor",
-   "name": "像瘋子的發明家｜黃國彰",
-   "desc": "黃國彰，台南歸仁的發明人。十多年來在台灣、中國、美國、日本、德國、加拿大、菲律賓布局能源專利，把風、水、浪、洋流變成電。這是一個需要隊友的傳奇。",
-   "url": "https://event.bymyway.com/curated/inventor/",
-   "repoUrl": "https://github.com/Coach1973/inventor",
-   "repo": "inventor",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/inventor",
-    "event.bymyway.com/curated/inventor",
-    "event.bymyway.com/inventor",
-    "inventor.bymyway.com",
-    "inventor.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-10-14",
@@ -1003,29 +1074,6 @@
    "aliases": []
   },
   {
-   "id": "hnv-cc",
-   "name": "楊博士｜一滴水裡的細胞能量學",
-   "desc": "楊博士與漢諾威研發團隊：常溫石墨烯物理降氘技術，讓低氘水走進一般家庭。",
-   "url": "https://event.bymyway.com/curated/hnv-cc/",
-   "repoUrl": "https://github.com/Coach1973/hnv-cc",
-   "repo": "hnv-cc",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/hnv-cc",
-    "event.bymyway.com/curated/hnv-cc",
-    "event.bymyway.com/hnv-cc",
-    "hnv-cc.bymyway.com",
-    "hnv-cc.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-09",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "game-1004",
    "name": "教練原話逐字報告書｜商務遊戲／AI 百人導師（2026-10-03～04）",
    "desc": "",
@@ -1285,31 +1333,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "bigtree",
-   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "url": "https://coach1973.github.io/bigtree/",
-   "repoUrl": "https://github.com/Coach1973/bigtree",
-   "repo": "bigtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bigtree.bymyway.com",
-    "bigtree.netlify.app",
-    "coach1973.github.io/bigtree",
-    "event.bymyway.com/bigtree",
-    "event.bymyway.com/curated/bigtree"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-07",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "qiu-yurong",
@@ -3870,5 +3893,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-17T11:41:51Z"
+ "generated": "2026-10-21T17:35:03Z"
 }
