@@ -163,6 +163,52 @@
    "aliases": []
   },
   {
+   "id": "bni-trust",
+   "name": "BNI 系統實戰與心態修練教材｜信任資產活教材",
+   "desc": "從商業本質、情緒智慧到 76 國世界級規則：打造不可摧毀的信任資產與事業槓桿。",
+   "url": "https://event.bymyway.com/curated/bni-trust/",
+   "repoUrl": "https://github.com/Coach1973/bni-trust",
+   "repo": "bni-trust",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bni-trust.bymyway.com",
+    "bni-trust.netlify.app",
+    "coach1973.github.io/bni-trust",
+    "event.bymyway.com/bni-trust",
+    "event.bymyway.com/curated/bni-trust"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-23",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-23",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "8ccafe",
    "name": "蕭蓓霖 Michelle｜8C咖啡創辦人・咖啡證照協會創會理事長",
    "desc": "蕭蓓霖（Michelle），8C咖啡創辦人、惠饌國際企業有限公司董事長、台灣國際咖啡證照協會與臺中市國際咖啡證照協會創會理事長。一杯回不去的咖啡，傳遞希望的溫度。",
@@ -273,29 +319,6 @@
    "cat": "教練個人創作",
    "updated": "2026-10-22",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-22",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -3939,5 +3962,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-23T07:43:42Z"
+ "generated": "2026-10-23T13:49:36Z"
 }
