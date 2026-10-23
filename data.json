@@ -48,6 +48,29 @@
    "aliases": []
   },
   {
+   "id": "skyteam",
+   "name": "人才軍火庫｜顧問師天團・全彩第二版",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-23",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -133,6 +156,30 @@
     "kong-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
+   "updated": "2026-10-23",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "diy-studio-workshop",
+   "name": "diy-studio-workshop",
+   "desc": "",
+   "url": "https://event.bymyway.com/DIY3/",
+   "repoUrl": "https://github.com/Coach1973/diy-studio-workshop",
+   "repo": "diy-studio-workshop",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/diy-studio-workshop",
+    "diy-studio-workshop.bymyway.com",
+    "diy-studio-workshop.netlify.app",
+    "event.bymyway.com/curated/diy-studio-workshop",
+    "event.bymyway.com/diy-studio-workshop",
+    "event.bymyway.com/diy3"
+   ],
+   "cat": "GitHub 網頁",
    "updated": "2026-10-23",
    "inRegistry": false,
    "delisted": false,
@@ -2963,30 +3010,6 @@
    "aliases": []
   },
   {
-   "id": "diy-studio-workshop",
-   "name": "diy-studio-workshop",
-   "desc": "",
-   "url": "https://event.bymyway.com/DIY3/",
-   "repoUrl": "https://github.com/Coach1973/diy-studio-workshop",
-   "repo": "diy-studio-workshop",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/diy-studio-workshop",
-    "diy-studio-workshop.bymyway.com",
-    "diy-studio-workshop.netlify.app",
-    "event.bymyway.com/curated/diy-studio-workshop",
-    "event.bymyway.com/diy-studio-workshop",
-    "event.bymyway.com/diy3"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-09-03",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "diy-outdoor-workshop",
    "name": "diy-outdoor-workshop",
    "desc": "",
@@ -3962,5 +3985,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-23T13:49:36Z"
+ "generated": "2026-10-23T15:21:42Z"
 }
