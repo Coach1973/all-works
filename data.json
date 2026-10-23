@@ -18,7 +18,7 @@
     "yijing-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -41,7 +41,7 @@
     "tainan-shangquan.netlify.app"
    ],
    "cat": "GitHub 網頁",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -64,30 +64,30 @@
     "peipei-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
   },
   {
-   "id": "meihua",
-   "name": "李美花 美花姐｜用乾淨的食物，陪家庭變健康美麗",
-   "desc": "李美花（美花姐）：27 年合作金庫銀行資歷，50 歲轉換跑道投入有機保健產業，現任美麗樂生技翡翠星級董事。台南安平。",
-   "url": "https://event.bymyway.com/curated/meihua/",
-   "repoUrl": "https://github.com/Coach1973/meihua",
-   "repo": "meihua",
+   "id": "nmda",
+   "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
+   "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
+   "url": "https://event.bymyway.com/curated/nmda/",
+   "repoUrl": "https://github.com/Coach1973/nmda",
+   "repo": "nmda",
    "private": false,
    "archived": false,
    "keys": [
-    "coach1973.github.io/meihua",
-    "event.bymyway.com/curated/meihua",
-    "event.bymyway.com/meihua",
-    "meihua.bymyway.com",
-    "meihua.netlify.app"
+    "coach1973.github.io/nmda",
+    "event.bymyway.com/curated/nmda",
+    "event.bymyway.com/nmda",
+    "nmda.bymyway.com",
+    "nmda.netlify.app"
    ],
    "cat": "策展・衣",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
@@ -110,8 +110,146 @@
     "mac-openclaw-workflows.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-23",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-23",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "8ccafe",
+   "name": "蕭蓓霖 Michelle｜8C咖啡創辦人・咖啡證照協會創會理事長",
+   "desc": "蕭蓓霖（Michelle），8C咖啡創辦人、惠饌國際企業有限公司董事長、台灣國際咖啡證照協會與臺中市國際咖啡證照協會創會理事長。一杯回不去的咖啡，傳遞希望的溫度。",
+   "url": "https://event.bymyway.com/curated/8ccafe/",
+   "repoUrl": "https://github.com/Coach1973/8ccafe",
+   "repo": "8ccafe",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "8ccafe.bymyway.com",
+    "8ccafe.netlify.app",
+    "coach1973.github.io/8ccafe",
+    "event.bymyway.com/8ccafe",
+    "event.bymyway.com/curated/8ccafe"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-10-23",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tut-memory",
+   "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/tut-memory/",
+   "repoUrl": "https://github.com/Coach1973/tut-memory",
+   "repo": "tut-memory",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-memory",
+    "event.bymyway.com/curated/tut-memory",
+    "event.bymyway.com/tut-memory",
+    "tut-memory.bymyway.com",
+    "tut-memory.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "rongtree",
+   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
+   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
+   "url": "https://event.bymyway.com/curated/rongtree/",
+   "repoUrl": "https://github.com/Coach1973/rongtree",
+   "repo": "rongtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rongtree",
+    "event.bymyway.com/curated/rongtree",
+    "event.bymyway.com/rongtree",
+    "rongtree.bymyway.com",
+    "rongtree.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "meihua",
+   "name": "李美花 美花姐｜用乾淨的食物，陪家庭變健康美麗",
+   "desc": "李美花（美花姐）：27 年合作金庫銀行資歷，50 歲轉換跑道投入有機保健產業，現任美麗樂生技翡翠星級董事。台南安平。",
+   "url": "https://event.bymyway.com/curated/meihua/",
+   "repoUrl": "https://github.com/Coach1973/meihua",
+   "repo": "meihua",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/meihua",
+    "event.bymyway.com/curated/meihua",
+    "event.bymyway.com/meihua",
+    "meihua.bymyway.com",
+    "meihua.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-10-22",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -140,43 +278,20 @@
    "aliases": []
   },
   {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-22",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
    "private": false,
    "archived": false,
    "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-10-22",
@@ -202,29 +317,6 @@
     "taipeiema1017.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-10-21",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "rongtree",
-   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
-   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
-   "url": "https://event.bymyway.com/curated/rongtree/",
-   "repoUrl": "https://github.com/Coach1973/rongtree",
-   "repo": "rongtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rongtree",
-    "event.bymyway.com/curated/rongtree",
-    "event.bymyway.com/rongtree",
-    "rongtree.bymyway.com",
-    "rongtree.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-10-21",
    "inRegistry": true,
    "delisted": false,
@@ -270,29 +362,6 @@
     "coach1973.github.io/bni-chapters",
     "event.bymyway.com/bni-chapters",
     "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-21",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-10-21",
@@ -576,29 +645,6 @@
    ],
    "cat": "教練個人創作",
    "updated": "2026-10-15",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tut-memory",
-   "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/tut-memory/",
-   "repoUrl": "https://github.com/Coach1973/tut-memory",
-   "repo": "tut-memory",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-memory",
-    "event.bymyway.com/curated/tut-memory",
-    "event.bymyway.com/tut-memory",
-    "tut-memory.bymyway.com",
-    "tut-memory.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-14",
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
@@ -2083,29 +2129,6 @@
    "aliases": [
     "陳老師"
    ]
-  },
-  {
-   "id": "nmda",
-   "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
-   "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
-   "url": "https://event.bymyway.com/curated/nmda/",
-   "repoUrl": "https://github.com/Coach1973/nmda",
-   "repo": "nmda",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/nmda",
-    "event.bymyway.com/curated/nmda",
-    "event.bymyway.com/nmda",
-    "nmda.bymyway.com",
-    "nmda.netlify.app"
-   ],
-   "cat": "策展・衣",
-   "updated": "2026-09-17",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "kangyenju",
@@ -3916,5 +3939,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-22T04:13:56Z"
+ "generated": "2026-10-23T07:43:42Z"
 }
