@@ -71,6 +71,29 @@
    "aliases": []
   },
   {
+   "id": "rpl-diy",
+   "name": "傘繩 DIY-4｜三款鑰匙圈・半天手作教室 | 光線尺顧問有限公司",
+   "desc": "半天（約 3～3.5 小時）專業教室實作，親手完成並帶回 3 款質感傘繩鑰匙圈吊飾。個人標準 NT$1,280／人，三人同行 NT$3,000。",
+   "url": "https://event.bymyway.com/curated/rpl-diy/",
+   "repoUrl": "https://github.com/Coach1973/rpl-diy",
+   "repo": "rpl-diy",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rpl-diy",
+    "event.bymyway.com/curated/rpl-diy",
+    "event.bymyway.com/rpl-diy",
+    "rpl-diy.bymyway.com",
+    "rpl-diy.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-23",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -3985,5 +4008,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-23T15:21:42Z"
+ "generated": "2026-10-23T15:33:07Z"
 }
