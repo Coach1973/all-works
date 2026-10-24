@@ -27,6 +27,31 @@
    ]
   },
   {
+   "id": "suchin",
+   "name": "蘇秦老師｜英語教學 × AI 工具應用",
+   "desc": "蘇秦老師：高師大英語系畢業，AI 融入英語教學講師與作者，100 多場校園演講，著有《英語教學神助手》《英語自學神助手》《Gemini Notebook 任務神助手》。",
+   "url": "https://event.bymyway.com/curated/suchin/",
+   "repoUrl": "https://github.com/Coach1973/suchin",
+   "repo": "suchin",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/suchin",
+    "event.bymyway.com/curated/suchin",
+    "event.bymyway.com/suchin",
+    "suchin.bymyway.com",
+    "suchin.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "蘇老師"
+   ]
+  },
+  {
    "id": "zhang-yu-ci",
    "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
    "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
@@ -4362,5 +4387,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T16:00:55Z"
+ "generated": "2026-10-24T16:30:25Z"
 }
