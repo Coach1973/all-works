@@ -163,6 +163,29 @@
    "aliases": []
   },
   {
+   "id": "hello-brand",
+   "name": "哈囉！潛錩規劃行銷｜好事從哈囉開始",
+   "desc": "潛錩規劃行銷有限公司，2015 年創立「哈囉！」品牌：從左營哈囉市場的攤位規劃起家，到全台 24 個車站的哈囉無人租車、停車場、市集與哈囉行旅。",
+   "url": "https://event.bymyway.com/curated/hello-brand/",
+   "repoUrl": "https://github.com/Coach1973/hello-brand",
+   "repo": "hello-brand",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/hello-brand",
+    "event.bymyway.com/curated/hello-brand",
+    "event.bymyway.com/hello-brand",
+    "hello-brand.bymyway.com",
+    "hello-brand.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "coach888",
    "name": "coach888",
    "desc": "",
@@ -4100,5 +4123,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T09:01:58Z"
+ "generated": "2026-10-24T09:02:55Z"
 }
