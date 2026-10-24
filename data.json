@@ -839,6 +839,31 @@
    "aliases": []
   },
   {
+   "id": "lianchiyu",
+   "name": "連啓佑老師｜台灣搜尋產業先驅・SEO × GEO 搜尋行銷顧問",
+   "desc": "連啓佑，將能數位行銷創辦人暨執行長，27 年搜尋產業經驗，2002 年推出台灣最早的 SEO 服務。著有《AI 搜尋策略優化與實務》《人生演算法》《網站績效分析與管理》。",
+   "url": "https://event.bymyway.com/curated/lianchiyu/",
+   "repoUrl": "https://github.com/Coach1973/lianchiyu",
+   "repo": "lianchiyu",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lianchiyu",
+    "event.bymyway.com/curated/lianchiyu",
+    "event.bymyway.com/lianchiyu",
+    "lianchiyu.bymyway.com",
+    "lianchiyu.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "連老師"
+   ]
+  },
+  {
    "id": "kunting",
    "name": "昆廷老師 鄒昆廷｜企業 AI 導入顧問 × 易經決策",
    "desc": "昆廷老師（鄒昆廷）：朋昶數位科技總監、ISO/IEC 42001 主導稽核員。近 18 年企業系統經驗、近 20 年文王卦經驗，陪中小企業主先問對問題，再讓 AI 把事做完。",
@@ -4266,5 +4291,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T15:34:45Z"
+ "generated": "2026-10-24T15:35:20Z"
 }
