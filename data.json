@@ -1187,6 +1187,29 @@
    "aliases": []
   },
   {
+   "id": "drsoonlin",
+   "name": "Dr. Soonlin｜教學進化學院創辦人・個人品牌網頁",
+   "desc": "Dr. Soonlin，教學進化學院創辦人、UNESCO 課程講師、ELEVATE 講師進化系統設計者。10 年、250+ 場講座與培訓、15,000+ 名參與學員。",
+   "url": "https://event.bymyway.com/curated/drsoonlin/",
+   "repoUrl": "https://github.com/Coach1973/drsoonlin",
+   "repo": "drsoonlin",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/drsoonlin",
+    "drsoonlin.bymyway.com",
+    "drsoonlin.netlify.app",
+    "event.bymyway.com/curated/drsoonlin",
+    "event.bymyway.com/drsoonlin"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "diart",
    "name": "場地租借｜Di-Art 滴藝術咖啡・台中北屯包場場地（B1–4F 四層空間）",
    "desc": "Di-Art 滴藝術咖啡場地租借：台中北屯綏遠路，B1 親子遊憩空間、1F 多功能空間、2F 藝文空間（平台鋼琴）、4F 北歐風團體空間，10–70 人皆可包場。含投影音響設備與專屬免費停車場，歡迎 LINE 或電話洽詢檔期。",
@@ -4243,5 +4266,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T15:33:37Z"
+ "generated": "2026-10-24T15:34:45Z"
 }
