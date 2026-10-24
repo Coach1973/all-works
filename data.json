@@ -427,7 +427,7 @@
   },
   {
    "id": "skyteam",
-   "name": "人才軍火庫｜顧問師天團・全彩第二版",
+   "name": "人才軍火庫顧問師天團",
    "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
    "url": "https://event.bymyway.com/curated/skyteam/",
    "repoUrl": "https://github.com/Coach1973/skyteam",
@@ -4436,5 +4436,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T17:23:39Z"
+ "generated": "2026-10-24T17:33:56Z"
 }
