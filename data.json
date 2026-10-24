@@ -2,6 +2,31 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhou-ruiqi",
+   "name": "周睿麒｜把一塊布，種成一面綠牆",
+   "desc": "周睿麒：永樂市場資深布商、永樂商圈發展協會創會理事長、布思綠創辦人。以機能布取代土壤，推動無耗材種植與城市綠化。",
+   "url": "https://event.bymyway.com/curated/zhou-ruiqi/",
+   "repoUrl": "https://github.com/Coach1973/zhou-ruiqi",
+   "repo": "zhou-ruiqi",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhou-ruiqi",
+    "event.bymyway.com/curated/zhou-ruiqi",
+    "event.bymyway.com/zhou-ruiqi",
+    "zhou-ruiqi.bymyway.com",
+    "zhou-ruiqi.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "布創辦人"
+   ]
+  },
+  {
    "id": "yu-shang-en",
    "name": "余尚恩博士｜AI 財商 × 騎走讀高雄",
    "desc": "余尚恩博士，成功大學財務金融博士、經濟部雙中級 AI 應用規劃師、國立屏東科技大學助理教授。用 AI 讀懂財報，騎著單車讀懂高雄。",
@@ -818,6 +843,29 @@
    "cat": "策展・食",
    "updated": "2026-10-24",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "my-tools",
+   "name": "my-tools",
+   "desc": "",
+   "url": "https://coach1973.github.io/my-tools/",
+   "repoUrl": "https://github.com/Coach1973/my-tools",
+   "repo": "my-tools",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/my-tools",
+    "event.bymyway.com/curated/my-tools",
+    "event.bymyway.com/my-tools",
+    "my-tools.bymyway.com",
+    "my-tools.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-24",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -1801,29 +1849,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "my-tools",
-   "name": "my-tools",
-   "desc": "",
-   "url": "https://coach1973.github.io/my-tools/",
-   "repoUrl": "https://github.com/Coach1973/my-tools",
-   "repo": "my-tools",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/my-tools",
-    "event.bymyway.com/curated/my-tools",
-    "event.bymyway.com/my-tools",
-    "my-tools.bymyway.com",
-    "my-tools.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-21",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "bni-chapters",
@@ -4459,5 +4484,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T18:50:13Z"
+ "generated": "2026-10-24T19:40:10Z"
 }
