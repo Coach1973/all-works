@@ -75,6 +75,31 @@
    "aliases": []
   },
   {
+   "id": "bigtree-2",
+   "name": "大樹教練 吳大樹｜有效溝通，就是無價之寶",
+   "desc": "投入培訓業 27 年、超過 6,000 場演講。大樹教育顧問創辦人、海餅乾俱樂部創辦人、AI 百人導師團隊發起人、BNI 大台南南區執行董事。",
+   "url": "https://event.bymyway.com/curated/bigtree-2/",
+   "repoUrl": "https://github.com/Coach1973/bigtree-2",
+   "repo": "bigtree-2",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree-2.bymyway.com",
+    "bigtree-2.netlify.app",
+    "coach1973.github.io/bigtree-2",
+    "event.bymyway.com/bigtree-2",
+    "event.bymyway.com/curated/bigtree-2"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "zhang-yu-ci",
    "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
    "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
@@ -4410,5 +4435,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T17:14:26Z"
+ "generated": "2026-10-24T17:19:10Z"
 }
