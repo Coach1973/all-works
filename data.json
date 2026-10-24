@@ -421,6 +421,29 @@
    "aliases": []
   },
   {
+   "id": "roger-luo",
+   "name": "羅爵 Roger｜中華新媒體影音發展協會 創會長・新媒體製作人",
+   "desc": "羅爵 Roger（本名謝志賓），中華新媒體影音發展協會創會長／副理事長、時尚爵士數位影音有限公司總經理。從夜市唱著賣麥克風，到在台中打造新媒體孵化製作基地。",
+   "url": "https://event.bymyway.com/curated/roger-luo/",
+   "repoUrl": "https://github.com/Coach1973/roger-luo",
+   "repo": "roger-luo",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/roger-luo",
+    "event.bymyway.com/curated/roger-luo",
+    "event.bymyway.com/roger-luo",
+    "roger-luo.bymyway.com",
+    "roger-luo.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "qiu-yurong",
    "name": "當 AI 遇上農業｜從媒體到使命的跨界行者 · 邱裕榮",
    "desc": "二十餘年財經媒體人邱裕榮，將採訪與 AI 技術帶回土地。四大跨界支柱、三階段落地路徑，以及一個關於價值觀、呼召與生命抉擇的計畫。",
@@ -4172,5 +4195,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T12:46:31Z"
+ "generated": "2026-10-24T13:12:33Z"
 }
