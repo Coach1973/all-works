@@ -373,6 +373,31 @@
    "aliases": []
   },
   {
+   "id": "scott-dr",
+   "name": "曾志雄博士 Dr. Scott｜成大資工博士・傑飛特科技董事長・AI 實作者",
+   "desc": "曾志雄博士（Dr. Scott），國立成功大學資訊工程博士、傑飛特科技股份有限公司董事長、中國文化大學財務金融學系兼任助理教授。從大學時期開計程車籌學費，到帶領團隊把 AI 帶進餐飲、零售與校園。",
+   "url": "https://event.bymyway.com/curated/scott-dr/",
+   "repoUrl": "https://github.com/Coach1973/scott-dr",
+   "repo": "scott-dr",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/scott-dr",
+    "event.bymyway.com/curated/scott-dr",
+    "event.bymyway.com/scott-dr",
+    "scott-dr.bymyway.com",
+    "scott-dr.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "曾博士"
+   ]
+  },
+  {
    "id": "sbip",
    "name": "楊仁豪 — 品牌 IP 規劃師｜聖橋國際專利商標事務所 第二代主持人",
    "desc": "楊仁豪，品牌 IP 規劃師、聖橋國際專利商標事務所第二代主持人。不只申請權利，更為你的品牌打造智慧資產的護城河。人民與政府之間，神聖溝通的橋樑。",
@@ -414,6 +439,29 @@
     "runforfuture.netlify.app"
    ],
    "cat": "策展・育",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "ruifeng",
+   "name": "何瑞峰牧師｜祝福的最高級——從華岡團契到泰緬邊境",
+   "desc": "德生堂教會何瑞峰牧師，從華岡團契到泰緬邊境，用廿餘年走出一條以福音為本的公益之路。",
+   "url": "https://event.bymyway.com/curated/ruifeng/",
+   "repoUrl": "https://github.com/Coach1973/ruifeng",
+   "repo": "ruifeng",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/ruifeng",
+    "event.bymyway.com/curated/ruifeng",
+    "event.bymyway.com/ruifeng",
+    "ruifeng.bymyway.com",
+    "ruifeng.netlify.app"
+   ],
+   "cat": "教練個人創作",
    "updated": "2026-10-24",
    "inRegistry": true,
    "delisted": false,
@@ -561,6 +609,29 @@
    ]
   },
   {
+   "id": "patrick-chu",
+   "name": "朱元中 Patrick｜幫企業認真導入 ESG 的人",
+   "desc": "天下顧問（B 型企業）執行長朱元中 Patrick：從思科、台積電、TutorABC 到 ESG 培訓、輔導與第三方查證。",
+   "url": "https://event.bymyway.com/curated/patrick-chu/",
+   "repoUrl": "https://github.com/Coach1973/patrick-chu",
+   "repo": "patrick-chu",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/patrick-chu",
+    "event.bymyway.com/curated/patrick-chu",
+    "event.bymyway.com/patrick-chu",
+    "patrick-chu.bymyway.com",
+    "patrick-chu.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "nmda",
    "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
    "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
@@ -630,6 +701,29 @@
    "aliases": []
   },
   {
+   "id": "meihua",
+   "name": "李美花 美花姐｜用乾淨的食物，陪家庭變健康美麗",
+   "desc": "李美花（美花姐）：27 年合作金庫銀行資歷，50 歲轉換跑道投入有機保健產業，現任美麗樂生技翡翠星級董事。台南安平。",
+   "url": "https://event.bymyway.com/curated/meihua/",
+   "repoUrl": "https://github.com/Coach1973/meihua",
+   "repo": "meihua",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/meihua",
+    "event.bymyway.com/curated/meihua",
+    "event.bymyway.com/meihua",
+    "meihua.bymyway.com",
+    "meihua.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "mac-openclaw-workflows",
    "name": "mac-openclaw-workflows",
    "desc": "",
@@ -653,6 +747,29 @@
    "aliases": []
   },
   {
+   "id": "lovingfamily",
+   "name": "戀家大叔 李忠儒｜戀家小舖創辦人・20 年電商實戰家",
+   "desc": "戀家大叔李忠儒（Allen）：2006 年創辦台灣自製寢具品牌戀家小舖，渠道商學院共同創辦人，20 年電商實戰經驗。學經歷、專長、故事、公益足跡、媒體報導與照片。",
+   "url": "https://event.bymyway.com/curated/lovingfamily/",
+   "repoUrl": "https://github.com/Coach1973/lovingfamily",
+   "repo": "lovingfamily",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lovingfamily",
+    "event.bymyway.com/curated/lovingfamily",
+    "event.bymyway.com/lovingfamily",
+    "lovingfamily.bymyway.com",
+    "lovingfamily.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "lior",
    "name": "洪誠佑 Lior｜愛喝茶的品牌經營者",
    "desc": "洪誠佑 Lior：象楠茗茶、象楠地板品牌經營者，象楠國際有限公司代表人，林口幸福扶輪社服務計畫委員會主委。",
@@ -669,6 +786,52 @@
     "lior.netlify.app"
    ],
    "cat": "教練個人創作",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "linbaohua",
+   "name": "林寶華（寶華姐）｜寶麗寶銀樓創辦人・府城志工中隊長",
+   "desc": "從澎湖貧民戶的老五，到台南寶麗寶銀樓創辦人、二分局志工中隊長二十年、台南市好人好事代表——寶華姐的故事。",
+   "url": "https://event.bymyway.com/curated/linbaohua/",
+   "repoUrl": "https://github.com/Coach1973/linbaohua",
+   "repo": "linbaohua",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/linbaohua",
+    "event.bymyway.com/curated/linbaohua",
+    "event.bymyway.com/linbaohua",
+    "linbaohua.bymyway.com",
+    "linbaohua.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "lidie",
+   "name": "張麗蝶｜T1科技 ‧ 元照科技照明 董事長 — 讓每一盞燈照亮健康，也照亮社會",
+   "desc": "張麗蝶，T1科技股份有限公司／元照科技照明有限公司董事長。從銀行高階主管轉身投入全光譜健康照明，長年陪伴社福團體、推動時間銀行與企業 ESG。",
+   "url": "https://event.bymyway.com/curated/lidie/",
+   "repoUrl": "https://github.com/Coach1973/lidie",
+   "repo": "lidie",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lidie",
+    "event.bymyway.com/curated/lidie",
+    "event.bymyway.com/lidie",
+    "lidie.bymyway.com",
+    "lidie.netlify.app"
+   ],
+   "cat": "策展・育",
    "updated": "2026-10-24",
    "inRegistry": true,
    "delisted": false,
@@ -1189,6 +1352,54 @@
    "aliases": []
   },
   {
+   "id": "angel-sister",
+   "name": "陳淑玲｜CBMC 高雄一分會會長・職場宣教者",
+   "desc": "CBMC 國際基督徒工商人員協會高雄一分會會長陳淑玲。護理師出身，人生三次因病轉型，用耶穌基督的愛與能力轉化工商職場。",
+   "url": "https://event.bymyway.com/curated/angel-sister/",
+   "repoUrl": "https://github.com/Coach1973/angel-sister",
+   "repo": "angel-sister",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "angel-sister.bymyway.com",
+    "angel-sister.netlify.app",
+    "coach1973.github.io/angel-sister",
+    "event.bymyway.com/angel-sister",
+    "event.bymyway.com/curated/angel-sister"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "andy-chen",
+   "name": "陳顯立執行長｜好廣告數據創辦人・《信任效應》作者",
+   "desc": "陳顯立（Andy Chen），好廣告數據創辦人暨執行長、《信任效應》作者、東吳大學企管系專技副教授。25 年數位與零售轉型經驗，連續 20 年每月認養家扶學童。",
+   "url": "https://event.bymyway.com/curated/andy-chen/",
+   "repoUrl": "https://github.com/Coach1973/andy-chen",
+   "repo": "andy-chen",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "andy-chen.bymyway.com",
+    "andy-chen.netlify.app",
+    "coach1973.github.io/andy-chen",
+    "event.bymyway.com/andy-chen",
+    "event.bymyway.com/curated/andy-chen"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "陳執行長"
+   ]
+  },
+  {
    "id": "all-works",
    "name": "完整作品一覽（教練自用清單，noindex）",
    "desc": "完整作品一覽（教練自用清單，noindex）",
@@ -1353,52 +1564,6 @@
    ]
   },
   {
-   "id": "meihua",
-   "name": "李美花 美花姐｜用乾淨的食物，陪家庭變健康美麗",
-   "desc": "李美花（美花姐）：27 年合作金庫銀行資歷，50 歲轉換跑道投入有機保健產業，現任美麗樂生技翡翠星級董事。台南安平。",
-   "url": "https://event.bymyway.com/curated/meihua/",
-   "repoUrl": "https://github.com/Coach1973/meihua",
-   "repo": "meihua",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/meihua",
-    "event.bymyway.com/curated/meihua",
-    "event.bymyway.com/meihua",
-    "meihua.bymyway.com",
-    "meihua.netlify.app"
-   ],
-   "cat": "策展・食",
-   "updated": "2026-10-22",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "lovingfamily",
-   "name": "戀家大叔 李忠儒｜戀家小舖創辦人・20 年電商實戰家",
-   "desc": "戀家大叔李忠儒（Allen）：2006 年創辦台灣自製寢具品牌戀家小舖，渠道商學院共同創辦人，20 年電商實戰經驗。學經歷、專長、故事、公益足跡、媒體報導與照片。",
-   "url": "https://event.bymyway.com/curated/lovingfamily/",
-   "repoUrl": "https://github.com/Coach1973/lovingfamily",
-   "repo": "lovingfamily",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lovingfamily",
-    "event.bymyway.com/curated/lovingfamily",
-    "event.bymyway.com/lovingfamily",
-    "lovingfamily.bymyway.com",
-    "lovingfamily.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-22",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "my-tools",
    "name": "my-tools",
    "desc": "",
@@ -1441,123 +1606,6 @@
    "cat": "GitHub 網頁",
    "updated": "2026-10-21",
    "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "ruifeng",
-   "name": "何瑞峰牧師｜祝福的最高級——從華岡團契到泰緬邊境",
-   "desc": "德生堂教會何瑞峰牧師，從華岡團契到泰緬邊境，用廿餘年走出一條以福音為本的公益之路。",
-   "url": "https://event.bymyway.com/curated/ruifeng/",
-   "repoUrl": "https://github.com/Coach1973/ruifeng",
-   "repo": "ruifeng",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/ruifeng",
-    "event.bymyway.com/curated/ruifeng",
-    "event.bymyway.com/ruifeng",
-    "ruifeng.bymyway.com",
-    "ruifeng.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "andy-chen",
-   "name": "陳顯立執行長｜好廣告數據創辦人・《信任效應》作者",
-   "desc": "陳顯立（Andy Chen），好廣告數據創辦人暨執行長、《信任效應》作者、東吳大學企管系專技副教授。25 年數位與零售轉型經驗，連續 20 年每月認養家扶學童。",
-   "url": "https://event.bymyway.com/curated/andy-chen/",
-   "repoUrl": "https://github.com/Coach1973/andy-chen",
-   "repo": "andy-chen",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "andy-chen.bymyway.com",
-    "andy-chen.netlify.app",
-    "coach1973.github.io/andy-chen",
-    "event.bymyway.com/andy-chen",
-    "event.bymyway.com/curated/andy-chen"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "陳執行長"
-   ]
-  },
-  {
-   "id": "patrick-chu",
-   "name": "朱元中 Patrick｜幫企業認真導入 ESG 的人",
-   "desc": "天下顧問（B 型企業）執行長朱元中 Patrick：從思科、台積電、TutorABC 到 ESG 培訓、輔導與第三方查證。",
-   "url": "https://event.bymyway.com/curated/patrick-chu/",
-   "repoUrl": "https://github.com/Coach1973/patrick-chu",
-   "repo": "patrick-chu",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/patrick-chu",
-    "event.bymyway.com/curated/patrick-chu",
-    "event.bymyway.com/patrick-chu",
-    "patrick-chu.bymyway.com",
-    "patrick-chu.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-10-15",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "lidie",
-   "name": "張麗蝶｜T1科技 ‧ 元照科技照明 董事長 — 讓每一盞燈照亮健康，也照亮社會",
-   "desc": "張麗蝶，T1科技股份有限公司／元照科技照明有限公司董事長。從銀行高階主管轉身投入全光譜健康照明，長年陪伴社福團體、推動時間銀行與企業 ESG。",
-   "url": "https://event.bymyway.com/curated/lidie/",
-   "repoUrl": "https://github.com/Coach1973/lidie",
-   "repo": "lidie",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lidie",
-    "event.bymyway.com/curated/lidie",
-    "event.bymyway.com/lidie",
-    "lidie.bymyway.com",
-    "lidie.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-10-15",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "angel-sister",
-   "name": "陳淑玲｜CBMC 高雄一分會會長・職場宣教者",
-   "desc": "CBMC 國際基督徒工商人員協會高雄一分會會長陳淑玲。護理師出身，人生三次因病轉型，用耶穌基督的愛與能力轉化工商職場。",
-   "url": "https://event.bymyway.com/curated/angel-sister/",
-   "repoUrl": "https://github.com/Coach1973/angel-sister",
-   "repo": "angel-sister",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "angel-sister.bymyway.com",
-    "angel-sister.netlify.app",
-    "coach1973.github.io/angel-sister",
-    "event.bymyway.com/angel-sister",
-    "event.bymyway.com/curated/angel-sister"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-15",
-   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -1655,31 +1703,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "scott-dr",
-   "name": "曾志雄博士 Dr. Scott｜成大資工博士・傑飛特科技董事長・AI 實作者",
-   "desc": "曾志雄博士（Dr. Scott），國立成功大學資訊工程博士、傑飛特科技股份有限公司董事長、中國文化大學財務金融學系兼任助理教授。從大學時期開計程車籌學費，到帶領團隊把 AI 帶進餐飲、零售與校園。",
-   "url": "https://event.bymyway.com/curated/scott-dr/",
-   "repoUrl": "https://github.com/Coach1973/scott-dr",
-   "repo": "scott-dr",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/scott-dr",
-    "event.bymyway.com/curated/scott-dr",
-    "event.bymyway.com/scott-dr",
-    "scott-dr.bymyway.com",
-    "scott-dr.netlify.app"
-   ],
-   "cat": "策展・食",
-   "updated": "2026-10-13",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "曾博士"
-   ]
   },
   {
    "id": "bni-training",
@@ -4220,5 +4243,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T15:21:38Z"
+ "generated": "2026-10-24T15:33:37Z"
 }
