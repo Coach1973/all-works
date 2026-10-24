@@ -52,6 +52,29 @@
    ]
   },
   {
+   "id": "bni-gusest",
+   "name": "你的假設對了嗎？｜BNI 來賓接待培訓工作坊 · 互動教材",
+   "desc": "45 分鐘來賓接待工作坊互動教材：假設前提決定行為，行為決定結果。三個單元、三個練習、課後自我檢核。",
+   "url": "https://event.bymyway.com/curated/bni-gusest/",
+   "repoUrl": "https://github.com/Coach1973/bni-gusest",
+   "repo": "bni-gusest",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bni-gusest.bymyway.com",
+    "bni-gusest.netlify.app",
+    "coach1973.github.io/bni-gusest",
+    "event.bymyway.com/bni-gusest",
+    "event.bymyway.com/curated/bni-gusest"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhang-yu-ci",
    "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
    "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
@@ -4387,5 +4410,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T16:30:25Z"
+ "generated": "2026-10-24T17:14:26Z"
 }
