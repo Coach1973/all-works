@@ -630,6 +630,29 @@
    "aliases": []
   },
   {
+   "id": "kong-ling-feng",
+   "name": "孔令峯｜先降溫，再講理的家庭陪伴者",
+   "desc": "從憲兵排長、保險經理、企業顧問到家庭協談同工——孔令峯陪伴許多家庭在衝突中看見盲點、重新對焦。",
+   "url": "https://event.bymyway.com/curated/kong-ling-feng/",
+   "repoUrl": "https://github.com/Coach1973/kong-ling-feng",
+   "repo": "kong-ling-feng",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ling-feng",
+    "event.bymyway.com/curated/kong-ling-feng",
+    "event.bymyway.com/kong-ling-feng",
+    "kong-ling-feng.bymyway.com",
+    "kong-ling-feng.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "kong-ai-backup",
    "name": "kong-ai-backup",
    "desc": "",
@@ -4149,5 +4172,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T12:30:40Z"
+ "generated": "2026-10-24T12:46:31Z"
 }
