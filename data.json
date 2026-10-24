@@ -52,6 +52,32 @@
    ]
   },
   {
+   "id": "coachwu",
+   "name": "大樹教練 吳大樹｜有效溝通，就是無價之寶",
+   "desc": "投入培訓業 27 年、超過 6,000 場演講。大樹教育顧問創辦人、海餅乾俱樂部創辦人、AI 百人導師團隊發起人、BNI 大台南南區執行董事。",
+   "url": "https://event.bymyway.com/curated/coachwu/",
+   "repoUrl": "https://github.com/Coach1973/coachwu",
+   "repo": "coachwu",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coachwu",
+    "coachwu.bymyway.com",
+    "coachwu.netlify.app",
+    "event.bymyway.com/coachwu",
+    "event.bymyway.com/curated/bigtree-2",
+    "event.bymyway.com/curated/coachwu"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "bni-gusest",
    "name": "你的假設對了嗎？｜BNI 來賓接待培訓工作坊 · 互動教材",
    "desc": "45 分鐘來賓接待工作坊互動教材：假設前提決定行為，行為決定結果。三個單元、三個練習、課後自我檢核。",
@@ -73,31 +99,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "bigtree-2",
-   "name": "大樹教練 吳大樹｜有效溝通，就是無價之寶",
-   "desc": "投入培訓業 27 年、超過 6,000 場演講。大樹教育顧問創辦人、海餅乾俱樂部創辦人、AI 百人導師團隊發起人、BNI 大台南南區執行董事。",
-   "url": "https://event.bymyway.com/curated/bigtree-2/",
-   "repoUrl": "https://github.com/Coach1973/bigtree-2",
-   "repo": "bigtree-2",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bigtree-2.bymyway.com",
-    "bigtree-2.netlify.app",
-    "coach1973.github.io/bigtree-2",
-    "event.bymyway.com/bigtree-2",
-    "event.bymyway.com/curated/bigtree-2"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-10-25",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "zhang-yu-ci",
@@ -4435,5 +4436,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T17:19:10Z"
+ "generated": "2026-10-24T17:23:39Z"
 }
