@@ -166,6 +166,29 @@
    "aliases": []
   },
   {
+   "id": "wang-xiali",
+   "name": "王夏儷｜音樂與藝術創意・EZ Player 執行長・音樂總監",
+   "desc": "王夏儷，EZ Player 執行長・音樂總監，高雄市港都音樂表演藝術發展協會理事長。結合音樂教育、數位創作與演奏指導，拓展音樂與科技的跨域可能。",
+   "url": "https://event.bymyway.com/curated/wang-xiali/",
+   "repoUrl": "https://github.com/Coach1973/wang-xiali",
+   "repo": "wang-xiali",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wang-xiali",
+    "event.bymyway.com/curated/wang-xiali",
+    "event.bymyway.com/wang-xiali",
+    "wang-xiali.bymyway.com",
+    "wang-xiali.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tut-memory",
    "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
    "desc": "",
@@ -4314,5 +4337,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T15:46:01Z"
+ "generated": "2026-10-24T15:59:25Z"
 }
