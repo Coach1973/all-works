@@ -94,6 +94,29 @@
    "aliases": []
   },
   {
+   "id": "lior",
+   "name": "洪誠佑 Lior｜愛喝茶的品牌經營者",
+   "desc": "洪誠佑 Lior：象楠茗茶、象楠地板品牌經營者，象楠國際有限公司代表人，林口幸福扶輪社服務計畫委員會主委。",
+   "url": "https://event.bymyway.com/curated/lior/",
+   "repoUrl": "https://github.com/Coach1973/lior",
+   "repo": "lior",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lior",
+    "event.bymyway.com/curated/lior",
+    "event.bymyway.com/lior",
+    "lior.bymyway.com",
+    "lior.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "kong-ai-backup",
    "name": "kong-ai-backup",
    "desc": "",
@@ -4054,5 +4077,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T06:23:28Z"
+ "generated": "2026-10-24T07:01:46Z"
 }
