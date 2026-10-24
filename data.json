@@ -52,6 +52,31 @@
    ]
   },
   {
+   "id": "wu-jinchang",
+   "name": "吳錦昌董事長｜順發電腦創辦人・用消費改變世界",
+   "desc": "順發電腦創辦人暨董事長吳錦昌。2010 年起承諾捐出淨利 20%，17 年累積捐款 3 億 3,016 萬元；Run for Future 公益路跑發起人。",
+   "url": "https://event.bymyway.com/curated/wu-jinchang/",
+   "repoUrl": "https://github.com/Coach1973/wu-jinchang",
+   "repo": "wu-jinchang",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wu-jinchang",
+    "event.bymyway.com/curated/wu-jinchang",
+    "event.bymyway.com/wu-jinchang",
+    "wu-jinchang.bymyway.com",
+    "wu-jinchang.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "吳董事長"
+   ]
+  },
+  {
    "id": "suchin",
    "name": "蘇秦老師｜英語教學 × AI 工具應用",
    "desc": "蘇秦老師：高師大英語系畢業，AI 融入英語教學講師與作者，100 多場校園演講，著有《英語教學神助手》《英語自學神助手》《Gemini Notebook 任務神助手》。",
@@ -4507,5 +4532,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T19:57:38Z"
+ "generated": "2026-10-24T20:35:49Z"
 }
