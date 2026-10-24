@@ -52,6 +52,29 @@
    ]
   },
   {
+   "id": "grand",
+   "name": "陳和平 設計總監｜格蘭訂製西服・世界洋服大賽大師組金牌",
+   "desc": "陳和平，格蘭訂製西服第二代主理人暨設計總監。出身瑞芳礦工家庭，師承上海紅幫裁縫，2025 年奪世界洋服聯盟大會大師組男裝裁剪金牌，曾為多位總統訂製西服。",
+   "url": "https://event.bymyway.com/curated/grand/",
+   "repoUrl": "https://github.com/Coach1973/grand",
+   "repo": "grand",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/grand",
+    "event.bymyway.com/curated/grand",
+    "event.bymyway.com/grand",
+    "grand.bymyway.com",
+    "grand.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "coachwu",
    "name": "大樹教練 吳大樹｜有效溝通，就是無價之寶",
    "desc": "投入培訓業 27 年、超過 6,000 場演講。大樹教育顧問創辦人、海餅乾俱樂部創辦人、AI 百人導師團隊發起人、BNI 大台南南區執行董事。",
@@ -1304,6 +1327,29 @@
     "flower-site.netlify.app"
    ],
    "cat": "策展・樂",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "everydaycaf-tai-nan-san-dian",
+   "name": "EVERYDAY CAFÉ 台南三店｜生吐司早午餐．勝利店・海安店・陽光公園店",
+   "desc": "EVERYDAY CAFÉ 台南三家內用店：勝利店（成大醫院旁）、海安店（神農街商圈）、陽光公園店。獨家雲朵生吐司肉蛋、100% 阿拉比卡咖啡、真鮮奶茶。粉漿蛋餅台南限定，平日早上 6:30 開門。",
+   "url": "https://event.bymyway.com/curated/everydaycaf-tai-nan-san-dian/",
+   "repoUrl": "https://github.com/Coach1973/everydaycaf-tai-nan-san-dian",
+   "repo": "everydaycaf-tai-nan-san-dian",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/everydaycaf-tai-nan-san-dian",
+    "event.bymyway.com/curated/everydaycaf-tai-nan-san-dian",
+    "event.bymyway.com/everydaycaf-tai-nan-san-dian",
+    "everydaycaf-tai-nan-san-dian.bymyway.com",
+    "everydaycaf-tai-nan-san-dian.netlify.app"
+   ],
+   "cat": "策展・食",
    "updated": "2026-10-24",
    "inRegistry": true,
    "delisted": false,
@@ -2834,29 +2880,6 @@
    "cat": "GitHub 網頁",
    "updated": "2026-09-17",
    "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "everydaycaf-tai-nan-san-dian",
-   "name": "EVERYDAY CAFÉ 台南三店｜生吐司早午餐．勝利店・海安店・陽光公園店",
-   "desc": "EVERYDAY CAFÉ 台南三家內用店：勝利店（成大醫院旁）、海安店（神農街商圈）、陽光公園店。獨家雲朵生吐司肉蛋、100% 阿拉比卡咖啡、真鮮奶茶。粉漿蛋餅台南限定，平日早上 6:30 開門。",
-   "url": "https://event.bymyway.com/curated/everydaycaf-tai-nan-san-dian/",
-   "repoUrl": "https://github.com/Coach1973/everydaycaf-tai-nan-san-dian",
-   "repo": "everydaycaf-tai-nan-san-dian",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/everydaycaf-tai-nan-san-dian",
-    "event.bymyway.com/curated/everydaycaf-tai-nan-san-dian",
-    "event.bymyway.com/everydaycaf-tai-nan-san-dian",
-    "everydaycaf-tai-nan-san-dian.bymyway.com",
-    "everydaycaf-tai-nan-san-dian.netlify.app"
-   ],
-   "cat": "策展・食",
-   "updated": "2026-09-17",
-   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -4436,5 +4459,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T17:33:56Z"
+ "generated": "2026-10-24T18:50:13Z"
 }
