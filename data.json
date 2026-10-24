@@ -1281,6 +1281,29 @@
    "aliases": []
   },
   {
+   "id": "chen-yijing",
+   "name": "陳怡靜（宜璟）｜薩加瑪奇克創藝學院創辦人・讓每個人都能創作音樂",
+   "desc": "陳怡靜（陳宜璟，Roxie），台中薩加瑪奇克創藝學院創辦人，數位音樂教育者、電子琴演奏者、CEO 商業聚會主辦人。",
+   "url": "https://event.bymyway.com/curated/chen-yijing/",
+   "repoUrl": "https://github.com/Coach1973/chen-yijing",
+   "repo": "chen-yijing",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "chen-yijing.bymyway.com",
+    "chen-yijing.netlify.app",
+    "coach1973.github.io/chen-yijing",
+    "event.bymyway.com/chen-yijing",
+    "event.bymyway.com/curated/chen-yijing"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "charles-lin",
    "name": "林家旭博士｜流行・品牌・設計決策｜台灣形象設計發展協會理事長",
    "desc": "林家旭博士，台灣形象設計發展協會 2026 年現任理事長，前台南應用科技大學生活服務產業系（所）副教授兼主任。專長流行市場分析、商品規劃、品牌行銷管理、流行服裝與女鞋設計、設計決策研究。",
@@ -4291,5 +4314,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T15:35:20Z"
+ "generated": "2026-10-24T15:46:01Z"
 }
