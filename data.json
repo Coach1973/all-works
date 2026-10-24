@@ -189,6 +189,29 @@
    "aliases": []
   },
   {
+   "id": "tava-brand-web-playbook",
+   "name": "tava-brand-web-playbook",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-24",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "taipeiema1017",
    "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
    "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
@@ -651,6 +674,31 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "kunting",
+   "name": "昆廷老師 鄒昆廷｜企業 AI 導入顧問 × 易經決策",
+   "desc": "昆廷老師（鄒昆廷）：朋昶數位科技總監、ISO/IEC 42001 主導稽核員。近 18 年企業系統經驗、近 20 年文王卦經驗，陪中小企業主先問對問題，再讓 AI 把事做完。",
+   "url": "https://event.bymyway.com/curated/kunting/",
+   "repoUrl": "https://github.com/Coach1973/kunting",
+   "repo": "kunting",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kunting",
+    "event.bymyway.com/curated/kunting",
+    "event.bymyway.com/kunting",
+    "kunting.bymyway.com",
+    "kunting.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "昆老師"
+   ]
   },
   {
    "id": "kong-ling-feng",
@@ -1444,29 +1492,6 @@
    "aliases": [
     "陳執行長"
    ]
-  },
-  {
-   "id": "tava-brand-web-playbook",
-   "name": "tava-brand-web-playbook",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "patrick-chu",
@@ -4195,5 +4220,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T13:12:33Z"
+ "generated": "2026-10-24T15:21:38Z"
 }
