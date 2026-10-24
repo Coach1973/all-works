@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "sunny",
+   "name": "陳瑋琳 Sunny｜大樹教育顧問 專案經理",
+   "desc": "陳瑋琳 Sunny，元瀧品茶行銷總監，即將擔任大樹教育顧問專案經理。用心、積極、善於觀察，也樂於分享。",
+   "url": "https://event.bymyway.com/curated/sunny/",
+   "repoUrl": "https://github.com/Coach1973/sunny",
+   "repo": "sunny",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/sunny",
+    "event.bymyway.com/curated/sunny",
+    "event.bymyway.com/sunny",
+    "sunny.bymyway.com",
+    "sunny.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "shi-zheng-yi",
    "name": "施正益 Allen｜第 10 級 Google 在地嚮導・彰化網購職業工會理事長",
    "desc": "施正益（Allen），彰化縣網路購物服務人員職業工會理事長、Google 第 10 級在地嚮導團隊導師、TTQS 網路行銷課程講師。用評論、照片與 360 環景，讓好店被看見。",
@@ -4077,5 +4100,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-24T07:01:46Z"
+ "generated": "2026-10-24T09:01:58Z"
 }
