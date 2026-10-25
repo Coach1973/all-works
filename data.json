@@ -309,6 +309,29 @@
    "aliases": []
   },
   {
+   "id": "lingyushun",
+   "name": "凌榆舜｜教育科技與 AiGeo 跨界整合專家",
+   "desc": "凌榆舜，iSmart 南區業務經理、跨領域數位轉型顧問。淡江大學教育科技學系畢業，用教育科技的思維「教育 AI」，讓 ChatGPT、Gemini 與 Google 主動推薦你的品牌。",
+   "url": "https://event.bymyway.com/curated/lingyushun/",
+   "repoUrl": "https://github.com/Coach1973/lingyushun",
+   "repo": "lingyushun",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lingyushun",
+    "event.bymyway.com/curated/lingyushun",
+    "event.bymyway.com/lingyushun",
+    "lingyushun.bymyway.com",
+    "lingyushun.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "kueilan",
    "name": "奎嵐 KueiLan｜用 AI 幫你提早下班",
    "desc": "奎嵐 KueiLan，台大政治系畢業的自媒體內容創作者、AI 教學講師與社群操盤手，現居美國加州，教上班族用 AI 提早下班。",
@@ -4601,5 +4624,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-25T09:37:07Z"
+ "generated": "2026-10-25T10:17:17Z"
 }
