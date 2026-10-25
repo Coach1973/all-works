@@ -263,6 +263,29 @@
    "aliases": []
   },
   {
+   "id": "richrd-tsai",
+   "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
+   "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
+   "url": "https://event.bymyway.com/curated/richrd-tsai/",
+   "repoUrl": "https://github.com/Coach1973/richrd-tsai",
+   "repo": "richrd-tsai",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/richrd-tsai",
+    "event.bymyway.com/curated/richrd-tsai",
+    "event.bymyway.com/richrd-tsai",
+    "richrd-tsai.bymyway.com",
+    "richrd-tsai.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -4624,5 +4647,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-25T10:17:17Z"
+ "generated": "2026-10-25T11:23:33Z"
 }
