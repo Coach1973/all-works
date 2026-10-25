@@ -355,6 +355,29 @@
    "aliases": []
   },
   {
+   "id": "helen",
+   "name": "鄒祥星 CP Helen｜新竹竹夢扶輪社創社社長・亞勃華騰國際商業董事長",
+   "desc": "鄒祥星（CP Helen），新竹竹夢扶輪社創社社長、亞勃華騰國際商業股份有限公司董事長、國際扶輪 3501 地區 2025–26 年度地區社員發展主委。",
+   "url": "https://event.bymyway.com/curated/helen/",
+   "repoUrl": "https://github.com/Coach1973/helen",
+   "repo": "helen",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/helen",
+    "event.bymyway.com/curated/helen",
+    "event.bymyway.com/helen",
+    "helen.bymyway.com",
+    "helen.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "grand",
    "name": "陳和平 設計總監｜格蘭訂製西服・世界洋服大賽大師組金牌",
    "desc": "陳和平，格蘭訂製西服第二代主理人暨設計總監。出身瑞芳礦工家庭，師承上海紅幫裁縫，2025 年奪世界洋服聯盟大會大師組男裝裁剪金牌，曾為多位總統訂製西服。",
@@ -4578,5 +4601,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-25T09:24:28Z"
+ "generated": "2026-10-25T09:37:07Z"
 }
