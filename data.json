@@ -309,6 +309,31 @@
    "aliases": []
   },
   {
+   "id": "ohth-at-aj",
+   "name": "莊哲昀 AJ｜把學 AI 變得像喝水一樣簡單",
+   "desc": "莊哲昀（AJ），那個數位有限公司執行長、Google Gemini 官方認證講師、《欸那個AJ》YouTube 頻道主持人。十五年數位教學，陪伴上百家企業與公部門把生成式 AI 帶進日常工作。",
+   "url": "https://event.bymyway.com/curated/ohth-at-aj/",
+   "repoUrl": "https://github.com/Coach1973/ohth-at-aj",
+   "repo": "ohth-at-aj",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/ohth-at-aj",
+    "event.bymyway.com/curated/ohth-at-aj",
+    "event.bymyway.com/ohth-at-aj",
+    "ohth-at-aj.bymyway.com",
+    "ohth-at-aj.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "頻主持人"
+   ]
+  },
+  {
    "id": "mac-openclaw-workflows",
    "name": "mac-openclaw-workflows",
    "desc": "",
@@ -4647,5 +4672,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-25T11:23:33Z"
+ "generated": "2026-10-25T11:49:33Z"
 }
