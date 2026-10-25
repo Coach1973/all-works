@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "tra-taitung",
+   "name": "台東16站，一起賺得到錢｜台鐵標案提案研究",
+   "desc": "台鐵台東16據點提案研究圖文版：錢從哪裡來、BNI夥伴怎麼進駐、吸睛機制、台鐵規定、財務試算。",
+   "url": "https://event.bymyway.com/curated/tra-taitung/",
+   "repoUrl": "https://github.com/Coach1973/tra-taitung",
+   "repo": "tra-taitung",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tra-taitung",
+    "event.bymyway.com/curated/tra-taitung",
+    "event.bymyway.com/tra-taitung",
+    "tra-taitung.bymyway.com",
+    "tra-taitung.netlify.app"
+   ],
+   "cat": "策展・商",
+   "updated": "2026-10-26",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhou-ruiqi",
    "name": "周睿麒｜把一塊布，種成一面綠牆",
    "desc": "周睿麒：永樂市場資深布商、永樂商圈發展協會創會理事長、布思綠創辦人。以機能布取代土壤，推動無耗材種植與城市綠化。",
@@ -4672,5 +4695,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-25T11:49:33Z"
+ "generated": "2026-10-25T16:47:38Z"
 }
