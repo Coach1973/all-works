@@ -75,6 +75,29 @@
    "aliases": []
   },
   {
+   "id": "wufan",
+   "name": "吳梵｜華語・台語雙棲詞曲創作人、唱片製作人",
+   "desc": "吳梵，台灣華語與台語雙棲詞曲創作人、豪記唱片製作人。〈不甘心不放手〉〈感謝無情人〉〈練舞功〉〈斷情歌〉的作者。",
+   "url": "https://event.bymyway.com/curated/wufan/",
+   "repoUrl": "https://github.com/Coach1973/wufan",
+   "repo": "wufan",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wufan",
+    "event.bymyway.com/curated/wufan",
+    "event.bymyway.com/wufan",
+    "wufan.bymyway.com",
+    "wufan.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "wu-jinchang",
    "name": "吳錦昌董事長｜順發電腦創辦人・用消費改變世界",
    "desc": "順發電腦創辦人暨董事長吳錦昌。2010 年起承諾捐出淨利 20%，17 年累積捐款 3 億 3,016 萬元；Run for Future 公益路跑發起人。",
@@ -404,6 +427,32 @@
    "aliases": []
   },
   {
+   "id": "charles-lin",
+   "name": "林家旭博士｜流行・品牌・設計決策｜台灣形象設計發展協會理事長",
+   "desc": "林家旭博士，台灣形象設計發展協會 2026 年現任理事長，前台南應用科技大學生活服務產業系（所）副教授兼主任。專長流行市場分析、商品規劃、品牌行銷管理、流行服裝與女鞋設計、設計決策研究。",
+   "url": "https://event.bymyway.com/curated/charles-lin/",
+   "repoUrl": "https://github.com/Coach1973/charles-lin",
+   "repo": "charles-lin",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "charles-lin.bymyway.com",
+    "charles-lin.netlify.app",
+    "coach1973.github.io/charles-lin",
+    "event.bymyway.com/charles-lin",
+    "event.bymyway.com/curated/charles-lin"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "年理事長",
+    "林博士"
+   ]
+  },
+  {
    "id": "bni-gusest",
    "name": "你的假設對了嗎？｜BNI 來賓接待培訓工作坊 · 互動教材",
    "desc": "45 分鐘來賓接待工作坊互動教材：假設前提決定行為，行為決定結果。三個單元、三個練習、課後自我檢核。",
@@ -422,6 +471,29 @@
    "cat": "教練個人創作",
    "updated": "2026-10-25",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-25",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -1591,32 +1663,6 @@
    "aliases": []
   },
   {
-   "id": "charles-lin",
-   "name": "林家旭博士｜流行・品牌・設計決策｜台灣形象設計發展協會理事長",
-   "desc": "林家旭博士，台灣形象設計發展協會 2026 年現任理事長，前台南應用科技大學生活服務產業系（所）副教授兼主任。專長流行市場分析、商品規劃、品牌行銷管理、流行服裝與女鞋設計、設計決策研究。",
-   "url": "https://event.bymyway.com/curated/charles-lin/",
-   "repoUrl": "https://github.com/Coach1973/charles-lin",
-   "repo": "charles-lin",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "charles-lin.bymyway.com",
-    "charles-lin.netlify.app",
-    "coach1973.github.io/charles-lin",
-    "event.bymyway.com/charles-lin",
-    "event.bymyway.com/curated/charles-lin"
-   ],
-   "cat": "策展・衣",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "年理事長",
-    "林博士"
-   ]
-  },
-  {
    "id": "champagne-salon",
    "name": "香檳下午茶國際禮儀沙龍｜台灣形象設計發展協會",
    "desc": "你不需要變成另一個人，只需要讓更好的自己，自然地被看見。2026/11/9 台南香格里拉遠東國際大飯店，限額 20 席。",
@@ -1756,29 +1802,6 @@
    "aliases": [
     "陳執行長"
    ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-24",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "adia",
@@ -4555,5 +4578,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-25T08:03:10Z"
+ "generated": "2026-10-25T09:24:28Z"
 }
