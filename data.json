@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "yijing-ai-backup",
+   "name": "yijing-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/yijing-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
+   "repo": "yijing-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yijing-ai-backup",
+    "event.bymyway.com/curated/yijing-ai-backup",
+    "event.bymyway.com/yijing-ai-backup",
+    "yijing-ai-backup.bymyway.com",
+    "yijing-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-26",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tra-taitung",
    "name": "台東16站，一起賺得到錢｜台鐵標案提案研究",
    "desc": "台鐵台東16據點提案研究圖文版：錢從哪裡來、BNI夥伴怎麼進駐、吸睛機制、台鐵規定、財務試算。",
@@ -20,6 +43,123 @@
    "cat": "策展・商",
    "updated": "2026-10-26",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "reverse-skill",
+   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
+   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
+   "url": "https://event.bymyway.com/curated/reverse-skill/",
+   "repoUrl": "https://github.com/Coach1973/reverse-skill",
+   "repo": "reverse-skill",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/reverse-skill",
+    "event.bymyway.com/curated/reverse-skill",
+    "event.bymyway.com/reverse-skill",
+    "reverse-skill.bymyway.com",
+    "reverse-skill.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-26",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-26",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-26",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-26",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-26",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -98,29 +238,6 @@
    "aliases": [
     "余博士"
    ]
-  },
-  {
-   "id": "yijing-ai-backup",
-   "name": "yijing-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/yijing-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
-   "repo": "yijing-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yijing-ai-backup",
-    "event.bymyway.com/curated/yijing-ai-backup",
-    "event.bymyway.com/yijing-ai-backup",
-    "yijing-ai-backup.bymyway.com",
-    "yijing-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "wufan",
@@ -380,29 +497,6 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "ohth-at-aj",
    "name": "莊哲昀 AJ｜把學 AI 變得像喝水一樣簡單",
    "desc": "莊哲昀（AJ），那個數位有限公司執行長、Google Gemini 官方認證講師、《欸那個AJ》YouTube 頻道主持人。十五年數位教學，陪伴上百家企業與公部門把生成式 AI 帶進日常工作。",
@@ -451,29 +545,6 @@
    "aliases": []
   },
   {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "lingyushun",
    "name": "凌榆舜｜教育科技與 AiGeo 跨界整合專家",
    "desc": "凌榆舜，iSmart 南區業務經理、跨領域數位轉型顧問。淡江大學教育科技學系畢業，用教育科技的思維「教育 AI」，讓 ChatGPT、Gemini 與 Google 主動推薦你的品牌。",
@@ -490,6 +561,29 @@
     "lingyushun.netlify.app"
    ],
    "cat": "教練個人創作",
+   "updated": "2026-10-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "linbaohua",
+   "name": "林寶華（寶華姐）｜寶麗寶銀樓創辦人・府城志工中隊長",
+   "desc": "從澎湖貧民戶的老五，到台南寶麗寶銀樓創辦人、二分局志工中隊長二十年、台南市好人好事代表——寶華姐的故事。",
+   "url": "https://event.bymyway.com/curated/linbaohua/",
+   "repoUrl": "https://github.com/Coach1973/linbaohua",
+   "repo": "linbaohua",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/linbaohua",
+    "event.bymyway.com/curated/linbaohua",
+    "event.bymyway.com/linbaohua",
+    "linbaohua.bymyway.com",
+    "linbaohua.netlify.app"
+   ],
+   "cat": "策展・樂",
    "updated": "2026-10-25",
    "inRegistry": true,
    "delisted": false,
@@ -515,29 +609,6 @@
    "cat": "策展・樂",
    "updated": "2026-10-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-25",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -613,29 +684,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "charles-lin",
@@ -1334,29 +1382,6 @@
     "lior.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "linbaohua",
-   "name": "林寶華（寶華姐）｜寶麗寶銀樓創辦人・府城志工中隊長",
-   "desc": "從澎湖貧民戶的老五，到台南寶麗寶銀樓創辦人、二分局志工中隊長二十年、台南市好人好事代表——寶華姐的故事。",
-   "url": "https://event.bymyway.com/curated/linbaohua/",
-   "repoUrl": "https://github.com/Coach1973/linbaohua",
-   "repo": "linbaohua",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/linbaohua",
-    "event.bymyway.com/curated/linbaohua",
-    "event.bymyway.com/linbaohua",
-    "linbaohua.bymyway.com",
-    "linbaohua.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-10-24",
    "inRegistry": true,
    "delisted": false,
@@ -4720,5 +4745,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-25T17:28:58Z"
+ "generated": "2026-10-26T06:34:53Z"
 }
