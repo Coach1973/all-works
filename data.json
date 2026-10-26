@@ -73,6 +73,29 @@
    ]
   },
   {
+   "id": "tainan-shangquan",
+   "name": "tainan-shangquan",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-26",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "social-club",
    "name": "真公益・企業家俱樂部｜參與，就是公益",
    "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
@@ -234,6 +257,33 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "jiang-yilun",
+   "name": "江宜倫老師｜鋼琴・歌唱老師・《音樂。人生。診聊室》主持人",
+   "desc": "台中音樂課工作室江宜倫（泡芙老師 Eleen）：鋼琴、歌唱、古箏、小提琴教學，Podcast《音樂。人生。診聊室》主持人，BNI 大台南南區真誠線上分會夥伴。",
+   "url": "https://event.bymyway.com/curated/jiang-yilun/",
+   "repoUrl": "https://github.com/Coach1973/jiang-yilun",
+   "repo": "jiang-yilun",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/jiang-yilun",
+    "event.bymyway.com/curated/jiang-yilun",
+    "event.bymyway.com/jiang-yilun",
+    "jiang-yilun.bymyway.com",
+    "jiang-yilun.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-26",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "歌老師",
+    "江老師",
+    "泡老師"
+   ]
   },
   {
    "id": "coach888",
@@ -446,29 +496,6 @@
    "cat": "教練個人創作",
    "updated": "2026-10-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tainan-shangquan",
-   "name": "tainan-shangquan",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-25",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -4793,5 +4820,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-26T14:51:10Z"
+ "generated": "2026-10-26T14:59:22Z"
 }
