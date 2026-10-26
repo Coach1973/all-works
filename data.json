@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "hsiuli",
+   "name": "黃秀麗｜全國古典音樂推廣版主",
+   "desc": "黃秀麗，全國古典音樂推廣版主。長期以社群力量推廣古典音樂，串連主辦單位、樂團與樂迷，讓好音樂被更多人聽見。歡迎音樂會宣傳、導聆、藝文跨界與公益合作邀約。",
+   "url": "https://event.bymyway.com/curated/hsiuli/",
+   "repoUrl": "https://github.com/Coach1973/hsiuli",
+   "repo": "hsiuli",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/hsiuli",
+    "event.bymyway.com/curated/hsiuli",
+    "event.bymyway.com/hsiuli",
+    "hsiuli.bymyway.com",
+    "hsiuli.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -20,6 +43,30 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-10-26",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "yang-shang-ru",
+   "name": "楊尚儒 Shang-Ju Yang, D.M.A.｜小提琴・中提琴・弦樂團訓練｜台南",
+   "desc": "楊尚儒（Shang-Ju Yang, D.M.A.），小提琴與中提琴演奏者、弦樂教育者，現居台南。亞利桑那大學音樂藝術博士；曾任 Sierra Vista Symphony Orchestra 協理首席、藝曲愛樂管弦樂團首席（2012–2019）。專注於樂團組建、室內樂訓練與弦…",
+   "url": "https://event.bymyway.com/curated/yang-shang-ru/",
+   "repoUrl": "https://github.com/Coach1973/yang-shang-ru",
+   "repo": "yang-shang-ru",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-shang-ru",
+    "event.bymyway.com/curated/yang-shang-ru",
+    "event.bymyway.com/curated/yang-shang-ru-shang-juyangdma",
+    "event.bymyway.com/yang-shang-ru",
+    "yang-shang-ru.bymyway.com",
+    "yang-shang-ru.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-26",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -119,6 +166,29 @@
    "aliases": []
   },
   {
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-26",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "reverse-skill",
    "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
    "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
@@ -162,6 +232,29 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-10-26",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "nmda",
+   "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
+   "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
+   "url": "https://event.bymyway.com/curated/nmda/",
+   "repoUrl": "https://github.com/Coach1973/nmda",
+   "repo": "nmda",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/nmda",
+    "event.bymyway.com/curated/nmda",
+    "event.bymyway.com/nmda",
+    "nmda.bymyway.com",
+    "nmda.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-10-26",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -526,29 +619,6 @@
    ]
   },
   {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-25",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "sendstudio",
    "name": "鄭憲聰｜憲樂錄音室 SendStudio 創辦人・AI 影音行銷講師",
    "desc": "鄭憲聰是「憲樂錄音室 SendStudio」創辦人，也是 AI 影音行銷講師，專門協助企業與個人品牌，用錄音、影音、短影音與 AI 工具，打造從內容製作到流量變現的完整系統。",
@@ -895,30 +965,6 @@
     "event.bymyway.com/yang-zai-zhen",
     "yang-zai-zhen.bymyway.com",
     "yang-zai-zhen.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "yang-shang-ru",
-   "name": "楊尚儒 Shang-Ju Yang, D.M.A.｜小提琴・中提琴・弦樂團訓練｜台南",
-   "desc": "楊尚儒（Shang-Ju Yang, D.M.A.），小提琴與中提琴演奏者、弦樂教育者，現居台南。亞利桑那大學音樂藝術博士；曾任 Sierra Vista Symphony Orchestra 協理首席、藝曲愛樂管弦樂團首席（2012–2019）。專注於樂團組建、室內樂訓練與弦…",
-   "url": "https://event.bymyway.com/curated/yang-shang-ru/",
-   "repoUrl": "https://github.com/Coach1973/yang-shang-ru",
-   "repo": "yang-shang-ru",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yang-shang-ru",
-    "event.bymyway.com/curated/yang-shang-ru",
-    "event.bymyway.com/curated/yang-shang-ru-shang-juyangdma",
-    "event.bymyway.com/yang-shang-ru",
-    "yang-shang-ru.bymyway.com",
-    "yang-shang-ru.netlify.app"
    ],
    "cat": "策展・育",
    "updated": "2026-10-24",
@@ -1319,29 +1365,6 @@
     "patrick-chu.netlify.app"
    ],
    "cat": "策展・育",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "nmda",
-   "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
-   "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
-   "url": "https://event.bymyway.com/curated/nmda/",
-   "repoUrl": "https://github.com/Coach1973/nmda",
-   "repo": "nmda",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/nmda",
-    "event.bymyway.com/curated/nmda",
-    "event.bymyway.com/nmda",
-    "nmda.bymyway.com",
-    "nmda.netlify.app"
-   ],
-   "cat": "策展・衣",
    "updated": "2026-10-24",
    "inRegistry": true,
    "delisted": false,
@@ -4820,5 +4843,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-26T14:59:22Z"
+ "generated": "2026-10-26T23:34:50Z"
 }
