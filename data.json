@@ -48,6 +48,31 @@
    "aliases": []
   },
   {
+   "id": "time-secret",
+   "name": "時間的秘密｜大樹教練 互動工作坊",
+   "desc": "大樹教練 20 分鐘互動工作坊：時間無法管理，只能分配。拆解三大商業時間悖論，啟動 DNA 影響力槓桿。",
+   "url": "https://event.bymyway.com/curated/time-secret/",
+   "repoUrl": "https://github.com/Coach1973/time-secret",
+   "repo": "time-secret",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/time-secret",
+    "event.bymyway.com/curated/time-secret",
+    "event.bymyway.com/time-secret",
+    "time-secret.bymyway.com",
+    "time-secret.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-26",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "reverse-skill",
    "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
    "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
@@ -188,6 +213,29 @@
    "aliases": [
     "以創辦人"
    ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-26",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "zhou-ruiqi",
@@ -750,29 +798,6 @@
     "coach1973.github.io/bni-chapters",
     "event.bymyway.com/bni-chapters",
     "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-10-25",
@@ -4745,5 +4770,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-26T06:34:53Z"
+ "generated": "2026-10-26T09:50:45Z"
 }
