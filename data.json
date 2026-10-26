@@ -73,6 +73,29 @@
    ]
   },
   {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-26",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "reverse-skill",
    "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
    "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
@@ -121,6 +144,29 @@
    "aliases": []
   },
   {
+   "id": "my-tools",
+   "name": "my-tools",
+   "desc": "",
+   "url": "https://coach1973.github.io/my-tools/",
+   "repoUrl": "https://github.com/Coach1973/my-tools",
+   "repo": "my-tools",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/my-tools",
+    "event.bymyway.com/curated/my-tools",
+    "event.bymyway.com/my-tools",
+    "my-tools.bymyway.com",
+    "my-tools.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-26",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "mac-openclaw-workflows",
    "name": "mac-openclaw-workflows",
    "desc": "",
@@ -139,6 +185,29 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-10-26",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "lin-wenjin",
+   "name": "林玟妗 董事長｜暢銷書教母・2的N次方人生",
+   "desc": "林玟妗（娃娃姐），時兆創新創辦人、台暘控股集團董事長、時承醫養集團創辦人。30年電子產業資歷，200位暢銷書作者推手，用出版為素人打造個人品牌。",
+   "url": "https://event.bymyway.com/curated/lin-wenjin/",
+   "repoUrl": "https://github.com/Coach1973/lin-wenjin",
+   "repo": "lin-wenjin",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lin-wenjin",
+    "event.bymyway.com/curated/lin-wenjin",
+    "event.bymyway.com/lin-wenjin",
+    "lin-wenjin.bymyway.com",
+    "lin-wenjin.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-26",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -430,29 +499,6 @@
    ]
   },
   {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-25",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "skyteam",
    "name": "人才軍火庫顧問師天團",
    "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
@@ -568,29 +614,6 @@
    "aliases": [
     "頻主持人"
    ]
-  },
-  {
-   "id": "my-tools",
-   "name": "my-tools",
-   "desc": "",
-   "url": "https://coach1973.github.io/my-tools/",
-   "repoUrl": "https://github.com/Coach1973/my-tools",
-   "repo": "my-tools",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/my-tools",
-    "event.bymyway.com/curated/my-tools",
-    "event.bymyway.com/my-tools",
-    "my-tools.bymyway.com",
-    "my-tools.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "lingyushun",
@@ -4770,5 +4793,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-26T09:50:45Z"
+ "generated": "2026-10-26T14:51:10Z"
 }
