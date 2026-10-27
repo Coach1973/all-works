@@ -257,6 +257,29 @@
    "aliases": []
   },
   {
+   "id": "chuanfeng",
+   "name": "陳川豐 總經理｜凱景實業・把鋼板烤出顏色的人",
+   "desc": "陳川豐，凱景實業股份有限公司總經理、高雄臨海產業園區廠商協進會下屆理事長。凱景集團第二代，延續父母自 1969 年起的「誠信勤成」，把冷冰冰的鋼，烤出顏色。",
+   "url": "https://event.bymyway.com/curated/chuanfeng/",
+   "repoUrl": "https://github.com/Coach1973/chuanfeng",
+   "repo": "chuanfeng",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chuanfeng.bymyway.com",
+    "chuanfeng.netlify.app",
+    "coach1973.github.io/chuanfeng",
+    "event.bymyway.com/chuanfeng",
+    "event.bymyway.com/curated/chuanfeng"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "champagne-salon",
    "name": "香檳下午茶國際禮儀沙龍｜台灣形象設計發展協會",
    "desc": "你不需要變成另一個人，只需要讓更好的自己，自然地被看見。2026/11/9 台南香格里拉遠東國際大飯店，限額 20 席。",
@@ -4891,5 +4914,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-27T15:37:38Z"
+ "generated": "2026-10-27T15:40:40Z"
 }
