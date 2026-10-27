@@ -2,6 +2,144 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "yijing-ai-backup",
+   "name": "yijing-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/yijing-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
+   "repo": "yijing-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yijing-ai-backup",
+    "event.bymyway.com/curated/yijing-ai-backup",
+    "event.bymyway.com/yijing-ai-backup",
+    "yijing-ai-backup.bymyway.com",
+    "yijing-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "xiumei",
+   "name": "鄭綉美｜保險理賠顧問 — 理賠這條路，我陪你一起走",
+   "desc": "鄭綉美，保險理賠顧問。從事故發生到理賠入帳，陪你看懂保單、備齊文件、走完每一步。",
+   "url": "https://event.bymyway.com/curated/xiumei/",
+   "repoUrl": "https://github.com/Coach1973/xiumei",
+   "repo": "xiumei",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/xiumei",
+    "event.bymyway.com/curated/xiumei",
+    "event.bymyway.com/xiumei",
+    "xiumei.bymyway.com",
+    "xiumei.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "tainan-shangquan",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "hsiuli",
    "name": "黃秀麗｜全國古典音樂推廣版主",
    "desc": "黃秀麗，全國古典音樂推廣版主。長期以社群力量推廣古典音樂，串連主辦單位、樂團與樂迷，讓好音樂被更多人聽見。歡迎音樂會宣傳、導聆、藝文跨界與公益合作邀約。",
@@ -25,24 +163,47 @@
    "aliases": []
   },
   {
-   "id": "yijing-ai-backup",
-   "name": "yijing-ai-backup",
+   "id": "coach888",
+   "name": "coach888",
    "desc": "",
-   "url": "https://github.com/Coach1973/yijing-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
-   "repo": "yijing-ai-backup",
-   "private": true,
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
    "archived": false,
    "keys": [
-    "coach1973.github.io/yijing-ai-backup",
-    "event.bymyway.com/curated/yijing-ai-backup",
-    "event.bymyway.com/yijing-ai-backup",
-    "yijing-ai-backup.bymyway.com",
-    "yijing-ai-backup.netlify.app"
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
    ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-26",
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-27",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "champagne-salon",
+   "name": "香檳下午茶國際禮儀沙龍｜台灣形象設計發展協會",
+   "desc": "你不需要變成另一個人，只需要讓更好的自己，自然地被看見。2026/11/9 台南香格里拉遠東國際大飯店，限額 20 席。",
+   "url": "https://event.bymyway.com/curated/champagne-salon/",
+   "repoUrl": "https://github.com/Coach1973/champagne-salon",
+   "repo": "champagne-salon",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "champagne-salon.bymyway.com",
+    "champagne-salon.netlify.app",
+    "coach1973.github.io/champagne-salon",
+    "event.bymyway.com/champagne-salon",
+    "event.bymyway.com/curated/champagne-salon"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-10-27",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -120,29 +281,6 @@
    ]
   },
   {
-   "id": "tainan-shangquan",
-   "name": "tainan-shangquan",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-26",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "social-club",
    "name": "真公益・企業家俱樂部｜參與，就是公益",
    "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
@@ -214,29 +352,6 @@
    ]
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-26",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "nmda",
    "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
    "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
@@ -283,29 +398,6 @@
    "aliases": []
   },
   {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-26",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "lin-wenjin",
    "name": "林玟妗 董事長｜暢銷書教母・2的N次方人生",
    "desc": "林玟妗（娃娃姐），時兆創新創辦人、台暘控股集團董事長、時承醫養集團創辦人。30年電子產業資歷，200位暢銷書作者推手，用出版為素人打造個人品牌。",
@@ -324,29 +416,6 @@
    "cat": "教練個人創作",
    "updated": "2026-10-26",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-26",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -377,29 +446,6 @@
     "江老師",
     "泡老師"
    ]
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-26",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "brian-blacktea",
@@ -1945,29 +1991,6 @@
     "event.bymyway.com/curated/chen-yijing"
    ],
    "cat": "策展・育",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "champagne-salon",
-   "name": "香檳下午茶國際禮儀沙龍｜台灣形象設計發展協會",
-   "desc": "你不需要變成另一個人，只需要讓更好的自己，自然地被看見。2026/11/9 台南香格里拉遠東國際大飯店，限額 20 席。",
-   "url": "https://event.bymyway.com/curated/champagne-salon/",
-   "repoUrl": "https://github.com/Coach1973/champagne-salon",
-   "repo": "champagne-salon",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "champagne-salon.bymyway.com",
-    "champagne-salon.netlify.app",
-    "coach1973.github.io/champagne-salon",
-    "event.bymyway.com/champagne-salon",
-    "event.bymyway.com/curated/champagne-salon"
-   ],
-   "cat": "策展・食",
    "updated": "2026-10-24",
    "inRegistry": true,
    "delisted": false,
@@ -4843,5 +4866,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-26T23:34:50Z"
+ "generated": "2026-10-27T14:11:37Z"
 }
