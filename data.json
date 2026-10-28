@@ -27,6 +27,29 @@
    ]
   },
   {
+   "id": "women-reepmployment",
+   "name": "婦女再就業補助｜離開職場半年以上，學新技能政府發你最高 3 萬元",
+   "desc": "勞動部婦女再就業計畫：18 歲以上、退出職場 180 天以上的婦女，上課 8 小時以上、結訓求職登記就發 2 萬，180 天內就業或創業再發 1 萬。30 秒快篩看看你符不符合！",
+   "url": "https://event.bymyway.com/curated/women-reepmployment/",
+   "repoUrl": "https://github.com/Coach1973/women-reepmployment",
+   "repo": "women-reepmployment",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/women-reepmployment",
+    "event.bymyway.com/curated/women-reepmployment",
+    "event.bymyway.com/women-reepmployment",
+    "women-reepmployment.bymyway.com",
+    "women-reepmployment.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-29",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -4960,5 +4983,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-28T16:13:01Z"
+ "generated": "2026-10-28T17:08:32Z"
 }
