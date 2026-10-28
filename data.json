@@ -2,31 +2,6 @@
  "owner": "Coach1973",
  "items": [
   {
-   "id": "zhaoxian",
-   "name": "賴昭賢理事長｜高雄臨海產業園區廠商協進會・永覲工業",
-   "desc": "賴昭賢，高雄臨海產業園區廠商協進會理事長、永覲工業股份有限公司董事長。把煉鋼爐碴磨成低碳建材，帶領臨海工業區走向下一個50年。",
-   "url": "https://event.bymyway.com/curated/zhaoxian/",
-   "repoUrl": "https://github.com/Coach1973/zhaoxian",
-   "repo": "zhaoxian",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zhaoxian",
-    "event.bymyway.com/curated/zhaoxian",
-    "event.bymyway.com/zhaoxian",
-    "zhaoxian.bymyway.com",
-    "zhaoxian.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-27",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "賴理事長"
-   ]
-  },
-  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -43,8 +18,215 @@
     "yijing-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "xu-zhe-cheng",
+   "name": "許哲誠｜視障鋼琴家・用琴聲翻譯生命故事",
+   "desc": "許哲誠，出生即全盲的台灣視障鋼琴家。14 歲以〈天黑黑〉獲國際身心障礙青年音樂家首獎，與恩師范德騰合演《彈琴說愛》《聲聲不息》，以即興創作與生命教育走進校園、醫院與社區。",
+   "url": "https://event.bymyway.com/curated/xu-zhe-cheng/",
+   "repoUrl": "https://github.com/Coach1973/xu-zhe-cheng",
+   "repo": "xu-zhe-cheng",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/xu-zhe-cheng",
+    "event.bymyway.com/curated/xu-zhe-cheng",
+    "event.bymyway.com/xu-zhe-cheng",
+    "xu-zhe-cheng.bymyway.com",
+    "xu-zhe-cheng.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-28",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "tainan-shangquan",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-28",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-28",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "zhaoxian",
+   "name": "賴昭賢｜高雄臨海產業園區廠商協進會・永覲工業",
+   "desc": "賴昭賢，高雄臨海產業園區廠商協進會理事長、永覲工業股份有限公司董事長。把煉鋼爐碴磨成低碳建材，帶領臨海工業區走向下一個50年。",
+   "url": "https://event.bymyway.com/curated/zhaoxian/",
+   "repoUrl": "https://github.com/Coach1973/zhaoxian",
+   "repo": "zhaoxian",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhaoxian",
+    "event.bymyway.com/curated/zhaoxian",
+    "event.bymyway.com/zhaoxian",
+    "zhaoxian.bymyway.com",
+    "zhaoxian.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-27",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -73,139 +255,24 @@
    "aliases": []
   },
   {
-   "id": "tainan-shangquan",
-   "name": "tainan-shangquan",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
+   "id": "nmda",
+   "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
+   "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
+   "url": "https://event.bymyway.com/curated/nmda/",
+   "repoUrl": "https://github.com/Coach1973/nmda",
+   "repo": "nmda",
    "private": false,
    "archived": false,
    "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
+    "coach1973.github.io/nmda",
+    "event.bymyway.com/curated/nmda",
+    "event.bymyway.com/nmda",
+    "nmda.bymyway.com",
+    "nmda.netlify.app"
    ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-27",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
+   "cat": "策展・衣",
    "updated": "2026-10-27",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-27",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-27",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-27",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-27",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -229,29 +296,6 @@
    "cat": "策展・樂",
    "updated": "2026-10-27",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-27",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -421,29 +465,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "nmda",
-   "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
-   "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
-   "url": "https://event.bymyway.com/curated/nmda/",
-   "repoUrl": "https://github.com/Coach1973/nmda",
-   "repo": "nmda",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/nmda",
-    "event.bymyway.com/curated/nmda",
-    "event.bymyway.com/nmda",
-    "nmda.bymyway.com",
-    "nmda.netlify.app"
-   ],
-   "cat": "策展・衣",
-   "updated": "2026-10-26",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "my-tools",
@@ -4914,5 +4935,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-27T15:40:40Z"
+ "generated": "2026-10-28T04:55:52Z"
 }
