@@ -50,6 +50,29 @@
    "aliases": []
   },
   {
+   "id": "mbba",
+   "name": "中華身心平衡推廣協會｜社會企業與心靈的對話（改版提案）",
+   "desc": "中華身心平衡推廣協會，以社會企業的視角出發，將療癒轉化為日常的實踐，一起創造「個人健康、家庭圓夢、社會共好」的三贏人生。",
+   "url": "https://event.bymyway.com/curated/mbba/",
+   "repoUrl": "https://github.com/Coach1973/mbba",
+   "repo": "mbba",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mbba",
+    "event.bymyway.com/curated/mbba",
+    "event.bymyway.com/mbba",
+    "mbba.bymyway.com",
+    "mbba.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-29",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -4983,5 +5006,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-28T17:08:32Z"
+ "generated": "2026-10-28T17:12:16Z"
 }
