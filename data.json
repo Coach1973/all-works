@@ -2,6 +2,31 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "idea-center",
+   "name": "AI 好點子收集中心｜把你的「欸，如果……」丟過來",
+   "desc": "AI 好點子收集中心是一個公益平台。主辦：順發公益運動協會，發起人：大樹教練。歡迎每個人與 NPO 夥伴，放心丟出任何公益好點子。",
+   "url": "https://event.bymyway.com/curated/idea-center/",
+   "repoUrl": "https://github.com/Coach1973/idea-center",
+   "repo": "idea-center",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/idea-center",
+    "event.bymyway.com/curated/idea-center",
+    "event.bymyway.com/idea-center",
+    "idea-center.bymyway.com",
+    "idea-center.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-10-30",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "chen-qianhe",
    "name": "陳千禾｜水兵 Riley・壽險顧問・《中年勇敢轉職，經營你的人生》作者",
    "desc": "從 14 年海軍職業軍人到壽險顧問與作家。陳千禾（水兵 Riley）用親身經歷陪伴每一位想重新掌握人生的人。量身保險找千禾。",
@@ -340,6 +365,29 @@
     "event.bymyway.com/kong-ai-backup",
     "kong-ai-backup.bymyway.com",
     "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-29",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "curation-illustration-archive-20261029-30",
+   "name": "curation-illustration-archive-20261029-30",
+   "desc": "",
+   "url": "https://github.com/Coach1973/curation-illustration-archive-20261029-30",
+   "repoUrl": "https://github.com/Coach1973/curation-illustration-archive-20261029-30",
+   "repo": "curation-illustration-archive-20261029-30",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/curation-illustration-archive-20261029-30",
+    "curation-illustration-archive-20261029-30.bymyway.com",
+    "curation-illustration-archive-20261029-30.netlify.app",
+    "event.bymyway.com/curated/curation-illustration-archive-20261029-30",
+    "event.bymyway.com/curation-illustration-archive-20261029-30"
    ],
    "cat": "程式／內部倉庫",
    "updated": "2026-10-29",
@@ -5075,5 +5123,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-29T17:08:36Z"
+ "generated": "2026-10-29T17:43:02Z"
 }
