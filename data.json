@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "chen-qianhe",
+   "name": "陳千禾｜水兵 Riley・壽險顧問・《中年勇敢轉職，經營你的人生》作者",
+   "desc": "從 14 年海軍職業軍人到壽險顧問與作家。陳千禾（水兵 Riley）用親身經歷陪伴每一位想重新掌握人生的人。量身保險找千禾。",
+   "url": "https://event.bymyway.com/curated/chen-qianhe/",
+   "repoUrl": "https://github.com/Coach1973/chen-qianhe",
+   "repo": "chen-qianhe",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chen-qianhe.bymyway.com",
+    "chen-qianhe.netlify.app",
+    "coach1973.github.io/chen-qianhe",
+    "event.bymyway.com/chen-qianhe",
+    "event.bymyway.com/curated/chen-qianhe"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-30",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhang-qiongfang",
    "name": "張瓊方 創會理事長｜中華身心平衡推廣協會",
    "desc": "從金門前線的軍護，到社區巷弄的健康守門人。張瓊方創會理事長帶領中華身心平衡推廣協會，以社會企業模式推廣牙口健康與身心平衡。",
@@ -188,6 +211,29 @@
    "aliases": []
   },
   {
+   "id": "rongtree-sop",
+   "name": "榮樹下｜來賓邀約 SOP 流程",
+   "desc": "榮樹下 Podcast 來賓邀約、代預約、訪談與社群經營的標準作業流程",
+   "url": "https://event.bymyway.com/curated/rongtree-sop/",
+   "repoUrl": "https://github.com/Coach1973/rongtree-sop",
+   "repo": "rongtree-sop",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rongtree-sop",
+    "event.bymyway.com/curated/rongtree-sop",
+    "event.bymyway.com/rongtree-sop",
+    "rongtree-sop.bymyway.com",
+    "rongtree-sop.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-29",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -321,6 +367,29 @@
    "cat": "GitHub 網頁",
    "updated": "2026-10-29",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "champagne-salon",
+   "name": "香檳下午茶國際禮儀沙龍｜台灣形象設計發展協會",
+   "desc": "你不需要變成另一個人，只需要讓更好的自己，自然地被看見。2026/11/9 台南香格里拉遠東國際大飯店，限額 20 席。",
+   "url": "https://event.bymyway.com/curated/champagne-salon/",
+   "repoUrl": "https://github.com/Coach1973/champagne-salon",
+   "repo": "champagne-salon",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "champagne-salon.bymyway.com",
+    "champagne-salon.netlify.app",
+    "coach1973.github.io/champagne-salon",
+    "event.bymyway.com/champagne-salon",
+    "event.bymyway.com/curated/champagne-salon"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-10-29",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -528,29 +597,6 @@
     "event.bymyway.com/curated/chuanfeng"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-10-27",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "champagne-salon",
-   "name": "香檳下午茶國際禮儀沙龍｜台灣形象設計發展協會",
-   "desc": "你不需要變成另一個人，只需要讓更好的自己，自然地被看見。2026/11/9 台南香格里拉遠東國際大飯店，限額 20 席。",
-   "url": "https://event.bymyway.com/curated/champagne-salon/",
-   "repoUrl": "https://github.com/Coach1973/champagne-salon",
-   "repo": "champagne-salon",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "champagne-salon.bymyway.com",
-    "champagne-salon.netlify.app",
-    "coach1973.github.io/champagne-salon",
-    "event.bymyway.com/champagne-salon",
-    "event.bymyway.com/curated/champagne-salon"
-   ],
-   "cat": "策展・食",
    "updated": "2026-10-27",
    "inRegistry": true,
    "delisted": false,
@@ -5029,5 +5075,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-29T07:46:34Z"
+ "generated": "2026-10-29T17:08:36Z"
 }
