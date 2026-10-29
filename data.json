@@ -27,6 +27,52 @@
    ]
   },
   {
+   "id": "yijing-ai-backup",
+   "name": "yijing-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/yijing-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
+   "repo": "yijing-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yijing-ai-backup",
+    "event.bymyway.com/curated/yijing-ai-backup",
+    "event.bymyway.com/yijing-ai-backup",
+    "yijing-ai-backup.bymyway.com",
+    "yijing-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-29",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "xiumei",
+   "name": "鄭綉美｜保險理賠顧問 — 理賠這條路，我陪你一起走",
+   "desc": "鄭綉美，保險理賠顧問。從事故發生到理賠入帳，陪你看懂保單、備齊文件、走完每一步。",
+   "url": "https://event.bymyway.com/curated/xiumei/",
+   "repoUrl": "https://github.com/Coach1973/xiumei",
+   "repo": "xiumei",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/xiumei",
+    "event.bymyway.com/curated/xiumei",
+    "event.bymyway.com/xiumei",
+    "xiumei.bymyway.com",
+    "xiumei.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-29",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "women-reepmployment",
    "name": "婦女再就業補助｜離開職場半年以上，學新技能政府發你最高 3 萬元",
    "desc": "勞動部婦女再就業計畫：18 歲以上、退出職場 180 天以上的婦女，上課 8 小時以上、結訓求職登記就發 2 萬，180 天內就業或創業再發 1 萬。30 秒快篩看看你符不符合！",
@@ -45,6 +91,121 @@
    "cat": "策展・樂",
    "updated": "2026-10-29",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tiffany-lee",
+   "name": "李勳婷 Tiffany｜專注細節的市場實戰派・三道門建築文創旅店創辦人",
+   "desc": "李勳婷 Tiffany，三道門建築文創旅店創辦人暨董事長。從豪宅建築的精緻度，到旅店服務流程的細緻度，打造台南綠色低碳文創旅宿。",
+   "url": "https://event.bymyway.com/curated/tiffany-lee/",
+   "repoUrl": "https://github.com/Coach1973/tiffany-lee",
+   "repo": "tiffany-lee",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tiffany-lee",
+    "event.bymyway.com/curated/tiffany-lee",
+    "event.bymyway.com/tiffany-lee",
+    "tiffany-lee.bymyway.com",
+    "tiffany-lee.netlify.app"
+   ],
+   "cat": "策展・住",
+   "updated": "2026-10-29",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tava-brand-web-playbook",
+   "name": "tava-brand-web-playbook",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-29",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "tainan-shangquan",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-29",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-10-29",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-29",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -73,27 +234,121 @@
    "aliases": []
   },
   {
-   "id": "yijing-ai-backup",
-   "name": "yijing-ai-backup",
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
    "desc": "",
-   "url": "https://github.com/Coach1973/yijing-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
-   "repo": "yijing-ai-backup",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
    "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/yijing-ai-backup",
-    "event.bymyway.com/curated/yijing-ai-backup",
-    "event.bymyway.com/yijing-ai-backup",
-    "yijing-ai-backup.bymyway.com",
-    "yijing-ai-backup.netlify.app"
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "lingyushun",
+   "name": "凌榆舜｜教育科技與 AiGeo 跨界整合專家",
+   "desc": "凌榆舜，iSmart 南區業務經理、跨領域數位轉型顧問。淡江大學教育科技學系畢業，用教育科技的思維「教育 AI」，讓 ChatGPT、Gemini 與 Google 主動推薦你的品牌。",
+   "url": "https://event.bymyway.com/curated/lingyushun/",
+   "repoUrl": "https://github.com/Coach1973/lingyushun",
+   "repo": "lingyushun",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lingyushun",
+    "event.bymyway.com/curated/lingyushun",
+    "event.bymyway.com/lingyushun",
+    "lingyushun.bymyway.com",
+    "lingyushun.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-29",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-29",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-29",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "ai-go",
+   "name": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
+   "desc": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
+   "url": "https://coach1973.github.io/ai-go/",
+   "repoUrl": "https://github.com/Coach1973/ai-go",
+   "repo": "ai-go",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "ai-go.bymyway.com",
+    "ai-go.netlify.app",
+    "coach1973.github.io/ai-go",
+    "event.bymyway.com/ai-go",
+    "event.bymyway.com/curated/ai-go"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-29",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "xu-zhe-cheng",
@@ -112,52 +367,6 @@
     "xu-zhe-cheng.netlify.app"
    ],
    "cat": "策展・育",
-   "updated": "2026-10-28",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tainan-shangquan",
-   "name": "tainan-shangquan",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-28",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-10-28",
    "inRegistry": true,
    "delisted": false,
@@ -211,98 +420,6 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-28",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-28",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-28",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-28",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "all-works",
    "name": "完整作品一覽（教練自用清單，noindex）",
    "desc": "完整作品一覽（教練自用清單，noindex）",
@@ -342,29 +459,6 @@
     "zhaoxian.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-10-27",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "xiumei",
-   "name": "鄭綉美｜保險理賠顧問 — 理賠這條路，我陪你一起走",
-   "desc": "鄭綉美，保險理賠顧問。從事故發生到理賠入帳，陪你看懂保單、備齊文件、走完每一步。",
-   "url": "https://event.bymyway.com/curated/xiumei/",
-   "repoUrl": "https://github.com/Coach1973/xiumei",
-   "repo": "xiumei",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/xiumei",
-    "event.bymyway.com/curated/xiumei",
-    "event.bymyway.com/xiumei",
-    "xiumei.bymyway.com",
-    "xiumei.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-10-27",
    "inRegistry": true,
    "delisted": false,
@@ -899,29 +993,6 @@
    ]
   },
   {
-   "id": "lingyushun",
-   "name": "凌榆舜｜教育科技與 AiGeo 跨界整合專家",
-   "desc": "凌榆舜，iSmart 南區業務經理、跨領域數位轉型顧問。淡江大學教育科技學系畢業，用教育科技的思維「教育 AI」，讓 ChatGPT、Gemini 與 Google 主動推薦你的品牌。",
-   "url": "https://event.bymyway.com/curated/lingyushun/",
-   "repoUrl": "https://github.com/Coach1973/lingyushun",
-   "repo": "lingyushun",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lingyushun",
-    "event.bymyway.com/curated/lingyushun",
-    "event.bymyway.com/lingyushun",
-    "lingyushun.bymyway.com",
-    "lingyushun.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-25",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "linbaohua",
    "name": "林寶華（寶華姐）｜寶麗寶銀樓創辦人・府城志工中隊長",
    "desc": "從澎湖貧民戶的老五，到台南寶麗寶銀樓創辦人、二分局志工中隊長二十年、台南市好人好事代表——寶華姐的故事。",
@@ -1248,29 +1319,6 @@
    "cat": "教練個人創作",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tava-brand-web-playbook",
-   "name": "tava-brand-web-playbook",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-24",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -2581,31 +2629,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "ai-go",
-   "name": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
-   "desc": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
-   "url": "https://coach1973.github.io/ai-go/",
-   "repoUrl": "https://github.com/Coach1973/ai-go",
-   "repo": "ai-go",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "ai-go.bymyway.com",
-    "ai-go.netlify.app",
-    "coach1973.github.io/ai-go",
-    "event.bymyway.com/ai-go",
-    "event.bymyway.com/curated/ai-go"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "111-wei",
@@ -5006,5 +5029,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-28T17:12:16Z"
+ "generated": "2026-10-29T06:03:34Z"
 }
