@@ -114,8 +114,8 @@
    "cat": "策展・住",
    "updated": "2026-10-29",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-10-29 15:46",
    "aliases": []
   },
   {
@@ -326,6 +326,29 @@
    "aliases": []
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-29",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "ai-go",
    "name": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
    "desc": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
@@ -415,29 +438,6 @@
    "cat": "策展・樂",
    "updated": "2026-10-28",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-28",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -5029,5 +5029,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-29T06:03:34Z"
+ "generated": "2026-10-29T07:46:34Z"
 }
