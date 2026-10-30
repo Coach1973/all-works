@@ -25,6 +25,77 @@
    "aliases": []
   },
   {
+   "id": "wu-shang-qian",
+   "name": "吳尚謙 Baptiste Wu｜小提琴家・作曲家・小提琴老師",
+   "desc": "吳尚謙（Baptiste Wu），旅法小提琴家、作曲編曲家，二十年國小小提琴教學經驗。為曹家洋樓譜寫《風華圓舞》、為東引寫下《東引山城》，也為婚禮與品牌量身打造主題曲。",
+   "url": "https://event.bymyway.com/curated/wu-shang-qian/",
+   "repoUrl": "https://github.com/Coach1973/wu-shang-qian",
+   "repo": "wu-shang-qian",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wu-shang-qian",
+    "event.bymyway.com/curated/wu-shang-qian",
+    "event.bymyway.com/wu-shang-qian",
+    "wu-shang-qian.bymyway.com",
+    "wu-shang-qian.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-10-30",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "小老師"
+   ]
+  },
+  {
+   "id": "tava-brand-web-playbook",
+   "name": "tava-brand-web-playbook",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-30",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "tainan-shangquan",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-30",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "social-club",
    "name": "真公益・企業家俱樂部｜參與，就是公益",
    "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
@@ -213,6 +284,54 @@
    "aliases": []
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-30",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "ai-go",
+   "name": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
+   "desc": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
+   "url": "https://coach1973.github.io/ai-go/",
+   "repoUrl": "https://github.com/Coach1973/ai-go",
+   "repo": "ai-go",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "ai-go.bymyway.com",
+    "ai-go.netlify.app",
+    "coach1973.github.io/ai-go",
+    "event.bymyway.com/ai-go",
+    "event.bymyway.com/curated/ai-go"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-30",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "zhang-qiongfang",
    "name": "張瓊方 創會理事長｜中華身心平衡推廣協會",
    "desc": "從金門前線的軍護，到社區巷弄的健康守門人。張瓊方創會理事長帶領中華身心平衡推廣協會，以社會企業模式推廣牙口健康與身心平衡。",
@@ -307,29 +426,6 @@
    "aliases": []
   },
   {
-   "id": "tava-brand-web-playbook",
-   "name": "tava-brand-web-playbook",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-29",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "taipeiema1017",
    "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
    "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
@@ -348,29 +444,6 @@
    "cat": "教練個人創作",
    "updated": "2026-10-29",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tainan-shangquan",
-   "name": "tainan-shangquan",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-29",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -608,54 +681,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-29",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "ai-go",
-   "name": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
-   "desc": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
-   "url": "https://coach1973.github.io/ai-go/",
-   "repoUrl": "https://github.com/Coach1973/ai-go",
-   "repo": "ai-go",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "ai-go.bymyway.com",
-    "ai-go.netlify.app",
-    "coach1973.github.io/ai-go",
-    "event.bymyway.com/ai-go",
-    "event.bymyway.com/curated/ai-go"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-29",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "xu-zhe-cheng",
@@ -5148,5 +5173,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-30T05:11:48Z"
+ "generated": "2026-10-30T05:31:31Z"
 }
