@@ -330,6 +330,29 @@
    "aliases": []
   },
   {
+   "id": "grace-podcasts",
+   "name": "Grace 好享說｜不露臉的創作者・嘉義閱讀人",
+   "desc": "Grace：文字創作者、Podcast《Grace好享說》《Grace成長週記》主持人、嘉義閱讀人讀書會共同創辦人。",
+   "url": "https://event.bymyway.com/curated/grace-podcasts/",
+   "repoUrl": "https://github.com/Coach1973/grace-podcasts",
+   "repo": "grace-podcasts",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/grace-podcasts",
+    "event.bymyway.com/curated/grace-podcasts",
+    "event.bymyway.com/grace-podcasts",
+    "grace-podcasts.bymyway.com",
+    "grace-podcasts.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-30",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "coach888",
    "name": "coach888",
    "desc": "",
@@ -5267,5 +5290,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-30T10:16:37Z"
+ "generated": "2026-10-30T12:48:20Z"
 }
