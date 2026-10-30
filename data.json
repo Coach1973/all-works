@@ -284,6 +284,29 @@
    ]
   },
   {
+   "id": "hero-opening-skill",
+   "name": "hero-opening-skill",
+   "desc": "",
+   "url": "https://coach1973.github.io/hero-opening-skill/",
+   "repoUrl": "https://github.com/Coach1973/hero-opening-skill",
+   "repo": "hero-opening-skill",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/hero-opening-skill",
+    "event.bymyway.com/curated/hero-opening-skill",
+    "event.bymyway.com/hero-opening-skill",
+    "hero-opening-skill.bymyway.com",
+    "hero-opening-skill.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-30",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "coach888",
    "name": "coach888",
    "desc": "",
@@ -5221,5 +5244,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-30T09:06:39Z"
+ "generated": "2026-10-30T09:54:04Z"
 }
