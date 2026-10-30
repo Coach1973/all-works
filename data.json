@@ -165,6 +165,29 @@
    "aliases": []
   },
   {
+   "id": "nmda",
+   "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
+   "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
+   "url": "https://event.bymyway.com/curated/nmda/",
+   "repoUrl": "https://github.com/Coach1973/nmda",
+   "repo": "nmda",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/nmda",
+    "event.bymyway.com/curated/nmda",
+    "event.bymyway.com/nmda",
+    "nmda.bymyway.com",
+    "nmda.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-10-30",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "mac-openclaw-workflows",
    "name": "mac-openclaw-workflows",
    "desc": "",
@@ -328,6 +351,31 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "ai-impact",
+   "name": "零基礎學 AI，讓你被看見｜大樹教練 × 中華新媒體影音發展協會",
+   "desc": "大樹教練 × 中華新媒體影音發展協會 30 分鐘互動專場：現場票選、即時提問、七個 AI 現場示範。",
+   "url": "https://event.bymyway.com/curated/ai-impact/",
+   "repoUrl": "https://github.com/Coach1973/ai-impact",
+   "repo": "ai-impact",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "ai-impact.bymyway.com",
+    "ai-impact.netlify.app",
+    "coach1973.github.io/ai-impact",
+    "event.bymyway.com/ai-impact",
+    "event.bymyway.com/curated/ai-impact"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-30",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "ai-go",
@@ -511,29 +559,6 @@
     "rongtree.netlify.app"
    ],
    "cat": "策展・樂",
-   "updated": "2026-10-29",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "nmda",
-   "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
-   "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
-   "url": "https://event.bymyway.com/curated/nmda/",
-   "repoUrl": "https://github.com/Coach1973/nmda",
-   "repo": "nmda",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/nmda",
-    "event.bymyway.com/curated/nmda",
-    "event.bymyway.com/nmda",
-    "nmda.bymyway.com",
-    "nmda.netlify.app"
-   ],
-   "cat": "策展・衣",
    "updated": "2026-10-29",
    "inRegistry": true,
    "delisted": false,
@@ -5196,5 +5221,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-30T06:47:06Z"
+ "generated": "2026-10-30T09:06:39Z"
 }
