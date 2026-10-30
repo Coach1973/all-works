@@ -119,6 +119,29 @@
    "aliases": []
   },
   {
+   "id": "smart-town",
+   "name": "讓好生意，自然串起來｜楊健一商務系統",
+   "desc": "楊健一三大商務系統：用互動場景理解社群活動管理、智能分區廣播與跨業合作平台。",
+   "url": "https://event.bymyway.com/curated/smart-town/",
+   "repoUrl": "https://github.com/Coach1973/smart-town",
+   "repo": "smart-town",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/smart-town",
+    "event.bymyway.com/curated/smart-town",
+    "event.bymyway.com/smart-town",
+    "smart-town.bymyway.com",
+    "smart-town.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-30",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -5173,5 +5196,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-30T05:31:31Z"
+ "generated": "2026-10-30T06:47:06Z"
 }
