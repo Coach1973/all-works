@@ -18,11 +18,202 @@
     "yijing-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-10-30",
+   "updated": "2026-10-31",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-31",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "newmedia",
+   "name": "新媒體時代來臨｜中華新媒體影音發展協會 啟動大會 × 大樹教練",
+   "desc": "大樹教練在中華新媒體影音發展協會啟動大會的 30 分鐘：只靠講話，叫 AI 做出互動網頁、現場寫歌。",
+   "url": "https://event.bymyway.com/curated/newmedia/",
+   "repoUrl": "https://github.com/Coach1973/newmedia",
+   "repo": "newmedia",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/newmedia",
+    "event.bymyway.com/curated/newmedia",
+    "event.bymyway.com/newmedia",
+    "newmedia.bymyway.com",
+    "newmedia.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-31",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-31",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-10-31",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-31",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bni-chapters",
+   "name": "bni-chapters",
+   "desc": "",
+   "url": "https://chapters.bymyway.com/",
+   "repoUrl": "https://github.com/Coach1973/bni-chapters",
+   "repo": "bni-chapters",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bni-chapters.bymyway.com",
+    "bni-chapters.netlify.app",
+    "chapters.bymyway.com",
+    "coach1973.github.io/bni-chapters",
+    "event.bymyway.com/bni-chapters",
+    "event.bymyway.com/curated/bni-chapters"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-31",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bigtree",
+   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "url": "https://coach1973.github.io/bigtree/",
+   "repoUrl": "https://github.com/Coach1973/bigtree",
+   "repo": "bigtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree.bymyway.com",
+    "bigtree.netlify.app",
+    "coach1973.github.io/bigtree",
+    "event.bymyway.com/bigtree",
+    "event.bymyway.com/curated/bigtree"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-10-31",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "ai-impact",
+   "name": "零基礎學 AI，讓你被看見｜大樹教練 × 中華新媒體影音發展協會",
+   "desc": "大樹教練 × 中華新媒體影音發展協會 30 分鐘互動專場：現場票選、即時提問、七個 AI 現場示範。",
+   "url": "https://event.bymyway.com/curated/ai-impact/",
+   "repoUrl": "https://github.com/Coach1973/ai-impact",
+   "repo": "ai-impact",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "ai-impact.bymyway.com",
+    "ai-impact.netlify.app",
+    "coach1973.github.io/ai-impact",
+    "event.bymyway.com/ai-impact",
+    "event.bymyway.com/curated/ai-impact"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-10-31",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "wu-shang-qian",
@@ -142,24 +333,24 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
+   "id": "rongtree",
+   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
+   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
+   "url": "https://event.bymyway.com/curated/rongtree/",
+   "repoUrl": "https://github.com/Coach1973/rongtree",
+   "repo": "rongtree",
+   "private": false,
    "archived": false,
    "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
+    "coach1973.github.io/rongtree",
+    "event.bymyway.com/curated/rongtree",
+    "event.bymyway.com/rongtree",
+    "rongtree.bymyway.com",
+    "rongtree.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "策展・樂",
    "updated": "2026-10-30",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -211,29 +402,6 @@
    "aliases": []
   },
   {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-30",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "lin-hunang-yi",
    "name": "林晃誼老師｜甜彩虹音樂藝術中心 — 讓音樂走進生活",
    "desc": "林晃誼老師，幼兒教育學士、音樂教育碩士，台南甜彩虹音樂藝術中心主持老師，能操作 15 種樂器，結合音樂、藝術與優雅儀態，教學經驗超過 25 年。",
@@ -257,29 +425,6 @@
    "aliases": [
     "林老師"
    ]
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-10-30",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "idea-center",
@@ -353,29 +498,6 @@
    "aliases": []
   },
   {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-30",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "chen-qianhe",
    "name": "陳千禾｜水兵 Riley・壽險顧問・《中年勇敢轉職，經營你的人生》作者",
    "desc": "從 14 年海軍職業軍人到壽險顧問與作家。陳千禾（水兵 Riley）用親身經歷陪伴每一位想重新掌握人生的人。量身保險找千禾。",
@@ -443,31 +565,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "ai-impact",
-   "name": "零基礎學 AI，讓你被看見｜大樹教練 × 中華新媒體影音發展協會",
-   "desc": "大樹教練 × 中華新媒體影音發展協會 30 分鐘互動專場：現場票選、即時提問、七個 AI 現場示範。",
-   "url": "https://event.bymyway.com/curated/ai-impact/",
-   "repoUrl": "https://github.com/Coach1973/ai-impact",
-   "repo": "ai-impact",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "ai-impact.bymyway.com",
-    "ai-impact.netlify.app",
-    "coach1973.github.io/ai-impact",
-    "event.bymyway.com/ai-impact",
-    "event.bymyway.com/curated/ai-impact"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-30",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "ai-go",
@@ -635,29 +732,6 @@
    "aliases": []
   },
   {
-   "id": "rongtree",
-   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
-   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
-   "url": "https://event.bymyway.com/curated/rongtree/",
-   "repoUrl": "https://github.com/Coach1973/rongtree",
-   "repo": "rongtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rongtree",
-    "event.bymyway.com/curated/rongtree",
-    "event.bymyway.com/rongtree",
-    "rongtree.bymyway.com",
-    "rongtree.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-29",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "mbba",
    "name": "中華身心平衡推廣協會｜社會企業與心靈的對話（改版提案）",
    "desc": "中華身心平衡推廣協會，以社會企業的視角出發，將療癒轉化為日常的實踐，一起創造「個人健康、家庭圓夢、社會共好」的三贏人生。",
@@ -771,30 +845,6 @@
    "cat": "策展・食",
    "updated": "2026-10-29",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "bni-chapters",
-   "name": "bni-chapters",
-   "desc": "",
-   "url": "https://chapters.bymyway.com/",
-   "repoUrl": "https://github.com/Coach1973/bni-chapters",
-   "repo": "bni-chapters",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "bni-chapters.bymyway.com",
-    "bni-chapters.netlify.app",
-    "chapters.bymyway.com",
-    "coach1973.github.io/bni-chapters",
-    "event.bymyway.com/bni-chapters",
-    "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-29",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -2679,31 +2729,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "bigtree",
-   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "url": "https://coach1973.github.io/bigtree/",
-   "repoUrl": "https://github.com/Coach1973/bigtree",
-   "repo": "bigtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bigtree.bymyway.com",
-    "bigtree.netlify.app",
-    "coach1973.github.io/bigtree",
-    "event.bymyway.com/bigtree",
-    "event.bymyway.com/curated/bigtree"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-23",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "team-bymyway",
@@ -5290,5 +5315,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-10-30T12:48:20Z"
+ "generated": "2026-10-31T09:57:46Z"
 }
