@@ -140,6 +140,29 @@
    "aliases": []
   },
   {
+   "id": "invitation-leader",
+   "name": "把兩天，留給值得的人。｜吳大樹的邀請",
+   "desc": "主講人蔡曜隆，邀請人吳大樹。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
+   "url": "https://event.bymyway.com/curated/invitation-leader/",
+   "repoUrl": "https://github.com/Coach1973/invitation-leader",
+   "repo": "invitation-leader",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/invitation-leader",
+    "event.bymyway.com/curated/invitation-leader",
+    "event.bymyway.com/invitation-leader",
+    "invitation-leader.bymyway.com",
+    "invitation-leader.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-01",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "creator-survey",
    "name": "大樹教練 創作者卡關票選頁面",
    "desc": "想紅的人都卡在哪幾件事？拿出手機投一票，你的選擇會即時算進大樹教練 × 中華新媒體影音發展協會的互動統計。",
@@ -5363,5 +5386,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-01T13:05:59Z"
+ "generated": "2026-11-01T13:40:13Z"
 }
