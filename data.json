@@ -209,6 +209,29 @@
    "aliases": []
   },
   {
+   "id": "invitation-peipei",
+   "name": "把兩天，留給值得的人。｜陳佩君的邀請",
+   "desc": "主講人蔡曜隆，邀請人陳佩君。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
+   "url": "https://event.bymyway.com/curated/invitation-peipei/",
+   "repoUrl": "https://github.com/Coach1973/invitation-peipei",
+   "repo": "invitation-peipei",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/invitation-peipei",
+    "event.bymyway.com/curated/invitation-peipei",
+    "event.bymyway.com/invitation-peipei",
+    "invitation-peipei.bymyway.com",
+    "invitation-peipei.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-01",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "invitation-leader",
    "name": "把兩天，留給值得的人。｜吳大樹的邀請",
    "desc": "主講人蔡曜隆，邀請人吳大樹。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
@@ -5409,5 +5432,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-01T15:35:34Z"
+ "generated": "2026-11-01T15:37:40Z"
 }
