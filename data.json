@@ -25,6 +25,52 @@
    "aliases": []
   },
   {
+   "id": "tava-brand-web-playbook",
+   "name": "tava-brand-web-playbook",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-01",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "tainan-shangquan",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-01",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "riley-che",
    "name": "陳千禾 水兵 Riley｜壽險顧問．不推銷，只陪你把風險想清楚",
    "desc": "陳千禾（水兵Riley）。海軍士官14年，提早退役轉任壽險顧問。新光人壽台中卓越處。著有《中年勇敢轉職，經營你的人生》《海軍水兵萊利6年存200萬》。不推銷、不話術，只陪你找到最適合的保障。",
@@ -64,6 +110,29 @@
     "richrd-tsai.netlify.app"
    ],
    "cat": "策展・衣",
+   "updated": "2026-11-01",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei1983",
+   "name": "陳佩君｜讓音樂走進生活",
+   "desc": "鋼琴家、音樂教育家陳佩君。從鋼琴演奏、合作藝術到音樂策展，讓音樂走進生活。",
+   "url": "https://event.bymyway.com/curated/peipei1983/",
+   "repoUrl": "https://github.com/Coach1973/peipei1983",
+   "repo": "peipei1983",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei1983",
+    "event.bymyway.com/curated/peipei1983",
+    "event.bymyway.com/peipei1983",
+    "peipei1983.bymyway.com",
+    "peipei1983.netlify.app"
+   ],
+   "cat": "策展・育",
    "updated": "2026-11-01",
    "inRegistry": true,
    "delisted": false,
@@ -356,52 +425,6 @@
    "aliases": [
     "小老師"
    ]
-  },
-  {
-   "id": "tava-brand-web-playbook",
-   "name": "tava-brand-web-playbook",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-30",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tainan-shangquan",
-   "name": "tainan-shangquan",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-30",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "social-club",
@@ -5386,5 +5409,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-01T13:40:13Z"
+ "generated": "2026-11-01T15:35:34Z"
 }
