@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "riley-che",
+   "name": "陳千禾 水兵 Riley｜壽險顧問．不推銷，只陪你把風險想清楚",
+   "desc": "陳千禾（水兵Riley）。海軍士官14年，提早退役轉任壽險顧問。新光人壽台中卓越處。著有《中年勇敢轉職，經營你的人生》《海軍水兵萊利6年存200萬》。不推銷、不話術，只陪你找到最適合的保障。",
+   "url": "https://event.bymyway.com/curated/riley-che/",
+   "repoUrl": "https://github.com/Coach1973/riley-che",
+   "repo": "riley-che",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/riley-che",
+    "event.bymyway.com/curated/riley-che",
+    "event.bymyway.com/riley-che",
+    "riley-che.bymyway.com",
+    "riley-che.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-01",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "richrd-tsai",
    "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
    "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
@@ -165,6 +188,29 @@
    "aliases": []
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-01",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "ai-impact",
    "name": "零基礎學 AI，讓你被看見｜大樹教練 × 中華新媒體影音發展協會",
    "desc": "大樹教練 × 中華新媒體影音發展協會 30 分鐘互動專場：現場票選、即時提問、七個 AI 現場示範。",
@@ -262,29 +308,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-31",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "wu-shang-qian",
@@ -5340,5 +5363,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-01T08:39:39Z"
+ "generated": "2026-11-01T13:05:59Z"
 }
