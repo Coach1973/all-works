@@ -2,6 +2,31 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "superpower",
+   "name": "吸引人才的超能力訓練｜大樹教練",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/superpower/",
+   "repoUrl": "https://github.com/Coach1973/superpower",
+   "repo": "superpower",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/superpower",
+    "event.bymyway.com/curated/superpower",
+    "event.bymyway.com/superpower",
+    "superpower.bymyway.com",
+    "superpower.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-02",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -5432,5 +5457,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-01T15:37:40Z"
+ "generated": "2026-11-01T16:36:50Z"
 }
