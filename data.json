@@ -2,6 +2,52 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "yijing-ai-backup",
+   "name": "yijing-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/yijing-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
+   "repo": "yijing-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yijing-ai-backup",
+    "event.bymyway.com/curated/yijing-ai-backup",
+    "event.bymyway.com/yijing-ai-backup",
+    "yijing-ai-backup.bymyway.com",
+    "yijing-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-02",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tsai-peiru",
+   "name": "蔡佩茹｜人生有準備，未來更安心 — 慈安山生前契約・傳法禮儀",
+   "desc": "蔡佩茹，傳法禮儀股份有限公司董事，投入生前契約規劃 20 年。用風險轉嫁與成本管控的觀念，陪每個家庭把人生最後一哩路準備好。",
+   "url": "https://event.bymyway.com/curated/tsai-peiru/",
+   "repoUrl": "https://github.com/Coach1973/tsai-peiru",
+   "repo": "tsai-peiru",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tsai-peiru",
+    "event.bymyway.com/curated/tsai-peiru",
+    "event.bymyway.com/tsai-peiru",
+    "tsai-peiru.bymyway.com",
+    "tsai-peiru.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-02",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "superpower",
    "name": "吸引人才的超能力訓練｜大樹教練",
    "desc": "",
@@ -27,23 +73,115 @@
    ]
   },
   {
-   "id": "yijing-ai-backup",
-   "name": "yijing-ai-backup",
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-02",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
    "desc": "",
-   "url": "https://github.com/Coach1973/yijing-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
-   "repo": "yijing-ai-backup",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
    "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/yijing-ai-backup",
-    "event.bymyway.com/curated/yijing-ai-backup",
-    "event.bymyway.com/yijing-ai-backup",
-    "yijing-ai-backup.bymyway.com",
-    "yijing-ai-backup.netlify.app"
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-02",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-02",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-02",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -165,75 +303,6 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-01",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-01",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-01",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "invitation-peipei",
    "name": "把兩天，留給值得的人。｜陳佩君的邀請",
    "desc": "主講人蔡曜隆，邀請人陳佩君。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
@@ -303,29 +372,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-01",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "all-works",
@@ -473,29 +519,6 @@
    "aliases": [
     "小老師"
    ]
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-30",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "smart-town",
@@ -5457,5 +5480,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-01T16:36:50Z"
+ "generated": "2026-11-02T05:39:41Z"
 }
