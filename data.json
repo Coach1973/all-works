@@ -96,6 +96,31 @@
    "aliases": []
   },
   {
+   "id": "roger-chou",
+   "name": "周龍鴻博士 Dr. Roger Chou｜台灣首位 CST・Scrum Alliance 全球董事",
+   "desc": "周龍鴻博士（Roger Chou）：長宏專案創辦人、亞洲首位 PgMP、台灣首位 CST、2026 年當選 Scrum Alliance 全球董事。",
+   "url": "https://event.bymyway.com/curated/roger-chou/",
+   "repoUrl": "https://github.com/Coach1973/roger-chou",
+   "repo": "roger-chou",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/roger-chou",
+    "event.bymyway.com/curated/roger-chou",
+    "event.bymyway.com/roger-chou",
+    "roger-chou.bymyway.com",
+    "roger-chou.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-02",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "周博士"
+   ]
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -179,6 +204,29 @@
     "coach888.netlify.app",
     "event.bymyway.com/coach888",
     "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-02",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-02",
@@ -372,29 +420,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-01",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "ai-impact",
@@ -5480,5 +5505,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-02T05:39:41Z"
+ "generated": "2026-11-02T05:44:12Z"
 }
