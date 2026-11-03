@@ -18,7 +18,263 @@
     "yijing-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "taipeiema1017",
+   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
+   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
+   "url": "https://event.bymyway.com/curated/taipeiema1017/",
+   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
+   "repo": "taipeiema1017",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/taipeiema1017",
+    "event.bymyway.com/curated/taipeiema1017",
+    "event.bymyway.com/taipeiema1017",
+    "taipeiema1017.bymyway.com",
+    "taipeiema1017.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-03",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-03",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "rongtree",
+   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
+   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
+   "url": "https://event.bymyway.com/curated/rongtree/",
+   "repoUrl": "https://github.com/Coach1973/rongtree",
+   "repo": "rongtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rongtree",
+    "event.bymyway.com/curated/rongtree",
+    "event.bymyway.com/rongtree",
+    "rongtree.bymyway.com",
+    "rongtree.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-03",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-03",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "my-tools",
+   "name": "my-tools",
+   "desc": "",
+   "url": "https://coach1973.github.io/my-tools/",
+   "repoUrl": "https://github.com/Coach1973/my-tools",
+   "repo": "my-tools",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/my-tools",
+    "event.bymyway.com/curated/my-tools",
+    "event.bymyway.com/my-tools",
+    "my-tools.bymyway.com",
+    "my-tools.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-03",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-03",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-03",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "jiang-ruixiang",
+   "name": "江睿翔老師｜手機公益 AI 技術總監・AI 應用實戰導師",
+   "desc": "江睿翔老師（Mick）：手機公益 AI 技術總監、AI 應用實戰導師、睿翔 AI 應用工作室與翔安心農場負責人。帶著 AI 公益列車走進全台社區，線下公益講座 31 場、線上公益課 100 場、企業 AI 講座 12 場。",
+   "url": "https://event.bymyway.com/curated/jiang-ruixiang/",
+   "repoUrl": "https://github.com/Coach1973/jiang-ruixiang",
+   "repo": "jiang-ruixiang",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/jiang-ruixiang",
+    "event.bymyway.com/curated/jiang-ruixiang",
+    "event.bymyway.com/jiang-ruixiang",
+    "jiang-ruixiang.bymyway.com",
+    "jiang-ruixiang.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-03",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "江老師"
+   ]
+  },
+  {
+   "id": "grand",
+   "name": "陳和平 設計總監｜格蘭訂製西服・世界洋服大賽大師組金牌",
+   "desc": "陳和平，格蘭訂製西服第二代主理人暨設計總監。出身瑞芳礦工家庭，師承上海紅幫裁縫，2025 年奪世界洋服聯盟大會大師組男裝裁剪金牌，曾為多位總統訂製西服。",
+   "url": "https://event.bymyway.com/curated/grand/",
+   "repoUrl": "https://github.com/Coach1973/grand",
+   "repo": "grand",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/grand",
+    "event.bymyway.com/curated/grand",
+    "event.bymyway.com/grand",
+    "grand.bymyway.com",
+    "grand.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-03",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-03",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bni-chapters",
+   "name": "bni-chapters",
+   "desc": "",
+   "url": "https://chapters.bymyway.com/",
+   "repoUrl": "https://github.com/Coach1973/bni-chapters",
+   "repo": "bni-chapters",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bni-chapters.bymyway.com",
+    "bni-chapters.netlify.app",
+    "chapters.bymyway.com",
+    "coach1973.github.io/bni-chapters",
+    "event.bymyway.com/bni-chapters",
+    "event.bymyway.com/curated/bni-chapters"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-03",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -43,6 +299,29 @@
    "cat": "教練個人創作",
    "updated": "2026-11-02",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tava-brand-web-playbook",
+   "name": "tava-brand-web-playbook",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-02",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -73,22 +352,22 @@
    ]
   },
   {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
    ],
-   "cat": "策展・樂",
+   "cat": "教練個人創作",
    "updated": "2026-11-02",
    "inRegistry": true,
    "delisted": false,
@@ -121,93 +400,24 @@
    ]
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
+   "id": "lin-wenjin",
+   "name": "林玟妗 董事長｜暢銷書教母・2的N次方人生",
+   "desc": "林玟妗（娃娃姐），時兆創新創辦人、台暘控股集團董事長、時承醫養集團創辦人。30年電子產業資歷，200位暢銷書作者推手，用出版為素人打造個人品牌。",
+   "url": "https://event.bymyway.com/curated/lin-wenjin/",
+   "repoUrl": "https://github.com/Coach1973/lin-wenjin",
+   "repo": "lin-wenjin",
    "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
+    "coach1973.github.io/lin-wenjin",
+    "event.bymyway.com/curated/lin-wenjin",
+    "event.bymyway.com/lin-wenjin",
+    "lin-wenjin.bymyway.com",
+    "lin-wenjin.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-02",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-02",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-02",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-02",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -230,29 +440,6 @@
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-02",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tava-brand-web-playbook",
-   "name": "tava-brand-web-playbook",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-01",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -472,30 +659,6 @@
    ]
   },
   {
-   "id": "bni-chapters",
-   "name": "bni-chapters",
-   "desc": "",
-   "url": "https://chapters.bymyway.com/",
-   "repoUrl": "https://github.com/Coach1973/bni-chapters",
-   "repo": "bni-chapters",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "bni-chapters.bymyway.com",
-    "bni-chapters.netlify.app",
-    "chapters.bymyway.com",
-    "coach1973.github.io/bni-chapters",
-    "event.bymyway.com/bni-chapters",
-    "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-31",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "bigtree",
    "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
    "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
@@ -569,29 +732,6 @@
    "aliases": []
   },
   {
-   "id": "rongtree",
-   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
-   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
-   "url": "https://event.bymyway.com/curated/rongtree/",
-   "repoUrl": "https://github.com/Coach1973/rongtree",
-   "repo": "rongtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rongtree",
-    "event.bymyway.com/curated/rongtree",
-    "event.bymyway.com/rongtree",
-    "rongtree.bymyway.com",
-    "rongtree.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-30",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "nmda",
    "name": "中華新媒體影音發展協會｜讓專業被看見，讓合作真正發生",
    "desc": "中華新媒體影音發展協會官方品牌網站：推動新媒體人才培育、產業串聯與跨界合作。2026年10月31日台中正式啟動大會。",
@@ -610,29 +750,6 @@
    "cat": "策展・衣",
    "updated": "2026-10-30",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "my-tools",
-   "name": "my-tools",
-   "desc": "",
-   "url": "https://coach1973.github.io/my-tools/",
-   "repoUrl": "https://github.com/Coach1973/my-tools",
-   "repo": "my-tools",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/my-tools",
-    "event.bymyway.com/curated/my-tools",
-    "event.bymyway.com/my-tools",
-    "my-tools.bymyway.com",
-    "my-tools.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-30",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -899,29 +1016,6 @@
    "aliases": []
   },
   {
-   "id": "taipeiema1017",
-   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
-   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
-   "url": "https://event.bymyway.com/curated/taipeiema1017/",
-   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
-   "repo": "taipeiema1017",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/taipeiema1017",
-    "event.bymyway.com/curated/taipeiema1017",
-    "event.bymyway.com/taipeiema1017",
-    "taipeiema1017.bymyway.com",
-    "taipeiema1017.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-29",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "rongtree-sop",
    "name": "榮樹下｜來賓邀約 SOP 流程",
    "desc": "榮樹下 Podcast 來賓邀約、代預約、訪談與社群經營的標準作業流程",
@@ -1079,29 +1173,6 @@
     "xu-zhe-cheng.netlify.app"
    ],
    "cat": "策展・育",
-   "updated": "2026-10-28",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
-   ],
-   "cat": "教練個人創作",
    "updated": "2026-10-28",
    "inRegistry": true,
    "delisted": false,
@@ -1273,29 +1344,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "lin-wenjin",
-   "name": "林玟妗 董事長｜暢銷書教母・2的N次方人生",
-   "desc": "林玟妗（娃娃姐），時兆創新創辦人、台暘控股集團董事長、時承醫養集團創辦人。30年電子產業資歷，200位暢銷書作者推手，用出版為素人打造個人品牌。",
-   "url": "https://event.bymyway.com/curated/lin-wenjin/",
-   "repoUrl": "https://github.com/Coach1973/lin-wenjin",
-   "repo": "lin-wenjin",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lin-wenjin",
-    "event.bymyway.com/curated/lin-wenjin",
-    "event.bymyway.com/lin-wenjin",
-    "lin-wenjin.bymyway.com",
-    "lin-wenjin.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-26",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "jiang-yilun",
@@ -1606,29 +1654,6 @@
     "helen.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-10-25",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "grand",
-   "name": "陳和平 設計總監｜格蘭訂製西服・世界洋服大賽大師組金牌",
-   "desc": "陳和平，格蘭訂製西服第二代主理人暨設計總監。出身瑞芳礦工家庭，師承上海紅幫裁縫，2025 年奪世界洋服聯盟大會大師組男裝裁剪金牌，曾為多位總統訂製西服。",
-   "url": "https://event.bymyway.com/curated/grand/",
-   "repoUrl": "https://github.com/Coach1973/grand",
-   "repo": "grand",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/grand",
-    "event.bymyway.com/curated/grand",
-    "event.bymyway.com/grand",
-    "grand.bymyway.com",
-    "grand.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-10-25",
    "inRegistry": true,
    "delisted": false,
@@ -5505,5 +5530,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-02T05:44:12Z"
+ "generated": "2026-11-03T08:48:16Z"
 }
