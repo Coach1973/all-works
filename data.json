@@ -71,6 +71,29 @@
    "aliases": []
   },
   {
+   "id": "rs-demo",
+   "name": "反向技能書 14 招示範",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/rs-demo/",
+   "repoUrl": "https://github.com/Coach1973/rs-demo",
+   "repo": "rs-demo",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rs-demo",
+    "event.bymyway.com/curated/rs-demo",
+    "event.bymyway.com/rs-demo",
+    "rs-demo.bymyway.com",
+    "rs-demo.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-03",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "rongtree",
    "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
    "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
@@ -92,6 +115,31 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "reverse-skill",
+   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
+   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
+   "url": "https://event.bymyway.com/curated/reverse-skill/",
+   "repoUrl": "https://github.com/Coach1973/reverse-skill",
+   "repo": "reverse-skill",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/reverse-skill",
+    "event.bymyway.com/curated/reverse-skill",
+    "event.bymyway.com/reverse-skill",
+    "reverse-skill.bymyway.com",
+    "reverse-skill.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-03",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "peipei-ai-backup",
@@ -281,6 +329,29 @@
    "aliases": []
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-03",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tsai-peiru",
    "name": "蔡佩茹｜人生有準備，未來更安心 — 慈安山生前契約・傳法禮儀",
    "desc": "蔡佩茹，傳法禮儀股份有限公司董事，投入生前契約規劃 20 年。用風險轉嫁與成本管控的觀念，陪每個家庭把人生最後一哩路準備好。",
@@ -418,29 +489,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-02",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-02",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -1310,31 +1358,6 @@
     "event.bymyway.com/time-secret",
     "time-secret.bymyway.com",
     "time-secret.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-26",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
-   "id": "reverse-skill",
-   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
-   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
-   "url": "https://event.bymyway.com/curated/reverse-skill/",
-   "repoUrl": "https://github.com/Coach1973/reverse-skill",
-   "repo": "reverse-skill",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/reverse-skill",
-    "event.bymyway.com/curated/reverse-skill",
-    "event.bymyway.com/reverse-skill",
-    "reverse-skill.bymyway.com",
-    "reverse-skill.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-10-26",
@@ -5530,5 +5553,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-03T08:48:16Z"
+ "generated": "2026-11-03T13:20:14Z"
 }
