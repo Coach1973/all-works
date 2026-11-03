@@ -142,6 +142,29 @@
    ]
   },
   {
+   "id": "rebreathe",
+   "name": "重新呼吸｜只要還有希望，活著就有意義 — 張瓊方的生命故事 × 東西方身心平衡智慧",
+   "desc": "2026.11.03《榮樹下》專訪：從金門前線的戰地護士，到被宣判肺纖維化、再到重新呼吸。東方中醫五志五臟 × 西方身心醫學，一起證明：身心平衡，是健康的起點；而最快的一步，是開始動起來。",
+   "url": "https://event.bymyway.com/curated/rebreathe/",
+   "repoUrl": "https://github.com/Coach1973/rebreathe",
+   "repo": "rebreathe",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rebreathe",
+    "event.bymyway.com/curated/rebreathe",
+    "event.bymyway.com/rebreathe",
+    "rebreathe.bymyway.com",
+    "rebreathe.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-03",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -5553,5 +5576,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-03T13:20:14Z"
+ "generated": "2026-11-03T13:37:05Z"
 }
