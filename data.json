@@ -18,30 +18,30 @@
     "yijing-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-11-03",
+   "updated": "2026-11-04",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
   },
   {
-   "id": "taipeiema1017",
-   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
-   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
-   "url": "https://event.bymyway.com/curated/taipeiema1017/",
-   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
-   "repo": "taipeiema1017",
+   "id": "xue-dimin",
+   "name": "薛德民 Seven｜金門扶輪社第29屆社長",
+   "desc": "薛德民（Seven），國際扶輪3481地區金門扶輪社第29屆社長（2026–27），金門縣薛氏宗親會前理事長、珠山社區營造推手。",
+   "url": "https://event.bymyway.com/curated/xue-dimin/",
+   "repoUrl": "https://github.com/Coach1973/xue-dimin",
+   "repo": "xue-dimin",
    "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/taipeiema1017",
-    "event.bymyway.com/curated/taipeiema1017",
-    "event.bymyway.com/taipeiema1017",
-    "taipeiema1017.bymyway.com",
-    "taipeiema1017.netlify.app"
+    "coach1973.github.io/xue-dimin",
+    "event.bymyway.com/curated/xue-dimin",
+    "event.bymyway.com/xue-dimin",
+    "xue-dimin.bymyway.com",
+    "xue-dimin.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-11-03",
+   "updated": "2026-11-04",
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
@@ -64,6 +64,190 @@
     "social-club.netlify.app"
    ],
    "cat": "策展・樂",
+   "updated": "2026-11-04",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "rebreathe",
+   "name": "重新呼吸｜只要還有希望，活著就有意義 — 張瓊方的生命故事 × 東西方身心平衡智慧",
+   "desc": "2026.11.03《榮樹下》專訪：從金門前線的戰地護士，到被宣判肺纖維化、再到重新呼吸。東方中醫五志五臟 × 西方身心醫學，一起證明：身心平衡，是健康的起點；而最快的一步，是開始動起來。",
+   "url": "https://event.bymyway.com/curated/rebreathe/",
+   "repoUrl": "https://github.com/Coach1973/rebreathe",
+   "repo": "rebreathe",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rebreathe",
+    "event.bymyway.com/curated/rebreathe",
+    "event.bymyway.com/rebreathe",
+    "rebreathe.bymyway.com",
+    "rebreathe.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-04",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-04",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-04",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-04",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "invitation-leader",
+   "name": "把兩天，留給值得的人。｜吳大樹的邀請",
+   "desc": "主講人蔡曜隆，邀請人吳大樹。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
+   "url": "https://event.bymyway.com/curated/invitation-leader/",
+   "repoUrl": "https://github.com/Coach1973/invitation-leader",
+   "repo": "invitation-leader",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/invitation-leader",
+    "event.bymyway.com/curated/invitation-leader",
+    "event.bymyway.com/invitation-leader",
+    "invitation-leader.bymyway.com",
+    "invitation-leader.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-04",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-04",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tut-memory",
+   "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/tut-memory/",
+   "repoUrl": "https://github.com/Coach1973/tut-memory",
+   "repo": "tut-memory",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-memory",
+    "event.bymyway.com/curated/tut-memory",
+    "event.bymyway.com/tut-memory",
+    "tut-memory.bymyway.com",
+    "tut-memory.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-03",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "taipeiema1017",
+   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
+   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
+   "url": "https://event.bymyway.com/curated/taipeiema1017/",
+   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
+   "repo": "taipeiema1017",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/taipeiema1017",
+    "event.bymyway.com/curated/taipeiema1017",
+    "event.bymyway.com/taipeiema1017",
+    "taipeiema1017.bymyway.com",
+    "taipeiema1017.netlify.app"
+   ],
+   "cat": "教練個人創作",
    "updated": "2026-11-03",
    "inRegistry": true,
    "delisted": false,
@@ -142,47 +326,24 @@
    ]
   },
   {
-   "id": "rebreathe",
-   "name": "重新呼吸｜只要還有希望，活著就有意義 — 張瓊方的生命故事 × 東西方身心平衡智慧",
-   "desc": "2026.11.03《榮樹下》專訪：從金門前線的戰地護士，到被宣判肺纖維化、再到重新呼吸。東方中醫五志五臟 × 西方身心醫學，一起證明：身心平衡，是健康的起點；而最快的一步，是開始動起來。",
-   "url": "https://event.bymyway.com/curated/rebreathe/",
-   "repoUrl": "https://github.com/Coach1973/rebreathe",
-   "repo": "rebreathe",
-   "private": true,
+   "id": "patrick-chu",
+   "name": "朱元中 Patrick｜幫企業認真導入 ESG 的人",
+   "desc": "天下顧問（B 型企業）執行長朱元中 Patrick：從思科、台積電、TutorABC 到 ESG 培訓、輔導與第三方查證。",
+   "url": "https://event.bymyway.com/curated/patrick-chu/",
+   "repoUrl": "https://github.com/Coach1973/patrick-chu",
+   "repo": "patrick-chu",
+   "private": false,
    "archived": false,
    "keys": [
-    "coach1973.github.io/rebreathe",
-    "event.bymyway.com/curated/rebreathe",
-    "event.bymyway.com/rebreathe",
-    "rebreathe.bymyway.com",
-    "rebreathe.netlify.app"
+    "coach1973.github.io/patrick-chu",
+    "event.bymyway.com/curated/patrick-chu",
+    "event.bymyway.com/patrick-chu",
+    "patrick-chu.bymyway.com",
+    "patrick-chu.netlify.app"
    ],
-   "cat": "教練個人創作",
+   "cat": "策展・育",
    "updated": "2026-11-03",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-03",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -204,52 +365,6 @@
     "my-tools.netlify.app"
    ],
    "cat": "GitHub 網頁",
-   "updated": "2026-11-03",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-03",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
    "updated": "2026-11-03",
    "inRegistry": false,
    "delisted": false,
@@ -300,29 +415,6 @@
    "cat": "策展・樂",
    "updated": "2026-11-03",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-03",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -623,29 +715,6 @@
     "event.bymyway.com/invitation-peipei",
     "invitation-peipei.bymyway.com",
     "invitation-peipei.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-01",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "invitation-leader",
-   "name": "把兩天，留給值得的人。｜吳大樹的邀請",
-   "desc": "主講人蔡曜隆，邀請人吳大樹。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
-   "url": "https://event.bymyway.com/curated/invitation-leader/",
-   "repoUrl": "https://github.com/Coach1973/invitation-leader",
-   "repo": "invitation-leader",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/invitation-leader",
-    "event.bymyway.com/curated/invitation-leader",
-    "event.bymyway.com/invitation-leader",
-    "invitation-leader.bymyway.com",
-    "invitation-leader.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-01",
@@ -1873,29 +1942,6 @@
    "aliases": []
   },
   {
-   "id": "tut-memory",
-   "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/tut-memory/",
-   "repoUrl": "https://github.com/Coach1973/tut-memory",
-   "repo": "tut-memory",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-memory",
-    "event.bymyway.com/curated/tut-memory",
-    "event.bymyway.com/tut-memory",
-    "tut-memory.bymyway.com",
-    "tut-memory.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "sunny",
    "name": "陳瑋琳 Sunny｜大樹教育顧問 專案經理",
    "desc": "陳瑋琳 Sunny，元瀧品茶行銷總監，即將擔任大樹教育顧問專案經理。用心、積極、善於觀察，也樂於分享。",
@@ -2153,29 +2199,6 @@
    "aliases": [
     "陳老師"
    ]
-  },
-  {
-   "id": "patrick-chu",
-   "name": "朱元中 Patrick｜幫企業認真導入 ESG 的人",
-   "desc": "天下顧問（B 型企業）執行長朱元中 Patrick：從思科、台積電、TutorABC 到 ESG 培訓、輔導與第三方查證。",
-   "url": "https://event.bymyway.com/curated/patrick-chu/",
-   "repoUrl": "https://github.com/Coach1973/patrick-chu",
-   "repo": "patrick-chu",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/patrick-chu",
-    "event.bymyway.com/curated/patrick-chu",
-    "event.bymyway.com/patrick-chu",
-    "patrick-chu.bymyway.com",
-    "patrick-chu.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "niu-shi-ting",
@@ -5576,5 +5599,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-03T13:37:05Z"
+ "generated": "2026-11-04T01:52:34Z"
 }
