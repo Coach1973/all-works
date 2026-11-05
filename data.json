@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "kang-pastor",
+   "name": "巴康忠義牧師｜高雄天泉611靈糧堂主任牧師",
+   "desc": "巴康忠義牧師（康忠義牧師），高雄天泉611靈糧堂主任牧師，長年投入更生團契與監獄教牧服事。從嚴父走向慈父，在至痛中仍選擇繼續發光。",
+   "url": "https://event.bymyway.com/curated/kang-pastor/",
+   "repoUrl": "https://github.com/Coach1973/kang-pastor",
+   "repo": "kang-pastor",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kang-pastor",
+    "event.bymyway.com/curated/kang-pastor",
+    "event.bymyway.com/kang-pastor",
+    "kang-pastor.bymyway.com",
+    "kang-pastor.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-06",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhong-junrong",
    "name": "鍾俊榮長老｜從長樂村出發的利他人生",
    "desc": "三發地產集團創辦人、中華民國全球台灣長樂禱告敬拜中心創辦人鍾俊榮長老：從屏東滿州長樂村的路邊出生，到百億事業與信仰翻轉，立志做故鄉永遠的義工。",
@@ -5716,5 +5739,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-05T15:56:44Z"
+ "generated": "2026-11-05T16:23:53Z"
 }
