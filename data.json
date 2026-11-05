@@ -71,6 +71,29 @@
    "aliases": []
   },
   {
+   "id": "wei-gen",
+   "name": "賴維根｜維根蔬食倡導者・數位農產通路講者",
+   "desc": "賴維根：推動維根（Vegan）蔬食、數位轉型與農業通路變革的企業家與講師。",
+   "url": "https://event.bymyway.com/curated/wei-gen/",
+   "repoUrl": "https://github.com/Coach1973/wei-gen",
+   "repo": "wei-gen",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wei-gen",
+    "event.bymyway.com/curated/wei-gen",
+    "event.bymyway.com/wei-gen",
+    "wei-gen.bymyway.com",
+    "wei-gen.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-05",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "taipeiema1017",
    "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
    "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
@@ -5693,5 +5716,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-05T11:24:42Z"
+ "generated": "2026-11-05T15:56:44Z"
 }
