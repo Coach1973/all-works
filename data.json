@@ -50,6 +50,29 @@
    ]
   },
   {
+   "id": "liu-weihua",
+   "name": "劉維華｜從上市鐘聲到上課鐘聲",
+   "desc": "劉維華先生：美國加州大學研究所工程及管理學位，資本市場顧問有限公司團隊成員，曾協助新浪、網易、搜狐、攜程赴 NASDAQ 上市，北京清華大學產業與資本研究中心主任，並每年帶領兩岸大學生支教隊赴雲南、四川。",
+   "url": "https://event.bymyway.com/curated/liu-weihua/",
+   "repoUrl": "https://github.com/Coach1973/liu-weihua",
+   "repo": "liu-weihua",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/liu-weihua",
+    "event.bymyway.com/curated/liu-weihua",
+    "event.bymyway.com/liu-weihua",
+    "liu-weihua.bymyway.com",
+    "liu-weihua.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-06",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "lia-chih-ming",
    "name": "賴志明｜漢唐集成總經理・台灣高科技廠房設施協會理事長",
    "desc": "賴志明，漢唐集成（2404）總經理、台灣高科技廠房設施協會（HTFA）第三屆理事長。從台積電新廠規劃、千附實業總經理到帶領漢唐全球建廠。",
@@ -5810,5 +5833,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-05T16:37:54Z"
+ "generated": "2026-11-05T16:52:06Z"
 }
