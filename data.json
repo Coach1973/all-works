@@ -255,6 +255,31 @@
    "aliases": []
   },
   {
+   "id": "business-bni",
+   "name": "BNI 冷卻期標準話術 SOP ｜ 邀約 · 回訪 · 假設前提 互動教材",
+   "desc": "離會未滿半年怎麼回應 BNI 邀約？身分判斷、可直接複製的 LINE 範本、協會過渡方案，加上邀約技巧、來賓回訪、假設前提三套互動教材。內容來源：大樹教練培訓內容。",
+   "url": "https://event.bymyway.com/curated/business-bni/",
+   "repoUrl": "https://github.com/Coach1973/business-bni",
+   "repo": "business-bni",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "business-bni.bymyway.com",
+    "business-bni.netlify.app",
+    "coach1973.github.io/business-bni",
+    "event.bymyway.com/business-bni",
+    "event.bymyway.com/curated/business-bni"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-05",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "bni-chapters",
    "name": "bni-chapters",
    "desc": "",
@@ -270,6 +295,29 @@
     "coach1973.github.io/bni-chapters",
     "event.bymyway.com/bni-chapters",
     "event.bymyway.com/curated/bni-chapters"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-05",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-05",
@@ -366,29 +414,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-04",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-04",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -5645,5 +5670,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-05T06:44:20Z"
+ "generated": "2026-11-05T06:53:04Z"
 }
