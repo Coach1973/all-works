@@ -25,6 +25,31 @@
    "aliases": []
   },
   {
+   "id": "yang-houngren",
+   "name": "楊弘仁執行長｜讓台灣醫療走進新時代的醫師企業家",
+   "desc": "敏盛醫療體系執行長、盛弘醫藥董事長楊弘仁的個人品牌網頁：學經歷、專長、生活事蹟、公益足跡、媒體報導與照片。",
+   "url": "https://event.bymyway.com/curated/yang-houngren/",
+   "repoUrl": "https://github.com/Coach1973/yang-houngren",
+   "repo": "yang-houngren",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-houngren",
+    "event.bymyway.com/curated/yang-houngren",
+    "event.bymyway.com/yang-houngren",
+    "yang-houngren.bymyway.com",
+    "yang-houngren.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-06",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "楊執行長"
+   ]
+  },
+  {
    "id": "lia-chih-ming",
    "name": "賴志明｜漢唐集成總經理・台灣高科技廠房設施協會理事長",
    "desc": "賴志明，漢唐集成（2404）總經理、台灣高科技廠房設施協會（HTFA）第三屆理事長。從台積電新廠規劃、千附實業總經理到帶領漢唐全球建廠。",
@@ -5785,5 +5810,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-05T16:36:00Z"
+ "generated": "2026-11-05T16:37:54Z"
 }
