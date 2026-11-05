@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhou-liangdun",
+   "name": "周良敦｜一字一佛的國寶級書法家",
+   "desc": "周良敦，1951 年生於花蓮，師事陳其銓。以《法華經》六萬九千兩百八十四字書成佛陀法相，楷書《論語》孔子聖像圖獲臺北故宮典藏；近三十年在臺中監獄教書法，奉行「人品為上，書法次之」。",
+   "url": "https://event.bymyway.com/curated/zhou-liangdun/",
+   "repoUrl": "https://github.com/Coach1973/zhou-liangdun",
+   "repo": "zhou-liangdun",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhou-liangdun",
+    "event.bymyway.com/curated/zhou-liangdun",
+    "event.bymyway.com/zhou-liangdun",
+    "zhou-liangdun.bymyway.com",
+    "zhou-liangdun.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-06",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "kang-pastor",
    "name": "巴康忠義牧師｜高雄天泉611靈糧堂主任牧師",
    "desc": "巴康忠義牧師（康忠義牧師），高雄天泉611靈糧堂主任牧師，長年投入更生團契與監獄教牧服事。從嚴父走向慈父，在至痛中仍選擇繼續發光。",
@@ -5739,5 +5762,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-05T16:23:53Z"
+ "generated": "2026-11-05T16:28:05Z"
 }
