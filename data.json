@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhong-junrong",
+   "name": "鍾俊榮長老｜從長樂村出發的利他人生",
+   "desc": "三發地產集團創辦人、中華民國全球台灣長樂禱告敬拜中心創辦人鍾俊榮長老：從屏東滿州長樂村的路邊出生，到百億事業與信仰翻轉，立志做故鄉永遠的義工。",
+   "url": "https://event.bymyway.com/curated/zhong-junrong/",
+   "repoUrl": "https://github.com/Coach1973/zhong-junrong",
+   "repo": "zhong-junrong",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhong-junrong",
+    "event.bymyway.com/curated/zhong-junrong",
+    "event.bymyway.com/zhong-junrong",
+    "zhong-junrong.bymyway.com",
+    "zhong-junrong.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-05",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -64,6 +87,29 @@
     "taipeiema1017.netlify.app"
    ],
    "cat": "教練個人創作",
+   "updated": "2026-11-05",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
    "updated": "2026-11-05",
    "inRegistry": true,
    "delisted": false,
@@ -343,29 +389,6 @@
     "xue-dimin.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-11-04",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-11-04",
    "inRegistry": true,
    "delisted": false,
@@ -5670,5 +5693,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-05T06:53:04Z"
+ "generated": "2026-11-05T11:24:42Z"
 }
