@@ -2,6 +2,31 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "reemployment",
+   "name": "女性個人 IP 打造 × AI 製作網頁和主題曲｜婦女再就業課程 12/30 高雄・01/03 台南",
+   "desc": "婦女再就業課程，12/30（三）高雄場、01/03（日）台南場，9:00–18:00 一天學完：施正益教你個人 IP 定位與 Gemini 文案、作圖、影片、平台經營；大樹教練帶你只用手機做出自己的網頁和主題曲。符合資格者上完課可申請 2 萬元。",
+   "url": "https://event.bymyway.com/curated/reemployment/",
+   "repoUrl": "https://github.com/Coach1973/reemployment",
+   "repo": "reemployment",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/reemployment",
+    "event.bymyway.com/curated/reemployment",
+    "event.bymyway.com/reemployment",
+    "reemployment.bymyway.com",
+    "reemployment.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-07",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "zhou-liangdun",
    "name": "周良敦｜一字一佛的國寶級書法家",
    "desc": "周良敦，1951 年生於花蓮，師事陳其銓。以《法華經》六萬九千兩百八十四字書成佛陀法相，楷書《論語》孔子聖像圖獲臺北故宮典藏；近三十年在臺中監獄教書法，奉行「人品為上，書法次之」。",
@@ -93,6 +118,31 @@
    "unlistedAt": "",
    "aliases": [
     "楊執行長"
+   ]
+  },
+  {
+   "id": "wu-jinchang",
+   "name": "吳錦昌董事長｜順發電腦創辦人・用消費改變世界",
+   "desc": "順發電腦創辦人暨董事長吳錦昌。2010 年起承諾捐出淨利 20%，17 年累積捐款 3 億 3,016 萬元；Run for Future 公益路跑發起人。",
+   "url": "https://event.bymyway.com/curated/wu-jinchang/",
+   "repoUrl": "https://github.com/Coach1973/wu-jinchang",
+   "repo": "wu-jinchang",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wu-jinchang",
+    "event.bymyway.com/curated/wu-jinchang",
+    "event.bymyway.com/wu-jinchang",
+    "wu-jinchang.bymyway.com",
+    "wu-jinchang.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-06",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "吳董事長"
    ]
   },
   {
@@ -303,6 +353,29 @@
    "aliases": []
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-06",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yang-xiaoxi",
    "name": "楊曉熹牧師（博士）｜從實驗室、職場到禾場的牧者",
    "desc": "楊曉熹牧師（博士），聖光神學院延伸教育處處長。英國克蘭菲爾大學材料工程博士、靈糧神學院第29屆校友；2007 年以職場使徒身分赴上海宣教，近年推動 AI 傳道學院，陪伴教會走進數位時代。",
@@ -504,29 +577,6 @@
     "coach1973.github.io/bni-chapters",
     "event.bymyway.com/bni-chapters",
     "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-05",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-05",
@@ -1841,31 +1891,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "wu-jinchang",
-   "name": "吳錦昌董事長｜順發電腦創辦人・用消費改變世界",
-   "desc": "順發電腦創辦人暨董事長吳錦昌。2010 年起承諾捐出淨利 20%，17 年累積捐款 3 億 3,016 萬元；Run for Future 公益路跑發起人。",
-   "url": "https://event.bymyway.com/curated/wu-jinchang/",
-   "repoUrl": "https://github.com/Coach1973/wu-jinchang",
-   "repo": "wu-jinchang",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/wu-jinchang",
-    "event.bymyway.com/curated/wu-jinchang",
-    "event.bymyway.com/wu-jinchang",
-    "wu-jinchang.bymyway.com",
-    "wu-jinchang.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-25",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "吳董事長"
-   ]
   },
   {
    "id": "wang-xiali",
@@ -5856,5 +5881,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-06T07:27:59Z"
+ "generated": "2026-11-06T18:13:40Z"
 }
