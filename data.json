@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "yijing-ai-backup",
+   "name": "yijing-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/yijing-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
+   "repo": "yijing-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yijing-ai-backup",
+    "event.bymyway.com/curated/yijing-ai-backup",
+    "event.bymyway.com/yijing-ai-backup",
+    "yijing-ai-backup.bymyway.com",
+    "yijing-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-07",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "reemployment",
    "name": "女性個人 IP 打造 × AI 製作網頁和主題曲｜婦女再就業課程 12/30 高雄・01/03 台南",
    "desc": "婦女再就業課程，12/30（三）高雄場、01/03（日）台南場，9:00–18:00 一天學完：施正益教你個人 IP 定位與 Gemini 文案、作圖、影片、平台經營；大樹教練帶你只用手機做出自己的網頁和主題曲。符合資格者上完課可申請 2 萬元。",
@@ -25,6 +48,121 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-07",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-07",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-07",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-07",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "1107-taiwna-tea",
+   "name": "一盞清茶悟人生｜茶道文化與梨山茶韻",
+   "desc": "從神農嚐百草到陸羽《茶經》，從六大茶類到台灣梨山高山茶——一場以口語驅動 AI 共創的茶道文化之旅。",
+   "url": "https://event.bymyway.com/curated/1107-taiwna-tea/",
+   "repoUrl": "https://github.com/Coach1973/1107-taiwna-tea",
+   "repo": "1107-taiwna-tea",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "1107-taiwna-tea.bymyway.com",
+    "1107-taiwna-tea.netlify.app",
+    "coach1973.github.io/1107-taiwna-tea",
+    "event.bymyway.com/1107-taiwna-tea",
+    "event.bymyway.com/curated/1107-taiwna-tea"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-07",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "zhou-liangdun",
@@ -68,29 +206,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-06",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "yijing-ai-backup",
-   "name": "yijing-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/yijing-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
-   "repo": "yijing-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yijing-ai-backup",
-    "event.bymyway.com/curated/yijing-ai-backup",
-    "event.bymyway.com/yijing-ai-backup",
-    "yijing-ai-backup.bymyway.com",
-    "yijing-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-06",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -169,52 +284,6 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-06",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-06",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "liu-weihua",
    "name": "劉維華｜從上市鐘聲到上課鐘聲",
    "desc": "劉維華先生：美國加州大學研究所工程及管理學位，資本市場顧問有限公司團隊成員，曾協助新浪、網易、搜狐、攜程赴 NASDAQ 上市，北京清華大學產業與資本研究中心主任，並每年帶領兩岸大學生支教隊赴雲南、四川。",
@@ -261,29 +330,6 @@
    "aliases": []
   },
   {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-06",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "kang-pastor",
    "name": "巴康忠義牧師｜高雄天泉611靈糧堂主任牧師",
    "desc": "巴康忠義牧師（康忠義牧師），高雄天泉611靈糧堂主任牧師，長年投入更生團契與監獄教牧服事。從嚴父走向慈父，在至痛中仍選擇繼續發光。",
@@ -325,29 +371,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-06",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-06",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -5881,5 +5904,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-06T18:13:40Z"
+ "generated": "2026-11-07T08:59:14Z"
 }
