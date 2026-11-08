@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "tut-membership",
+   "name": "南應大校友會｜贊助會員・榮譽會員 招募中",
+   "desc": "台南應用科技大學校友會招募贊助會員（NT$1,500：Podcast 專訪＋一頁式個人簡介）與榮譽會員（NT$10,000：榮譽欄留名＋個人品牌網頁＋後續修改維護）。",
+   "url": "https://event.bymyway.com/curated/tut-membership/",
+   "repoUrl": "https://github.com/Coach1973/tut-membership",
+   "repo": "tut-membership",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-membership",
+    "event.bymyway.com/curated/tut-membership",
+    "event.bymyway.com/tut-membership",
+    "tut-membership.bymyway.com",
+    "tut-membership.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-09",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "ai-image1202",
    "name": "用AI優化個人形象和提高公司競爭力｜12/02（三）14:00–17:00｜台灣形象設計發展協會",
    "desc": "12/02（三）14:00–17:00，台灣形象設計發展協會主辦。一個下午，學會用 AI 打理個人形象、提升公司競爭力。會員 NT$400／非會員 NT$600，線上報名。",
@@ -5975,5 +5998,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-08T18:30:36Z"
+ "generated": "2026-11-08T19:12:13Z"
 }
