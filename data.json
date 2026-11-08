@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "ai-image1202",
+   "name": "用AI優化個人形象和提高公司競爭力｜12/02（三）14:00–17:00｜台灣形象設計發展協會",
+   "desc": "12/02（三）14:00–17:00，台灣形象設計發展協會主辦。一個下午，學會用 AI 打理個人形象、提升公司競爭力。會員 NT$400／非會員 NT$600，線上報名。",
+   "url": "https://event.bymyway.com/curated/ai-image1202/",
+   "repoUrl": "https://github.com/Coach1973/ai-image1202",
+   "repo": "ai-image1202",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "ai-image1202.bymyway.com",
+    "ai-image1202.netlify.app",
+    "coach1973.github.io/ai-image1202",
+    "event.bymyway.com/ai-image1202",
+    "event.bymyway.com/curated/ai-image1202"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-09",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -5952,5 +5975,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-08T17:49:35Z"
+ "generated": "2026-11-08T18:30:36Z"
 }
