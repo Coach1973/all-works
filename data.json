@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "works-map",
+   "name": "大樹作品分類表",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/works-map/",
+   "repoUrl": "https://github.com/Coach1973/works-map",
+   "repo": "works-map",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/works-map",
+    "event.bymyway.com/curated/works-map",
+    "event.bymyway.com/works-map",
+    "works-map.bymyway.com",
+    "works-map.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-09",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tut-membership",
    "name": "南應大校友會｜贊助會員・榮譽會員 招募中",
    "desc": "台南應用科技大學校友會招募贊助會員（NT$1,500：Podcast 專訪＋一頁式個人簡介）與榮譽會員（NT$10,000：榮譽欄留名＋個人品牌網頁＋後續修改維護）。",
@@ -85,6 +108,29 @@
     "event.bymyway.com/taipeiema1017",
     "taipeiema1017.bymyway.com",
     "taipeiema1017.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-08",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-08",
@@ -648,29 +694,6 @@
     "event.bymyway.com/wei-gen",
     "wei-gen.bymyway.com",
     "wei-gen.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-05",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-05",
@@ -5998,5 +6021,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-08T19:12:13Z"
+ "generated": "2026-11-08T19:34:48Z"
 }
