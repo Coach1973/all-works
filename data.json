@@ -94,6 +94,31 @@
    "aliases": []
   },
   {
+   "id": "salina-hong",
+   "name": "洪繡巒老師 Salina Hong｜歐遊女王・國際管理與禮儀專家",
+   "desc": "洪繡巒老師（Salina Hong）：國際管理專家、國際禮儀形象專家、旅遊美食作家，足跡遍及全球 90 國，著作 60 餘本，首屆 Skålité 國際獎「旅遊故事敘事與數位影響力獎」得主。",
+   "url": "https://event.bymyway.com/curated/salina-hong/",
+   "repoUrl": "https://github.com/Coach1973/salina-hong",
+   "repo": "salina-hong",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/salina-hong",
+    "event.bymyway.com/curated/salina-hong",
+    "event.bymyway.com/salina-hong",
+    "salina-hong.bymyway.com",
+    "salina-hong.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-10",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "洪老師"
+   ]
+  },
+  {
    "id": "rongtree",
    "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
    "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
@@ -256,6 +281,29 @@
    "aliases": []
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-10",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "works-map",
    "name": "大樹作品分類表",
    "desc": "",
@@ -348,29 +396,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-09",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "ai-image1202",
@@ -6069,5 +6094,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-10T08:05:33Z"
+ "generated": "2026-11-10T15:56:51Z"
 }
