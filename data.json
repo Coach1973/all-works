@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhu-zhicheng",
+   "name": "朱志成顧問｜連鎖品牌・加盟總部・HRM 經營顧問",
+   "desc": "35 年海內外連鎖餐飲經營實務，經濟部創業暨品牌輔導顧問朱志成：品牌診斷、連鎖加盟總部建置、HRM 人資制度與 AI 經營應用。",
+   "url": "https://event.bymyway.com/curated/zhu-zhicheng/",
+   "repoUrl": "https://github.com/Coach1973/zhu-zhicheng",
+   "repo": "zhu-zhicheng",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhu-zhicheng",
+    "event.bymyway.com/curated/zhu-zhicheng",
+    "event.bymyway.com/zhu-zhicheng",
+    "zhu-zhicheng.bymyway.com",
+    "zhu-zhicheng.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-10",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -18,7 +41,215 @@
     "yijing-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-11-09",
+   "updated": "2026-11-10",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "taipeiema1017",
+   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
+   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
+   "url": "https://event.bymyway.com/curated/taipeiema1017/",
+   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
+   "repo": "taipeiema1017",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/taipeiema1017",
+    "event.bymyway.com/curated/taipeiema1017",
+    "event.bymyway.com/taipeiema1017",
+    "taipeiema1017.bymyway.com",
+    "taipeiema1017.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-10",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-10",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "rongtree",
+   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
+   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
+   "url": "https://event.bymyway.com/curated/rongtree/",
+   "repoUrl": "https://github.com/Coach1973/rongtree",
+   "repo": "rongtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rongtree",
+    "event.bymyway.com/curated/rongtree",
+    "event.bymyway.com/rongtree",
+    "rongtree.bymyway.com",
+    "rongtree.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-10",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-10",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "my-tools",
+   "name": "my-tools",
+   "desc": "",
+   "url": "https://coach1973.github.io/my-tools/",
+   "repoUrl": "https://github.com/Coach1973/my-tools",
+   "repo": "my-tools",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/my-tools",
+    "event.bymyway.com/curated/my-tools",
+    "event.bymyway.com/my-tools",
+    "my-tools.bymyway.com",
+    "my-tools.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-10",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-10",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-10",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-10",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bni-chapters",
+   "name": "bni-chapters",
+   "desc": "",
+   "url": "https://chapters.bymyway.com/",
+   "repoUrl": "https://github.com/Coach1973/bni-chapters",
+   "repo": "bni-chapters",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bni-chapters.bymyway.com",
+    "bni-chapters.netlify.app",
+    "chapters.bymyway.com",
+    "coach1973.github.io/bni-chapters",
+    "event.bymyway.com/bni-chapters",
+    "event.bymyway.com/curated/bni-chapters"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-10",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
@@ -94,98 +325,6 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-09",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-09",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-09",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-09",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "bni-story",
    "name": "商務啟航：品牌信任的試金石｜大樹教練 說故事完成入會訪談",
    "desc": "不背生硬教條，用 5 個故事測出你的商務影響力。8～10 分鐘，玩完五關，自動完成《BNI 入會審查訪談表》25 題。",
@@ -211,6 +350,29 @@
    ]
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-09",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "ai-image1202",
    "name": "用AI優化個人形象和提高公司競爭力｜12/02（三）14:00–17:00｜台灣形象設計發展協會",
    "desc": "12/02（三）14:00–17:00，台灣形象設計發展協會主辦。一個下午，學會用 AI 打理個人形象、提升公司競爭力。會員 NT$400／非會員 NT$600，線上報名。",
@@ -234,75 +396,6 @@
    "aliases": []
   },
   {
-   "id": "taipeiema1017",
-   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
-   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
-   "url": "https://event.bymyway.com/curated/taipeiema1017/",
-   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
-   "repo": "taipeiema1017",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/taipeiema1017",
-    "event.bymyway.com/curated/taipeiema1017",
-    "event.bymyway.com/taipeiema1017",
-    "taipeiema1017.bymyway.com",
-    "taipeiema1017.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-08",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "rongtree",
-   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
-   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
-   "url": "https://event.bymyway.com/curated/rongtree/",
-   "repoUrl": "https://github.com/Coach1973/rongtree",
-   "repo": "rongtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rongtree",
-    "event.bymyway.com/curated/rongtree",
-    "event.bymyway.com/rongtree",
-    "rongtree.bymyway.com",
-    "rongtree.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-08",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "my-tools",
-   "name": "my-tools",
-   "desc": "",
-   "url": "https://coach1973.github.io/my-tools/",
-   "repoUrl": "https://github.com/Coach1973/my-tools",
-   "repo": "my-tools",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/my-tools",
-    "event.bymyway.com/curated/my-tools",
-    "event.bymyway.com/my-tools",
-    "my-tools.bymyway.com",
-    "my-tools.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-08",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "course-signup-playbook",
    "name": "course-signup-playbook",
    "desc": "",
@@ -317,53 +410,6 @@
     "course-signup-playbook.netlify.app",
     "event.bymyway.com/course-signup-playbook",
     "event.bymyway.com/curated/course-signup-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-08",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "bni-chapters",
-   "name": "bni-chapters",
-   "desc": "",
-   "url": "https://chapters.bymyway.com/",
-   "repoUrl": "https://github.com/Coach1973/bni-chapters",
-   "repo": "bni-chapters",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "bni-chapters.bymyway.com",
-    "bni-chapters.netlify.app",
-    "chapters.bymyway.com",
-    "coach1973.github.io/bni-chapters",
-    "event.bymyway.com/bni-chapters",
-    "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-08",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-08",
@@ -565,29 +611,6 @@
    "aliases": [
     "吳董事長"
    ]
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-06",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "liu-weihua",
@@ -6046,5 +6069,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-09T03:33:00Z"
+ "generated": "2026-11-10T08:05:33Z"
 }
