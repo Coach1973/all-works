@@ -72,6 +72,29 @@
    "aliases": []
   },
   {
+   "id": "wangyu",
+   "name": "王鈺｜新局藍圖 AI 商業架構師｜AI 獲客・銷售轉化・自動化・降本增效",
+   "desc": "王鈺｜新局藍圖，提供企業 AI 商業診斷、AI 獲客、銷售流程優化、自動化工作流及企業知識系統規劃。從實際問題出發，協助企業評估 AI 應用與工作效率改善機會。",
+   "url": "https://event.bymyway.com/curated/wangyu/",
+   "repoUrl": "https://github.com/Coach1973/wangyu",
+   "repo": "wangyu",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wangyu",
+    "event.bymyway.com/curated/wangyu",
+    "event.bymyway.com/wangyu",
+    "wangyu.bymyway.com",
+    "wangyu.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-11",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tava-to-claude",
    "name": "tava-to-claude",
    "desc": "",
@@ -346,6 +369,31 @@
    "cat": "教練個人創作",
    "updated": "2026-11-11",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "bigtree",
+   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "url": "https://coach1973.github.io/bigtree/",
+   "repoUrl": "https://github.com/Coach1973/bigtree",
+   "repo": "bigtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree.bymyway.com",
+    "bigtree.netlify.app",
+    "coach1973.github.io/bigtree",
+    "event.bymyway.com/bigtree",
+    "event.bymyway.com/curated/bigtree"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-11",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": [
@@ -698,31 +746,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-07",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
-   "id": "bigtree",
-   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "url": "https://coach1973.github.io/bigtree/",
-   "repoUrl": "https://github.com/Coach1973/bigtree",
-   "repo": "bigtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bigtree.bymyway.com",
-    "bigtree.netlify.app",
-    "coach1973.github.io/bigtree",
-    "event.bymyway.com/bigtree",
-    "event.bymyway.com/curated/bigtree"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-07",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": [
@@ -6188,5 +6211,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-11T10:57:23Z"
+ "generated": "2026-11-11T14:07:43Z"
 }
