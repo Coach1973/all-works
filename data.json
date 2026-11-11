@@ -118,6 +118,29 @@
    "aliases": []
   },
   {
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-11",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -134,6 +157,30 @@
     "peipei-ai-backup.netlify.app"
    ],
    "cat": "程式／內部倉庫",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "northern411",
+   "name": "northern411",
+   "desc": "",
+   "url": "https://northern-tw.netlify.app/",
+   "repoUrl": "https://github.com/Coach1973/northern411",
+   "repo": "northern411",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/northern411",
+    "event.bymyway.com/curated/northern411",
+    "event.bymyway.com/northern411",
+    "northern-tw.netlify.app",
+    "northern411.bymyway.com",
+    "northern411.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
    "updated": "2026-11-11",
    "inRegistry": false,
    "delisted": false,
@@ -182,6 +229,52 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-11-11",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kinmen-kitchen-1205",
+   "name": "秋瑩姐的金門私廚 × AI 餐桌｜12/5（六）KR 養生廚房",
+   "desc": "12/5（六）11:30–14:30，台南 KR 養生廚房。道地金門人秋瑩姐掌廚：金門廣東粥、金酒咖啡、戰地炒泡麵；餐前餐後茶席，邊吃邊聊手機 AI、音樂與藝術。每位 1,000 元，限 20 位。",
+   "url": "https://event.bymyway.com/curated/kinmen-kitchen-1205/",
+   "repoUrl": "https://github.com/Coach1973/kinmen-kitchen-1205",
+   "repo": "kinmen-kitchen-1205",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kinmen-kitchen-1205",
+    "event.bymyway.com/curated/kinmen-kitchen-1205",
+    "event.bymyway.com/kinmen-kitchen-1205",
+    "kinmen-kitchen-1205.bymyway.com",
+    "kinmen-kitchen-1205.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-11",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "grand",
+   "name": "陳和平 設計總監｜格蘭訂製西服・世界洋服大賽大師組金牌",
+   "desc": "陳和平，格蘭訂製西服第二代主理人暨設計總監。出身瑞芳礦工家庭，師承上海紅幫裁縫，2025 年奪世界洋服聯盟大會大師組男裝裁剪金牌，曾為多位總統訂製西服。",
+   "url": "https://event.bymyway.com/curated/grand/",
+   "repoUrl": "https://github.com/Coach1973/grand",
+   "repo": "grand",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/grand",
+    "event.bymyway.com/curated/grand",
+    "event.bymyway.com/grand",
+    "grand.bymyway.com",
+    "grand.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-11",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -507,29 +600,6 @@
     "event.bymyway.com/tut-membership",
     "tut-membership.bymyway.com",
     "tut-membership.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-09",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-09",
@@ -1151,29 +1221,6 @@
    "aliases": [
     "江老師"
    ]
-  },
-  {
-   "id": "grand",
-   "name": "陳和平 設計總監｜格蘭訂製西服・世界洋服大賽大師組金牌",
-   "desc": "陳和平，格蘭訂製西服第二代主理人暨設計總監。出身瑞芳礦工家庭，師承上海紅幫裁縫，2025 年奪世界洋服聯盟大會大師組男裝裁剪金牌，曾為多位總統訂製西服。",
-   "url": "https://event.bymyway.com/curated/grand/",
-   "repoUrl": "https://github.com/Coach1973/grand",
-   "repo": "grand",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/grand",
-    "event.bymyway.com/curated/grand",
-    "event.bymyway.com/grand",
-    "grand.bymyway.com",
-    "grand.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-03",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "tsai-peiru",
@@ -5472,30 +5519,6 @@
    "aliases": []
   },
   {
-   "id": "northern411",
-   "name": "northern411",
-   "desc": "",
-   "url": "https://northern-tw.netlify.app/",
-   "repoUrl": "https://github.com/Coach1973/northern411",
-   "repo": "northern411",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/northern411",
-    "event.bymyway.com/curated/northern411",
-    "event.bymyway.com/northern411",
-    "northern-tw.netlify.app",
-    "northern411.bymyway.com",
-    "northern411.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-06-17",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "gold-excellence",
    "name": "金卓獎好同學暨好夥伴專屬聚會",
    "desc": "金卓獎好同學暨好夥伴專屬聚會",
@@ -6165,5 +6188,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-11T04:58:36Z"
+ "generated": "2026-11-11T10:57:23Z"
 }
