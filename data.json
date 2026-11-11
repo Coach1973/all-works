@@ -2,6 +2,195 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhengui-guests",
+   "name": "zhengui-guests",
+   "desc": "",
+   "url": "https://real-wealth.bymyway.com/",
+   "repoUrl": "https://github.com/Coach1973/zhengui-guests",
+   "repo": "zhengui-guests",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhengui-guests",
+    "event.bymyway.com/curated/zhengui-guests",
+    "event.bymyway.com/zhengui-guests",
+    "real-wealth.bymyway.com",
+    "zhengui-guests.bymyway.com",
+    "zhengui-guests.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "yijing-ai-backup",
+   "name": "yijing-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/yijing-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
+   "repo": "yijing-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yijing-ai-backup",
+    "event.bymyway.com/curated/yijing-ai-backup",
+    "event.bymyway.com/yijing-ai-backup",
+    "yijing-ai-backup.bymyway.com",
+    "yijing-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-11",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bni-story",
+   "name": "商務啟航：品牌信任的試金石｜大樹教練 說故事完成入會訪談",
+   "desc": "不背生硬教條，用 5 個故事測出你的商務影響力。8～10 分鐘，玩完五關，自動完成《BNI 入會審查訪談表》25 題。",
+   "url": "https://event.bymyway.com/curated/bni-story/",
+   "repoUrl": "https://github.com/Coach1973/bni-story",
+   "repo": "bni-story",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bni-story.bymyway.com",
+    "bni-story.netlify.app",
+    "coach1973.github.io/bni-story",
+    "event.bymyway.com/bni-story",
+    "event.bymyway.com/curated/bni-story"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-11",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "zhu-zhicheng",
    "name": "朱志成顧問｜連鎖品牌・加盟總部・HRM 經營顧問",
    "desc": "35 年海內外連鎖餐飲經營實務，經濟部創業暨品牌輔導顧問朱志成：品牌診斷、連鎖加盟總部建置、HRM 人資制度與 AI 經營應用。",
@@ -25,22 +214,22 @@
    "aliases": []
   },
   {
-   "id": "yijing-ai-backup",
-   "name": "yijing-ai-backup",
+   "id": "tava-brand-web-playbook",
+   "name": "tava-brand-web-playbook",
    "desc": "",
-   "url": "https://github.com/Coach1973/yijing-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
-   "repo": "yijing-ai-backup",
-   "private": true,
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
    "archived": false,
    "keys": [
-    "coach1973.github.io/yijing-ai-backup",
-    "event.bymyway.com/curated/yijing-ai-backup",
-    "event.bymyway.com/yijing-ai-backup",
-    "yijing-ai-backup.bymyway.com",
-    "yijing-ai-backup.netlify.app"
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "GitHub 網頁",
    "updated": "2026-11-10",
    "inRegistry": false,
    "delisted": false,
@@ -142,29 +331,6 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-10",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "my-tools",
    "name": "my-tools",
    "desc": "",
@@ -179,75 +345,6 @@
     "event.bymyway.com/my-tools",
     "my-tools.bymyway.com",
     "my-tools.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-10",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-10",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-10",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-10",
@@ -371,31 +468,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "bni-story",
-   "name": "商務啟航：品牌信任的試金石｜大樹教練 說故事完成入會訪談",
-   "desc": "不背生硬教條，用 5 個故事測出你的商務影響力。8～10 分鐘，玩完五關，自動完成《BNI 入會審查訪談表》25 題。",
-   "url": "https://event.bymyway.com/curated/bni-story/",
-   "repoUrl": "https://github.com/Coach1973/bni-story",
-   "repo": "bni-story",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "bni-story.bymyway.com",
-    "bni-story.netlify.app",
-    "coach1973.github.io/bni-story",
-    "event.bymyway.com/bni-story",
-    "event.bymyway.com/curated/bni-story"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-09",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "ai-image1202",
@@ -1053,29 +1125,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-02",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tava-brand-web-playbook",
-   "name": "tava-brand-web-playbook",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-02",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -4170,30 +4219,6 @@
    "aliases": []
   },
   {
-   "id": "zhengui-guests",
-   "name": "zhengui-guests",
-   "desc": "",
-   "url": "https://real-wealth.bymyway.com/",
-   "repoUrl": "https://github.com/Coach1973/zhengui-guests",
-   "repo": "zhengui-guests",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zhengui-guests",
-    "event.bymyway.com/curated/zhengui-guests",
-    "event.bymyway.com/zhengui-guests",
-    "real-wealth.bymyway.com",
-    "zhengui-guests.bymyway.com",
-    "zhengui-guests.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-01",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "zhencheng-guests",
    "name": "zhencheng-guests",
    "desc": "",
@@ -6094,5 +6119,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-10T15:56:51Z"
+ "generated": "2026-11-11T02:14:20Z"
 }
