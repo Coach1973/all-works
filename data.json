@@ -72,6 +72,29 @@
    "aliases": []
   },
   {
+   "id": "tava-to-claude",
+   "name": "tava-to-claude",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-to-claude/",
+   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
+   "repo": "tava-to-claude",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-to-claude",
+    "event.bymyway.com/curated/tava-to-claude",
+    "event.bymyway.com/tava-to-claude",
+    "tava-to-claude.bymyway.com",
+    "tava-to-claude.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tainan-shangquan",
    "name": "tainan-shangquan",
    "desc": "",
@@ -6142,5 +6165,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-11T04:38:32Z"
+ "generated": "2026-11-11T04:58:36Z"
 }
