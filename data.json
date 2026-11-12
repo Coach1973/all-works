@@ -2,6 +2,193 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "tava-brand-web-playbook",
+   "name": "tava-brand-web-playbook",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-12",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "reg:yang-brand",
+   "name": "楊聰榮｜《無人機學》・跨域研究與永續實踐",
+   "desc": "《無人機學》作者楊聰榮博士：無人機產業、國際合作與公共書寫，並連結永續實務與跨文化研究。",
+   "url": "https://event.bymyway.com/curated/yang-brand/",
+   "repoUrl": "",
+   "repo": "",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-brand",
+    "event.bymyway.com/curated/yang-brand",
+    "event.bymyway.com/yang-brand",
+    "yang-brand.bymyway.com",
+    "yang-brand.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "reg:chen-alice",
+   "name": "陳彥玲博士｜讓理解，成為成長的力量",
+   "desc": "認識陳彥玲博士：全球健康發展協會代理理事長，親職教育、兒童發展與身心關懷的跨領域教育工作者。",
+   "url": "https://event.bymyway.com/curated/chen-alice/",
+   "repoUrl": "",
+   "repo": "",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "chen-alice.bymyway.com",
+    "chen-alice.netlify.app",
+    "coach1973.github.io/chen-alice",
+    "event.bymyway.com/chen-alice",
+    "event.bymyway.com/curated/chen-alice"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "陳博士"
+   ]
+  },
+  {
+   "id": "northern411",
+   "name": "northern411",
+   "desc": "",
+   "url": "https://northern-tw.netlify.app/",
+   "repoUrl": "https://github.com/Coach1973/northern411",
+   "repo": "northern411",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/northern411",
+    "event.bymyway.com/curated/northern411",
+    "event.bymyway.com/northern411",
+    "northern-tw.netlify.app",
+    "northern411.bymyway.com",
+    "northern411.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-12",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-12",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "global-health",
+   "name": "首頁｜全球健康發展協會",
+   "desc": "全球健康發展協會，關注失智防治、逆齡醫學與跨界健康整合。認識代理理事長陳彥玲博士，閱讀歷屆論壇與入會資訊。",
+   "url": "https://event.bymyway.com/curated/global-health/",
+   "repoUrl": "https://github.com/Coach1973/global-health",
+   "repo": "global-health",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/global-health",
+    "event.bymyway.com/curated/global-health",
+    "event.bymyway.com/global-health",
+    "global-health.bymyway.com",
+    "global-health.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-12",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhengui-guests",
    "name": "zhengui-guests",
    "desc": "",
@@ -187,53 +374,6 @@
    "aliases": []
   },
   {
-   "id": "northern411",
-   "name": "northern411",
-   "desc": "",
-   "url": "https://northern-tw.netlify.app/",
-   "repoUrl": "https://github.com/Coach1973/northern411",
-   "repo": "northern411",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/northern411",
-    "event.bymyway.com/curated/northern411",
-    "event.bymyway.com/northern411",
-    "northern-tw.netlify.app",
-    "northern411.bymyway.com",
-    "northern411.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "kong-ai-backup",
    "name": "kong-ai-backup",
    "desc": "",
@@ -328,27 +468,29 @@
    ]
   },
   {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
+   "id": "dashu-coach-ai-lessons",
+   "name": "大樹教練的 AI 經驗庫 - 記錄所有 AI 相關踩坑與解決方案",
+   "desc": "大樹教練的 AI 經驗庫 - 記錄所有 AI 相關踩坑與解決方案",
+   "url": "https://github.com/Coach1973/dashu-coach-ai-lessons",
+   "repoUrl": "https://github.com/Coach1973/dashu-coach-ai-lessons",
+   "repo": "dashu-coach-ai-lessons",
    "private": false,
    "archived": false,
    "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
+    "coach1973.github.io/dashu-coach-ai-lessons",
+    "dashu-coach-ai-lessons.bymyway.com",
+    "dashu-coach-ai-lessons.netlify.app",
+    "event.bymyway.com/curated/dashu-coach-ai-lessons",
+    "event.bymyway.com/dashu-coach-ai-lessons"
    ],
-   "cat": "GitHub 網頁",
+   "cat": "程式／內部倉庫",
    "updated": "2026-11-11",
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "bni-story",
@@ -374,6 +516,29 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "bni-dna",
+   "name": "bni-dna",
+   "desc": "",
+   "url": "https://coach1973.github.io/bni-dna/",
+   "repoUrl": "https://github.com/Coach1973/bni-dna",
+   "repo": "bni-dna",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bni-dna.bymyway.com",
+    "bni-dna.netlify.app",
+    "coach1973.github.io/bni-dna",
+    "event.bymyway.com/bni-dna",
+    "event.bymyway.com/curated/bni-dna"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "bigtree",
@@ -447,29 +612,6 @@
    "aliases": []
   },
   {
-   "id": "tava-brand-web-playbook",
-   "name": "tava-brand-web-playbook",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-10",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "taipeiema1017",
    "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
    "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
@@ -486,29 +628,6 @@
     "taipeiema1017.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-11-10",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-11-10",
    "inRegistry": true,
    "delisted": false,
@@ -3746,29 +3865,6 @@
    "aliases": []
   },
   {
-   "id": "bni-dna",
-   "name": "bni-dna",
-   "desc": "",
-   "url": "https://coach1973.github.io/bni-dna/",
-   "repoUrl": "https://github.com/Coach1973/bni-dna",
-   "repo": "bni-dna",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bni-dna.bymyway.com",
-    "bni-dna.netlify.app",
-    "coach1973.github.io/bni-dna",
-    "event.bymyway.com/bni-dna",
-    "event.bymyway.com/curated/bni-dna"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-14",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "bni-training",
    "name": "BNI-Training",
    "desc": "",
@@ -5565,31 +5661,6 @@
    "aliases": []
   },
   {
-   "id": "dashu-coach-ai-lessons",
-   "name": "大樹教練的 AI 經驗庫 - 記錄所有 AI 相關踩坑與解決方案",
-   "desc": "大樹教練的 AI 經驗庫 - 記錄所有 AI 相關踩坑與解決方案",
-   "url": "https://github.com/Coach1973/dashu-coach-ai-lessons",
-   "repoUrl": "https://github.com/Coach1973/dashu-coach-ai-lessons",
-   "repo": "dashu-coach-ai-lessons",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/dashu-coach-ai-lessons",
-    "dashu-coach-ai-lessons.bymyway.com",
-    "dashu-coach-ai-lessons.netlify.app",
-    "event.bymyway.com/curated/dashu-coach-ai-lessons",
-    "event.bymyway.com/dashu-coach-ai-lessons"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-06-04",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
    "id": "vip-club",
    "name": "頂級特助俱樂部·特助心法（教練詮釋版）",
    "desc": "頂級特助俱樂部·特助心法（教練詮釋版）",
@@ -6211,5 +6282,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-11T14:07:43Z"
+ "generated": "2026-11-12T04:35:36Z"
 }
