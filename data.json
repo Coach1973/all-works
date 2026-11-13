@@ -282,6 +282,31 @@
    "aliases": []
   },
   {
+   "id": "ohth-at-aj",
+   "name": "莊哲昀 AJ｜把學 AI 變得像喝水一樣簡單",
+   "desc": "莊哲昀（AJ），那個數位有限公司執行長、Google Gemini 官方認證講師、《欸那個AJ》YouTube 頻道主持人。十五年數位教學，陪伴上百家企業與公部門把生成式 AI 帶進日常工作。",
+   "url": "https://event.bymyway.com/curated/ohth-at-aj/",
+   "repoUrl": "https://github.com/Coach1973/ohth-at-aj",
+   "repo": "ohth-at-aj",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/ohth-at-aj",
+    "event.bymyway.com/curated/ohth-at-aj",
+    "event.bymyway.com/ohth-at-aj",
+    "ohth-at-aj.bymyway.com",
+    "ohth-at-aj.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-13",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "頻主持人"
+   ]
+  },
+  {
    "id": "mac-openclaw-workflows",
    "name": "mac-openclaw-workflows",
    "desc": "",
@@ -376,6 +401,29 @@
    ]
   },
   {
+   "id": "li-wen-cai",
+   "name": "李文財｜點亮青年創業的高雄青創推手",
+   "desc": "李文財：高雄市創新創業協會名譽理事長、全國創新創業總會南區區會長、以諾科技負責人。從 LED 照明、太陽光電到青年創業陪跑。",
+   "url": "https://event.bymyway.com/curated/li-wen-cai/",
+   "repoUrl": "https://github.com/Coach1973/li-wen-cai",
+   "repo": "li-wen-cai",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/li-wen-cai",
+    "event.bymyway.com/curated/li-wen-cai",
+    "event.bymyway.com/li-wen-cai",
+    "li-wen-cai.bymyway.com",
+    "li-wen-cai.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-13",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "kueilan",
    "name": "奎嵐 KueiLan｜用 AI 幫你提早下班",
    "desc": "奎嵐 KueiLan，台大政治系畢業的自媒體內容創作者、AI 教學講師與社群操盤手，現居美國加州，教上班族用 AI 提早下班。",
@@ -444,6 +492,33 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "jiang-yilun",
+   "name": "江宜倫老師｜鋼琴・歌唱老師・《音樂。人生。診聊室》主持人",
+   "desc": "台中音樂課工作室江宜倫（泡芙老師 Eleen）：鋼琴、歌唱、古箏、小提琴教學，Podcast《音樂。人生。診聊室》主持人，BNI 大台南南區真誠線上分會夥伴。",
+   "url": "https://event.bymyway.com/curated/jiang-yilun/",
+   "repoUrl": "https://github.com/Coach1973/jiang-yilun",
+   "repo": "jiang-yilun",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/jiang-yilun",
+    "event.bymyway.com/curated/jiang-yilun",
+    "event.bymyway.com/jiang-yilun",
+    "jiang-yilun.bymyway.com",
+    "jiang-yilun.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-13",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "歌老師",
+    "江老師",
+    "泡老師"
+   ]
   },
   {
    "id": "helen",
@@ -2594,33 +2669,6 @@
    ]
   },
   {
-   "id": "jiang-yilun",
-   "name": "江宜倫老師｜鋼琴・歌唱老師・《音樂。人生。診聊室》主持人",
-   "desc": "台中音樂課工作室江宜倫（泡芙老師 Eleen）：鋼琴、歌唱、古箏、小提琴教學，Podcast《音樂。人生。診聊室》主持人，BNI 大台南南區真誠線上分會夥伴。",
-   "url": "https://event.bymyway.com/curated/jiang-yilun/",
-   "repoUrl": "https://github.com/Coach1973/jiang-yilun",
-   "repo": "jiang-yilun",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/jiang-yilun",
-    "event.bymyway.com/curated/jiang-yilun",
-    "event.bymyway.com/jiang-yilun",
-    "jiang-yilun.bymyway.com",
-    "jiang-yilun.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-26",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "歌老師",
-    "江老師",
-    "泡老師"
-   ]
-  },
-  {
    "id": "brian-blacktea",
    "name": "布萊恩紅茶｜一間只賣紅茶的店・創辦人 莊政安（布萊恩）",
    "desc": "起家於台南正興街的紅茶專賣店。認識布萊恩紅茶的茶品、堅持、公益足跡，以及創辦人莊政安（布萊恩）的故事。",
@@ -2740,31 +2788,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "ohth-at-aj",
-   "name": "莊哲昀 AJ｜把學 AI 變得像喝水一樣簡單",
-   "desc": "莊哲昀（AJ），那個數位有限公司執行長、Google Gemini 官方認證講師、《欸那個AJ》YouTube 頻道主持人。十五年數位教學，陪伴上百家企業與公部門把生成式 AI 帶進日常工作。",
-   "url": "https://event.bymyway.com/curated/ohth-at-aj/",
-   "repoUrl": "https://github.com/Coach1973/ohth-at-aj",
-   "repo": "ohth-at-aj",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/ohth-at-aj",
-    "event.bymyway.com/curated/ohth-at-aj",
-    "event.bymyway.com/ohth-at-aj",
-    "ohth-at-aj.bymyway.com",
-    "ohth-at-aj.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-25",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "頻主持人"
-   ]
   },
   {
    "id": "linbaohua",
@@ -6331,5 +6354,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-13T07:44:09Z"
+ "generated": "2026-11-13T07:59:06Z"
 }
