@@ -2,6 +2,170 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zou-kuo-su",
+   "name": "鄒國蘇醫師｜陪孩子把潛能找回來的早療推手",
+   "desc": "鄒國蘇醫師，臺北市立聯合醫院中興院區兒童發展評估療育中心兼任主治醫師、全球健康發展協會理事長，投入兒童發展早期療育逾四十年，第一屆早療棕櫚獎得主。",
+   "url": "https://event.bymyway.com/curated/zou-kuo-su/",
+   "repoUrl": "https://github.com/Coach1973/zou-kuo-su",
+   "repo": "zou-kuo-su",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zou-kuo-su",
+    "event.bymyway.com/curated/zou-kuo-su",
+    "event.bymyway.com/zou-kuo-su",
+    "zou-kuo-su.bymyway.com",
+    "zou-kuo-su.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-13",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "鄒醫師"
+   ]
+  },
+  {
+   "id": "yijing-ai-backup",
+   "name": "yijing-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/yijing-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
+   "repo": "yijing-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yijing-ai-backup",
+    "event.bymyway.com/curated/yijing-ai-backup",
+    "event.bymyway.com/yijing-ai-backup",
+    "yijing-ai-backup.bymyway.com",
+    "yijing-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-13",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-13",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-13",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-13",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kinmen-kitchen-1205",
+   "name": "秋瑩姐的金門私廚 × AI 餐桌｜12/6（日）KR 養生廚房",
+   "desc": "12/6（日）11:30–15:30，台南 KR 養生廚房。道地金門人秋瑩姐掌廚：金門廣東粥、金酒咖啡、戰地炒泡麵；餐前餐後茶席，邊吃邊聊手機 AI、音樂與藝術。每位 1,500 元，限 20 位。",
+   "url": "https://event.bymyway.com/curated/kinmen-kitchen-1206/",
+   "repoUrl": "https://github.com/Coach1973/kinmen-kitchen-1205",
+   "repo": "kinmen-kitchen-1205",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kinmen-kitchen-1205",
+    "event.bymyway.com/curated/kinmen-kitchen-1205",
+    "event.bymyway.com/curated/kinmen-kitchen-1206",
+    "event.bymyway.com/kinmen-kitchen-1205",
+    "kinmen-kitchen-1205.bymyway.com",
+    "kinmen-kitchen-1205.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-13",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "yang-brand",
+   "name": "楊聰榮｜《無人機學》・跨域研究與永續實踐",
+   "desc": "《無人機學》作者楊聰榮博士：無人機產業、國際合作與公共書寫，並連結永續實務與跨文化研究。",
+   "url": "https://event.bymyway.com/curated/yang-brand/",
+   "repoUrl": "https://github.com/Coach1973/yang-brand",
+   "repo": "yang-brand",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-brand",
+    "event.bymyway.com/curated/yang-brand",
+    "event.bymyway.com/yang-brand",
+    "yang-brand.bymyway.com",
+    "yang-brand.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tava-brand-web-playbook",
    "name": "tava-brand-web-playbook",
    "desc": "",
@@ -23,6 +187,31 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "superpower",
+   "name": "吸引人才的超能力訓練｜大樹教練",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/superpower/",
+   "repoUrl": "https://github.com/Coach1973/superpower",
+   "repo": "superpower",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/superpower",
+    "event.bymyway.com/curated/superpower",
+    "event.bymyway.com/superpower",
+    "superpower.bymyway.com",
+    "superpower.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "social-club",
@@ -48,20 +237,20 @@
    "aliases": []
   },
   {
-   "id": "reg:yang-brand",
-   "name": "楊聰榮｜《無人機學》・跨域研究與永續實踐",
-   "desc": "《無人機學》作者楊聰榮博士：無人機產業、國際合作與公共書寫，並連結永續實務與跨文化研究。",
-   "url": "https://event.bymyway.com/curated/yang-brand/",
-   "repoUrl": "",
-   "repo": "",
-   "private": false,
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/yang-brand",
-    "event.bymyway.com/curated/yang-brand",
-    "event.bymyway.com/yang-brand",
-    "yang-brand.bymyway.com",
-    "yang-brand.netlify.app"
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-12",
@@ -71,20 +260,20 @@
    "aliases": []
   },
   {
-   "id": "reg:chen-alice",
-   "name": "陳彥玲博士｜讓理解，成為成長的力量",
-   "desc": "認識陳彥玲博士：全球健康發展協會代理理事長，親職教育、兒童發展與身心關懷的跨領域教育工作者。",
-   "url": "https://event.bymyway.com/curated/chen-alice/",
-   "repoUrl": "",
-   "repo": "",
-   "private": false,
+   "id": "reemployment",
+   "name": "女性個人 IP 打造 × AI 製作網頁和主題曲｜婦女再就業課程 12/30 高雄・01/03 台南",
+   "desc": "婦女再就業課程，12/30（三）高雄場、01/03（日）台南場，9:00–18:00 一天學完：施正益教你個人 IP 定位與 Gemini 文案、作圖、影片、平台經營；大樹教練帶你只用手機做出自己的網頁和主題曲。符合資格者上完課可申請 2 萬元。",
+   "url": "https://event.bymyway.com/curated/reemployment/",
+   "repoUrl": "https://github.com/Coach1973/reemployment",
+   "repo": "reemployment",
+   "private": true,
    "archived": false,
    "keys": [
-    "chen-alice.bymyway.com",
-    "chen-alice.netlify.app",
-    "coach1973.github.io/chen-alice",
-    "event.bymyway.com/chen-alice",
-    "event.bymyway.com/curated/chen-alice"
+    "coach1973.github.io/reemployment",
+    "event.bymyway.com/curated/reemployment",
+    "event.bymyway.com/reemployment",
+    "reemployment.bymyway.com",
+    "reemployment.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-12",
@@ -92,8 +281,31 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": [
-    "陳博士"
+    "大教練"
    ]
+  },
+  {
+   "id": "peipei1983",
+   "name": "陳佩君｜讓音樂走進生活",
+   "desc": "鋼琴家、音樂教育家陳佩君。從鋼琴演奏、合作藝術到音樂策展，讓音樂走進生活。",
+   "url": "https://event.bymyway.com/curated/peipei1983/",
+   "repoUrl": "https://github.com/Coach1973/peipei1983",
+   "repo": "peipei1983",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei1983",
+    "event.bymyway.com/curated/peipei1983",
+    "event.bymyway.com/peipei1983",
+    "peipei1983.bymyway.com",
+    "peipei1983.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "northern411",
@@ -120,27 +332,98 @@
    "aliases": []
   },
   {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
+   "id": "invitation-peipei",
+   "name": "把兩天，留給值得的人。｜陳佩君的邀請",
+   "desc": "主講人蔡曜隆，邀請人陳佩君。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
+   "url": "https://event.bymyway.com/curated/invitation-peipei/",
+   "repoUrl": "https://github.com/Coach1973/invitation-peipei",
+   "repo": "invitation-peipei",
    "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
+    "coach1973.github.io/invitation-peipei",
+    "event.bymyway.com/curated/invitation-peipei",
+    "event.bymyway.com/invitation-peipei",
+    "invitation-peipei.bymyway.com",
+    "invitation-peipei.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-12",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "invitation-leader",
+   "name": "把兩天，留給值得的人。｜吳大樹的邀請",
+   "desc": "主講人蔡曜隆，邀請人吳大樹。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
+   "url": "https://event.bymyway.com/curated/invitation-leader/",
+   "repoUrl": "https://github.com/Coach1973/invitation-leader",
+   "repo": "invitation-leader",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/invitation-leader",
+    "event.bymyway.com/curated/invitation-leader",
+    "event.bymyway.com/invitation-leader",
+    "invitation-leader.bymyway.com",
+    "invitation-leader.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "hsiuli",
+   "name": "黃秀麗｜全國古典音樂推廣版主",
+   "desc": "黃秀麗，全國古典音樂推廣版主。長期以社群力量推廣古典音樂，串連主辦單位、樂團與樂迷，讓好音樂被更多人聽見。歡迎音樂會宣傳、導聆、藝文跨界與公益合作邀約。",
+   "url": "https://event.bymyway.com/curated/hsiuli/",
+   "repoUrl": "https://github.com/Coach1973/hsiuli",
+   "repo": "hsiuli",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/hsiuli",
+    "event.bymyway.com/curated/hsiuli",
+    "event.bymyway.com/hsiuli",
+    "hsiuli.bymyway.com",
+    "hsiuli.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "global-health",
@@ -189,6 +472,54 @@
    "aliases": []
   },
   {
+   "id": "chen-alice",
+   "name": "陳彥玲博士｜讓理解，成為成長的力量",
+   "desc": "認識陳彥玲博士：全球健康發展協會代理理事長，親職教育、兒童發展與身心關懷的跨領域教育工作者。",
+   "url": "https://event.bymyway.com/curated/chen-alice/",
+   "repoUrl": "https://github.com/Coach1973/chen-alice",
+   "repo": "chen-alice",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chen-alice.bymyway.com",
+    "chen-alice.netlify.app",
+    "coach1973.github.io/chen-alice",
+    "event.bymyway.com/chen-alice",
+    "event.bymyway.com/curated/chen-alice"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-12",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "陳博士"
+   ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-12",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhengui-guests",
    "name": "zhengui-guests",
    "desc": "",
@@ -206,29 +537,6 @@
     "zhengui-guests.netlify.app"
    ],
    "cat": "GitHub 網頁",
-   "updated": "2026-11-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "yijing-ai-backup",
-   "name": "yijing-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/yijing-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
-   "repo": "yijing-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yijing-ai-backup",
-    "event.bymyway.com/curated/yijing-ai-backup",
-    "event.bymyway.com/yijing-ai-backup",
-    "yijing-ai-backup.bymyway.com",
-    "yijing-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
    "updated": "2026-11-11",
    "inRegistry": false,
    "delisted": false,
@@ -328,98 +636,6 @@
    "aliases": []
   },
   {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-11",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kinmen-kitchen-1205",
-   "name": "秋瑩姐的金門私廚 × AI 餐桌｜12/5（六）KR 養生廚房",
-   "desc": "12/5（六）11:30–14:30，台南 KR 養生廚房。道地金門人秋瑩姐掌廚：金門廣東粥、金酒咖啡、戰地炒泡麵；餐前餐後茶席，邊吃邊聊手機 AI、音樂與藝術。每位 1,000 元，限 20 位。",
-   "url": "https://event.bymyway.com/curated/kinmen-kitchen-1205/",
-   "repoUrl": "https://github.com/Coach1973/kinmen-kitchen-1205",
-   "repo": "kinmen-kitchen-1205",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kinmen-kitchen-1205",
-    "event.bymyway.com/curated/kinmen-kitchen-1205",
-    "event.bymyway.com/kinmen-kitchen-1205",
-    "kinmen-kitchen-1205.bymyway.com",
-    "kinmen-kitchen-1205.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-11",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "grand",
    "name": "陳和平 設計總監｜格蘭訂製西服・世界洋服大賽大師組金牌",
    "desc": "陳和平，格蘭訂製西服第二代主理人暨設計總監。出身瑞芳礦工家庭，師承上海紅幫裁縫，2025 年奪世界洋服聯盟大會大師組男裝裁剪金牌，曾為多位總統訂製西服。",
@@ -441,31 +657,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "go",
-   "name": "大樹入口",
-   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
-   "url": "https://event.bymyway.com/curated/go/",
-   "repoUrl": "https://github.com/Coach1973/go",
-   "repo": "go",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/go",
-    "event.bymyway.com/curated/go",
-    "event.bymyway.com/go",
-    "go.bymyway.com",
-    "go.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-11",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "dashu-coach-ai-lessons",
@@ -564,29 +755,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "zhu-zhicheng",
@@ -839,31 +1007,6 @@
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-08",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
-   "id": "reemployment",
-   "name": "女性個人 IP 打造 × AI 製作網頁和主題曲｜婦女再就業課程 12/30 高雄・01/03 台南",
-   "desc": "婦女再就業課程，12/30（三）高雄場、01/03（日）台南場，9:00–18:00 一天學完：施正益教你個人 IP 定位與 Gemini 文案、作圖、影片、平台經營；大樹教練帶你只用手機做出自己的網頁和主題曲。符合資格者上完課可申請 2 萬元。",
-   "url": "https://event.bymyway.com/curated/reemployment/",
-   "repoUrl": "https://github.com/Coach1973/reemployment",
-   "repo": "reemployment",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/reemployment",
-    "event.bymyway.com/curated/reemployment",
-    "event.bymyway.com/reemployment",
-    "reemployment.bymyway.com",
-    "reemployment.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-07",
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
@@ -1223,29 +1366,6 @@
    "aliases": []
   },
   {
-   "id": "invitation-leader",
-   "name": "把兩天，留給值得的人。｜吳大樹的邀請",
-   "desc": "主講人蔡曜隆，邀請人吳大樹。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
-   "url": "https://event.bymyway.com/curated/invitation-leader/",
-   "repoUrl": "https://github.com/Coach1973/invitation-leader",
-   "repo": "invitation-leader",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/invitation-leader",
-    "event.bymyway.com/curated/invitation-leader",
-    "event.bymyway.com/invitation-leader",
-    "invitation-leader.bymyway.com",
-    "invitation-leader.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-04",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "tut-memory",
    "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
    "desc": "",
@@ -1388,31 +1508,6 @@
    "aliases": []
   },
   {
-   "id": "superpower",
-   "name": "吸引人才的超能力訓練｜大樹教練",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/superpower/",
-   "repoUrl": "https://github.com/Coach1973/superpower",
-   "repo": "superpower",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/superpower",
-    "event.bymyway.com/curated/superpower",
-    "event.bymyway.com/superpower",
-    "superpower.bymyway.com",
-    "superpower.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-02",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
    "id": "roger-chou",
    "name": "周龍鴻博士 Dr. Roger Chou｜台灣首位 CST・Scrum Alliance 全球董事",
    "desc": "周龍鴻博士（Roger Chou）：長宏專案創辦人、亞洲首位 PgMP、台灣首位 CST、2026 年當選 Scrum Alliance 全球董事。",
@@ -1500,52 +1595,6 @@
     "richrd-tsai.netlify.app"
    ],
    "cat": "策展・衣",
-   "updated": "2026-11-01",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "peipei1983",
-   "name": "陳佩君｜讓音樂走進生活",
-   "desc": "鋼琴家、音樂教育家陳佩君。從鋼琴演奏、合作藝術到音樂策展，讓音樂走進生活。",
-   "url": "https://event.bymyway.com/curated/peipei1983/",
-   "repoUrl": "https://github.com/Coach1973/peipei1983",
-   "repo": "peipei1983",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei1983",
-    "event.bymyway.com/curated/peipei1983",
-    "event.bymyway.com/peipei1983",
-    "peipei1983.bymyway.com",
-    "peipei1983.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-11-01",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "invitation-peipei",
-   "name": "把兩天，留給值得的人。｜陳佩君的邀請",
-   "desc": "主講人蔡曜隆，邀請人陳佩君。兩天的課程，一次好好認識彼此的機會。這次，我想問的是：你會來嗎？",
-   "url": "https://event.bymyway.com/curated/invitation-peipei/",
-   "repoUrl": "https://github.com/Coach1973/invitation-peipei",
-   "repo": "invitation-peipei",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/invitation-peipei",
-    "event.bymyway.com/curated/invitation-peipei",
-    "event.bymyway.com/invitation-peipei",
-    "invitation-peipei.bymyway.com",
-    "invitation-peipei.netlify.app"
-   ],
-   "cat": "教練個人創作",
    "updated": "2026-11-01",
    "inRegistry": true,
    "delisted": false,
@@ -2140,29 +2189,6 @@
     "zhaoxian.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-10-27",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "hsiuli",
-   "name": "黃秀麗｜全國古典音樂推廣版主",
-   "desc": "黃秀麗，全國古典音樂推廣版主。長期以社群力量推廣古典音樂，串連主辦單位、樂團與樂迷，讓好音樂被更多人聽見。歡迎音樂會宣傳、導聆、藝文跨界與公益合作邀約。",
-   "url": "https://event.bymyway.com/curated/hsiuli/",
-   "repoUrl": "https://github.com/Coach1973/hsiuli",
-   "repo": "hsiuli",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/hsiuli",
-    "event.bymyway.com/curated/hsiuli",
-    "event.bymyway.com/hsiuli",
-    "hsiuli.bymyway.com",
-    "hsiuli.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-10-27",
    "inRegistry": true,
    "delisted": false,
@@ -6282,5 +6308,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-12T04:35:36Z"
+ "generated": "2026-11-13T05:58:06Z"
 }
