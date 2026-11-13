@@ -3,9 +3,9 @@
  "items": [
   {
    "id": "zou-kuo-su",
-   "name": "鄒國蘇醫師｜陪孩子把潛能找回來的早療推手",
-   "desc": "鄒國蘇醫師，臺北市立聯合醫院中興院區兒童發展評估療育中心兼任主治醫師、全球健康發展協會理事長，投入兒童發展早期療育逾四十年，第一屆早療棕櫚獎得主。",
-   "url": "https://event.bymyway.com/curated/zou-kuo-su/",
+   "name": "zou-kuo-su",
+   "desc": "",
+   "url": "https://github.com/Coach1973/zou-kuo-su",
    "repoUrl": "https://github.com/Coach1973/zou-kuo-su",
    "repo": "zou-kuo-su",
    "private": true,
@@ -17,14 +17,12 @@
     "zou-kuo-su.bymyway.com",
     "zou-kuo-su.netlify.app"
    ],
-   "cat": "教練個人創作",
+   "cat": "程式／內部倉庫",
    "updated": "2026-11-13",
-   "inRegistry": true,
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": [
-    "鄒醫師"
-   ]
+   "aliases": []
   },
   {
    "id": "zhou-ruiqi",
@@ -53,9 +51,9 @@
   },
   {
    "id": "zhang-jiaren",
-   "name": "張嘉仁顧問｜iSquare 愛斯奎科技管理顧問工作室",
-   "desc": "張嘉仁顧問，愛斯奎科技管理顧問工作室（iSquare）創辦人暨產業顧問。前金屬中心計畫主持人、APIAA 認證產業分析師，30 年以上研發創新、產業分析與政府補助計畫輔導經驗。",
-   "url": "https://event.bymyway.com/curated/zhang-jiaren/",
+   "name": "zhang-jiaren",
+   "desc": "",
+   "url": "https://github.com/Coach1973/zhang-jiaren",
    "repoUrl": "https://github.com/Coach1973/zhang-jiaren",
    "repo": "zhang-jiaren",
    "private": true,
@@ -67,9 +65,9 @@
     "zhang-jiaren.bymyway.com",
     "zhang-jiaren.netlify.app"
    ],
-   "cat": "教練個人創作",
+   "cat": "程式／內部倉庫",
    "updated": "2026-11-13",
-   "inRegistry": true,
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -259,6 +257,31 @@
    "aliases": []
   },
   {
+   "id": "reemployment",
+   "name": "女性個人 IP 打造 × AI 製作網頁和主題曲｜婦女再就業課程 12/30 高雄・01/03 台南",
+   "desc": "婦女再就業課程，12/30（三）高雄場、01/03（日）台南場，9:00–18:00 一天學完：施正益教你個人 IP 定位與 Gemini 文案、作圖、影片、平台經營；大樹教練帶你只用手機做出自己的網頁和主題曲。符合資格者上完課可申請 2 萬元。",
+   "url": "https://event.bymyway.com/curated/reemployment/",
+   "repoUrl": "https://github.com/Coach1973/reemployment",
+   "repo": "reemployment",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/reemployment",
+    "event.bymyway.com/curated/reemployment",
+    "event.bymyway.com/reemployment",
+    "reemployment.bymyway.com",
+    "reemployment.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-13",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -305,6 +328,29 @@
    "aliases": [
     "頻主持人"
    ]
+  },
+  {
+   "id": "nmda-1128",
+   "name": "nmda-1128",
+   "desc": "",
+   "url": "https://github.com/Coach1973/nmda-1128",
+   "repoUrl": "https://github.com/Coach1973/nmda-1128",
+   "repo": "nmda-1128",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/nmda-1128",
+    "event.bymyway.com/curated/nmda-1128",
+    "event.bymyway.com/nmda-1128",
+    "nmda-1128.bymyway.com",
+    "nmda-1128.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-13",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "mac-openclaw-workflows",
@@ -402,9 +448,9 @@
   },
   {
    "id": "li-wen-cai",
-   "name": "李文財｜點亮青年創業的高雄青創推手",
-   "desc": "李文財：高雄市創新創業協會名譽理事長、全國創新創業總會南區區會長、以諾科技負責人。從 LED 照明、太陽光電到青年創業陪跑。",
-   "url": "https://event.bymyway.com/curated/li-wen-cai/",
+   "name": "li-wen-cai",
+   "desc": "",
+   "url": "https://github.com/Coach1973/li-wen-cai",
    "repoUrl": "https://github.com/Coach1973/li-wen-cai",
    "repo": "li-wen-cai",
    "private": true,
@@ -416,9 +462,9 @@
     "li-wen-cai.bymyway.com",
     "li-wen-cai.netlify.app"
    ],
-   "cat": "教練個人創作",
+   "cat": "程式／內部倉庫",
    "updated": "2026-11-13",
-   "inRegistry": true,
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -774,31 +820,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "reemployment",
-   "name": "女性個人 IP 打造 × AI 製作網頁和主題曲｜婦女再就業課程 12/30 高雄・01/03 台南",
-   "desc": "婦女再就業課程，12/30（三）高雄場、01/03（日）台南場，9:00–18:00 一天學完：施正益教你個人 IP 定位與 Gemini 文案、作圖、影片、平台經營；大樹教練帶你只用手機做出自己的網頁和主題曲。符合資格者上完課可申請 2 萬元。",
-   "url": "https://event.bymyway.com/curated/reemployment/",
-   "repoUrl": "https://github.com/Coach1973/reemployment",
-   "repo": "reemployment",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/reemployment",
-    "event.bymyway.com/curated/reemployment",
-    "event.bymyway.com/reemployment",
-    "reemployment.bymyway.com",
-    "reemployment.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-12",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "peipei1983",
@@ -6354,5 +6375,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-13T07:59:06Z"
+ "generated": "2026-11-13T08:30:25Z"
 }
