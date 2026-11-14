@@ -2,8 +2,31 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "taipeiema1017",
+   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
+   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
+   "url": "https://event.bymyway.com/curated/taipeiema1017/",
+   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
+   "repo": "taipeiema1017",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/taipeiema1017",
+    "event.bymyway.com/curated/taipeiema1017",
+    "event.bymyway.com/taipeiema1017",
+    "taipeiema1017.bymyway.com",
+    "taipeiema1017.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-14",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tainan-shangquan",
-   "name": "tainan-shangquan",
+   "name": "大臺南商圈整合計劃 · 大台南策展中心",
    "desc": "",
    "url": "https://event.bymyway.com/tainan-shangquan/",
    "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
@@ -71,6 +94,29 @@
    "aliases": []
   },
   {
+   "id": "rongtree",
+   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
+   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
+   "url": "https://event.bymyway.com/curated/rongtree/",
+   "repoUrl": "https://github.com/Coach1973/rongtree",
+   "repo": "rongtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rongtree",
+    "event.bymyway.com/curated/rongtree",
+    "event.bymyway.com/rongtree",
+    "rongtree.bymyway.com",
+    "rongtree.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-14",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -112,6 +158,29 @@
    "cat": "教練個人創作",
    "updated": "2026-11-14",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "my-tools",
+   "name": "大樹的常用查詢網站（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/my-tools/",
+   "repoUrl": "https://github.com/Coach1973/my-tools",
+   "repo": "my-tools",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/my-tools",
+    "event.bymyway.com/curated/my-tools",
+    "event.bymyway.com/my-tools",
+    "my-tools.bymyway.com",
+    "my-tools.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-14",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -190,7 +259,7 @@
   },
   {
    "id": "course-signup-playbook",
-   "name": "course-signup-playbook",
+   "name": "課程推廣報名網頁｜開工指令與製作經驗",
    "desc": "",
    "url": "https://coach1973.github.io/course-signup-playbook/",
    "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
@@ -213,7 +282,7 @@
   },
   {
    "id": "coach888",
-   "name": "coach888",
+   "name": "大樹AI作品總覽（個人專用）",
    "desc": "",
    "url": "https://coach1973.github.io/coach888/",
    "repoUrl": "https://github.com/Coach1973/coach888",
@@ -226,6 +295,30 @@
     "coach888.netlify.app",
     "event.bymyway.com/coach888",
     "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-14",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bni-chapters",
+   "name": "BNI大台南南區・分會列表",
+   "desc": "",
+   "url": "https://chapters.bymyway.com/",
+   "repoUrl": "https://github.com/Coach1973/bni-chapters",
+   "repo": "bni-chapters",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bni-chapters.bymyway.com",
+    "bni-chapters.netlify.app",
+    "chapters.bymyway.com",
+    "coach1973.github.io/bni-chapters",
+    "event.bymyway.com/bni-chapters",
+    "event.bymyway.com/curated/bni-chapters"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-14",
@@ -258,6 +351,29 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "association-site-playbook",
+   "name": "協會官網｜開工指令與製作經驗",
+   "desc": "協會官網｜開工指令與製作經驗",
+   "url": "https://coach1973.github.io/association-site-playbook/",
+   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
+   "repo": "association-site-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "association-site-playbook.bymyway.com",
+    "association-site-playbook.netlify.app",
+    "coach1973.github.io/association-site-playbook",
+    "event.bymyway.com/association-site-playbook",
+    "event.bymyway.com/curated/association-site-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-14",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "all-works",
@@ -426,7 +542,7 @@
   },
   {
    "id": "tava-brand-web-playbook",
-   "name": "tava-brand-web-playbook",
+   "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
    "desc": "",
    "url": "https://coach1973.github.io/tava-brand-web-playbook/",
    "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
@@ -990,7 +1106,7 @@
   },
   {
    "id": "northern411",
-   "name": "northern411",
+   "name": "智匯健康｜腦力長青｜2026失智防治與逆齡醫學跨界論壇",
    "desc": "",
    "url": "https://northern-tw.netlify.app/",
    "repoUrl": "https://github.com/Coach1973/northern411",
@@ -1108,7 +1224,7 @@
   },
   {
    "id": "zhengui-guests",
-   "name": "zhengui-guests",
+   "name": "真貴籌備會 邀約來賓戰情儀表板",
    "desc": "",
    "url": "https://real-wealth.bymyway.com/",
    "repoUrl": "https://github.com/Coach1973/zhengui-guests",
@@ -1178,7 +1294,7 @@
   },
   {
    "id": "tava-to-claude",
-   "name": "tava-to-claude",
+   "name": "手機做網頁｜TAVA 交給 Claude",
    "desc": "",
    "url": "https://coach1973.github.io/tava-to-claude/",
    "repoUrl": "https://github.com/Coach1973/tava-to-claude",
@@ -1251,7 +1367,7 @@
   },
   {
    "id": "bni-dna",
-   "name": "bni-dna",
+   "name": "大台南南區 DnA 團隊戰情儀表板",
    "desc": "",
    "url": "https://coach1973.github.io/bni-dna/",
    "repoUrl": "https://github.com/Coach1973/bni-dna",
@@ -1296,29 +1412,6 @@
    "aliases": []
   },
   {
-   "id": "taipeiema1017",
-   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
-   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
-   "url": "https://event.bymyway.com/curated/taipeiema1017/",
-   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
-   "repo": "taipeiema1017",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/taipeiema1017",
-    "event.bymyway.com/curated/taipeiema1017",
-    "event.bymyway.com/taipeiema1017",
-    "taipeiema1017.bymyway.com",
-    "taipeiema1017.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-10",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "salina-hong",
    "name": "洪繡巒老師 Salina Hong｜歐遊女王・國際管理與禮儀專家",
    "desc": "洪繡巒老師（Salina Hong）：國際管理專家、國際禮儀形象專家、旅遊美食作家，足跡遍及全球 90 國，著作 60 餘本，首屆 Skålité 國際獎「旅遊故事敘事與數位影響力獎」得主。",
@@ -1342,76 +1435,6 @@
    "aliases": [
     "洪老師"
    ]
-  },
-  {
-   "id": "rongtree",
-   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
-   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
-   "url": "https://event.bymyway.com/curated/rongtree/",
-   "repoUrl": "https://github.com/Coach1973/rongtree",
-   "repo": "rongtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rongtree",
-    "event.bymyway.com/curated/rongtree",
-    "event.bymyway.com/rongtree",
-    "rongtree.bymyway.com",
-    "rongtree.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-10",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "my-tools",
-   "name": "my-tools",
-   "desc": "",
-   "url": "https://coach1973.github.io/my-tools/",
-   "repoUrl": "https://github.com/Coach1973/my-tools",
-   "repo": "my-tools",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/my-tools",
-    "event.bymyway.com/curated/my-tools",
-    "event.bymyway.com/my-tools",
-    "my-tools.bymyway.com",
-    "my-tools.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-10",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "bni-chapters",
-   "name": "bni-chapters",
-   "desc": "",
-   "url": "https://chapters.bymyway.com/",
-   "repoUrl": "https://github.com/Coach1973/bni-chapters",
-   "repo": "bni-chapters",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "bni-chapters.bymyway.com",
-    "bni-chapters.netlify.app",
-    "chapters.bymyway.com",
-    "coach1973.github.io/bni-chapters",
-    "event.bymyway.com/bni-chapters",
-    "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-10",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "works-map",
@@ -2246,7 +2269,7 @@
   },
   {
    "id": "hero-opening-skill",
-   "name": "hero-opening-skill",
+   "name": "做整個網頁開頭動畫的技能",
    "desc": "",
    "url": "https://coach1973.github.io/hero-opening-skill/",
    "repoUrl": "https://github.com/Coach1973/hero-opening-skill",
@@ -3866,7 +3889,7 @@
   },
   {
    "id": "diy-studio-workshop",
-   "name": "diy-studio-workshop",
+   "name": "傘繩 DIY-3 專業研習教室 | 光線尺顧問有限公司",
    "desc": "",
    "url": "https://event.bymyway.com/DIY3/",
    "repoUrl": "https://github.com/Coach1973/diy-studio-workshop",
@@ -3984,7 +4007,7 @@
   },
   {
    "id": "bni-training",
-   "name": "BNI-Training",
+   "name": "BNI大台南南區 培訓總覽",
    "desc": "",
    "url": "https://coach1973.github.io/BNI-Training/",
    "repoUrl": "https://github.com/Coach1973/BNI-Training",
@@ -4431,7 +4454,7 @@
   },
   {
    "id": "zhenzuan-guests",
-   "name": "zhenzuan-guests",
+   "name": "真鑽分會 邀約來賓戰情儀表板",
    "desc": "",
    "url": "https://real-diamonds.bymyway.com/",
    "repoUrl": "https://github.com/Coach1973/zhenzuan-guests",
@@ -4478,7 +4501,7 @@
   },
   {
    "id": "tut-alumni",
-   "name": "tut-alumni",
+   "name": "台南應用科技大學校友會 召集令",
    "desc": "",
    "url": "https://event.bymyway.com/tut/",
    "repoUrl": "https://github.com/Coach1973/tut-alumni",
@@ -4502,7 +4525,7 @@
   },
   {
    "id": "team01-guests",
-   "name": "team01-guests",
+   "name": "Team 01 邀約來賓戰情儀表板",
    "desc": "",
    "url": "https://team01.bymyway.com/",
    "repoUrl": "https://github.com/Coach1973/team01-guests",
@@ -4526,7 +4549,7 @@
   },
   {
    "id": "zhenxin-guests",
-   "name": "zhenxin-guests",
+   "name": "真鑫分會 邀約來賓戰情儀表板",
    "desc": "",
    "url": "https://zhenxin.bymyway.com/",
    "repoUrl": "https://github.com/Coach1973/zhenxin-guests",
@@ -4550,7 +4573,7 @@
   },
   {
    "id": "zhencheng-guests",
-   "name": "zhencheng-guests",
+   "name": "真誠分會 邀約來賓戰情儀表板",
    "desc": "",
    "url": "https://sincere.bymyway.com/",
    "repoUrl": "https://github.com/Coach1973/zhencheng-guests",
@@ -4597,7 +4620,7 @@
   },
   {
    "id": "hsinhan-2",
-   "name": "hsinhan-2",
+   "name": "鑫瀚昌旅行社｜阿翰的家 — 台南安南區在地旅遊服務據點",
    "desc": "",
    "url": "https://coach1973.github.io/hsinhan-2/",
    "repoUrl": "https://github.com/Coach1973/hsinhan-2",
@@ -4666,7 +4689,7 @@
   },
   {
    "id": "jiesheng-leadership",
-   "name": "jiesheng-leadership",
+   "name": "結繩領導學｜兩日實戰工作坊",
    "desc": "",
    "url": "https://coach1973.github.io/jiesheng-leadership/",
    "repoUrl": "https://github.com/Coach1973/jiesheng-leadership",
@@ -4735,7 +4758,7 @@
   },
   {
    "id": "ai-forum-taichung",
-   "name": "ai-forum-taichung",
+   "name": "AI微論壇 台中場｜活動延後公告",
    "desc": "",
    "url": "https://event.bymyway.com/ai-forum/",
    "repoUrl": "https://github.com/Coach1973/ai-forum-taichung",
@@ -4759,7 +4782,7 @@
   },
   {
    "id": "ai-talk",
-   "name": "ai-talk",
+   "name": "AI Talk｜AI微論壇 活動回顧",
    "desc": "",
    "url": "https://event.bymyway.com/ai-talk/",
    "repoUrl": "https://github.com/Coach1973/ai-talk",
@@ -4782,7 +4805,7 @@
   },
   {
    "id": "touchstone-plan",
-   "name": "touchstone-plan",
+   "name": "試金石資產化計畫",
    "desc": "",
    "url": "https://coach1973.github.io/touchstone-plan/",
    "repoUrl": "https://github.com/Coach1973/touchstone-plan",
@@ -4805,7 +4828,7 @@
   },
   {
    "id": "seabiscuit20",
-   "name": "seabiscuit20",
+   "name": "海餅乾俱樂部 Sea Biscuit Club — 20週年 2007–2027",
    "desc": "",
    "url": "https://event.bymyway.com/seabiscuit20/",
    "repoUrl": "https://github.com/Coach1973/seabiscuit20",
@@ -4853,7 +4876,7 @@
   },
   {
    "id": "tainan-calender",
-   "name": "tainan-calender",
+   "name": "2026 全年度行事曆",
    "desc": "",
    "url": "https://event.bymyway.com/tainan-calender/",
    "repoUrl": "https://github.com/Coach1973/tainan-calender",
@@ -4922,7 +4945,7 @@
   },
   {
    "id": "ai-fit",
-   "name": "ai-fit",
+   "name": "從從容容用AI聊健康－晚間場｜9月22日 台南場",
    "desc": "",
    "url": "https://coach1973.github.io/ai-fit/",
    "repoUrl": "https://github.com/Coach1973/ai-fit",
@@ -4945,7 +4968,7 @@
   },
   {
    "id": "teamwork-notes",
-   "name": "teamwork-notes",
+   "name": "BNI組隊計畫 × 免費建站漏斗｜策略筆記",
    "desc": "",
    "url": "https://coach1973.github.io/teamwork-notes/",
    "repoUrl": "https://github.com/Coach1973/teamwork-notes",
@@ -4968,7 +4991,7 @@
   },
   {
    "id": "ai-art",
-   "name": "ai-art",
+   "name": "當古典音樂遇到 AI 科技 — 流水席活動",
    "desc": "",
    "url": "https://coach1973.github.io/ai-art/",
    "repoUrl": "https://github.com/Coach1973/ai-art",
@@ -5083,7 +5106,7 @@
   },
   {
    "id": "1010",
-   "name": "1010",
+   "name": "人生四席・一日共鳴｜淺山綠茶席生命故事",
    "desc": "",
    "url": "https://event.bymyway.com/1010/",
    "repoUrl": "https://github.com/Coach1973/1010",
@@ -5129,7 +5152,7 @@
   },
   {
    "id": "line-ti-shi-ce-shi-zhan",
-   "name": "line-ti-shi-ce-shi-zhan",
+   "name": "LINE提示測試站",
    "desc": "",
    "url": "https://coach1973.github.io/line-ti-shi-ce-shi-zhan/",
    "repoUrl": "https://github.com/Coach1973/line-ti-shi-ce-shi-zhan",
@@ -5198,8 +5221,8 @@
   },
   {
    "id": "cica",
-   "name": "cica",
-   "desc": "",
+   "name": "中華網紅協會 CICA 官方網站",
+   "desc": "中華網紅協會 CICA 官方網站",
    "url": "https://event.bymyway.com/cica/",
    "repoUrl": "https://github.com/Coach1973/cica",
    "repo": "cica",
@@ -5428,7 +5451,7 @@
   },
   {
    "id": "kr",
-   "name": "KR",
+   "name": "KR 養生廚房 Health Kitchen｜台南東區養生早午餐．莊園咖啡",
    "desc": "",
    "url": "https://event.bymyway.com/KR/",
    "repoUrl": "https://github.com/Coach1973/KR",
@@ -5451,7 +5474,7 @@
   },
   {
    "id": "leadership-knot-workshop",
-   "name": "leadership-knot-workshop",
+   "name": "結繩領導學 兩日實戰工作坊 | 光線尺顧問有限公司",
    "desc": "",
    "url": "https://event.bymyway.com/Leadership/",
    "repoUrl": "https://github.com/Coach1973/leadership-knot-workshop",
@@ -5475,7 +5498,7 @@
   },
   {
    "id": "diy-outdoor-workshop",
-   "name": "diy-outdoor-workshop",
+   "name": "傘繩 DIY-2 戶外工作坊 | 光線尺顧問有限公司",
    "desc": "",
    "url": "https://event.bymyway.com/Outdoor/",
    "repoUrl": "https://github.com/Coach1973/diy-outdoor-workshop",
@@ -5499,7 +5522,7 @@
   },
   {
    "id": "diy-knot-workshop",
-   "name": "diy-knot-workshop",
+   "name": "結繩工作坊 3 小時手作體驗 | 光線尺顧問有限公司",
    "desc": "",
    "url": "https://event.bymyway.com/DIY/",
    "repoUrl": "https://github.com/Coach1973/diy-knot-workshop",
@@ -5569,7 +5592,7 @@
   },
   {
    "id": "worklucky-2026",
-   "name": "worklucky-2026",
+   "name": "2026年你最缺什麼？職涯大解密",
    "desc": "",
    "url": "https://coach1973.github.io/worklucky-2026/",
    "repoUrl": "https://github.com/Coach1973/worklucky-2026",
@@ -5592,7 +5615,7 @@
   },
   {
    "id": "rpl-fb-log",
-   "name": "rpl-fb-log",
+   "name": "結繩領導學 FB貼文紀錄",
    "desc": "",
    "url": "https://coach1973.github.io/rpl-fb-log/",
    "repoUrl": "https://github.com/Coach1973/rpl-fb-log",
@@ -5688,7 +5711,7 @@
   },
   {
    "id": "government-subsidies",
-   "name": "government-subsidies",
+   "name": "中小微企業多元發展實戰說明會 | 經濟部 × 大樹教育顧問",
    "desc": "",
    "url": "https://coach1973.github.io/government-subsidies/",
    "repoUrl": "https://github.com/Coach1973/government-subsidies",
@@ -5734,7 +5757,7 @@
   },
   {
    "id": "theunrestrictedwar",
-   "name": "theunrestrictedwar",
+   "name": "超限戰 The Unrestricted War | 戰火無聲 真相有價 | 全台震撼上映",
    "desc": "",
    "url": "https://coach1973.github.io/theunrestrictedwar/",
    "repoUrl": "https://github.com/Coach1973/theunrestrictedwar",
@@ -5826,7 +5849,7 @@
   },
   {
    "id": "coach-case4",
-   "name": "coach-case4",
+   "name": "特助心法實踐故事第四部 — 從能力到對齊的認知升級",
    "desc": "",
    "url": "https://coach1973.github.io/coach-case4/",
    "repoUrl": "https://github.com/Coach1973/coach-case4",
@@ -5872,7 +5895,7 @@
   },
   {
    "id": "coach-case2",
-   "name": "coach-case2",
+   "name": "特助守則實踐故事 — 一個真實的 AI 特助成長記錄",
    "desc": "",
    "url": "https://coach1973.github.io/coach-case2/",
    "repoUrl": "https://github.com/Coach1973/coach-case2",
@@ -5895,7 +5918,7 @@
   },
   {
    "id": "coach-case",
-   "name": "coach-case",
+   "name": "特助心法實踐演示 — 軍師對照檢查",
    "desc": "",
    "url": "https://coach1973.github.io/coach-case/",
    "repoUrl": "https://github.com/Coach1973/coach-case",
@@ -6033,7 +6056,7 @@
   },
   {
    "id": "tourmaline-panda-82be5e",
-   "name": "tourmaline-panda-82be5e",
+   "name": "幸運轉盤 - 誰是幸運兒？",
    "desc": "",
    "url": "https://coach1973.github.io/tourmaline-panda-82be5e/",
    "repoUrl": "https://github.com/Coach1973/tourmaline-panda-82be5e",
@@ -6056,7 +6079,7 @@
   },
   {
    "id": "peipeievent-411",
-   "name": "peipeievent-411",
+   "name": "🚀 別家收月費，我們送軟體！｜4/11 台中 AI 實戰論壇",
    "desc": "",
    "url": "https://coach1973.github.io/peipeievent-411/",
    "repoUrl": "https://github.com/Coach1973/peipeievent-411",
@@ -6079,7 +6102,7 @@
   },
   {
    "id": "lucky-fox-ce325e",
-   "name": "lucky-fox-ce325e",
+   "name": "大台南南區影視宇宙：新手玩家速通攻略本",
    "desc": "",
    "url": "https://coach1973.github.io/lucky-fox-ce325e/",
    "repoUrl": "https://github.com/Coach1973/lucky-fox-ce325e",
@@ -6102,7 +6125,7 @@
   },
   {
    "id": "goeasy-ai88",
-   "name": "goeasy-ai88",
+   "name": "AI一鍵起飛｜3小時AI實戰講座",
    "desc": "",
    "url": "https://coach1973.github.io/goeasy-ai88/",
    "repoUrl": "https://github.com/Coach1973/goeasy-ai88",
@@ -6125,7 +6148,7 @@
   },
   {
    "id": "goeasy-ai",
-   "name": "goeasy-ai",
+   "name": "AI一鍵起飛｜3小時AI實戰講座",
    "desc": "",
    "url": "https://coach1973.github.io/goeasy-ai/",
    "repoUrl": "https://github.com/Coach1973/goeasy-ai",
@@ -6148,7 +6171,7 @@
   },
   {
    "id": "everyday7",
-   "name": "everyday7",
+   "name": "大地守護者系統 v6.0 (四維全開版)",
    "desc": "",
    "url": "https://coach1973.github.io/everyday7/",
    "repoUrl": "https://github.com/Coach1973/everyday7",
@@ -6171,7 +6194,7 @@
   },
   {
    "id": "deluxe-hamster-6a3525",
-   "name": "deluxe-hamster-6a3525",
+   "name": "別當算命師：解鎖業績的底層邏輯 | Infographic",
    "desc": "",
    "url": "https://coach1973.github.io/deluxe-hamster-6a3525/",
    "repoUrl": "https://github.com/Coach1973/deluxe-hamster-6a3525",
@@ -6194,7 +6217,7 @@
   },
   {
    "id": "courageous-scanstart",
-   "name": "courageous-scanstart",
+   "name": "商務漫威宇宙 星探系統",
    "desc": "",
    "url": "https://coach1973.github.io/courageous-scanstart/",
    "repoUrl": "https://github.com/Coach1973/courageous-scanstart",
@@ -6217,7 +6240,7 @@
   },
   {
    "id": "comforting-salmiakki-356efb",
-   "name": "comforting-salmiakki-356efb",
+   "name": "別當算命師：解鎖業績的底層邏輯 | Infographic",
    "desc": "",
    "url": "https://coach1973.github.io/comforting-salmiakki-356efb/",
    "repoUrl": "https://github.com/Coach1973/comforting-salmiakki-356efb",
@@ -6263,7 +6286,7 @@
   },
   {
    "id": "bniheroway",
-   "name": "bniheroway",
+   "name": "英雄戰力培訓階梯 V5.5 (可編輯版)",
    "desc": "",
    "url": "https://coach1973.github.io/bniheroway/",
    "repoUrl": "https://github.com/Coach1973/bniheroway",
@@ -6286,7 +6309,7 @@
   },
   {
    "id": "bni-traffic",
-   "name": "bni-traffic",
+   "name": "商務引薦燈號表 (BNI同步最終版)",
    "desc": "",
    "url": "https://event.bymyway.com/bni-traffic/",
    "repoUrl": "https://github.com/Coach1973/bni-traffic",
@@ -6309,7 +6332,7 @@
   },
   {
    "id": "bni-top10",
-   "name": "bni-top10",
+   "name": "來賓邀約戰情排行表",
    "desc": "",
    "url": "https://coach1973.github.io/bni-top10/",
    "repoUrl": "https://github.com/Coach1973/bni-top10",
@@ -6332,7 +6355,7 @@
   },
   {
    "id": "bni-happy",
-   "name": "bni-happy",
+   "name": "📊 大台南南區領導團隊推薦系統 - 後台分析",
    "desc": "",
    "url": "https://coach1973.github.io/bni-happy/",
    "repoUrl": "https://github.com/Coach1973/bni-happy",
@@ -6355,7 +6378,7 @@
   },
   {
    "id": "bni-99999",
-   "name": "bni-99999",
+   "name": "🌟 善哉！真誠 - 主席猜猜猜！趣味投票調查",
    "desc": "",
    "url": "https://coach1973.github.io/bni-99999/",
    "repoUrl": "https://github.com/Coach1973/bni-99999",
@@ -6378,7 +6401,7 @@
   },
   {
    "id": "bni-88888",
-   "name": "bni-88888",
+   "name": "💎 真鑽猜猜猜 - 主席預測風向機 3.0",
    "desc": "",
    "url": "https://coach1973.github.io/bni-88888/",
    "repoUrl": "https://github.com/Coach1973/bni-88888",
@@ -6400,5 +6423,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-14T14:35:09Z"
+ "generated": "2026-11-14T17:08:11Z"
 }
