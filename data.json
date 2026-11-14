@@ -2,10 +2,245 @@
  "owner": "Coach1973",
  "items": [
   {
-   "id": "zou-kuo-su",
-   "name": "zou-kuo-su",
+   "id": "tainan-shangquan",
+   "name": "tainan-shangquan",
    "desc": "",
-   "url": "https://github.com/Coach1973/zou-kuo-su",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-14",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-14",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-14",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "nmda-1128",
+   "name": "11/28（六）線上分享會｜社群經營 × 政府補助 × 研發創新 × 協會展望｜中華新媒體影音發展協會",
+   "desc": "2026/11/28（六）13:30–15:30 Zoom 線上分享會。大樹執董談社群經營、李文財談政府補助種類、張嘉仁談研發創新申請資格、Roger 說明入會資格與大禮包。主辦：中華新媒體影音發展協會；協辦：大樹教育顧問。",
+   "url": "https://event.bymyway.com/curated/nmda-1128/",
+   "repoUrl": "https://github.com/Coach1973/nmda-1128",
+   "repo": "nmda-1128",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/nmda-1128",
+    "event.bymyway.com/curated/nmda-1128",
+    "event.bymyway.com/nmda-1128",
+    "nmda-1128.bymyway.com",
+    "nmda-1128.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-14",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-14",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kinmen-kitchen-1205",
+   "name": "秋瑩姐的金門私廚 × AI 餐桌｜12/6（日）KR 養生廚房",
+   "desc": "12/6（日）11:30–15:30，台南 KR 養生廚房。道地金門人秋瑩姐掌廚：金門廣東粥、金酒咖啡、戰地炒泡麵；餐前餐後茶席，邊吃邊聊手機 AI、音樂與藝術。每位 1,500 元，限 20 位。",
+   "url": "https://event.bymyway.com/curated/kinmen-kitchen-1206/",
+   "repoUrl": "https://github.com/Coach1973/kinmen-kitchen-1205",
+   "repo": "kinmen-kitchen-1205",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kinmen-kitchen-1205",
+    "event.bymyway.com/curated/kinmen-kitchen-1205",
+    "event.bymyway.com/curated/kinmen-kitchen-1206",
+    "event.bymyway.com/kinmen-kitchen-1205",
+    "kinmen-kitchen-1205.bymyway.com",
+    "kinmen-kitchen-1205.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-14",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-14",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "course-signup-playbook",
+   "name": "course-signup-playbook",
+   "desc": "",
+   "url": "https://coach1973.github.io/course-signup-playbook/",
+   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
+   "repo": "course-signup-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/course-signup-playbook",
+    "course-signup-playbook.bymyway.com",
+    "course-signup-playbook.netlify.app",
+    "event.bymyway.com/course-signup-playbook",
+    "event.bymyway.com/curated/course-signup-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-14",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bigtree",
+   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "url": "https://coach1973.github.io/bigtree/",
+   "repoUrl": "https://github.com/Coach1973/bigtree",
+   "repo": "bigtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree.bymyway.com",
+    "bigtree.netlify.app",
+    "coach1973.github.io/bigtree",
+    "event.bymyway.com/bigtree",
+    "event.bymyway.com/curated/bigtree"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-14",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "ai-image1202",
+   "name": "用AI優化個人形象和提高公司競爭力｜12/02（三）14:00–17:00｜台灣形象設計發展協會",
+   "desc": "12/02（三）14:00–17:00，台灣形象設計發展協會主辦。一個下午，學會用 AI 打理個人形象、提升公司競爭力。會員 NT$400／非會員 NT$600，線上報名。",
+   "url": "https://event.bymyway.com/curated/ai-image1202/",
+   "repoUrl": "https://github.com/Coach1973/ai-image1202",
+   "repo": "ai-image1202",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "ai-image1202.bymyway.com",
+    "ai-image1202.netlify.app",
+    "coach1973.github.io/ai-image1202",
+    "event.bymyway.com/ai-image1202",
+    "event.bymyway.com/curated/ai-image1202"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-14",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "zou-kuo-su",
+   "name": "鄒國蘇醫師｜陪孩子把潛能找回來的早療推手",
+   "desc": "鄒國蘇醫師，臺北市立聯合醫院中興院區兒童發展評估療育中心兼任主治醫師、全球健康發展協會理事長，投入兒童發展早期療育逾四十年，第一屆早療棕櫚獎得主。",
+   "url": "https://event.bymyway.com/curated/zou-kuo-su/",
    "repoUrl": "https://github.com/Coach1973/zou-kuo-su",
    "repo": "zou-kuo-su",
    "private": true,
@@ -17,12 +252,14 @@
     "zou-kuo-su.bymyway.com",
     "zou-kuo-su.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-13",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
+   "aliases": [
+    "鄒醫師"
+   ]
   },
   {
    "id": "zhou-ruiqi",
@@ -43,17 +280,17 @@
    "cat": "策展・育",
    "updated": "2026-11-13",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "布創辦人"
    ]
   },
   {
    "id": "zhang-jiaren",
-   "name": "zhang-jiaren",
-   "desc": "",
-   "url": "https://github.com/Coach1973/zhang-jiaren",
+   "name": "張嘉仁顧問｜iSquare 愛斯奎科技管理顧問工作室",
+   "desc": "張嘉仁顧問，愛斯奎科技管理顧問工作室（iSquare）創辦人暨產業顧問。前金屬中心計畫主持人、APIAA 認證產業分析師，30 年以上研發創新、產業分析與政府補助計畫輔導經驗。",
+   "url": "https://event.bymyway.com/curated/zhang-jiaren/",
    "repoUrl": "https://github.com/Coach1973/zhang-jiaren",
    "repo": "zhang-jiaren",
    "private": true,
@@ -65,9 +302,9 @@
     "zhang-jiaren.bymyway.com",
     "zhang-jiaren.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-13",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -229,8 +466,8 @@
    "cat": "策展・衣",
    "updated": "2026-11-13",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -252,8 +489,8 @@
    "cat": "策展・衣",
    "updated": "2026-11-13",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -282,29 +519,6 @@
    ]
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-13",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "ohth-at-aj",
    "name": "莊哲昀 AJ｜把學 AI 變得像喝水一樣簡單",
    "desc": "莊哲昀（AJ），那個數位有限公司執行長、Google Gemini 官方認證講師、《欸那個AJ》YouTube 頻道主持人。十五年數位教學，陪伴上百家企業與公部門把生成式 AI 帶進日常工作。",
@@ -323,57 +537,11 @@
    "cat": "策展・樂",
    "updated": "2026-11-13",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "頻主持人"
    ]
-  },
-  {
-   "id": "nmda-1128",
-   "name": "nmda-1128",
-   "desc": "",
-   "url": "https://github.com/Coach1973/nmda-1128",
-   "repoUrl": "https://github.com/Coach1973/nmda-1128",
-   "repo": "nmda-1128",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/nmda-1128",
-    "event.bymyway.com/curated/nmda-1128",
-    "event.bymyway.com/nmda-1128",
-    "nmda-1128.bymyway.com",
-    "nmda-1128.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-13",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-13",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "lovingfamily",
@@ -440,17 +608,17 @@
    "cat": "策展・樂",
    "updated": "2026-11-13",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "連老師"
    ]
   },
   {
    "id": "li-wen-cai",
-   "name": "li-wen-cai",
-   "desc": "",
-   "url": "https://github.com/Coach1973/li-wen-cai",
+   "name": "李文財｜點亮青年創業的高雄青創推手",
+   "desc": "李文財：高雄市創新創業協會名譽理事長、全國創新創業總會南區區會長、以諾科技負責人。從 LED 照明、太陽光電到青年創業陪跑。",
+   "url": "https://event.bymyway.com/curated/li-wen-cai/",
    "repoUrl": "https://github.com/Coach1973/li-wen-cai",
    "repo": "li-wen-cai",
    "private": true,
@@ -462,9 +630,9 @@
     "li-wen-cai.bymyway.com",
     "li-wen-cai.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-13",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -488,8 +656,8 @@
    "cat": "策展・樂",
    "updated": "2026-11-13",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -516,30 +684,6 @@
    "aliases": []
   },
   {
-   "id": "kinmen-kitchen-1205",
-   "name": "秋瑩姐的金門私廚 × AI 餐桌｜12/6（日）KR 養生廚房",
-   "desc": "12/6（日）11:30–15:30，台南 KR 養生廚房。道地金門人秋瑩姐掌廚：金門廣東粥、金酒咖啡、戰地炒泡麵；餐前餐後茶席，邊吃邊聊手機 AI、音樂與藝術。每位 1,500 元，限 20 位。",
-   "url": "https://event.bymyway.com/curated/kinmen-kitchen-1206/",
-   "repoUrl": "https://github.com/Coach1973/kinmen-kitchen-1205",
-   "repo": "kinmen-kitchen-1205",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kinmen-kitchen-1205",
-    "event.bymyway.com/curated/kinmen-kitchen-1205",
-    "event.bymyway.com/curated/kinmen-kitchen-1206",
-    "event.bymyway.com/kinmen-kitchen-1205",
-    "kinmen-kitchen-1205.bymyway.com",
-    "kinmen-kitchen-1205.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "jiang-yilun",
    "name": "江宜倫老師｜鋼琴・歌唱老師・《音樂。人生。診聊室》主持人",
    "desc": "台中音樂課工作室江宜倫（泡芙老師 Eleen）：鋼琴、歌唱、古箏、小提琴教學，Podcast《音樂。人生。診聊室》主持人，BNI 大台南南區真誠線上分會夥伴。",
@@ -558,8 +702,8 @@
    "cat": "策展・樂",
    "updated": "2026-11-13",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "歌老師",
     "江老師",
@@ -608,8 +752,8 @@
    "cat": "策展・樂",
    "updated": "2026-11-13",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -700,8 +844,8 @@
    "cat": "策展・育",
    "updated": "2026-11-13",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -799,29 +943,6 @@
    ]
   },
   {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-12",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "peipei1983",
    "name": "陳佩君｜讓音樂走進生活",
    "desc": "鋼琴家、音樂教育家陳佩君。從鋼琴演奏、合作藝術到音樂策展，讓音樂走進生活。",
@@ -840,8 +961,8 @@
    "cat": "策展・育",
    "updated": "2026-11-12",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -933,34 +1054,9 @@
    "cat": "策展・樂",
    "updated": "2026-11-12",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
-  },
-  {
-   "id": "go",
-   "name": "大樹入口",
-   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
-   "url": "https://event.bymyway.com/curated/go/",
-   "repoUrl": "https://github.com/Coach1973/go",
-   "repo": "go",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/go",
-    "event.bymyway.com/curated/go",
-    "event.bymyway.com/go",
-    "go.bymyway.com",
-    "go.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-12",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "chen-alice",
@@ -1081,29 +1177,6 @@
    "aliases": []
   },
   {
-   "id": "tainan-shangquan",
-   "name": "tainan-shangquan",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "dashu-coach-ai-lessons",
    "name": "大樹教練的 AI 經驗庫 - 記錄所有 AI 相關踩坑與解決方案",
    "desc": "大樹教練的 AI 經驗庫 - 記錄所有 AI 相關踩坑與解決方案",
@@ -1175,31 +1248,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "bigtree",
-   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "url": "https://coach1973.github.io/bigtree/",
-   "repoUrl": "https://github.com/Coach1973/bigtree",
-   "repo": "bigtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bigtree.bymyway.com",
-    "bigtree.netlify.app",
-    "coach1973.github.io/bigtree",
-    "event.bymyway.com/bigtree",
-    "event.bymyway.com/curated/bigtree"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "zhu-zhicheng",
@@ -1384,52 +1432,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-09",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "ai-image1202",
-   "name": "用AI優化個人形象和提高公司競爭力｜12/02（三）14:00–17:00｜台灣形象設計發展協會",
-   "desc": "12/02（三）14:00–17:00，台灣形象設計發展協會主辦。一個下午，學會用 AI 打理個人形象、提升公司競爭力。會員 NT$400／非會員 NT$600，線上報名。",
-   "url": "https://event.bymyway.com/curated/ai-image1202/",
-   "repoUrl": "https://github.com/Coach1973/ai-image1202",
-   "repo": "ai-image1202",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "ai-image1202.bymyway.com",
-    "ai-image1202.netlify.app",
-    "coach1973.github.io/ai-image1202",
-    "event.bymyway.com/ai-image1202",
-    "event.bymyway.com/curated/ai-image1202"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-09",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "course-signup-playbook",
-   "name": "course-signup-playbook",
-   "desc": "",
-   "url": "https://coach1973.github.io/course-signup-playbook/",
-   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
-   "repo": "course-signup-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/course-signup-playbook",
-    "course-signup-playbook.bymyway.com",
-    "course-signup-playbook.netlify.app",
-    "event.bymyway.com/course-signup-playbook",
-    "event.bymyway.com/curated/course-signup-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-08",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -1900,8 +1902,8 @@
    "cat": "策展・育",
    "updated": "2026-11-03",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2117,8 +2119,8 @@
    "cat": "策展・衣",
    "updated": "2026-10-30",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "小老師"
    ]
@@ -2355,8 +2357,8 @@
    "cat": "策展・育",
    "updated": "2026-10-29",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "創理事長"
    ]
@@ -2380,8 +2382,8 @@
    "cat": "策展・樂",
    "updated": "2026-10-29",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2542,8 +2544,8 @@
    "cat": "策展・育",
    "updated": "2026-10-29",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "大教練"
    ]
@@ -2590,8 +2592,8 @@
    "cat": "策展・育",
    "updated": "2026-10-28",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2637,8 +2639,8 @@
    "cat": "策展・育",
    "updated": "2026-10-26",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2733,8 +2735,8 @@
    "cat": "策展・樂",
    "updated": "2026-10-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "余博士"
    ]
@@ -2758,8 +2760,8 @@
    "cat": "策展・育",
    "updated": "2026-10-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2781,8 +2783,8 @@
    "cat": "策展・樂",
    "updated": "2026-10-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "蘇老師"
    ]
@@ -2806,8 +2808,8 @@
    "cat": "策展・衣",
    "updated": "2026-10-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2829,8 +2831,8 @@
    "cat": "策展・樂",
    "updated": "2026-10-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2852,8 +2854,8 @@
    "cat": "策展・衣",
    "updated": "2026-10-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "年理事長",
     "林博士"
@@ -2901,8 +2903,8 @@
    "cat": "策展・食",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2925,8 +2927,8 @@
    "cat": "策展・育",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2948,8 +2950,8 @@
    "cat": "策展・樂",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -3064,8 +3066,8 @@
    "cat": "策展・食",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "曾博士"
    ]
@@ -3089,8 +3091,8 @@
    "cat": "策展・衣",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "第主持人"
    ]
@@ -3137,8 +3139,8 @@
    "cat": "策展・樂",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -3183,8 +3185,8 @@
    "cat": "策展・育",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "陳老師"
    ]
@@ -3277,8 +3279,8 @@
    "cat": "策展・育",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -3300,8 +3302,8 @@
    "cat": "策展・樂",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": [
     "昆老師"
    ]
@@ -3325,8 +3327,8 @@
    "cat": "策展・樂",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -3555,8 +3557,8 @@
    "cat": "策展・樂",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -3648,8 +3650,8 @@
    "cat": "策展・衣",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -3812,8 +3814,8 @@
    "cat": "策展・食",
    "updated": "2026-10-24",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -6375,5 +6377,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-13T08:30:25Z"
+ "generated": "2026-11-14T11:47:06Z"
 }
