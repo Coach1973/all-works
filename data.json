@@ -48,6 +48,29 @@
    "aliases": []
   },
   {
+   "id": "run5k",
+   "name": "把五公里變成公益夜市｜2027 順發 × 港都公益路跑・五公里公益商業市集",
+   "desc": "2027 RUN FOR FUTURE 第五屆順發 × 港都公益路跑，4 月 18 日在高雄港灣文化廊帶（駁二 × 高流）開跑。五公里公益商業市集暨企業資源共享平台：品牌曝光、產品進駐、找廠商、找人才，讓品牌被看見，讓資源找到彼此。",
+   "url": "https://event.bymyway.com/curated/run5k/",
+   "repoUrl": "https://github.com/Coach1973/run5k",
+   "repo": "run5k",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/run5k",
+    "event.bymyway.com/curated/run5k",
+    "event.bymyway.com/run5k",
+    "run5k.bymyway.com",
+    "run5k.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-14",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -189,6 +212,29 @@
    "aliases": []
   },
   {
+   "id": "coach888",
+   "name": "coach888",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-14",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "bigtree",
    "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
    "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
@@ -212,6 +258,29 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-14",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "ai-image1202",
@@ -780,29 +849,6 @@
    "aliases": []
   },
   {
-   "id": "coach888",
-   "name": "coach888",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-13",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "chuanfeng",
    "name": "陳川豐 總經理｜凱景實業・把鋼板烤出顏色的人",
    "desc": "陳川豐，凱景實業股份有限公司總經理、高雄臨海產業園區廠商協進會下屆理事長。凱景集團第二代，延續父母自 1969 年起的「誠信勤成」，把冷冰冰的鋼，烤出顏色。",
@@ -846,29 +892,6 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-13",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -6377,5 +6400,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-14T11:47:06Z"
+ "generated": "2026-11-14T14:35:09Z"
 }
