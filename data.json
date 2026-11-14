@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "tidda",
+   "name": "台灣形象設計發展協會｜Taiwan Image Design Development Association",
+   "desc": "台灣形象設計發展協會（2017 年成立）整合美業專業、教育培訓、人脈連結與舞台曝光，推動形象設計與國際禮儀美學。現任理事長 林家旭 博士。",
+   "url": "https://event.bymyway.com/curated/tidda/",
+   "repoUrl": "https://github.com/Coach1973/tidda",
+   "repo": "tidda",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tidda",
+    "event.bymyway.com/curated/tidda",
+    "event.bymyway.com/tidda",
+    "tidda.bymyway.com",
+    "tidda.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-15",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "taipeiema1017",
    "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
    "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
@@ -6423,5 +6446,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-14T17:08:11Z"
+ "generated": "2026-11-14T18:07:23Z"
 }
