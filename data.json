@@ -2,6 +2,31 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "team-invite-muse",
+   "name": "大樹教練團隊邀請函｜30 分鐘合作洽談快速預約",
+   "desc": "大樹教練誠摯邀請您撥 30 分鐘，聊聊一起合作的機會。想進一步了解就挑一個最近兩三天線上的 30 分鐘，現階段沒辦法也可以一鍵婉拒。",
+   "url": "https://event.bymyway.com/curated/team-invite-muse/",
+   "repoUrl": "https://github.com/Coach1973/team-invite-muse",
+   "repo": "team-invite-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/team-invite-muse",
+    "event.bymyway.com/curated/team-invite-muse",
+    "event.bymyway.com/team-invite-muse",
+    "team-invite-muse.bymyway.com",
+    "team-invite-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -234,6 +259,29 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-15",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "tava-brand-web-playbook",
@@ -530,29 +578,6 @@
     "coach1973.github.io/association-site-playbook",
     "event.bymyway.com/association-site-playbook",
     "event.bymyway.com/curated/association-site-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-14",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-14",
@@ -6469,5 +6494,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-15T15:51:49Z"
+ "generated": "2026-11-15T16:02:16Z"
 }
