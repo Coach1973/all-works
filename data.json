@@ -142,6 +142,54 @@
    "aliases": []
   },
   {
+   "id": "rs-demo",
+   "name": "反向技能書 14 招示範",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/rs-demo/",
+   "repoUrl": "https://github.com/Coach1973/rs-demo",
+   "repo": "rs-demo",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rs-demo",
+    "event.bymyway.com/curated/rs-demo",
+    "event.bymyway.com/rs-demo",
+    "rs-demo.bymyway.com",
+    "rs-demo.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "reverse-skill",
+   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
+   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
+   "url": "https://event.bymyway.com/curated/reverse-skill/",
+   "repoUrl": "https://github.com/Coach1973/reverse-skill",
+   "repo": "reverse-skill",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/reverse-skill",
+    "event.bymyway.com/curated/reverse-skill",
+    "event.bymyway.com/reverse-skill",
+    "reverse-skill.bymyway.com",
+    "reverse-skill.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "peipei-ai-backup",
    "name": "peipei-ai-backup",
    "desc": "",
@@ -183,6 +231,29 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-11-16",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "li-meifen",
+   "name": "李美芬｜政府與企業間最堅實的橋樑",
+   "desc": "李美芬：高雄市職能發展協會理事長、宸霖智權科技總經理、慶霖智權科技董事。23 年企業輔導經驗，陪伴 300 餘家企業成長，114 年度帶領高雄團隊勇奪全國第一。",
+   "url": "https://event.bymyway.com/curated/li-meifen/",
+   "repoUrl": "https://github.com/Coach1973/li-meifen",
+   "repo": "li-meifen",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/li-meifen",
+    "event.bymyway.com/curated/li-meifen",
+    "event.bymyway.com/li-meifen",
+    "li-meifen.bymyway.com",
+    "li-meifen.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-16",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -2020,54 +2091,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "rs-demo",
-   "name": "反向技能書 14 招示範",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/rs-demo/",
-   "repoUrl": "https://github.com/Coach1973/rs-demo",
-   "repo": "rs-demo",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rs-demo",
-    "event.bymyway.com/curated/rs-demo",
-    "event.bymyway.com/rs-demo",
-    "rs-demo.bymyway.com",
-    "rs-demo.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-03",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "reverse-skill",
-   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
-   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
-   "url": "https://event.bymyway.com/curated/reverse-skill/",
-   "repoUrl": "https://github.com/Coach1973/reverse-skill",
-   "repo": "reverse-skill",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/reverse-skill",
-    "event.bymyway.com/curated/reverse-skill",
-    "event.bymyway.com/reverse-skill",
-    "reverse-skill.bymyway.com",
-    "reverse-skill.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-03",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "patrick-chu",
@@ -6540,5 +6563,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-16T06:37:46Z"
+ "generated": "2026-11-16T08:38:09Z"
 }
