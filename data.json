@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "zeng-siyuan",
+   "name": "曾思遠 Giga｜把 AI Agent 放進企業的日常工作流",
+   "desc": "曾思遠 Giga：AI Agent 企業導入顧問、企業內訓講師，旋宇科技（Nautilus AI）執行長。工程師的手、交易員的腦、老師的嘴，近 20 年把複雜的東西做成別人用得起來的產品。",
+   "url": "https://event.bymyway.com/curated/zeng-siyuan/",
+   "repoUrl": "https://github.com/Coach1973/zeng-siyuan",
+   "repo": "zeng-siyuan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zeng-siyuan",
+    "event.bymyway.com/curated/zeng-siyuan",
+    "event.bymyway.com/zeng-siyuan",
+    "zeng-siyuan.bymyway.com",
+    "zeng-siyuan.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yu-ruiming-muse",
    "name": "余瑞銘｜三十年陪台灣小店開店的創業顧問",
    "desc": "余瑞銘：乙太未來商業顧問總經理、中華流通顧問協會創會理事長。三十年連鎖加盟實務，輔導上千家中小企業與青年創業者開店。",
@@ -6586,5 +6609,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-16T10:13:32Z"
+ "generated": "2026-11-16T10:42:59Z"
 }
