@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "yu-ruiming-muse",
+   "name": "余瑞銘｜三十年陪台灣小店開店的創業顧問",
+   "desc": "余瑞銘：乙太未來商業顧問總經理、中華流通顧問協會創會理事長。三十年連鎖加盟實務，輔導上千家中小企業與青年創業者開店。",
+   "url": "https://event.bymyway.com/curated/yu-ruiming-muse/",
+   "repoUrl": "https://github.com/Coach1973/yu-ruiming-muse",
+   "repo": "yu-ruiming-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yu-ruiming-muse",
+    "event.bymyway.com/curated/yu-ruiming-muse",
+    "event.bymyway.com/yu-ruiming-muse",
+    "yu-ruiming-muse.bymyway.com",
+    "yu-ruiming-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yu-ruiming",
    "name": "余瑞銘｜流通顧問・創業導師・AI 應用企業顧問",
    "desc": "余瑞銘（Jack Yu），乙太未來商業顧問總經理、社團法人中華流通顧問協會創會理事長。30 年實戰經驗，把開店變成一門有公式的學問。",
@@ -18,6 +41,29 @@
     "yu-ruiming.netlify.app"
    ],
    "cat": "教練個人創作",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "women-reepmployment",
+   "name": "婦女再就業補助｜離開職場半年以上，學新技能政府發你最高 3 萬元",
+   "desc": "勞動部婦女再就業計畫：18 歲以上、退出職場 180 天以上的婦女，上課 8 小時以上、結訓求職登記就發 2 萬，180 天內就業或創業再發 1 萬。30 秒快篩看看你符不符合！",
+   "url": "https://event.bymyway.com/curated/women-reepmployment/",
+   "repoUrl": "https://github.com/Coach1973/women-reepmployment",
+   "repo": "women-reepmployment",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/women-reepmployment",
+    "event.bymyway.com/curated/women-reepmployment",
+    "event.bymyway.com/women-reepmployment",
+    "women-reepmployment.bymyway.com",
+    "women-reepmployment.netlify.app"
+   ],
+   "cat": "策展・樂",
    "updated": "2026-11-16",
    "inRegistry": true,
    "delisted": false,
@@ -48,6 +94,29 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "tava-to-claude",
+   "name": "手機做網頁｜TAVA 交給 Claude",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-to-claude/",
+   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
+   "repo": "tava-to-claude",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-to-claude",
+    "event.bymyway.com/curated/tava-to-claude",
+    "event.bymyway.com/tava-to-claude",
+    "tava-to-claude.bymyway.com",
+    "tava-to-claude.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "social-club",
@@ -119,6 +188,31 @@
    "aliases": []
   },
   {
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "coach888",
    "name": "大樹AI作品總覽（個人專用）",
    "desc": "",
@@ -133,6 +227,29 @@
     "coach888.netlify.app",
     "event.bymyway.com/coach888",
     "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-16",
@@ -211,29 +328,6 @@
    "aliases": []
   },
   {
-   "id": "tava-to-claude",
-   "name": "手機做網頁｜TAVA 交給 Claude",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-to-claude/",
-   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
-   "repo": "tava-to-claude",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-to-claude",
-    "event.bymyway.com/curated/tava-to-claude",
-    "event.bymyway.com/tava-to-claude",
-    "tava-to-claude.bymyway.com",
-    "tava-to-claude.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "kong-ai-backup",
    "name": "kong-ai-backup",
    "desc": "",
@@ -255,31 +349,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "go",
-   "name": "大樹入口",
-   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
-   "url": "https://event.bymyway.com/curated/go/",
-   "repoUrl": "https://github.com/Coach1973/go",
-   "repo": "go",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/go",
-    "event.bymyway.com/curated/go",
-    "event.bymyway.com/go",
-    "go.bymyway.com",
-    "go.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-15",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "bni-story",
@@ -305,29 +374,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "tava-brand-web-playbook",
@@ -2524,29 +2570,6 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
-   "id": "women-reepmployment",
-   "name": "婦女再就業補助｜離開職場半年以上，學新技能政府發你最高 3 萬元",
-   "desc": "勞動部婦女再就業計畫：18 歲以上、退出職場 180 天以上的婦女，上課 8 小時以上、結訓求職登記就發 2 萬，180 天內就業或創業再發 1 萬。30 秒快篩看看你符不符合！",
-   "url": "https://event.bymyway.com/curated/women-reepmployment/",
-   "repoUrl": "https://github.com/Coach1973/women-reepmployment",
-   "repo": "women-reepmployment",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/women-reepmployment",
-    "event.bymyway.com/curated/women-reepmployment",
-    "event.bymyway.com/women-reepmployment",
-    "women-reepmployment.bymyway.com",
-    "women-reepmployment.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-29",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -6517,5 +6540,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-16T02:46:50Z"
+ "generated": "2026-11-16T06:37:46Z"
 }
