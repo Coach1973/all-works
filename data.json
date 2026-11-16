@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "yu-ruiming",
+   "name": "余瑞銘｜流通顧問・創業導師・AI 應用企業顧問",
+   "desc": "余瑞銘（Jack Yu），乙太未來商業顧問總經理、社團法人中華流通顧問協會創會理事長。30 年實戰經驗，把開店變成一門有公式的學問。",
+   "url": "https://event.bymyway.com/curated/yu-ruiming/",
+   "repoUrl": "https://github.com/Coach1973/yu-ruiming",
+   "repo": "yu-ruiming",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yu-ruiming",
+    "event.bymyway.com/curated/yu-ruiming",
+    "event.bymyway.com/yu-ruiming",
+    "yu-ruiming.bymyway.com",
+    "yu-ruiming.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "team-invite-muse",
    "name": "大樹教練團隊邀請函｜30 分鐘合作洽談快速預約",
    "desc": "大樹教練誠摯邀請您撥 30 分鐘，聊聊一起合作的機會。想進一步了解就挑一個最近兩三天線上的 30 分鐘，現階段沒辦法也可以一鍵婉拒。",
@@ -25,6 +48,98 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "大樹AI作品總覽（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-16",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "yijing-ai-backup",
@@ -119,52 +234,6 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "kong-ai-backup",
    "name": "kong-ai-backup",
    "desc": "",
@@ -211,29 +280,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "coach888",
-   "name": "大樹AI作品總覽（個人專用）",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "bni-story",
@@ -699,29 +745,6 @@
     "wufan.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-11-13",
    "inRegistry": true,
    "delisted": false,
@@ -6494,5 +6517,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-15T16:02:16Z"
+ "generated": "2026-11-16T02:46:50Z"
 }
