@@ -2,6 +2,307 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhou-liangdun",
+   "name": "周良敦｜一字一佛的國寶級書法家",
+   "desc": "周良敦，1951 年生於花蓮，師事陳其銓。以《法華經》六萬九千兩百八十四字書成佛陀法相，楷書《論語》孔子聖像圖獲臺北故宮典藏；近三十年在臺中監獄教書法，奉行「人品為上，書法次之」。",
+   "url": "https://event.bymyway.com/curated/zhou-liangdun/",
+   "repoUrl": "https://github.com/Coach1973/zhou-liangdun",
+   "repo": "zhou-liangdun",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhou-liangdun",
+    "event.bymyway.com/curated/zhou-liangdun",
+    "event.bymyway.com/zhou-liangdun",
+    "zhou-liangdun.bymyway.com",
+    "zhou-liangdun.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-17",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tava-to-claude",
+   "name": "手機做網頁｜TAVA 交給 Claude",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-to-claude/",
+   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
+   "repo": "tava-to-claude",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-to-claude",
+    "event.bymyway.com/curated/tava-to-claude",
+    "event.bymyway.com/tava-to-claude",
+    "tava-to-claude.bymyway.com",
+    "tava-to-claude.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tava-brand-web-playbook",
+   "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "大臺南商圈整合計劃 · 大台南策展中心",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-17",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "rs-demo",
+   "name": "反向技能書 14 招示範",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/rs-demo/",
+   "repoUrl": "https://github.com/Coach1973/rs-demo",
+   "repo": "rs-demo",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rs-demo",
+    "event.bymyway.com/curated/rs-demo",
+    "event.bymyway.com/rs-demo",
+    "rs-demo.bymyway.com",
+    "rs-demo.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-17",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "reverse-skill",
+   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
+   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
+   "url": "https://event.bymyway.com/curated/reverse-skill/",
+   "repoUrl": "https://github.com/Coach1973/reverse-skill",
+   "repo": "reverse-skill",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/reverse-skill",
+    "event.bymyway.com/curated/reverse-skill",
+    "event.bymyway.com/reverse-skill",
+    "reverse-skill.bymyway.com",
+    "reverse-skill.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-17",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "qiu-weihuang",
+   "name": "邱偉晃 Andy｜卡堤咖啡有限公司負責人",
+   "desc": "邱偉晃 Andy Chiu，卡堤咖啡有限公司負責人。1991 年起以專業教學在餐飲界服務，1999 年創立卡堤咖啡，著有調酒、咖啡、茶飲、冰沙四本飲品專書。",
+   "url": "https://event.bymyway.com/curated/qiu-weihuang/",
+   "repoUrl": "https://github.com/Coach1973/qiu-weihuang",
+   "repo": "qiu-weihuang",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/qiu-weihuang",
+    "event.bymyway.com/curated/qiu-weihuang",
+    "event.bymyway.com/qiu-weihuang",
+    "qiu-weihuang.bymyway.com",
+    "qiu-weihuang.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-17",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "course-signup-playbook",
+   "name": "課程推廣報名網頁｜開工指令與製作經驗",
+   "desc": "",
+   "url": "https://coach1973.github.io/course-signup-playbook/",
+   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
+   "repo": "course-signup-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/course-signup-playbook",
+    "course-signup-playbook.bymyway.com",
+    "course-signup-playbook.netlify.app",
+    "event.bymyway.com/course-signup-playbook",
+    "event.bymyway.com/curated/course-signup-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "大樹AI作品總覽（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "association-site-playbook",
+   "name": "協會官網｜開工指令與製作經驗",
+   "desc": "協會官網｜開工指令與製作經驗",
+   "url": "https://coach1973.github.io/association-site-playbook/",
+   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
+   "repo": "association-site-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "association-site-playbook.bymyway.com",
+    "association-site-playbook.netlify.app",
+    "coach1973.github.io/association-site-playbook",
+    "event.bymyway.com/association-site-playbook",
+    "event.bymyway.com/curated/association-site-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zeng-siyuan-muse",
    "name": "曾思遠 Giga｜把複雜的東西，做成別人用得起來的產品",
    "desc": "曾思遠（Giga）個人品牌網頁：AI Agent 企業導入顧問、旋宇科技執行長、Giga AI Studio 主持人、學思科技創辦人。",
@@ -142,75 +443,6 @@
    ]
   },
   {
-   "id": "tava-to-claude",
-   "name": "手機做網頁｜TAVA 交給 Claude",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-to-claude/",
-   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
-   "repo": "tava-to-claude",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-to-claude",
-    "event.bymyway.com/curated/tava-to-claude",
-    "event.bymyway.com/tava-to-claude",
-    "tava-to-claude.bymyway.com",
-    "tava-to-claude.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-16",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tava-brand-web-playbook",
-   "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-16",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "skyteam",
    "name": "人才軍火庫顧問師天團",
    "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
@@ -234,20 +466,66 @@
    "aliases": []
   },
   {
-   "id": "rs-demo",
-   "name": "反向技能書 14 招示範",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/rs-demo/",
-   "repoUrl": "https://github.com/Coach1973/rs-demo",
-   "repo": "rs-demo",
+   "id": "rongtree",
+   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
+   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
+   "url": "https://event.bymyway.com/curated/rongtree/",
+   "repoUrl": "https://github.com/Coach1973/rongtree",
+   "repo": "rongtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rongtree",
+    "event.bymyway.com/curated/rongtree",
+    "event.bymyway.com/rongtree",
+    "rongtree.bymyway.com",
+    "rongtree.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "richrd-tsai",
+   "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
+   "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
+   "url": "https://event.bymyway.com/curated/richrd-tsai/",
+   "repoUrl": "https://github.com/Coach1973/richrd-tsai",
+   "repo": "richrd-tsai",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/richrd-tsai",
+    "event.bymyway.com/curated/richrd-tsai",
+    "event.bymyway.com/richrd-tsai",
+    "richrd-tsai.bymyway.com",
+    "richrd-tsai.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-11-16",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "lia-chih-ming",
+   "name": "賴志明｜漢唐集成總經理・台灣高科技廠房設施協會理事長",
+   "desc": "賴志明，漢唐集成（2404）總經理、台灣高科技廠房設施協會（HTFA）第三屆理事長。從台積電新廠規劃、千附實業總經理到帶領漢唐全球建廠。",
+   "url": "https://event.bymyway.com/curated/lia-chih-ming/",
+   "repoUrl": "https://github.com/Coach1973/lia-chih-ming",
+   "repo": "lia-chih-ming",
    "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/rs-demo",
-    "event.bymyway.com/curated/rs-demo",
-    "event.bymyway.com/rs-demo",
-    "rs-demo.bymyway.com",
-    "rs-demo.netlify.app"
+    "coach1973.github.io/lia-chih-ming",
+    "event.bymyway.com/curated/lia-chih-ming",
+    "event.bymyway.com/lia-chih-ming",
+    "lia-chih-ming.bymyway.com",
+    "lia-chih-ming.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-16",
@@ -257,72 +535,24 @@
    "aliases": []
   },
   {
-   "id": "reverse-skill",
-   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
-   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
-   "url": "https://event.bymyway.com/curated/reverse-skill/",
-   "repoUrl": "https://github.com/Coach1973/reverse-skill",
-   "repo": "reverse-skill",
+   "id": "li-wen-cai",
+   "name": "李文財｜點亮青年創業的高雄青創推手",
+   "desc": "李文財：高雄市創新創業協會名譽理事長、全國創新創業總會南區區會長、以諾科技負責人。從 LED 照明、太陽光電到青年創業陪跑。",
+   "url": "https://event.bymyway.com/curated/li-wen-cai/",
+   "repoUrl": "https://github.com/Coach1973/li-wen-cai",
+   "repo": "li-wen-cai",
    "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/reverse-skill",
-    "event.bymyway.com/curated/reverse-skill",
-    "event.bymyway.com/reverse-skill",
-    "reverse-skill.bymyway.com",
-    "reverse-skill.netlify.app"
+    "coach1973.github.io/li-wen-cai",
+    "event.bymyway.com/curated/li-wen-cai",
+    "event.bymyway.com/li-wen-cai",
+    "li-wen-cai.bymyway.com",
+    "li-wen-cai.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-16",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-16",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-16",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -374,75 +604,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "course-signup-playbook",
-   "name": "課程推廣報名網頁｜開工指令與製作經驗",
-   "desc": "",
-   "url": "https://coach1973.github.io/course-signup-playbook/",
-   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
-   "repo": "course-signup-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/course-signup-playbook",
-    "course-signup-playbook.bymyway.com",
-    "course-signup-playbook.netlify.app",
-    "event.bymyway.com/course-signup-playbook",
-    "event.bymyway.com/curated/course-signup-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-16",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "大樹AI作品總覽（個人專用）",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-16",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "association-site-playbook",
-   "name": "協會官網｜開工指令與製作經驗",
-   "desc": "協會官網｜開工指令與製作經驗",
-   "url": "https://coach1973.github.io/association-site-playbook/",
-   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
-   "repo": "association-site-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "association-site-playbook.bymyway.com",
-    "association-site-playbook.netlify.app",
-    "coach1973.github.io/association-site-playbook",
-    "event.bymyway.com/association-site-playbook",
-    "event.bymyway.com/curated/association-site-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-16",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "all-works",
@@ -608,29 +769,6 @@
    "aliases": []
   },
   {
-   "id": "tainan-shangquan",
-   "name": "大臺南商圈整合計劃 · 大台南策展中心",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-14",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "run5k",
    "name": "把五公里變成公益夜市｜2027 順發 × 港都公益路跑・五公里公益商業市集",
    "desc": "2027 RUN FOR FUTURE 第五屆順發 × 港都公益路跑，4 月 18 日在高雄港灣文化廊帶（駁二 × 高流）開跑。五公里公益商業市集暨企業資源共享平台：品牌曝光、產品進駐、找廠商、找人才，讓品牌被看見，讓資源找到彼此。",
@@ -647,29 +785,6 @@
     "run5k.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-11-14",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "rongtree",
-   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
-   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
-   "url": "https://event.bymyway.com/curated/rongtree/",
-   "repoUrl": "https://github.com/Coach1973/rongtree",
-   "repo": "rongtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rongtree",
-    "event.bymyway.com/curated/rongtree",
-    "event.bymyway.com/rongtree",
-    "rongtree.bymyway.com",
-    "rongtree.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-11-14",
    "inRegistry": true,
    "delisted": false,
@@ -984,29 +1099,6 @@
    "aliases": []
   },
   {
-   "id": "richrd-tsai",
-   "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
-   "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
-   "url": "https://event.bymyway.com/curated/richrd-tsai/",
-   "repoUrl": "https://github.com/Coach1973/richrd-tsai",
-   "repo": "richrd-tsai",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/richrd-tsai",
-    "event.bymyway.com/curated/richrd-tsai",
-    "event.bymyway.com/richrd-tsai",
-    "richrd-tsai.bymyway.com",
-    "richrd-tsai.netlify.app"
-   ],
-   "cat": "策展・衣",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
    "id": "reemployment",
    "name": "女性個人 IP 打造 × AI 製作網頁和主題曲｜婦女再就業課程 12/30 高雄・01/03 台南",
    "desc": "婦女再就業課程，12/30（三）高雄場、01/03（日）台南場，9:00–18:00 一天學完：施正益教你個人 IP 定位與 Gemini 文案、作圖、影片、平台經營；大樹教練帶你只用手機做出自己的網頁和主題曲。符合資格者上完課可申請 2 萬元。",
@@ -1126,29 +1218,6 @@
    "aliases": [
     "連老師"
    ]
-  },
-  {
-   "id": "li-wen-cai",
-   "name": "李文財｜點亮青年創業的高雄青創推手",
-   "desc": "李文財：高雄市創新創業協會名譽理事長、全國創新創業總會南區區會長、以諾科技負責人。從 LED 照明、太陽光電到青年創業陪跑。",
-   "url": "https://event.bymyway.com/curated/li-wen-cai/",
-   "repoUrl": "https://github.com/Coach1973/li-wen-cai",
-   "repo": "li-wen-cai",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/li-wen-cai",
-    "event.bymyway.com/curated/li-wen-cai",
-    "event.bymyway.com/li-wen-cai",
-    "li-wen-cai.bymyway.com",
-    "li-wen-cai.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "kueilan",
@@ -1788,29 +1857,6 @@
    "aliases": []
   },
   {
-   "id": "zhou-liangdun",
-   "name": "周良敦｜一字一佛的國寶級書法家",
-   "desc": "周良敦，1951 年生於花蓮，師事陳其銓。以《法華經》六萬九千兩百八十四字書成佛陀法相，楷書《論語》孔子聖像圖獲臺北故宮典藏；近三十年在臺中監獄教書法，奉行「人品為上，書法次之」。",
-   "url": "https://event.bymyway.com/curated/zhou-liangdun/",
-   "repoUrl": "https://github.com/Coach1973/zhou-liangdun",
-   "repo": "zhou-liangdun",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zhou-liangdun",
-    "event.bymyway.com/curated/zhou-liangdun",
-    "event.bymyway.com/zhou-liangdun",
-    "zhou-liangdun.bymyway.com",
-    "zhou-liangdun.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-06",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "zhong-junrong",
    "name": "鍾俊榮長老｜從長樂村出發的利他人生",
    "desc": "三發地產集團創辦人、中華民國全球台灣長樂禱告敬拜中心創辦人鍾俊榮長老：從屏東滿州長樂村的路邊出生，到百億事業與信仰翻轉，立志做故鄉永遠的義工。",
@@ -1898,29 +1944,6 @@
     "event.bymyway.com/liu-weihua",
     "liu-weihua.bymyway.com",
     "liu-weihua.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-06",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "lia-chih-ming",
-   "name": "賴志明｜漢唐集成總經理・台灣高科技廠房設施協會理事長",
-   "desc": "賴志明，漢唐集成（2404）總經理、台灣高科技廠房設施協會（HTFA）第三屆理事長。從台積電新廠規劃、千附實業總經理到帶領漢唐全球建廠。",
-   "url": "https://event.bymyway.com/curated/lia-chih-ming/",
-   "repoUrl": "https://github.com/Coach1973/lia-chih-ming",
-   "repo": "lia-chih-ming",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lia-chih-ming",
-    "event.bymyway.com/curated/lia-chih-ming",
-    "event.bymyway.com/lia-chih-ming",
-    "lia-chih-ming.bymyway.com",
-    "lia-chih-ming.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-06",
@@ -6609,5 +6632,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-16T10:42:59Z"
+ "generated": "2026-11-17T14:13:19Z"
 }
