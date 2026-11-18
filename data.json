@@ -261,6 +261,29 @@
    "aliases": []
   },
   {
+   "id": "huang-yuanmou-muse",
+   "name": "黃源謀｜府城導覽．法律出身的歷史說書人",
+   "desc": "黃源謀：臺南市國際導覽解說協會創會籌備召集人暨現任理事長，嘉南藥理大學觀光事業管理系專任助理教授。法律出身，走進府城老街，把歷史講給世界聽。",
+   "url": "https://event.bymyway.com/curated/huang-yuanmou-muse/",
+   "repoUrl": "https://github.com/Coach1973/huang-yuanmou-muse",
+   "repo": "huang-yuanmou-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/huang-yuanmou-muse",
+    "event.bymyway.com/curated/huang-yuanmou-muse",
+    "event.bymyway.com/huang-yuanmou-muse",
+    "huang-yuanmou-muse.bymyway.com",
+    "huang-yuanmou-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "hao-zhenping",
    "name": "郝振平 Bedouin Hao｜照相雞攝影工房創辦人・台南劇場攝影",
    "desc": "郝振平 Bedouin Hao，照相雞攝影工房創辦人兼藝術總監、南城當代書寫影像有限公司負責人。深耕台南的劇場與表演藝術攝影師，五大品牌部門、六個劇團與藝術節平面攝影合作，長榮大學推廣教育中心影像書課程講師。",
@@ -7172,5 +7195,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T18:49:27Z"
+ "generated": "2026-11-18T18:50:18Z"
 }
