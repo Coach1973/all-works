@@ -94,6 +94,31 @@
    "aliases": []
   },
   {
+   "id": "lin-fulang-muse",
+   "name": "林富郎｜千山律師事務所主持律師",
+   "desc": "林富郎：前台灣高等法院台南分院、台南地方法院及嘉義地方法院法官，25 年審判經驗，民國 111 年底退休，於台南安平開設千山律師事務所。",
+   "url": "https://event.bymyway.com/curated/lin-fulang-muse/",
+   "repoUrl": "https://github.com/Coach1973/lin-fulang-muse",
+   "repo": "lin-fulang-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lin-fulang-muse",
+    "event.bymyway.com/curated/lin-fulang-muse",
+    "event.bymyway.com/lin-fulang-muse",
+    "lin-fulang-muse.bymyway.com",
+    "lin-fulang-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "千律師"
+   ]
+  },
+  {
    "id": "li-ruihui-muse",
    "name": "李瑞惠｜有限責任台灣區綠能作物運銷合作社 — 讓田裡的好東西，被看見",
    "desc": "李瑞惠：有限責任台灣區綠能作物運銷合作社理事兼總經理。蓖麻樹籽與能源作物共同運銷、天敵昆蟲生物防治、品牌行銷與地方創生，從田裡做到市場。",
@@ -7009,5 +7034,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T18:10:09Z"
+ "generated": "2026-11-18T18:15:31Z"
 }
