@@ -96,6 +96,29 @@
    "aliases": []
   },
   {
+   "id": "qiu-yurong-muse",
+   "name": "邱裕榮｜二十年媒體閱歷，以 AI 賦能企業未來",
+   "desc": "邱裕榮：才榮數位總經理、AI 傳道學院創辦人、AI 媒體聯盟總編輯。二十多年財經記者與主持人，榮樹下節目與吳大樹談古論今聊家常。",
+   "url": "https://event.bymyway.com/curated/qiu-yurong-muse/",
+   "repoUrl": "https://github.com/Coach1973/qiu-yurong-muse",
+   "repo": "qiu-yurong-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/qiu-yurong-muse",
+    "event.bymyway.com/curated/qiu-yurong-muse",
+    "event.bymyway.com/qiu-yurong-muse",
+    "qiu-yurong-muse.bymyway.com",
+    "qiu-yurong-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "qiu-jinxiu",
    "name": "邱錦秀｜一本初衷，一盞溫暖的燈",
    "desc": "邱錦秀，臺南市家庭教育中心志工督導、警四分局志工中隊長。志工生涯近三十載，2019年雙金獎、2026年全國終身學習楷模教學者組優等。",
@@ -7080,5 +7103,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T18:27:35Z"
+ "generated": "2026-11-18T18:29:50Z"
 }
