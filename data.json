@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "liu-yaping",
+   "name": "劉雅萍｜世界旗袍皇后大會主席・臺南世旗理事長",
+   "desc": "劉雅萍，臺南市臺灣世界旗袍文化推展聯合會理事長、2025年世界旗袍皇后國際大賽大會主席。從台南村莊出發，以旗袍連結文化、城市與女性成長。",
+   "url": "https://event.bymyway.com/curated/liu-yaping/",
+   "repoUrl": "https://github.com/Coach1973/liu-yaping",
+   "repo": "liu-yaping",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/liu-yaping",
+    "event.bymyway.com/curated/liu-yaping",
+    "event.bymyway.com/liu-yaping",
+    "liu-yaping.bymyway.com",
+    "liu-yaping.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "li-ruihui-muse",
    "name": "李瑞惠｜有限責任台灣區綠能作物運銷合作社 — 讓田裡的好東西，被看見",
    "desc": "李瑞惠：有限責任台灣區綠能作物運銷合作社理事兼總經理。蓖麻樹籽與能源作物共同運銷、天敵昆蟲生物防治、品牌行銷與地方創生，從田裡做到市場。",
@@ -702,6 +725,78 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "diy-studio-workshop",
+   "name": "傘繩 DIY-3 專業研習教室 | 光線尺顧問有限公司",
+   "desc": "",
+   "url": "https://event.bymyway.com/DIY3/",
+   "repoUrl": "https://github.com/Coach1973/diy-studio-workshop",
+   "repo": "diy-studio-workshop",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/diy-studio-workshop",
+    "diy-studio-workshop.bymyway.com",
+    "diy-studio-workshop.netlify.app",
+    "event.bymyway.com/curated/diy-studio-workshop",
+    "event.bymyway.com/diy-studio-workshop",
+    "event.bymyway.com/diy3"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "diy-outdoor-workshop",
+   "name": "傘繩 DIY-2 戶外工作坊 | 光線尺顧問有限公司",
+   "desc": "",
+   "url": "https://event.bymyway.com/Outdoor/",
+   "repoUrl": "https://github.com/Coach1973/diy-outdoor-workshop",
+   "repo": "diy-outdoor-workshop",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/diy-outdoor-workshop",
+    "diy-outdoor-workshop.bymyway.com",
+    "diy-outdoor-workshop.netlify.app",
+    "event.bymyway.com/curated/diy-outdoor-workshop",
+    "event.bymyway.com/diy-outdoor-workshop",
+    "event.bymyway.com/outdoor"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "diy-knot-workshop",
+   "name": "結繩工作坊 3 小時手作體驗 | 光線尺顧問有限公司",
+   "desc": "",
+   "url": "https://event.bymyway.com/DIY/",
+   "repoUrl": "https://github.com/Coach1973/diy-knot-workshop",
+   "repo": "diy-knot-workshop",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/diy-knot-workshop",
+    "diy-knot-workshop.bymyway.com",
+    "diy-knot-workshop.netlify.app",
+    "event.bymyway.com/curated/diy-knot-workshop",
+    "event.bymyway.com/diy",
+    "event.bymyway.com/diy-knot-workshop"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -4429,30 +4524,6 @@
    "aliases": []
   },
   {
-   "id": "diy-studio-workshop",
-   "name": "傘繩 DIY-3 專業研習教室 | 光線尺顧問有限公司",
-   "desc": "",
-   "url": "https://event.bymyway.com/DIY3/",
-   "repoUrl": "https://github.com/Coach1973/diy-studio-workshop",
-   "repo": "diy-studio-workshop",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/diy-studio-workshop",
-    "diy-studio-workshop.bymyway.com",
-    "diy-studio-workshop.netlify.app",
-    "event.bymyway.com/curated/diy-studio-workshop",
-    "event.bymyway.com/diy-studio-workshop",
-    "event.bymyway.com/diy3"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-23",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "bni-trust",
    "name": "BNI 系統實戰與心態修練教材｜信任資產活教材",
    "desc": "從商業本質、情緒智慧到 76 國世界級規則：打造不可摧毀的信任資產與事業槓桿。",
@@ -6014,54 +6085,6 @@
    "aliases": []
   },
   {
-   "id": "diy-outdoor-workshop",
-   "name": "傘繩 DIY-2 戶外工作坊 | 光線尺顧問有限公司",
-   "desc": "",
-   "url": "https://event.bymyway.com/Outdoor/",
-   "repoUrl": "https://github.com/Coach1973/diy-outdoor-workshop",
-   "repo": "diy-outdoor-workshop",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/diy-outdoor-workshop",
-    "diy-outdoor-workshop.bymyway.com",
-    "diy-outdoor-workshop.netlify.app",
-    "event.bymyway.com/curated/diy-outdoor-workshop",
-    "event.bymyway.com/diy-outdoor-workshop",
-    "event.bymyway.com/outdoor"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-09-03",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "diy-knot-workshop",
-   "name": "結繩工作坊 3 小時手作體驗 | 光線尺顧問有限公司",
-   "desc": "",
-   "url": "https://event.bymyway.com/DIY/",
-   "repoUrl": "https://github.com/Coach1973/diy-knot-workshop",
-   "repo": "diy-knot-workshop",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/diy-knot-workshop",
-    "diy-knot-workshop.bymyway.com",
-    "diy-knot-workshop.netlify.app",
-    "event.bymyway.com/curated/diy-knot-workshop",
-    "event.bymyway.com/diy",
-    "event.bymyway.com/diy-knot-workshop"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-09-03",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "teamwork",
    "name": "結繩領導學工作坊資源",
    "desc": "結繩領導學工作坊資源",
@@ -6940,5 +6963,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T17:41:09Z"
+ "generated": "2026-11-18T17:47:18Z"
 }
