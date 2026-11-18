@@ -165,6 +165,31 @@
    "aliases": []
   },
   {
+   "id": "liu-huihua",
+   "name": "劉惠華 博士｜從茶席到雲端 — AI 創新應用專家",
+   "desc": "劉惠華博士：世新傳播博士、福建理工大學人文學院助理教授、亞威 ISO 17024 AI 師資認證南區分院長、台灣正念茶師創始人。博士論文寫茶文化，著作寫元宇宙茶文化與生成式 AI——從茶席到雲端。",
+   "url": "https://event.bymyway.com/curated/liu-huihua/",
+   "repoUrl": "https://github.com/Coach1973/liu-huihua",
+   "repo": "liu-huihua",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/liu-huihua",
+    "event.bymyway.com/curated/liu-huihua",
+    "event.bymyway.com/liu-huihua",
+    "liu-huihua.bymyway.com",
+    "liu-huihua.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "劉博士"
+   ]
+  },
+  {
    "id": "lin-hongcheng",
    "name": "林泓丞｜鏡頭後面的人 — 台南應用科技大學兼任講師",
    "desc": "林泓丞，台南應用科技大學兼任講師、導演、南應大運動傳播團隊帶隊老師。帶著學生把賽事直播出去，帶著空拍機把城市拍成故事。",
@@ -7218,5 +7243,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T19:10:38Z"
+ "generated": "2026-11-18T23:33:44Z"
 }
