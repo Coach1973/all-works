@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "tut-membership",
+   "name": "南應大校友會｜贊助會員・榮譽會員 招募中",
+   "desc": "台南應用科技大學校友會招募贊助會員（NT$1,500：Podcast 專訪＋一頁式個人簡介）與榮譽會員（NT$10,000：榮譽欄留名＋個人品牌網頁＋後續修改維護）。",
+   "url": "https://event.bymyway.com/curated/tut-membership/",
+   "repoUrl": "https://github.com/Coach1973/tut-membership",
+   "repo": "tut-membership",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-membership",
+    "event.bymyway.com/curated/tut-membership",
+    "event.bymyway.com/tut-membership",
+    "tut-membership.bymyway.com",
+    "tut-membership.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "stickerkit",
    "name": "百萬人愛心消費運動｜個人化貼紙指令集",
    "desc": "",
@@ -117,6 +140,31 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "associations",
+   "name": "協會的家 · 大樹教練的協會網站",
+   "desc": "",
+   "url": "https://event.bymyway.com/associations/",
+   "repoUrl": "https://github.com/Coach1973/associations",
+   "repo": "associations",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "associations.bymyway.com",
+    "associations.netlify.app",
+    "coach1973.github.io/associations",
+    "event.bymyway.com/associations",
+    "event.bymyway.com/curated/associations"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "all-works",
@@ -1800,29 +1848,6 @@
     "event.bymyway.com/works-map",
     "works-map.bymyway.com",
     "works-map.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-09",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tut-membership",
-   "name": "南應大校友會｜贊助會員・榮譽會員 招募中",
-   "desc": "台南應用科技大學校友會招募贊助會員（NT$1,500：Podcast 專訪＋一頁式個人簡介）與榮譽會員（NT$10,000：榮譽欄留名＋個人品牌網頁＋後續修改維護）。",
-   "url": "https://event.bymyway.com/curated/tut-membership/",
-   "repoUrl": "https://github.com/Coach1973/tut-membership",
-   "repo": "tut-membership",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-membership",
-    "event.bymyway.com/curated/tut-membership",
-    "event.bymyway.com/tut-membership",
-    "tut-membership.bymyway.com",
-    "tut-membership.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-09",
@@ -6655,5 +6680,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T00:48:45Z"
+ "generated": "2026-11-18T03:39:29Z"
 }
