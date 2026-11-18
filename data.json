@@ -73,6 +73,32 @@
    "aliases": []
   },
   {
+   "id": "ale-brand",
+   "name": "邱貴揚 阿樂老師｜唱片製作人・可澄音樂文創創辦人暨音樂總監",
+   "desc": "阿樂老師（邱貴揚博士）：資深唱片製作人、詞曲作者、編曲混音師，三度入圍金曲獎，《中國好聲音》官方唱片製作人，可澄音樂文創有限公司創辦人暨音樂總監。",
+   "url": "https://event.bymyway.com/curated/ale-brand/",
+   "repoUrl": "https://github.com/Coach1973/ale-brand",
+   "repo": "ale-brand",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "ale-brand.bymyway.com",
+    "ale-brand.netlify.app",
+    "coach1973.github.io/ale-brand",
+    "event.bymyway.com/ale-brand",
+    "event.bymyway.com/curated/ale-brand"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "邱博士",
+    "阿老師"
+   ]
+  },
+  {
    "id": "zhang-yu-ci",
    "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
    "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
@@ -6843,5 +6869,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T16:45:47Z"
+ "generated": "2026-11-18T17:21:38Z"
 }
