@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "yang-chihkai",
+   "name": "楊智凱｜蘭都觀光工廠總經理・把台南市花種成一個品牌",
+   "desc": "楊智凱，台南六甲蘭都觀光工廠（ScentDom）總經理、宥盛科技二代接班人。中國醫藥大學口腔衛生學系、國立中山大學 EMBA。以台南市花蝴蝶蘭為核心，打造全台以蘭花為主題的觀光工廠。",
+   "url": "https://event.bymyway.com/curated/yang-chihkai/",
+   "repoUrl": "https://github.com/Coach1973/yang-chihkai",
+   "repo": "yang-chihkai",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-chihkai",
+    "event.bymyway.com/curated/yang-chihkai",
+    "event.bymyway.com/yang-chihkai",
+    "yang-chihkai.bymyway.com",
+    "yang-chihkai.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "lee-chungmin",
    "name": "李中閔｜港都的主持人、AI 影音講師與商圈推手",
    "desc": "李中閔：高雄市網紅部落客聯盟協會成立大會主持人、社團法人高雄市職能發展協會常務理事、AI 數位培力講師、長明商圈總幹事、AI 影音房仲。",
@@ -24,6 +47,32 @@
    "unlistedAt": "",
    "aliases": [
     "港主持人"
+   ]
+  },
+  {
+   "id": "ale-brand",
+   "name": "邱貴揚 阿樂老師｜唱片製作人・可澄音樂文創創辦人暨音樂總監",
+   "desc": "阿樂老師（邱貴揚博士）：資深唱片製作人、詞曲作者、編曲混音師，三度入圍金曲獎，《中國好聲音》官方唱片製作人，可澄音樂文創有限公司創辦人暨音樂總監。",
+   "url": "https://event.bymyway.com/curated/ale-brand/",
+   "repoUrl": "https://github.com/Coach1973/ale-brand",
+   "repo": "ale-brand",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "ale-brand.bymyway.com",
+    "ale-brand.netlify.app",
+    "coach1973.github.io/ale-brand",
+    "event.bymyway.com/ale-brand",
+    "event.bymyway.com/curated/ale-brand"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "邱博士",
+    "阿老師"
    ]
   },
   {
@@ -143,6 +192,29 @@
    "aliases": [
     "瑪創辦人"
    ]
+  },
+  {
+   "id": "tut-memory",
+   "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/tut-memory/",
+   "repoUrl": "https://github.com/Coach1973/tut-memory",
+   "repo": "tut-memory",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-memory",
+    "event.bymyway.com/curated/tut-memory",
+    "event.bymyway.com/tut-memory",
+    "tut-memory.bymyway.com",
+    "tut-memory.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "tut-membership",
@@ -790,29 +862,6 @@
     "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "ale-brand",
-   "name": "ale-brand",
-   "desc": "",
-   "url": "https://github.com/Coach1973/ale-brand",
-   "repoUrl": "https://github.com/Coach1973/ale-brand",
-   "repo": "ale-brand",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "ale-brand.bymyway.com",
-    "ale-brand.netlify.app",
-    "coach1973.github.io/ale-brand",
-    "event.bymyway.com/ale-brand",
-    "event.bymyway.com/curated/ale-brand"
-   ],
-   "cat": "程式／內部倉庫",
    "updated": "2026-11-18",
    "inRegistry": false,
    "delisted": false,
@@ -2556,29 +2605,6 @@
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-04",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tut-memory",
-   "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/tut-memory/",
-   "repoUrl": "https://github.com/Coach1973/tut-memory",
-   "repo": "tut-memory",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-memory",
-    "event.bymyway.com/curated/tut-memory",
-    "event.bymyway.com/tut-memory",
-    "tut-memory.bymyway.com",
-    "tut-memory.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-03",
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
@@ -6891,5 +6917,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T17:26:17Z"
+ "generated": "2026-11-18T17:38:00Z"
 }
