@@ -27,6 +27,29 @@
    ]
   },
   {
+   "id": "chen-jianhua-muse",
+   "name": "陳建樺｜雨不漏有限公司 — 台南防水治漏，雨停在屋頂外",
+   "desc": "陳建樺：台南雨不漏有限公司負責人。自 2016 年起深耕防水抓漏，屋頂與外牆防水、壁癌處理、室內油漆、強化地坪，一層一層做到不再漏水。",
+   "url": "https://event.bymyway.com/curated/chen-jianhua-muse/",
+   "repoUrl": "https://github.com/Coach1973/chen-jianhua-muse",
+   "repo": "chen-jianhua-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chen-jianhua-muse.bymyway.com",
+    "chen-jianhua-muse.netlify.app",
+    "coach1973.github.io/chen-jianhua-muse",
+    "event.bymyway.com/chen-jianhua-muse",
+    "event.bymyway.com/curated/chen-jianhua-muse"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhang-yu-ci",
    "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
    "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
@@ -6797,5 +6820,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T16:21:13Z"
+ "generated": "2026-11-18T16:43:10Z"
 }
