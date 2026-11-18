@@ -2,6 +2,31 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "xie-jingying",
+   "name": "謝京穎 Jessica｜婚禮顧問・瑪樂法創辦人",
+   "desc": "謝京穎（Nanu），台東大鳥部落出身的婚禮顧問，2021 年創立瑪樂法婚禮顧問整合行銷，以原民文化為根基，打造中西式與原住民族風格婚禮。",
+   "url": "https://event.bymyway.com/curated/xie-jingying/",
+   "repoUrl": "https://github.com/Coach1973/xie-jingying",
+   "repo": "xie-jingying",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/xie-jingying",
+    "event.bymyway.com/curated/xie-jingying",
+    "event.bymyway.com/xie-jingying",
+    "xie-jingying.bymyway.com",
+    "xie-jingying.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "瑪創辦人"
+   ]
+  },
+  {
    "id": "zhang-yu-ci",
    "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
    "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
@@ -65,6 +90,29 @@
     "yang-shang-ru.netlify.app"
    ],
    "cat": "策展・育",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "xiumei",
+   "name": "鄭綉美｜保險理賠顧問 — 理賠這條路，我陪你一起走",
+   "desc": "鄭綉美，保險理賠顧問。從事故發生到理賠入帳，陪你看懂保單、備齊文件、走完每一步。",
+   "url": "https://event.bymyway.com/curated/xiumei/",
+   "repoUrl": "https://github.com/Coach1973/xiumei",
+   "repo": "xiumei",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/xiumei",
+    "event.bymyway.com/curated/xiumei",
+    "event.bymyway.com/xiumei",
+    "xiumei.bymyway.com",
+    "xiumei.netlify.app"
+   ],
+   "cat": "策展・樂",
    "updated": "2026-11-18",
    "inRegistry": true,
    "delisted": true,
@@ -280,6 +328,29 @@
    "aliases": []
   },
   {
+   "id": "rpl-diy",
+   "name": "傘繩 DIY-4｜三款鑰匙圈・半天手作教室 | 光線尺顧問有限公司",
+   "desc": "半天（約 3～3.5 小時）專業教室實作，親手完成並帶回 3 款質感傘繩鑰匙圈吊飾。個人標準 NT$1,280／人，三人同行 NT$3,000。",
+   "url": "https://event.bymyway.com/curated/rpl-diy/",
+   "repoUrl": "https://github.com/Coach1973/rpl-diy",
+   "repo": "rpl-diy",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rpl-diy",
+    "event.bymyway.com/curated/rpl-diy",
+    "event.bymyway.com/rpl-diy",
+    "rpl-diy.bymyway.com",
+    "rpl-diy.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "rpl-class",
    "name": "美式傘繩藝術 DIY｜快拆求生手環 線上教學 — 結繩領導學苑",
    "desc": "一條傘繩，平時是有型的手環，需要時還能快速拆解成實用繩索。跟著 50 年結繩達人、《結繩領導學》作者蔡曜隆，學會五款美式快拆求生手環。",
@@ -300,6 +371,29 @@
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "richrd-tsai",
+   "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
+   "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
+   "url": "https://event.bymyway.com/curated/richrd-tsai/",
+   "repoUrl": "https://github.com/Coach1973/richrd-tsai",
+   "repo": "richrd-tsai",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/richrd-tsai",
+    "event.bymyway.com/curated/richrd-tsai",
+    "event.bymyway.com/richrd-tsai",
+    "richrd-tsai.bymyway.com",
+    "richrd-tsai.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -652,29 +746,6 @@
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "richrd-tsai",
-   "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
-   "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
-   "url": "https://event.bymyway.com/curated/richrd-tsai/",
-   "repoUrl": "https://github.com/Coach1973/richrd-tsai",
-   "repo": "richrd-tsai",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/richrd-tsai",
-    "event.bymyway.com/curated/richrd-tsai",
-    "event.bymyway.com/richrd-tsai",
-    "richrd-tsai.bymyway.com",
-    "richrd-tsai.netlify.app"
-   ],
-   "cat": "策展・衣",
-   "updated": "2026-11-17",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -2900,29 +2971,6 @@
    ]
   },
   {
-   "id": "xiumei",
-   "name": "鄭綉美｜保險理賠顧問 — 理賠這條路，我陪你一起走",
-   "desc": "鄭綉美，保險理賠顧問。從事故發生到理賠入帳，陪你看懂保單、備齊文件、走完每一步。",
-   "url": "https://event.bymyway.com/curated/xiumei/",
-   "repoUrl": "https://github.com/Coach1973/xiumei",
-   "repo": "xiumei",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/xiumei",
-    "event.bymyway.com/curated/xiumei",
-    "event.bymyway.com/xiumei",
-    "xiumei.bymyway.com",
-    "xiumei.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-29",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
    "id": "tiffany-lee",
    "name": "李勳婷 Tiffany｜專注細節的市場實戰派・三道門建築文創旅店創辦人",
    "desc": "李勳婷 Tiffany，三道門建築文創旅店創辦人暨董事長。從豪宅建築的精緻度，到旅店服務流程的細緻度，打造台南綠色低碳文創旅宿。",
@@ -4235,29 +4283,6 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
-   "id": "rpl-diy",
-   "name": "傘繩 DIY-4｜三款鑰匙圈・半天手作教室 | 光線尺顧問有限公司",
-   "desc": "半天（約 3～3.5 小時）專業教室實作，親手完成並帶回 3 款質感傘繩鑰匙圈吊飾。個人標準 NT$1,280／人，三人同行 NT$3,000。",
-   "url": "https://event.bymyway.com/curated/rpl-diy/",
-   "repoUrl": "https://github.com/Coach1973/rpl-diy",
-   "repo": "rpl-diy",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rpl-diy",
-    "event.bymyway.com/curated/rpl-diy",
-    "event.bymyway.com/rpl-diy",
-    "rpl-diy.bymyway.com",
-    "rpl-diy.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-23",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -6772,5 +6797,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T11:24:25Z"
+ "generated": "2026-11-18T16:21:13Z"
 }
