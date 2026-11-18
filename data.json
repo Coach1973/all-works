@@ -210,6 +210,29 @@
    "aliases": []
   },
   {
+   "id": "rpl-class",
+   "name": "美式傘繩藝術 DIY｜快拆求生手環 線上教學 — 結繩領導學苑",
+   "desc": "一條傘繩，平時是有型的手環，需要時還能快速拆解成實用繩索。跟著 50 年結繩達人、《結繩領導學》作者蔡曜隆，學會五款美式快拆求生手環。",
+   "url": "https://event.bymyway.com/curated/rpl-class/",
+   "repoUrl": "https://github.com/Coach1973/rpl-class",
+   "repo": "rpl-class",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rpl-class",
+    "event.bymyway.com/curated/rpl-class",
+    "event.bymyway.com/rpl-class",
+    "rpl-class.bymyway.com",
+    "rpl-class.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "reverse-skill",
    "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
    "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
@@ -6726,5 +6749,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T07:03:08Z"
+ "generated": "2026-11-18T08:51:57Z"
 }
