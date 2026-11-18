@@ -2,6 +2,52 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhou-liangdun",
    "name": "周良敦｜一字一佛的國寶級書法家",
    "desc": "周良敦，1951 年生於花蓮，師事陳其銓。以《法華經》六萬九千兩百八十四字書成佛陀法相，楷書《論語》孔子聖像圖獲臺北故宮典藏；近三十年在臺中監獄教書法，奉行「人品為上，書法次之」。",
@@ -140,6 +186,29 @@
    "aliases": []
   },
   {
+   "id": "richrd-tsai",
+   "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
+   "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
+   "url": "https://event.bymyway.com/curated/richrd-tsai/",
+   "repoUrl": "https://github.com/Coach1973/richrd-tsai",
+   "repo": "richrd-tsai",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/richrd-tsai",
+    "event.bymyway.com/curated/richrd-tsai",
+    "event.bymyway.com/richrd-tsai",
+    "richrd-tsai.bymyway.com",
+    "richrd-tsai.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-11-17",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
    "id": "reverse-skill",
    "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
    "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
@@ -188,50 +257,29 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
    "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-17",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-17",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "course-signup-playbook",
@@ -294,6 +342,29 @@
     "coach1973.github.io/association-site-playbook",
     "event.bymyway.com/association-site-playbook",
     "event.bymyway.com/curated/association-site-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-17",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-17",
@@ -489,29 +560,6 @@
    "aliases": []
   },
   {
-   "id": "richrd-tsai",
-   "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
-   "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
-   "url": "https://event.bymyway.com/curated/richrd-tsai/",
-   "repoUrl": "https://github.com/Coach1973/richrd-tsai",
-   "repo": "richrd-tsai",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/richrd-tsai",
-    "event.bymyway.com/curated/richrd-tsai",
-    "event.bymyway.com/richrd-tsai",
-    "richrd-tsai.bymyway.com",
-    "richrd-tsai.netlify.app"
-   ],
-   "cat": "策展・衣",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
    "id": "lia-chih-ming",
    "name": "賴志明｜漢唐集成總經理・台灣高科技廠房設施協會理事長",
    "desc": "賴志明，漢唐集成（2404）總經理、台灣高科技廠房設施協會（HTFA）第三屆理事長。從台積電新廠規劃、千附實業總經理到帶領漢唐全球建廠。",
@@ -576,54 +624,6 @@
    "cat": "策展・育",
    "updated": "2026-11-16",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "go",
-   "name": "大樹入口",
-   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
-   "url": "https://event.bymyway.com/curated/go/",
-   "repoUrl": "https://github.com/Coach1973/go",
-   "repo": "go",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/go",
-    "event.bymyway.com/curated/go",
-    "event.bymyway.com/go",
-    "go.bymyway.com",
-    "go.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-16",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -6632,5 +6632,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-17T14:13:19Z"
+ "generated": "2026-11-18T00:32:41Z"
 }
