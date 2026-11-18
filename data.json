@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "yang-smart",
+   "name": "楊健一｜數位轉型顧問・次世代 SaaS 智慧選務系統",
+   "desc": "數位轉型顧問楊健一，近 30 年資訊整合實戰。次世代 SaaS 智慧選務系統：免架伺服器、3 分鐘建立投票所、QR Code 盲抽防弊、保留唱票儀式感，200 人改選 30 分鐘完成。",
+   "url": "https://event.bymyway.com/curated/yang-smart/",
+   "repoUrl": "https://github.com/Coach1973/yang-smart",
+   "repo": "yang-smart",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-smart",
+    "event.bymyway.com/curated/yang-smart",
+    "event.bymyway.com/yang-smart",
+    "yang-smart.bymyway.com",
+    "yang-smart.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tut-membership",
    "name": "南應大校友會｜贊助會員・榮譽會員 招募中",
    "desc": "台南應用科技大學校友會招募贊助會員（NT$1,500：Podcast 專訪＋一頁式個人簡介）與榮譽會員（NT$10,000：榮譽欄留名＋個人品牌網頁＋後續修改維護）。",
@@ -43,6 +66,30 @@
    "cat": "教練個人創作",
    "updated": "2026-11-18",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tut-alumni",
+   "name": "台南應用科技大學校友會 召集令",
+   "desc": "",
+   "url": "https://event.bymyway.com/tut/",
+   "repoUrl": "https://github.com/Coach1973/tut-alumni",
+   "repo": "tut-alumni",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-alumni",
+    "event.bymyway.com/curated/tut-alumni",
+    "event.bymyway.com/tut",
+    "event.bymyway.com/tut-alumni",
+    "tut-alumni.bymyway.com",
+    "tut-alumni.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -108,6 +155,29 @@
     "event.bymyway.com/stickerkit",
     "stickerkit.bymyway.com",
     "stickerkit.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-18",
@@ -606,29 +676,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "rongtree",
@@ -4780,30 +4827,6 @@
    "aliases": []
   },
   {
-   "id": "tut-alumni",
-   "name": "台南應用科技大學校友會 召集令",
-   "desc": "",
-   "url": "https://event.bymyway.com/tut/",
-   "repoUrl": "https://github.com/Coach1973/tut-alumni",
-   "repo": "tut-alumni",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-alumni",
-    "event.bymyway.com/curated/tut-alumni",
-    "event.bymyway.com/tut",
-    "event.bymyway.com/tut-alumni",
-    "tut-alumni.bymyway.com",
-    "tut-alumni.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-02",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "team01-guests",
    "name": "Team 01 邀約來賓戰情儀表板",
    "desc": "",
@@ -6703,5 +6726,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T05:31:36Z"
+ "generated": "2026-11-18T07:03:08Z"
 }
