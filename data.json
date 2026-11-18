@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhang-yu-ci",
+   "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
+   "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
+   "url": "https://event.bymyway.com/curated/zhang-yu-ci/",
+   "repoUrl": "https://github.com/Coach1973/zhang-yu-ci",
+   "repo": "zhang-yu-ci",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhang-yu-ci",
+    "event.bymyway.com/curated/zhang-yu-ci",
+    "event.bymyway.com/zhang-yu-ci",
+    "zhang-yu-ci.bymyway.com",
+    "zhang-yu-ci.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
    "id": "yang-smart",
    "name": "楊健一｜數位轉型顧問・次世代 SaaS 智慧選務系統",
    "desc": "數位轉型顧問楊健一，近 30 年資訊整合實戰。次世代 SaaS 智慧選務系統：免架伺服器、3 分鐘建立投票所、QR Code 盲抽防弊、保留唱票儀式感，200 人改選 30 分鐘完成。",
@@ -22,6 +45,30 @@
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "yang-shang-ru",
+   "name": "楊尚儒 Shang-Ju Yang, D.M.A.｜小提琴・中提琴・弦樂團訓練｜台南",
+   "desc": "楊尚儒（Shang-Ju Yang, D.M.A.），小提琴與中提琴演奏者、弦樂教育者，現居台南。亞利桑那大學音樂藝術博士；曾任 Sierra Vista Symphony Orchestra 協理首席、藝曲愛樂管弦樂團首席（2012–2019）。專注於樂團組建、室內樂訓練與弦…",
+   "url": "https://event.bymyway.com/curated/yang-shang-ru/",
+   "repoUrl": "https://github.com/Coach1973/yang-shang-ru",
+   "repo": "yang-shang-ru",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-shang-ru",
+    "event.bymyway.com/curated/yang-shang-ru",
+    "event.bymyway.com/curated/yang-shang-ru-shang-juyangdma",
+    "event.bymyway.com/yang-shang-ru",
+    "yang-shang-ru.bymyway.com",
+    "yang-shang-ru.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -157,6 +204,29 @@
     "stickerkit.netlify.app"
    ],
    "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
    "updated": "2026-11-18",
    "inRegistry": true,
    "delisted": false,
@@ -304,6 +374,29 @@
    "aliases": []
   },
   {
+   "id": "hsiuli",
+   "name": "黃秀麗｜全國古典音樂推廣版主",
+   "desc": "黃秀麗，全國古典音樂推廣版主。長期以社群力量推廣古典音樂，串連主辦單位、樂團與樂迷，讓好音樂被更多人聽見。歡迎音樂會宣傳、導聆、藝文跨界與公益合作邀約。",
+   "url": "https://event.bymyway.com/curated/hsiuli/",
+   "repoUrl": "https://github.com/Coach1973/hsiuli",
+   "repo": "hsiuli",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/hsiuli",
+    "event.bymyway.com/curated/hsiuli",
+    "event.bymyway.com/hsiuli",
+    "hsiuli.bymyway.com",
+    "hsiuli.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
    "id": "go",
    "name": "大樹入口",
    "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
@@ -327,6 +420,52 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "fu-en-ping",
+   "name": "傅恩平｜商務英漢通譯・榮益齋有限公司",
+   "desc": "傅恩平 Fu En-ping — 商務英漢通譯，榮益齋有限公司（Gracious Benefacts LLC）負責人。臺南善化。筆譯、口譯、出版與有聲製作；台語聖詩新譯；BNI 大台南南區真鑽分會。",
+   "url": "https://event.bymyway.com/curated/fu-en-ping/",
+   "repoUrl": "https://github.com/Coach1973/fu-en-ping",
+   "repo": "fu-en-ping",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/fu-en-ping",
+    "event.bymyway.com/curated/fu-en-ping",
+    "event.bymyway.com/fu-en-ping",
+    "fu-en-ping.bymyway.com",
+    "fu-en-ping.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "da-a-brother",
+   "name": "大A師兄 陳杉榕｜從銷售講台走進山林的種樹達人",
+   "desc": "大A師兄 陳杉榕：早年 HP 工程師、銷售培訓講師、理財書作者，2014 年後回鄉種樹、投入沉香植菌，提出「為世界種70億棵樹，為地球降溫2度」，以「您消費我捐錢」推動公益。",
+   "url": "https://event.bymyway.com/curated/da-a-brother/",
+   "repoUrl": "https://github.com/Coach1973/da-a-brother",
+   "repo": "da-a-brother",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/da-a-brother",
+    "da-a-brother.bymyway.com",
+    "da-a-brother.netlify.app",
+    "event.bymyway.com/curated/da-a-brother",
+    "event.bymyway.com/da-a-brother"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "course-signup-playbook",
@@ -370,6 +509,30 @@
    "cat": "GitHub 網頁",
    "updated": "2026-11-18",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bai-sheng",
+   "name": "百聖廣告設計工程有限公司｜台南大圖輸出・廣告工程・活動場佈施工",
+   "desc": "台南百聖廣告設計工程有限公司。大圖輸出、戶外UV帆布、無接縫燈箱、招牌發光字、客製化壓克力保麗龍、啟動儀式道具、舞台結構與展場佈置施工。趕件、加班、南北一條龍。電話 06-356-5711。",
+   "url": "https://event.bymyway.com/curated/bai-sheng/",
+   "repoUrl": "https://github.com/Coach1973/bai-sheng",
+   "repo": "bai-sheng",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bai-sheng.bymyway.com",
+    "bai-sheng.netlify.app",
+    "coach1973.github.io/bai-sheng",
+    "event.bymyway.com/bai-sheng",
+    "event.bymyway.com/curated/bai-sheng",
+    "event.bymyway.com/curated/bai-sheng-guang-gao-she-ji-gong-cheng-you-xian-gong-si"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-18",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -487,29 +650,6 @@
    "cat": "GitHub 網頁",
    "updated": "2026-11-17",
    "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-17",
-   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -1710,29 +1850,6 @@
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "hsiuli",
-   "name": "黃秀麗｜全國古典音樂推廣版主",
-   "desc": "黃秀麗，全國古典音樂推廣版主。長期以社群力量推廣古典音樂，串連主辦單位、樂團與樂迷，讓好音樂被更多人聽見。歡迎音樂會宣傳、導聆、藝文跨界與公益合作邀約。",
-   "url": "https://event.bymyway.com/curated/hsiuli/",
-   "repoUrl": "https://github.com/Coach1973/hsiuli",
-   "repo": "hsiuli",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/hsiuli",
-    "event.bymyway.com/curated/hsiuli",
-    "event.bymyway.com/hsiuli",
-    "hsiuli.bymyway.com",
-    "hsiuli.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-12",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -3016,30 +3133,6 @@
    "aliases": []
   },
   {
-   "id": "yang-shang-ru",
-   "name": "楊尚儒 Shang-Ju Yang, D.M.A.｜小提琴・中提琴・弦樂團訓練｜台南",
-   "desc": "楊尚儒（Shang-Ju Yang, D.M.A.），小提琴與中提琴演奏者、弦樂教育者，現居台南。亞利桑那大學音樂藝術博士；曾任 Sierra Vista Symphony Orchestra 協理首席、藝曲愛樂管弦樂團首席（2012–2019）。專注於樂團組建、室內樂訓練與弦…",
-   "url": "https://event.bymyway.com/curated/yang-shang-ru/",
-   "repoUrl": "https://github.com/Coach1973/yang-shang-ru",
-   "repo": "yang-shang-ru",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yang-shang-ru",
-    "event.bymyway.com/curated/yang-shang-ru",
-    "event.bymyway.com/curated/yang-shang-ru-shang-juyangdma",
-    "event.bymyway.com/yang-shang-ru",
-    "yang-shang-ru.bymyway.com",
-    "yang-shang-ru.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-10-26",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
    "id": "tra-taitung",
    "name": "台東16站，一起賺得到錢｜台鐵標案提案研究",
    "desc": "台鐵台東16據點提案研究圖文版：錢從哪裡來、BNI夥伴怎麼進駐、吸睛機制、台鐵規定、財務試算。",
@@ -3278,29 +3371,6 @@
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "zhang-yu-ci",
-   "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
-   "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
-   "url": "https://event.bymyway.com/curated/zhang-yu-ci/",
-   "repoUrl": "https://github.com/Coach1973/zhang-yu-ci",
-   "repo": "zhang-yu-ci",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zhang-yu-ci",
-    "event.bymyway.com/curated/zhang-yu-ci",
-    "event.bymyway.com/zhang-yu-ci",
-    "zhang-yu-ci.bymyway.com",
-    "zhang-yu-ci.netlify.app"
-   ],
-   "cat": "策展・食",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -3935,29 +4005,6 @@
    "aliases": []
   },
   {
-   "id": "fu-en-ping",
-   "name": "傅恩平｜商務英漢通譯・榮益齋有限公司",
-   "desc": "傅恩平 Fu En-ping — 商務英漢通譯，榮益齋有限公司（Gracious Benefacts LLC）負責人。臺南善化。筆譯、口譯、出版與有聲製作；台語聖詩新譯；BNI 大台南南區真鑽分會。",
-   "url": "https://event.bymyway.com/curated/fu-en-ping/",
-   "repoUrl": "https://github.com/Coach1973/fu-en-ping",
-   "repo": "fu-en-ping",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/fu-en-ping",
-    "event.bymyway.com/curated/fu-en-ping",
-    "event.bymyway.com/fu-en-ping",
-    "fu-en-ping.bymyway.com",
-    "fu-en-ping.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
    "id": "flower-site",
    "name": "柚式藝術 Yo's Art ｜ 張騰文．永生花・鈔票花禮・婚禮派對佈置（台南／屏東）",
    "desc": "柚式藝術 Yo",
@@ -4090,30 +4137,6 @@
     "event.bymyway.com/curated/big-plan"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "bai-sheng",
-   "name": "百聖廣告設計工程有限公司｜台南大圖輸出・廣告工程・活動場佈施工",
-   "desc": "台南百聖廣告設計工程有限公司。大圖輸出、戶外UV帆布、無接縫燈箱、招牌發光字、客製化壓克力保麗龍、啟動儀式道具、舞台結構與展場佈置施工。趕件、加班、南北一條龍。電話 06-356-5711。",
-   "url": "https://event.bymyway.com/curated/bai-sheng/",
-   "repoUrl": "https://github.com/Coach1973/bai-sheng",
-   "repo": "bai-sheng",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bai-sheng.bymyway.com",
-    "bai-sheng.netlify.app",
-    "coach1973.github.io/bai-sheng",
-    "event.bymyway.com/bai-sheng",
-    "event.bymyway.com/curated/bai-sheng",
-    "event.bymyway.com/curated/bai-sheng-guang-gao-she-ji-gong-cheng-you-xian-gong-si"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-10-24",
    "inRegistry": true,
    "delisted": false,
@@ -6749,5 +6772,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T08:51:57Z"
+ "generated": "2026-11-18T11:24:25Z"
 }
