@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "wu-riqin",
+   "name": "吳日勤 Chin Wu｜台灣當代藝術家・東方抽象書寫",
+   "desc": "吳日勤（Chin Wu），台灣當代藝術家，英國東倫敦大學藝術博士。以東方書法線條結合西方油畫肌理，30 餘場個展遍及紐約、倫敦、舊金山、北京與台灣。",
+   "url": "https://event.bymyway.com/curated/wu-riqin/",
+   "repoUrl": "https://github.com/Coach1973/wu-riqin",
+   "repo": "wu-riqin",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wu-riqin",
+    "event.bymyway.com/curated/wu-riqin",
+    "event.bymyway.com/wu-riqin",
+    "wu-riqin.bymyway.com",
+    "wu-riqin.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "liu-yaping",
    "name": "劉雅萍｜世界旗袍皇后大會主席・臺南世旗理事長",
    "desc": "劉雅萍，臺南市臺灣世界旗袍文化推展聯合會理事長、2025年世界旗袍皇后國際大賽大會主席。從台南村莊出發，以旗袍連結文化、城市與女性成長。",
@@ -6963,5 +6986,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T17:47:18Z"
+ "generated": "2026-11-18T17:51:24Z"
 }
