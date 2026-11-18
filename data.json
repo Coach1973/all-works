@@ -27,6 +27,29 @@
    ]
   },
   {
+   "id": "lai-yaojia",
+   "name": "賴耀嘉｜攝氏零度影像設計 — 把瞬間，凝結成永恆",
+   "desc": "賴耀嘉（James Lai），攝氏零度影像設計創辦人兼商業攝影師。商業攝影、活動紀錄、人像攝影、寵物寫真，以自然元素、光線與構圖，透過影像傳達情感和故事。",
+   "url": "https://event.bymyway.com/curated/lai-yaojia/",
+   "repoUrl": "https://github.com/Coach1973/lai-yaojia",
+   "repo": "lai-yaojia",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lai-yaojia",
+    "event.bymyway.com/curated/lai-yaojia",
+    "event.bymyway.com/lai-yaojia",
+    "lai-yaojia.bymyway.com",
+    "lai-yaojia.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "chen-jianhua-muse",
    "name": "陳建樺｜雨不漏有限公司 — 台南防水治漏，雨停在屋頂外",
    "desc": "陳建樺：台南雨不漏有限公司負責人。自 2016 年起深耕防水抓漏，屋頂與外牆防水、壁癌處理、室內油漆、強化地坪，一層一層做到不再漏水。",
@@ -250,6 +273,29 @@
     "event.bymyway.com/tava-brand-web-playbook",
     "tava-brand-web-playbook.bymyway.com",
     "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "大臺南商圈整合計劃 · 大台南策展中心",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-18",
@@ -744,29 +790,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-17",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tainan-shangquan",
-   "name": "大臺南商圈整合計劃 · 大台南策展中心",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-17",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -6820,5 +6843,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T16:43:10Z"
+ "generated": "2026-11-18T16:45:47Z"
 }
