@@ -25,6 +25,75 @@
    "aliases": []
   },
   {
+   "id": "tut-alumni-1213",
+   "name": "2026會員大會暨聖誕餐會｜藍白冬日・璀璨相聚｜臺南市台南應用科技大學校友會",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/tut-alumni-1213/",
+   "repoUrl": "https://github.com/Coach1973/tut-alumni-1213",
+   "repo": "tut-alumni-1213",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-alumni-1213",
+    "event.bymyway.com/curated/tut-alumni-1213",
+    "event.bymyway.com/tut-alumni-1213",
+    "tut-alumni-1213.bymyway.com",
+    "tut-alumni-1213.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tava-to-claude",
+   "name": "手機做網頁｜TAVA 交給 Claude",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-to-claude/",
+   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
+   "repo": "tava-to-claude",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-to-claude",
+    "event.bymyway.com/curated/tava-to-claude",
+    "event.bymyway.com/tava-to-claude",
+    "tava-to-claude.bymyway.com",
+    "tava-to-claude.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tava-brand-web-playbook",
+   "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "stickerkit",
    "name": "百萬人愛心消費運動｜個人化貼紙指令集",
    "desc": "",
@@ -46,6 +115,54 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
+  },
+  {
+   "id": "rs-demo",
+   "name": "反向技能書 14 招示範",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/rs-demo/",
+   "repoUrl": "https://github.com/Coach1973/rs-demo",
+   "repo": "rs-demo",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rs-demo",
+    "event.bymyway.com/curated/rs-demo",
+    "event.bymyway.com/rs-demo",
+    "rs-demo.bymyway.com",
+    "rs-demo.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "reverse-skill",
+   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
+   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
+   "url": "https://event.bymyway.com/curated/reverse-skill/",
+   "repoUrl": "https://github.com/Coach1973/reverse-skill",
+   "repo": "reverse-skill",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/reverse-skill",
+    "event.bymyway.com/curated/reverse-skill",
+    "event.bymyway.com/reverse-skill",
+    "reverse-skill.bymyway.com",
+    "reverse-skill.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-18",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "peipei-ai-backup",
@@ -119,6 +236,29 @@
    ]
   },
   {
+   "id": "course-signup-playbook",
+   "name": "課程推廣報名網頁｜開工指令與製作經驗",
+   "desc": "",
+   "url": "https://coach1973.github.io/course-signup-playbook/",
+   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
+   "repo": "course-signup-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/course-signup-playbook",
+    "course-signup-playbook.bymyway.com",
+    "course-signup-playbook.netlify.app",
+    "event.bymyway.com/course-signup-playbook",
+    "event.bymyway.com/curated/course-signup-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "coach888",
    "name": "大樹AI作品總覽（個人專用）",
    "desc": "",
@@ -167,6 +307,29 @@
    ]
   },
   {
+   "id": "association-site-playbook",
+   "name": "協會官網｜開工指令與製作經驗",
+   "desc": "協會官網｜開工指令與製作經驗",
+   "url": "https://coach1973.github.io/association-site-playbook/",
+   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
+   "repo": "association-site-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "association-site-playbook.bymyway.com",
+    "association-site-playbook.netlify.app",
+    "coach1973.github.io/association-site-playbook",
+    "event.bymyway.com/association-site-playbook",
+    "event.bymyway.com/curated/association-site-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-18",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "all-works",
    "name": "完整作品一覽（教練自用清單，noindex）",
    "desc": "完整作品一覽（教練自用清單，noindex）",
@@ -208,52 +371,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-17",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tava-to-claude",
-   "name": "手機做網頁｜TAVA 交給 Claude",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-to-claude/",
-   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
-   "repo": "tava-to-claude",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-to-claude",
-    "event.bymyway.com/curated/tava-to-claude",
-    "event.bymyway.com/tava-to-claude",
-    "tava-to-claude.bymyway.com",
-    "tava-to-claude.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-17",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tava-brand-web-playbook",
-   "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-17",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -305,29 +422,6 @@
    "aliases": []
   },
   {
-   "id": "rs-demo",
-   "name": "反向技能書 14 招示範",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/rs-demo/",
-   "repoUrl": "https://github.com/Coach1973/rs-demo",
-   "repo": "rs-demo",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rs-demo",
-    "event.bymyway.com/curated/rs-demo",
-    "event.bymyway.com/rs-demo",
-    "rs-demo.bymyway.com",
-    "rs-demo.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-17",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "richrd-tsai",
    "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
    "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
@@ -351,31 +445,6 @@
    "aliases": []
   },
   {
-   "id": "reverse-skill",
-   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
-   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
-   "url": "https://event.bymyway.com/curated/reverse-skill/",
-   "repoUrl": "https://github.com/Coach1973/reverse-skill",
-   "repo": "reverse-skill",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/reverse-skill",
-    "event.bymyway.com/curated/reverse-skill",
-    "event.bymyway.com/reverse-skill",
-    "reverse-skill.bymyway.com",
-    "reverse-skill.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-17",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
    "id": "qiu-weihuang",
    "name": "邱偉晃 Andy｜卡堤咖啡有限公司負責人",
    "desc": "邱偉晃 Andy Chiu，卡堤咖啡有限公司負責人。1991 年起以專業教學在餐飲界服務，1999 年創立卡堤咖啡，著有調酒、咖啡、茶飲、冰沙四本飲品專書。",
@@ -394,52 +463,6 @@
    "cat": "策展・食",
    "updated": "2026-11-17",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "course-signup-playbook",
-   "name": "課程推廣報名網頁｜開工指令與製作經驗",
-   "desc": "",
-   "url": "https://coach1973.github.io/course-signup-playbook/",
-   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
-   "repo": "course-signup-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/course-signup-playbook",
-    "course-signup-playbook.bymyway.com",
-    "course-signup-playbook.netlify.app",
-    "event.bymyway.com/course-signup-playbook",
-    "event.bymyway.com/curated/course-signup-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-17",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "association-site-playbook",
-   "name": "協會官網｜開工指令與製作經驗",
-   "desc": "協會官網｜開工指令與製作經驗",
-   "url": "https://coach1973.github.io/association-site-playbook/",
-   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
-   "repo": "association-site-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "association-site-playbook.bymyway.com",
-    "association-site-playbook.netlify.app",
-    "coach1973.github.io/association-site-playbook",
-    "event.bymyway.com/association-site-playbook",
-    "event.bymyway.com/curated/association-site-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-17",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -6680,5 +6703,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T03:39:29Z"
+ "generated": "2026-11-18T05:31:36Z"
 }
