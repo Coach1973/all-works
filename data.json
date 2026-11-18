@@ -48,6 +48,31 @@
    "aliases": []
   },
   {
+   "id": "xie-jingying",
+   "name": "謝京穎 Jessica｜婚禮顧問・瑪樂法創辦人",
+   "desc": "謝京穎（Nanu），台東大鳥部落出身的婚禮顧問，2021 年創立瑪樂法婚禮顧問整合行銷，以原民文化為根基，打造中西式與原住民族風格婚禮。",
+   "url": "https://event.bymyway.com/curated/xie-jingying/",
+   "repoUrl": "https://github.com/Coach1973/xie-jingying",
+   "repo": "xie-jingying",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/xie-jingying",
+    "event.bymyway.com/curated/xie-jingying",
+    "event.bymyway.com/xie-jingying",
+    "xie-jingying.bymyway.com",
+    "xie-jingying.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "瑪創辦人"
+   ]
+  },
+  {
    "id": "wu-riqin",
    "name": "吳日勤 Chin Wu｜台灣當代藝術家・東方抽象書寫",
    "desc": "吳日勤（Chin Wu），台灣當代藝術家，英國東倫敦大學藝術博士。以東方書法線條結合西方油畫肌理，30 餘場個展遍及紐約、倫敦、舊金山、北京與台灣。",
@@ -64,6 +89,29 @@
     "wu-riqin.netlify.app"
    ],
    "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "qiu-jinxiu",
+   "name": "邱錦秀｜一本初衷，一盞溫暖的燈",
+   "desc": "邱錦秀，臺南市家庭教育中心志工督導、警四分局志工中隊長。志工生涯近三十載，2019年雙金獎、2026年全國終身學習楷模教學者組優等。",
+   "url": "https://event.bymyway.com/curated/qiu-jinxiu/",
+   "repoUrl": "https://github.com/Coach1973/qiu-jinxiu",
+   "repo": "qiu-jinxiu",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/qiu-jinxiu",
+    "event.bymyway.com/curated/qiu-jinxiu",
+    "event.bymyway.com/qiu-jinxiu",
+    "qiu-jinxiu.bymyway.com",
+    "qiu-jinxiu.netlify.app"
+   ],
+   "cat": "策展・育",
    "updated": "2026-11-19",
    "inRegistry": true,
    "delisted": false,
@@ -167,6 +215,52 @@
    ]
   },
   {
+   "id": "lai-yaojia",
+   "name": "賴耀嘉｜攝氏零度影像設計 — 把瞬間，凝結成永恆",
+   "desc": "賴耀嘉（James Lai），攝氏零度影像設計創辦人兼商業攝影師。商業攝影、活動紀錄、人像攝影、寵物寫真，以自然元素、光線與構圖，透過影像傳達情感和故事。",
+   "url": "https://event.bymyway.com/curated/lai-yaojia/",
+   "repoUrl": "https://github.com/Coach1973/lai-yaojia",
+   "repo": "lai-yaojia",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lai-yaojia",
+    "event.bymyway.com/curated/lai-yaojia",
+    "event.bymyway.com/lai-yaojia",
+    "lai-yaojia.bymyway.com",
+    "lai-yaojia.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "chen-jianhua-muse",
+   "name": "陳建樺｜雨不漏有限公司 — 台南防水治漏，雨停在屋頂外",
+   "desc": "陳建樺：台南雨不漏有限公司負責人。自 2016 年起深耕防水抓漏，屋頂與外牆防水、壁癌處理、室內油漆、強化地坪，一層一層做到不再漏水。",
+   "url": "https://event.bymyway.com/curated/chen-jianhua-muse/",
+   "repoUrl": "https://github.com/Coach1973/chen-jianhua-muse",
+   "repo": "chen-jianhua-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chen-jianhua-muse.bymyway.com",
+    "chen-jianhua-muse.netlify.app",
+    "coach1973.github.io/chen-jianhua-muse",
+    "event.bymyway.com/chen-jianhua-muse",
+    "event.bymyway.com/curated/chen-jianhua-muse"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "ale-brand",
    "name": "邱貴揚 阿樂老師｜唱片製作人・可澄音樂文創創辦人暨音樂總監",
    "desc": "阿樂老師（邱貴揚博士）：資深唱片製作人、詞曲作者、編曲混音師，三度入圍金曲獎，《中國好聲音》官方唱片製作人，可澄音樂文創有限公司創辦人暨音樂總監。",
@@ -217,9 +311,9 @@
   },
   {
    "id": "yang-smart",
-   "name": "yang-smart",
-   "desc": "",
-   "url": "https://github.com/Coach1973/yang-smart",
+   "name": "楊健一｜數位轉型顧問・次世代 SaaS 智慧選務系統",
+   "desc": "數位轉型顧問楊健一，近 30 年資訊整合實戰。次世代 SaaS 智慧選務系統：免架伺服器、3 分鐘建立投票所、QR Code 盲抽防弊、保留唱票儀式感，200 人改選 30 分鐘完成。",
+   "url": "https://event.bymyway.com/curated/yang-smart/",
    "repoUrl": "https://github.com/Coach1973/yang-smart",
    "repo": "yang-smart",
    "private": true,
@@ -231,9 +325,9 @@
     "yang-smart.bymyway.com",
     "yang-smart.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-18",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -286,31 +380,6 @@
    "aliases": []
   },
   {
-   "id": "xie-jingying",
-   "name": "謝京穎 Jessica｜婚禮顧問・瑪樂法創辦人",
-   "desc": "",
-   "url": "https://coach1973.github.io/xie-jingying/",
-   "repoUrl": "https://github.com/Coach1973/xie-jingying",
-   "repo": "xie-jingying",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/xie-jingying",
-    "event.bymyway.com/curated/xie-jingying",
-    "event.bymyway.com/xie-jingying",
-    "xie-jingying.bymyway.com",
-    "xie-jingying.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "瑪創辦人"
-   ]
-  },
-  {
    "id": "tut-memory",
    "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
    "desc": "",
@@ -358,9 +427,9 @@
   },
   {
    "id": "tut-alumni-1213",
-   "name": "tut-alumni-1213",
+   "name": "2026會員大會暨聖誕餐會｜藍白冬日・璀璨相聚｜臺南市台南應用科技大學校友會",
    "desc": "",
-   "url": "https://github.com/Coach1973/tut-alumni-1213",
+   "url": "https://event.bymyway.com/curated/tut-alumni-1213/",
    "repoUrl": "https://github.com/Coach1973/tut-alumni-1213",
    "repo": "tut-alumni-1213",
    "private": true,
@@ -372,9 +441,9 @@
     "tut-alumni-1213.bymyway.com",
     "tut-alumni-1213.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-18",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -589,9 +658,9 @@
   },
   {
    "id": "rpl-class",
-   "name": "rpl-class",
-   "desc": "",
-   "url": "https://github.com/Coach1973/rpl-class",
+   "name": "美式傘繩藝術 DIY｜快拆求生手環 線上教學 — 結繩領導學苑",
+   "desc": "一條傘繩，平時是有型的手環，需要時還能快速拆解成實用繩索。跟著 50 年結繩達人、《結繩領導學》作者蔡曜隆，學會五款美式快拆求生手環。",
+   "url": "https://event.bymyway.com/curated/rpl-class/",
    "repoUrl": "https://github.com/Coach1973/rpl-class",
    "repo": "rpl-class",
    "private": true,
@@ -603,9 +672,9 @@
     "rpl-class.bymyway.com",
     "rpl-class.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-18",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -698,29 +767,6 @@
     "mac-openclaw-workflows.netlify.app"
    ],
    "cat": "程式／內部倉庫",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "lai-yaojia",
-   "name": "賴耀嘉｜攝氏零度影像設計 — 把瞬間，凝結成永恆",
-   "desc": "",
-   "url": "https://coach1973.github.io/lai-yaojia/",
-   "repoUrl": "https://github.com/Coach1973/lai-yaojia",
-   "repo": "lai-yaojia",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lai-yaojia",
-    "event.bymyway.com/curated/lai-yaojia",
-    "event.bymyway.com/lai-yaojia",
-    "lai-yaojia.bymyway.com",
-    "lai-yaojia.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
    "updated": "2026-11-18",
    "inRegistry": false,
    "delisted": false,
@@ -872,9 +918,9 @@
   },
   {
    "id": "da-a-brother",
-   "name": "da-a-brother",
-   "desc": "",
-   "url": "https://github.com/Coach1973/da-a-brother",
+   "name": "大A師兄 陳杉榕｜從銷售講台走進山林的種樹達人",
+   "desc": "大A師兄 陳杉榕：早年 HP 工程師、銷售培訓講師、理財書作者，2014 年後回鄉種樹、投入沉香植菌，提出「為世界種70億棵樹，為地球降溫2度」，以「您消費我捐錢」推動公益。",
+   "url": "https://event.bymyway.com/curated/da-a-brother/",
    "repoUrl": "https://github.com/Coach1973/da-a-brother",
    "repo": "da-a-brother",
    "private": true,
@@ -886,9 +932,9 @@
     "event.bymyway.com/curated/da-a-brother",
     "event.bymyway.com/da-a-brother"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-18",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -933,29 +979,6 @@
     "event.bymyway.com/curated/coach888"
    ],
    "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "chen-jianhua-muse",
-   "name": "chen-jianhua-muse",
-   "desc": "",
-   "url": "https://github.com/Coach1973/chen-jianhua-muse",
-   "repoUrl": "https://github.com/Coach1973/chen-jianhua-muse",
-   "repo": "chen-jianhua-muse",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "chen-jianhua-muse.bymyway.com",
-    "chen-jianhua-muse.netlify.app",
-    "coach1973.github.io/chen-jianhua-muse",
-    "event.bymyway.com/chen-jianhua-muse",
-    "event.bymyway.com/curated/chen-jianhua-muse"
-   ],
-   "cat": "程式／內部倉庫",
    "updated": "2026-11-18",
    "inRegistry": false,
    "delisted": false,
@@ -7034,5 +7057,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T18:15:31Z"
+ "generated": "2026-11-18T18:20:19Z"
 }
