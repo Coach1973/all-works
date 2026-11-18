@@ -284,6 +284,29 @@
    "aliases": []
   },
   {
+   "id": "fu-enping",
+   "name": "傅恩平｜商務英漢通譯・榮益齋有限公司",
+   "desc": "傅恩平（En-Ping Fu），臺南善化商務英漢通譯專家，榮益齋有限公司負責人。會議口譯、文件筆譯、出版有聲、留遊學諮詢。",
+   "url": "https://event.bymyway.com/curated/fu-enping/",
+   "repoUrl": "https://github.com/Coach1973/fu-enping",
+   "repo": "fu-enping",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/fu-enping",
+    "event.bymyway.com/curated/fu-enping",
+    "event.bymyway.com/fu-enping",
+    "fu-enping.bymyway.com",
+    "fu-enping.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "chen-jianhua-muse",
    "name": "陳建樺｜雨不漏有限公司 — 台南防水治漏，雨停在屋頂外",
    "desc": "陳建樺：台南雨不漏有限公司負責人。自 2016 年起深耕防水抓漏，屋頂與外牆防水、壁癌處理、室內油漆、強化地坪，一層一層做到不再漏水。",
@@ -7103,5 +7126,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T18:29:50Z"
+ "generated": "2026-11-18T18:48:12Z"
 }
