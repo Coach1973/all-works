@@ -238,6 +238,29 @@
    "aliases": []
   },
   {
+   "id": "hao-zhenping",
+   "name": "郝振平 Bedouin Hao｜照相雞攝影工房創辦人・台南劇場攝影",
+   "desc": "郝振平 Bedouin Hao，照相雞攝影工房創辦人兼藝術總監、南城當代書寫影像有限公司負責人。深耕台南的劇場與表演藝術攝影師，五大品牌部門、六個劇團與藝術節平面攝影合作，長榮大學推廣教育中心影像書課程講師。",
+   "url": "https://event.bymyway.com/curated/hao-zhenping/",
+   "repoUrl": "https://github.com/Coach1973/hao-zhenping",
+   "repo": "hao-zhenping",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/hao-zhenping",
+    "event.bymyway.com/curated/hao-zhenping",
+    "event.bymyway.com/hao-zhenping",
+    "hao-zhenping.bymyway.com",
+    "hao-zhenping.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "chen-jianhua-muse",
    "name": "陳建樺｜雨不漏有限公司 — 台南防水治漏，雨停在屋頂外",
    "desc": "陳建樺：台南雨不漏有限公司負責人。自 2016 年起深耕防水抓漏，屋頂與外牆防水、壁癌處理、室內油漆、強化地坪，一層一層做到不再漏水。",
@@ -7057,5 +7080,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T18:20:19Z"
+ "generated": "2026-11-18T18:27:35Z"
 }
