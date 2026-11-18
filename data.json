@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "li-ruihui-muse",
+   "name": "李瑞惠｜有限責任台灣區綠能作物運銷合作社 — 讓田裡的好東西，被看見",
+   "desc": "李瑞惠：有限責任台灣區綠能作物運銷合作社理事兼總經理。蓖麻樹籽與能源作物共同運銷、天敵昆蟲生物防治、品牌行銷與地方創生，從田裡做到市場。",
+   "url": "https://event.bymyway.com/curated/li-ruihui-muse/",
+   "repoUrl": "https://github.com/Coach1973/li-ruihui-muse",
+   "repo": "li-ruihui-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/li-ruihui-muse",
+    "event.bymyway.com/curated/li-ruihui-muse",
+    "event.bymyway.com/li-ruihui-muse",
+    "li-ruihui-muse.bymyway.com",
+    "li-ruihui-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "lee-chungmin",
    "name": "李中閔｜港都的主持人、AI 影音講師與商圈推手",
    "desc": "李中閔：高雄市網紅部落客聯盟協會成立大會主持人、社團法人高雄市職能發展協會常務理事、AI 數位培力講師、長明商圈總幹事、AI 影音房仲。",
@@ -6917,5 +6940,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T17:38:00Z"
+ "generated": "2026-11-18T17:41:09Z"
 }
