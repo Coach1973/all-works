@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "xu-shanben-meidaozi-muse",
+   "name": "許山本美道子｜台南應用科技大學 — 現在開始，永遠不嫌晚",
+   "desc": "許山本美道子：1945年出生，2018年73歲走進台南應用科技大學進修部，修讀美術系與研究所在職專班。活到老，學到老。",
+   "url": "https://event.bymyway.com/curated/xu-shanben-meidaozi-muse/",
+   "repoUrl": "https://github.com/Coach1973/xu-shanben-meidaozi-muse",
+   "repo": "xu-shanben-meidaozi-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/xu-shanben-meidaozi-muse",
+    "event.bymyway.com/curated/xu-shanben-meidaozi-muse",
+    "event.bymyway.com/xu-shanben-meidaozi-muse",
+    "xu-shanben-meidaozi-muse.bymyway.com",
+    "xu-shanben-meidaozi-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "wu-riqin",
    "name": "吳日勤 Chin Wu｜台灣當代藝術家・東方抽象書寫",
    "desc": "吳日勤（Chin Wu），台灣當代藝術家，英國東倫敦大學藝術博士。以東方書法線條結合西方油畫肌理，30 餘場個展遍及紐約、倫敦、舊金山、北京與台灣。",
@@ -6986,5 +7009,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T17:51:24Z"
+ "generated": "2026-11-18T18:10:09Z"
 }
