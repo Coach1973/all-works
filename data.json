@@ -307,6 +307,52 @@
    "aliases": []
   },
   {
+   "id": "chen-shuling-muse-2",
+   "name": "陳淑鈴｜台灣首廟天壇董事會秘書．千算萬算不如天一劃",
+   "desc": "陳淑鈴：財團法人台灣首廟天壇董事會秘書，自1996年起在天壇服務超過26年，2012年起綜理廟務與行政，長期推動歲末送暖、獎助學金、以米代金等公益。",
+   "url": "https://event.bymyway.com/curated/chen-shuling-muse-2/",
+   "repoUrl": "https://github.com/Coach1973/chen-shuling-muse-2",
+   "repo": "chen-shuling-muse-2",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chen-shuling-muse-2.bymyway.com",
+    "chen-shuling-muse-2.netlify.app",
+    "coach1973.github.io/chen-shuling-muse-2",
+    "event.bymyway.com/chen-shuling-muse-2",
+    "event.bymyway.com/curated/chen-shuling-muse-2"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "chen-shuling-muse",
+   "name": "陳淑鈴｜台灣首廟天壇董事會秘書．千算萬算不如天一劃",
+   "desc": "陳淑鈴：財團法人台灣首廟天壇董事會秘書，自1996年起在天壇服務超過26年，2012年起綜理廟務與行政，長期推動歲末送暖、獎助學金、以米代金等公益。",
+   "url": "https://event.bymyway.com/curated/chen-shuling-muse/",
+   "repoUrl": "https://github.com/Coach1973/chen-shuling-muse",
+   "repo": "chen-shuling-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chen-shuling-muse.bymyway.com",
+    "chen-shuling-muse.netlify.app",
+    "coach1973.github.io/chen-shuling-muse",
+    "event.bymyway.com/chen-shuling-muse",
+    "event.bymyway.com/curated/chen-shuling-muse"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "chen-jianhua-muse",
    "name": "陳建樺｜雨不漏有限公司 — 台南防水治漏，雨停在屋頂外",
    "desc": "陳建樺：台南雨不漏有限公司負責人。自 2016 年起深耕防水抓漏，屋頂與外牆防水、壁癌處理、室內油漆、強化地坪，一層一層做到不再漏水。",
@@ -7126,5 +7172,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T18:48:12Z"
+ "generated": "2026-11-18T18:49:27Z"
 }
