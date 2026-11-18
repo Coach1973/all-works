@@ -165,6 +165,29 @@
    "aliases": []
   },
   {
+   "id": "lin-hongcheng",
+   "name": "林泓丞｜鏡頭後面的人 — 台南應用科技大學兼任講師",
+   "desc": "林泓丞，台南應用科技大學兼任講師、導演、南應大運動傳播團隊帶隊老師。帶著學生把賽事直播出去，帶著空拍機把城市拍成故事。",
+   "url": "https://event.bymyway.com/curated/lin-hongcheng/",
+   "repoUrl": "https://github.com/Coach1973/lin-hongcheng",
+   "repo": "lin-hongcheng",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lin-hongcheng",
+    "event.bymyway.com/curated/lin-hongcheng",
+    "event.bymyway.com/lin-hongcheng",
+    "lin-hongcheng.bymyway.com",
+    "lin-hongcheng.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "lin-fulang-muse",
    "name": "林富郎｜千山律師事務所主持律師",
    "desc": "林富郎：前台灣高等法院台南分院、台南地方法院及嘉義地方法院法官，25 年審判經驗，民國 111 年底退休，於台南安平開設千山律師事務所。",
@@ -7195,5 +7218,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T18:50:18Z"
+ "generated": "2026-11-18T19:10:38Z"
 }
