@@ -1170,6 +1170,29 @@
    "aliases": []
   },
   {
+   "id": "chen-jian-daming",
+   "name": "陳建大明 C.C. Da Ming｜沐光而行",
+   "desc": "陳建大明，臺灣當代藝術家、策展人、無界學院發起人。1968年生於嘉義，紐約 ISCP 駐村藝術家，高雄駁二藝術特區首任藝術總監。創作融入五行宇宙觀、量子力學與生命哲學。",
+   "url": "https://event.bymyway.com/curated/chen-jian-daming/",
+   "repoUrl": "https://github.com/Coach1973/chen-jian-daming",
+   "repo": "chen-jian-daming",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "chen-jian-daming.bymyway.com",
+    "chen-jian-daming.netlify.app",
+    "coach1973.github.io/chen-jian-daming",
+    "event.bymyway.com/chen-jian-daming",
+    "event.bymyway.com/curated/chen-jian-daming"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "bni-chapters",
    "name": "BNI大台南南區・分會列表",
    "desc": "",
@@ -7501,5 +7524,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T14:25:26Z"
+ "generated": "2026-11-19T14:27:08Z"
 }
