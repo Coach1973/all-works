@@ -3,8 +3,8 @@
  "items": [
   {
    "id": "yang-chihkai",
-   "name": "楊智凱｜蘭都觀光工廠總經理・把台南市花種成一個品牌",
-   "desc": "楊智凱，台南六甲蘭都觀光工廠（ScentDom）總經理、宥盛科技二代接班人。中國醫藥大學口腔衛生學系、國立中山大學 EMBA。以台南市花蝴蝶蘭為核心，打造全台以蘭花為主題的觀光工廠。",
+   "name": "楊智凱｜蘭都觀光工廠副總經理・把台南市花種成一個品牌",
+   "desc": "楊智凱，台南六甲蘭都觀光工廠（ScentDom）副總經理、宥盛科技二代接班人。中國醫藥大學口腔衛生學系、國立中山大學 EMBA。以台南市花蝴蝶蘭為核心，打造全台以蘭花為主題的觀光工廠。",
    "url": "https://event.bymyway.com/curated/yang-chihkai/",
    "repoUrl": "https://github.com/Coach1973/yang-chihkai",
    "repo": "yang-chihkai",
@@ -22,6 +22,29 @@
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "xu-zhe-cheng",
+   "name": "許哲誠｜視障鋼琴家・用琴聲翻譯生命故事",
+   "desc": "許哲誠，出生即全盲的台灣視障鋼琴家。14 歲以〈天黑黑〉獲國際身心障礙青年音樂家首獎，與恩師范德騰合演《彈琴說愛》《聲聲不息》，以即興創作與生命教育走進校園、醫院與社區。",
+   "url": "https://event.bymyway.com/curated/xu-zhe-cheng/",
+   "repoUrl": "https://github.com/Coach1973/xu-zhe-cheng",
+   "repo": "xu-zhe-cheng",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/xu-zhe-cheng",
+    "event.bymyway.com/curated/xu-zhe-cheng",
+    "event.bymyway.com/xu-zhe-cheng",
+    "xu-zhe-cheng.bymyway.com",
+    "xu-zhe-cheng.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -96,6 +119,122 @@
    "aliases": []
   },
   {
+   "id": "wang-junfu",
+   "name": "王俊甫｜AI 與數位轉型・萬加 ONE+ 智能 AI 系統平台",
+   "desc": "王俊甫（Wang Junfu），AI 與數位轉型、萬加 ONE+ 智能 AI 系統平台系統開發。10 年餐飲業、5 年不動產業務、倉儲管理實務，從第一線工作流程找出費工環節，協助企業客製系統、節省時間與人力。",
+   "url": "https://event.bymyway.com/curated/wang-junfu/",
+   "repoUrl": "https://github.com/Coach1973/wang-junfu",
+   "repo": "wang-junfu",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wang-junfu",
+    "event.bymyway.com/curated/wang-junfu",
+    "event.bymyway.com/wang-junfu",
+    "wang-junfu.bymyway.com",
+    "wang-junfu.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tut-alumni",
+   "name": "台南應用科技大學校友會 召集令",
+   "desc": "",
+   "url": "https://event.bymyway.com/tut/",
+   "repoUrl": "https://github.com/Coach1973/tut-alumni",
+   "repo": "tut-alumni",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-alumni",
+    "event.bymyway.com/curated/tut-alumni",
+    "event.bymyway.com/tut",
+    "event.bymyway.com/tut-alumni",
+    "tut-alumni.bymyway.com",
+    "tut-alumni.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "taipeiema1017",
+   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
+   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
+   "url": "https://event.bymyway.com/curated/taipeiema1017/",
+   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
+   "repo": "taipeiema1017",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/taipeiema1017",
+    "event.bymyway.com/curated/taipeiema1017",
+    "event.bymyway.com/taipeiema1017",
+    "taipeiema1017.bymyway.com",
+    "taipeiema1017.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "大臺南商圈整合計劃 · 大台南策展中心",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "rongtree",
+   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
+   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
+   "url": "https://event.bymyway.com/curated/rongtree/",
+   "repoUrl": "https://github.com/Coach1973/rongtree",
+   "repo": "rongtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rongtree",
+    "event.bymyway.com/curated/rongtree",
+    "event.bymyway.com/rongtree",
+    "rongtree.bymyway.com",
+    "rongtree.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "qiu-yurong-muse",
    "name": "邱裕榮｜二十年媒體閱歷，以 AI 賦能企業未來",
    "desc": "邱裕榮：才榮數位總經理、AI 傳道學院創辦人、AI 媒體聯盟總編輯。二十多年財經記者與主持人，榮樹下節目與吳大樹談古論今聊家常。",
@@ -137,6 +276,75 @@
    "cat": "策展・育",
    "updated": "2026-11-19",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "my-tools",
+   "name": "大樹的常用查詢網站（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/my-tools/",
+   "repoUrl": "https://github.com/Coach1973/my-tools",
+   "repo": "my-tools",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/my-tools",
+    "event.bymyway.com/curated/my-tools",
+    "event.bymyway.com/my-tools",
+    "my-tools.bymyway.com",
+    "my-tools.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-19",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -378,6 +586,29 @@
    "aliases": []
   },
   {
+   "id": "coach888",
+   "name": "大樹AI作品總覽（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "chen-shuling-muse-2",
    "name": "陳淑鈴｜台灣首廟天壇董事會秘書．千算萬算不如天一劃",
    "desc": "陳淑鈴：財團法人台灣首廟天壇董事會秘書，自1996年起在天壇服務超過26年，2012年起綜理廟務與行政，長期推動歲末送暖、獎助學金、以米代金等公益。",
@@ -442,6 +673,30 @@
    "cat": "教練個人創作",
    "updated": "2026-11-19",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bni-chapters",
+   "name": "BNI大台南南區・分會列表",
+   "desc": "",
+   "url": "https://chapters.bymyway.com/",
+   "repoUrl": "https://github.com/Coach1973/bni-chapters",
+   "repo": "bni-chapters",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bni-chapters.bymyway.com",
+    "bni-chapters.netlify.app",
+    "chapters.bymyway.com",
+    "coach1973.github.io/bni-chapters",
+    "event.bymyway.com/bni-chapters",
+    "event.bymyway.com/curated/bni-chapters"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -635,30 +890,6 @@
    "aliases": []
   },
   {
-   "id": "tut-alumni",
-   "name": "台南應用科技大學校友會 召集令",
-   "desc": "",
-   "url": "https://event.bymyway.com/tut/",
-   "repoUrl": "https://github.com/Coach1973/tut-alumni",
-   "repo": "tut-alumni",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-alumni",
-    "event.bymyway.com/curated/tut-alumni",
-    "event.bymyway.com/tut",
-    "event.bymyway.com/tut-alumni",
-    "tut-alumni.bymyway.com",
-    "tut-alumni.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "tava-to-claude",
    "name": "手機做網頁｜TAVA 交給 Claude",
    "desc": "",
@@ -696,29 +927,6 @@
     "event.bymyway.com/tava-brand-web-playbook",
     "tava-brand-web-playbook.bymyway.com",
     "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tainan-shangquan",
-   "name": "大臺南商圈整合計劃 · 大台南策展中心",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-18",
@@ -914,52 +1122,6 @@
    ]
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "hsiuli",
    "name": "黃秀麗｜全國古典音樂推廣版主",
    "desc": "黃秀麗，全國古典音樂推廣版主。長期以社群力量推廣古典音樂，串連主辦單位、樂團與樂迷，讓好音樂被更多人聽見。歡迎音樂會宣傳、導聆、藝文跨界與公益合作邀約。",
@@ -1140,29 +1302,6 @@
     "course-signup-playbook.netlify.app",
     "event.bymyway.com/course-signup-playbook",
     "event.bymyway.com/curated/course-signup-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "大樹AI作品總覽（個人專用）",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-18",
@@ -1453,29 +1592,6 @@
    ]
   },
   {
-   "id": "rongtree",
-   "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
-   "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
-   "url": "https://event.bymyway.com/curated/rongtree/",
-   "repoUrl": "https://github.com/Coach1973/rongtree",
-   "repo": "rongtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rongtree",
-    "event.bymyway.com/curated/rongtree",
-    "event.bymyway.com/rongtree",
-    "rongtree.bymyway.com",
-    "rongtree.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "lia-chih-ming",
    "name": "賴志明｜漢唐集成總經理・台灣高科技廠房設施協會理事長",
    "desc": "賴志明，漢唐集成（2404）總經理、台灣高科技廠房設施協會（HTFA）第三屆理事長。從台積電新廠規劃、千附實業總經理到帶領漢唐全球建廠。",
@@ -1662,29 +1778,6 @@
    ]
   },
   {
-   "id": "taipeiema1017",
-   "name": "10/17 台北・一支手機的魔法夜｜中華網紅協會 × 大樹教育",
-   "desc": "10/17 台北零基礎學 AI 課全紀錄：現場一人一句寫成的歌、歌詞、提示詞、影片、簡報與海鮮鍋之夜。",
-   "url": "https://event.bymyway.com/curated/taipeiema1017/",
-   "repoUrl": "https://github.com/Coach1973/taipeiema1017",
-   "repo": "taipeiema1017",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/taipeiema1017",
-    "event.bymyway.com/curated/taipeiema1017",
-    "event.bymyway.com/taipeiema1017",
-    "taipeiema1017.bymyway.com",
-    "taipeiema1017.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-14",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "run5k",
    "name": "把五公里變成公益夜市｜2027 順發 × 港都公益路跑・五公里公益商業市集",
    "desc": "2027 RUN FOR FUTURE 第五屆順發 × 港都公益路跑，4 月 18 日在高雄港灣文化廊帶（駁二 × 高流）開跑。五公里公益商業市集暨企業資源共享平台：品牌曝光、產品進駐、找廠商、找人才，讓品牌被看見，讓資源找到彼此。",
@@ -1731,29 +1824,6 @@
    "aliases": []
   },
   {
-   "id": "my-tools",
-   "name": "大樹的常用查詢網站（個人專用）",
-   "desc": "",
-   "url": "https://coach1973.github.io/my-tools/",
-   "repoUrl": "https://github.com/Coach1973/my-tools",
-   "repo": "my-tools",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/my-tools",
-    "event.bymyway.com/curated/my-tools",
-    "event.bymyway.com/my-tools",
-    "my-tools.bymyway.com",
-    "my-tools.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-14",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "kinmen-kitchen-1205",
    "name": "秋瑩姐的金門私廚 × AI 餐桌｜12/6（日）KR 養生廚房",
    "desc": "12/6（日）11:30–15:30，台南 KR 養生廚房。道地金門人秋瑩姐掌廚：金門廣東粥、金酒咖啡、戰地炒泡麵；餐前餐後茶席，邊吃邊聊手機 AI、音樂與藝術。每位 1,500 元，限 20 位。",
@@ -1773,30 +1843,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-14",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "bni-chapters",
-   "name": "BNI大台南南區・分會列表",
-   "desc": "",
-   "url": "https://chapters.bymyway.com/",
-   "repoUrl": "https://github.com/Coach1973/bni-chapters",
-   "repo": "bni-chapters",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "bni-chapters.bymyway.com",
-    "bni-chapters.netlify.app",
-    "chapters.bymyway.com",
-    "coach1973.github.io/bni-chapters",
-    "event.bymyway.com/bni-chapters",
-    "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-14",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -3650,29 +3696,6 @@
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "xu-zhe-cheng",
-   "name": "許哲誠｜視障鋼琴家・用琴聲翻譯生命故事",
-   "desc": "許哲誠，出生即全盲的台灣視障鋼琴家。14 歲以〈天黑黑〉獲國際身心障礙青年音樂家首獎，與恩師范德騰合演《彈琴說愛》《聲聲不息》，以即興創作與生命教育走進校園、醫院與社區。",
-   "url": "https://event.bymyway.com/curated/xu-zhe-cheng/",
-   "repoUrl": "https://github.com/Coach1973/xu-zhe-cheng",
-   "repo": "xu-zhe-cheng",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/xu-zhe-cheng",
-    "event.bymyway.com/curated/xu-zhe-cheng",
-    "event.bymyway.com/xu-zhe-cheng",
-    "xu-zhe-cheng.bymyway.com",
-    "xu-zhe-cheng.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-10-28",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -7243,5 +7266,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-18T23:33:44Z"
+ "generated": "2026-11-19T03:24:20Z"
 }
