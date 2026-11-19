@@ -234,6 +234,29 @@
    "aliases": []
   },
   {
+   "id": "wei-jianghuang-muse",
+   "name": "魏江煌｜薑黃・高雄中古車｜只賣好車，讓時間證明一切",
+   "desc": "魏江煌（薑黃），高雄中古車業務，駿聖國際車業・HOT 大聯盟，BNI 高雄富豪分會近十年資深會員、國產車業代表。",
+   "url": "https://event.bymyway.com/curated/wei-jianghuang-muse/",
+   "repoUrl": "https://github.com/Coach1973/wei-jianghuang-muse",
+   "repo": "wei-jianghuang-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wei-jianghuang-muse",
+    "event.bymyway.com/curated/wei-jianghuang-muse",
+    "event.bymyway.com/wei-jianghuang-muse",
+    "wei-jianghuang-muse.bymyway.com",
+    "wei-jianghuang-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "wang-junfu",
    "name": "王俊甫｜AI 與數位轉型・萬加 ONE+ 智能 AI 系統平台",
    "desc": "王俊甫（Wang Junfu），AI 與數位轉型、萬加 ONE+ 智能 AI 系統平台系統開發。10 年餐飲業、5 年不動產業務、倉儲管理實務，從第一線工作流程找出費工環節，協助企業客製系統、節省時間與人力。",
@@ -7455,5 +7478,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T13:13:55Z"
+ "generated": "2026-11-19T13:38:49Z"
 }
