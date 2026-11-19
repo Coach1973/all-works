@@ -206,8 +206,8 @@
    "cat": "策展・食",
    "updated": "2026-11-19",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
+   "delisted": true,
+   "unlistedAt": "2026-11-19 13:05",
    "aliases": []
   },
   {
@@ -7335,5 +7335,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T04:44:17Z"
+ "generated": "2026-11-19T05:05:50Z"
 }
