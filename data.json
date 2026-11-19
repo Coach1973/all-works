@@ -235,6 +235,31 @@
    "aliases": []
   },
   {
+   "id": "tina-hsu",
+   "name": "許鳳翎 Tina｜剪刀手造型美學會館 共同創辦人・執行長",
+   "desc": "許鳳翎 Tina，台中「剪刀手造型美學會館」共同創辦人兼執行長。1994 年與 BOSS 葉宗賢在豐原創業，深耕美業三十餘年，國際扶輪 3460 地區 2014-15 年度社長，長年帶領團隊公益義剪。",
+   "url": "https://event.bymyway.com/curated/tina-hsu/",
+   "repoUrl": "https://github.com/Coach1973/tina-hsu",
+   "repo": "tina-hsu",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tina-hsu",
+    "event.bymyway.com/curated/tina-hsu",
+    "event.bymyway.com/tina-hsu",
+    "tina-hsu.bymyway.com",
+    "tina-hsu.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "共創辦人"
+   ]
+  },
+  {
    "id": "tava-to-claude",
    "name": "手機做網頁｜TAVA 交給 Claude",
    "desc": "",
@@ -322,6 +347,29 @@
    "cat": "GitHub 網頁",
    "updated": "2026-11-19",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -546,7 +594,8 @@
    "archived": false,
    "keys": [
     "coach1973.github.io/lin-jialing-muse",
-    "event.bymyway.com/curated/Lavi-Lin-muse",
+    "event.bymyway.com/curated/lavi-lin-muse",
+    "event.bymyway.com/curated/lin-jialing-muse",
     "event.bymyway.com/lin-jialing-muse",
     "lin-jialing-muse.bymyway.com",
     "lin-jialing-muse.netlify.app"
@@ -1092,29 +1141,6 @@
     "stickerkit.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-11-18",
    "inRegistry": true,
    "delisted": false,
@@ -7335,5 +7361,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T05:06:40Z"
+ "generated": "2026-11-19T05:18:17Z"
 }
