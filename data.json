@@ -71,6 +71,29 @@
    "aliases": []
   },
   {
+   "id": "zhang-qiongwen",
+   "name": "張瓊文｜把台灣的好，端上桌",
+   "desc": "張瓊文，新唐人電視台《廚娘香Q秀》節目製作人、《美麗心台灣》企劃。從三台時代的導播、製作人，到新唐人影視製作與講座。",
+   "url": "https://event.bymyway.com/curated/zhang-qiongwen/",
+   "repoUrl": "https://github.com/Coach1973/zhang-qiongwen",
+   "repo": "zhang-qiongwen",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhang-qiongwen",
+    "event.bymyway.com/curated/zhang-qiongwen",
+    "event.bymyway.com/zhang-qiongwen",
+    "zhang-qiongwen.bymyway.com",
+    "zhang-qiongwen.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zeng-siyuan-muse",
    "name": "曾思遠 Giga｜把複雜的東西，做成別人用得起來的產品",
    "desc": "曾思遠（Giga）個人品牌網頁：AI Agent 企業導入顧問、旋宇科技執行長、Giga AI Studio 主持人、學思科技創辦人。",
@@ -7524,5 +7547,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T14:27:08Z"
+ "generated": "2026-11-19T14:50:33Z"
 }
