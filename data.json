@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhao-qixian-muse",
+   "name": "寫寫文字｜趙啟弦——把每一天寫下來，再把它說出口",
+   "desc": "趙啟弦（寫寫）：2022/1/1 開始日更寫作，2024/9/1 開播 Podcast《寫寫跟你說》，不到兩年突破 1000 集。閱讀心得、生活隨筆與聲音創作。",
+   "url": "https://event.bymyway.com/curated/zhao-qixian-muse/",
+   "repoUrl": "https://github.com/Coach1973/zhao-qixian-muse",
+   "repo": "zhao-qixian-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhao-qixian-muse",
+    "event.bymyway.com/curated/zhao-qixian-muse",
+    "event.bymyway.com/zhao-qixian-muse",
+    "zhao-qixian-muse.bymyway.com",
+    "zhao-qixian-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhang-yu-ci",
    "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
    "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
@@ -7409,5 +7432,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T12:32:43Z"
+ "generated": "2026-11-19T13:06:00Z"
 }
