@@ -2,6 +2,52 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhang-yu-ci",
+   "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
+   "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
+   "url": "https://event.bymyway.com/curated/zhang-yu-ci/",
+   "repoUrl": "https://github.com/Coach1973/zhang-yu-ci",
+   "repo": "zhang-yu-ci",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhang-yu-ci",
+    "event.bymyway.com/curated/zhang-yu-ci",
+    "event.bymyway.com/zhang-yu-ci",
+    "zhang-yu-ci.bymyway.com",
+    "zhang-yu-ci.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "yang-shang-ru-muse",
+   "name": "楊尚儒｜從首席的椅子，走向指揮台．小提琴・中提琴 D.M.A.",
+   "desc": "楊尚儒 Shang-Ju Yang, D.M.A.｜美國亞利桑那大學音樂藝術博士、藝曲愛樂管弦樂團首席（2012–2019）、中信金融管理學院專任助理教授。在台南帶弦樂團、教小提琴與中提琴，下一步是成立自己的樂團、走上指揮台。",
+   "url": "https://event.bymyway.com/curated/yang-shang-ru-muse/",
+   "repoUrl": "https://github.com/Coach1973/yang-shang-ru-muse",
+   "repo": "yang-shang-ru-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-shang-ru-muse",
+    "event.bymyway.com/curated/yang-shang-ru-muse",
+    "event.bymyway.com/yang-shang-ru-muse",
+    "yang-shang-ru-muse.bymyway.com",
+    "yang-shang-ru-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yang-chihkai",
    "name": "楊智凱｜蘭都觀光工廠副總經理・把台南市花種成一個品牌",
    "desc": "楊智凱，台南六甲蘭都觀光工廠（ScentDom）副總經理、宥盛科技二代接班人。中國醫藥大學口腔衛生學系、國立中山大學 EMBA。以台南市花蝴蝶蘭為核心，打造全台以蘭花為主題的觀光工廠。",
@@ -563,6 +609,31 @@
    "aliases": []
   },
   {
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "fu-enping",
    "name": "傅恩平｜商務英漢通譯・榮益齋有限公司",
    "desc": "傅恩平（En-Ping Fu），臺南善化商務英漢通譯專家，榮益齋有限公司負責人。會議口譯、文件筆譯、出版有聲、留遊學諮詢。",
@@ -702,6 +773,29 @@
    "aliases": []
   },
   {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "ale-brand",
    "name": "邱貴揚 阿樂老師｜唱片製作人・可澄音樂文創創辦人暨音樂總監",
    "desc": "阿樂老師（邱貴揚博士）：資深唱片製作人、詞曲作者、編曲混音師，三度入圍金曲獎，《中國好聲音》官方唱片製作人，可澄音樂文創有限公司創辦人暨音樂總監。",
@@ -726,29 +820,6 @@
     "邱博士",
     "阿老師"
    ]
-  },
-  {
-   "id": "zhang-yu-ci",
-   "name": "張育慈｜順業肥料資材行 — 彰化溪州．有機肥料與農業資材",
-   "desc": "順業肥料資材行．彰化縣溪州鄉。創立於 1996 年的家族肥料商行，第二代張育慈（慕斯）以中餐乙級廚師的背景回鄉接棒，專營有機肥料、植物營養劑與農業資材，走天然稀有、價格公道的中高端路線。",
-   "url": "https://event.bymyway.com/curated/zhang-yu-ci/",
-   "repoUrl": "https://github.com/Coach1973/zhang-yu-ci",
-   "repo": "zhang-yu-ci",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zhang-yu-ci",
-    "event.bymyway.com/curated/zhang-yu-ci",
-    "event.bymyway.com/zhang-yu-ci",
-    "zhang-yu-ci.bymyway.com",
-    "zhang-yu-ci.netlify.app"
-   ],
-   "cat": "策展・食",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
   },
   {
    "id": "yang-smart",
@@ -1145,31 +1216,6 @@
    "aliases": []
   },
   {
-   "id": "go",
-   "name": "大樹入口",
-   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
-   "url": "https://event.bymyway.com/curated/go/",
-   "repoUrl": "https://github.com/Coach1973/go",
-   "repo": "go",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/go",
-    "event.bymyway.com/curated/go",
-    "event.bymyway.com/go",
-    "go.bymyway.com",
-    "go.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
    "id": "fu-en-ping",
    "name": "傅恩平｜商務英漢通譯・榮益齋有限公司",
    "desc": "傅恩平 Fu En-ping — 商務英漢通譯，榮益齋有限公司（Gracious Benefacts LLC）負責人。臺南善化。筆譯、口譯、出版與有聲製作；台語聖詩新譯；BNI 大台南南區真鑽分會。",
@@ -1374,29 +1420,6 @@
     "coach1973.github.io/association-site-playbook",
     "event.bymyway.com/association-site-playbook",
     "event.bymyway.com/curated/association-site-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-18",
@@ -7266,5 +7289,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T03:24:20Z"
+ "generated": "2026-11-19T03:42:12Z"
 }
