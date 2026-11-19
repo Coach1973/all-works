@@ -398,6 +398,31 @@
    "aliases": []
   },
   {
+   "id": "rpl-leadership",
+   "name": "結繩領導學苑｜心中有尺．手中有線．眼裡有光",
+   "desc": "結繩領導學苑官方網站：《結繩領導學》兩日實戰工作坊、企業講座、企業教練，以及繩乎奇技傘繩 DIY 工作坊、線上課程與傘繩作品。創辦人蔡曜隆（曜董）：近 40 年大地工程、50 年結繩經驗。",
+   "url": "https://event.bymyway.com/curated/rpl-leadership/",
+   "repoUrl": "https://github.com/Coach1973/rpl-leadership",
+   "repo": "rpl-leadership",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rpl-leadership",
+    "event.bymyway.com/curated/rpl-leadership",
+    "event.bymyway.com/rpl-leadership",
+    "rpl-leadership.bymyway.com",
+    "rpl-leadership.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "企教練"
+   ]
+  },
+  {
    "id": "rongtree",
    "name": "榮樹下｜邱裕榮與吳大樹談古論今聊家常",
    "desc": "榮樹下 Podcast——邱裕榮與吳大樹在榕樹下專訪企業家與發明家。做對的事，自然把事做對；商業即公益，利他即商業。",
@@ -7384,5 +7409,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T06:14:27Z"
+ "generated": "2026-11-19T12:32:43Z"
 }
