@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "ye-zongxian",
+   "name": "葉宗賢 BOSS｜剪刀手造型美學會館創辦人・台中美髮",
+   "desc": "葉宗賢（BOSS），剪刀手造型美學會館創辦人兼執行／技術總監。1994 年創立於台中豐原，14 歲入行、資歷逾 30 年，主推無差別物理燙、SIG 無氨髮色調整與頂級頭皮 SPA。",
+   "url": "https://event.bymyway.com/curated/ye-zongxian/",
+   "repoUrl": "https://github.com/Coach1973/ye-zongxian",
+   "repo": "ye-zongxian",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/ye-zongxian",
+    "event.bymyway.com/curated/ye-zongxian",
+    "event.bymyway.com/ye-zongxian",
+    "ye-zongxian.bymyway.com",
+    "ye-zongxian.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "yang-shang-ru-muse",
    "name": "楊尚儒｜從首席的椅子，走向指揮台．小提琴・中提琴 D.M.A.",
    "desc": "楊尚儒 Shang-Ju Yang, D.M.A.｜美國亞利桑那大學音樂藝術博士、藝曲愛樂管弦樂團首席（2012–2019）、中信金融管理學院專任助理教授。在台南帶弦樂團、教小提琴與中提琴，下一步是成立自己的樂團、走上指揮台。",
@@ -203,6 +226,52 @@
     "event.bymyway.com/tut-alumni",
     "tut-alumni.bymyway.com",
     "tut-alumni.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tava-to-claude",
+   "name": "手機做網頁｜TAVA 交給 Claude",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-to-claude/",
+   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
+   "repo": "tava-to-claude",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-to-claude",
+    "event.bymyway.com/curated/tava-to-claude",
+    "event.bymyway.com/tava-to-claude",
+    "tava-to-claude.bymyway.com",
+    "tava-to-claude.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tava-brand-web-playbook",
+   "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-19",
@@ -979,52 +1048,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-18",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tava-to-claude",
-   "name": "手機做網頁｜TAVA 交給 Claude",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-to-claude/",
-   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
-   "repo": "tava-to-claude",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-to-claude",
-    "event.bymyway.com/curated/tava-to-claude",
-    "event.bymyway.com/tava-to-claude",
-    "tava-to-claude.bymyway.com",
-    "tava-to-claude.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tava-brand-web-playbook",
-   "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -7312,5 +7335,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T03:47:28Z"
+ "generated": "2026-11-19T04:44:17Z"
 }
