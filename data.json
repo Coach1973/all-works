@@ -444,6 +444,29 @@
    ]
   },
   {
+   "id": "lin-jialing-muse",
+   "name": "林佳伶 Lavi｜荷緻形象創辦人・國際形象顧問",
+   "desc": "Lavi 林佳伶，LAVision Image 荷緻形象創辦人、國際形象顧問。13 年以上影劇、舞台與商務形象經驗，以形象策略串聯個人品牌、視覺與故事，讓專業跨越語言與文化。",
+   "url": "https://event.bymyway.com/curated/lin-jialing-muse/",
+   "repoUrl": "https://github.com/Coach1973/lin-jialing-muse",
+   "repo": "lin-jialing-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lin-jialing-muse",
+    "event.bymyway.com/curated/lin-jialing-muse",
+    "event.bymyway.com/lin-jialing-muse",
+    "lin-jialing-muse.bymyway.com",
+    "lin-jialing-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "lin-hongcheng",
    "name": "林泓丞｜鏡頭後面的人 — 台南應用科技大學兼任講師",
    "desc": "林泓丞，台南應用科技大學兼任講師、導演、南應大運動傳播團隊帶隊老師。帶著學生把賽事直播出去，帶著空拍機把城市拍成故事。",
@@ -7289,5 +7312,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T03:42:12Z"
+ "generated": "2026-11-19T03:47:28Z"
 }
