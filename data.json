@@ -1053,6 +1053,31 @@
    "aliases": []
   },
   {
+   "id": "guo-jingjing",
+   "name": "郭靜靜｜DEAR CHING 台南郭靜靜專業美學",
+   "desc": "DEAR CHING 台南郭靜靜專業美學，由靜靜老師創立的女性保養與身體護理工作室。專注女性健康管理｜美胸保養｜全方位臀療 17 技。台南市永康區振興路 34 號，預約制。",
+   "url": "https://event.bymyway.com/curated/guo-jingjing/",
+   "repoUrl": "https://github.com/Coach1973/guo-jingjing",
+   "repo": "guo-jingjing",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/guo-jingjing",
+    "event.bymyway.com/curated/guo-jingjing",
+    "event.bymyway.com/guo-jingjing",
+    "guo-jingjing.bymyway.com",
+    "guo-jingjing.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "由老師"
+   ]
+  },
+  {
    "id": "go",
    "name": "大樹入口",
    "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
@@ -7547,5 +7572,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T14:50:33Z"
+ "generated": "2026-11-19T15:13:39Z"
 }
