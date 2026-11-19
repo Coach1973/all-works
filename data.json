@@ -750,6 +750,29 @@
    "aliases": []
   },
   {
+   "id": "huang-shiheng-muse",
+   "name": "黃士恒｜毛飲樂 寵物飲料推廣・台南",
+   "desc": "黃士恒，誠律有限公司代表人、「毛飲樂」商標權人，在台南推廣犬貓專用的寵物社交與機能飲品，BNI 台南金貴分會寵物飲料銷售業、寵物食品代表。",
+   "url": "https://event.bymyway.com/curated/huang-shiheng-muse/",
+   "repoUrl": "https://github.com/Coach1973/huang-shiheng-muse",
+   "repo": "huang-shiheng-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/huang-shiheng-muse",
+    "event.bymyway.com/curated/huang-shiheng-muse",
+    "event.bymyway.com/huang-shiheng-muse",
+    "huang-shiheng-muse.bymyway.com",
+    "huang-shiheng-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "hao-zhenping",
    "name": "郝振平 Bedouin Hao｜照相雞攝影工房創辦人・台南劇場攝影",
    "desc": "郝振平 Bedouin Hao，照相雞攝影工房創辦人兼藝術總監、南城當代書寫影像有限公司負責人。深耕台南的劇場與表演藝術攝影師，五大品牌部門、六個劇團與藝術節平面攝影合作，長榮大學推廣教育中心影像書課程講師。",
@@ -7361,5 +7384,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T05:18:17Z"
+ "generated": "2026-11-19T06:14:27Z"
 }
