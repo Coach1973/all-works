@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zheng-lisi-muse",
+   "name": "鄭儷絲 Christian｜中華網紅協會創會理事長・台灣網紅直播界教母",
+   "desc": "從報紙、電視、廣播一路走到直播間：資深媒體人鄭儷絲 Christian，帶著中華網紅協會推動網紅經濟、短影音教育與台灣品牌出海。",
+   "url": "https://event.bymyway.com/curated/zheng-lisi-muse/",
+   "repoUrl": "https://github.com/Coach1973/zheng-lisi-muse",
+   "repo": "zheng-lisi-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zheng-lisi-muse",
+    "event.bymyway.com/curated/zheng-lisi-muse",
+    "event.bymyway.com/zheng-lisi-muse",
+    "zheng-lisi-muse.bymyway.com",
+    "zheng-lisi-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhao-qixian-muse",
    "name": "寫寫文字｜趙啟弦——把每一天寫下來，再把它說出口",
    "desc": "趙啟弦（寫寫）：2022/1/1 開始日更寫作，2024/9/1 開播 Podcast《寫寫跟你說》，不到兩年突破 1000 集。閱讀心得、生活隨筆與聲音創作。",
@@ -45,6 +68,75 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "zeng-siyuan-muse",
+   "name": "曾思遠 Giga｜把複雜的東西，做成別人用得起來的產品",
+   "desc": "曾思遠（Giga）個人品牌網頁：AI Agent 企業導入顧問、旋宇科技執行長、Giga AI Studio 主持人、學思科技創辦人。",
+   "url": "https://event.bymyway.com/curated/zeng-siyuan-muse/",
+   "repoUrl": "https://github.com/Coach1973/zeng-siyuan-muse",
+   "repo": "zeng-siyuan-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zeng-siyuan-muse",
+    "event.bymyway.com/curated/zeng-siyuan-muse",
+    "event.bymyway.com/zeng-siyuan-muse",
+    "zeng-siyuan-muse.bymyway.com",
+    "zeng-siyuan-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "yu-ruiming-muse",
+   "name": "余瑞銘｜三十年陪台灣小店開店的創業顧問",
+   "desc": "余瑞銘：乙太未來商業顧問總經理、中華流通顧問協會創會理事長。三十年連鎖加盟實務，輔導上千家中小企業與青年創業者開店。",
+   "url": "https://event.bymyway.com/curated/yu-ruiming-muse/",
+   "repoUrl": "https://github.com/Coach1973/yu-ruiming-muse",
+   "repo": "yu-ruiming-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yu-ruiming-muse",
+    "event.bymyway.com/curated/yu-ruiming-muse",
+    "event.bymyway.com/yu-ruiming-muse",
+    "yu-ruiming-muse.bymyway.com",
+    "yu-ruiming-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "yu-ruiming",
+   "name": "余瑞銘｜流通顧問・創業導師・AI 應用企業顧問",
+   "desc": "余瑞銘（Jack Yu），乙太未來商業顧問總經理、社團法人中華流通顧問協會創會理事長。30 年實戰經驗，把開店變成一門有公式的學問。",
+   "url": "https://event.bymyway.com/curated/yu-ruiming/",
+   "repoUrl": "https://github.com/Coach1973/yu-ruiming",
+   "repo": "yu-ruiming",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yu-ruiming",
+    "event.bymyway.com/curated/yu-ruiming",
+    "event.bymyway.com/yu-ruiming",
+    "yu-ruiming.bymyway.com",
+    "yu-ruiming.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -326,6 +418,54 @@
    "unlistedAt": "",
    "aliases": [
     "共創辦人"
+   ]
+  },
+  {
+   "id": "tidda-muse",
+   "name": "台灣形象設計發展協會｜讓專業被看見，讓優雅成為日常",
+   "desc": "台灣形象設計發展協會（Taiwan Image Design Development Association），成立於 2017 年。整合美業專業、教育培訓、人脈連結與舞台曝光，推動形象設計與國際禮儀美學。現任理事長林家旭博士敬邀。",
+   "url": "https://event.bymyway.com/curated/tidda-muse/",
+   "repoUrl": "https://github.com/Coach1973/tidda-muse",
+   "repo": "tidda-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tidda-muse",
+    "event.bymyway.com/curated/tidda-muse",
+    "event.bymyway.com/tidda-muse",
+    "tidda-muse.bymyway.com",
+    "tidda-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "team-invite-muse",
+   "name": "大樹教練團隊邀請函｜30 分鐘合作洽談快速預約",
+   "desc": "大樹教練誠摯邀請您撥 30 分鐘，聊聊一起合作的機會。想進一步了解就挑一個最近兩三天線上的 30 分鐘，現階段沒辦法也可以一鍵婉拒。",
+   "url": "https://event.bymyway.com/curated/team-invite-muse/",
+   "repoUrl": "https://github.com/Coach1973/team-invite-muse",
+   "repo": "team-invite-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/team-invite-muse",
+    "event.bymyway.com/curated/team-invite-muse",
+    "event.bymyway.com/team-invite-muse",
+    "team-invite-muse.bymyway.com",
+    "team-invite-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
    ]
   },
   {
@@ -1664,29 +1804,6 @@
    "aliases": []
   },
   {
-   "id": "zeng-siyuan-muse",
-   "name": "曾思遠 Giga｜把複雜的東西，做成別人用得起來的產品",
-   "desc": "曾思遠（Giga）個人品牌網頁：AI Agent 企業導入顧問、旋宇科技執行長、Giga AI Studio 主持人、學思科技創辦人。",
-   "url": "https://event.bymyway.com/curated/zeng-siyuan-muse/",
-   "repoUrl": "https://github.com/Coach1973/zeng-siyuan-muse",
-   "repo": "zeng-siyuan-muse",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zeng-siyuan-muse",
-    "event.bymyway.com/curated/zeng-siyuan-muse",
-    "event.bymyway.com/zeng-siyuan-muse",
-    "zeng-siyuan-muse.bymyway.com",
-    "zeng-siyuan-muse.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "zeng-siyuan",
    "name": "曾思遠 Giga｜把 AI Agent 放進企業的日常工作流",
    "desc": "曾思遠 Giga：AI Agent 企業導入顧問、企業內訓講師，旋宇科技（Nautilus AI）執行長。工程師的手、交易員的腦、老師的嘴，近 20 年把複雜的東西做成別人用得起來的產品。",
@@ -1703,52 +1820,6 @@
     "zeng-siyuan.netlify.app"
    ],
    "cat": "策展・樂",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "yu-ruiming-muse",
-   "name": "余瑞銘｜三十年陪台灣小店開店的創業顧問",
-   "desc": "余瑞銘：乙太未來商業顧問總經理、中華流通顧問協會創會理事長。三十年連鎖加盟實務，輔導上千家中小企業與青年創業者開店。",
-   "url": "https://event.bymyway.com/curated/yu-ruiming-muse/",
-   "repoUrl": "https://github.com/Coach1973/yu-ruiming-muse",
-   "repo": "yu-ruiming-muse",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yu-ruiming-muse",
-    "event.bymyway.com/curated/yu-ruiming-muse",
-    "event.bymyway.com/yu-ruiming-muse",
-    "yu-ruiming-muse.bymyway.com",
-    "yu-ruiming-muse.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "yu-ruiming",
-   "name": "余瑞銘｜流通顧問・創業導師・AI 應用企業顧問",
-   "desc": "余瑞銘（Jack Yu），乙太未來商業顧問總經理、社團法人中華流通顧問協會創會理事長。30 年實戰經驗，把開店變成一門有公式的學問。",
-   "url": "https://event.bymyway.com/curated/yu-ruiming/",
-   "repoUrl": "https://github.com/Coach1973/yu-ruiming",
-   "repo": "yu-ruiming",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yu-ruiming",
-    "event.bymyway.com/curated/yu-ruiming",
-    "event.bymyway.com/yu-ruiming",
-    "yu-ruiming.bymyway.com",
-    "yu-ruiming.netlify.app"
-   ],
-   "cat": "教練個人創作",
    "updated": "2026-11-16",
    "inRegistry": true,
    "delisted": false,
@@ -1777,31 +1848,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "team-invite-muse",
-   "name": "大樹教練團隊邀請函｜30 分鐘合作洽談快速預約",
-   "desc": "大樹教練誠摯邀請您撥 30 分鐘，聊聊一起合作的機會。想進一步了解就挑一個最近兩三天線上的 30 分鐘，現階段沒辦法也可以一鍵婉拒。",
-   "url": "https://event.bymyway.com/curated/team-invite-muse/",
-   "repoUrl": "https://github.com/Coach1973/team-invite-muse",
-   "repo": "team-invite-muse",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/team-invite-muse",
-    "event.bymyway.com/curated/team-invite-muse",
-    "event.bymyway.com/team-invite-muse",
-    "team-invite-muse.bymyway.com",
-    "team-invite-muse.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "lia-chih-ming",
@@ -1891,29 +1937,6 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-11-15",
    "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tidda-muse",
-   "name": "台灣形象設計發展協會｜讓專業被看見，讓優雅成為日常",
-   "desc": "台灣形象設計發展協會（Taiwan Image Design Development Association），成立於 2017 年。整合美業專業、教育培訓、人脈連結與舞台曝光，推動形象設計與國際禮儀美學。現任理事長林家旭博士敬邀。",
-   "url": "https://event.bymyway.com/curated/tidda-muse/",
-   "repoUrl": "https://github.com/Coach1973/tidda-muse",
-   "repo": "tidda-muse",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tidda-muse",
-    "event.bymyway.com/curated/tidda-muse",
-    "event.bymyway.com/tidda-muse",
-    "tidda-muse.bymyway.com",
-    "tidda-muse.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-15",
-   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -7478,5 +7501,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T13:38:49Z"
+ "generated": "2026-11-19T14:25:26Z"
 }
