@@ -211,6 +211,29 @@
    "aliases": []
   },
   {
+   "id": "wu-juncheng-muse",
+   "name": "吳俊誠｜全美戲院經理・赤嵌朋派創會理事長",
+   "desc": "從小住在全美戲院長大，守著台灣最後的手繪看板；創立赤嵌朋派商圈，讓老戲院成為整條街的舞台。",
+   "url": "https://event.bymyway.com/curated/wu-juncheng-muse/",
+   "repoUrl": "https://github.com/Coach1973/wu-juncheng-muse",
+   "repo": "wu-juncheng-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wu-juncheng-muse",
+    "event.bymyway.com/curated/wu-juncheng-muse",
+    "event.bymyway.com/wu-juncheng-muse",
+    "wu-juncheng-muse.bymyway.com",
+    "wu-juncheng-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "wang-junfu",
    "name": "王俊甫｜AI 與數位轉型・萬加 ONE+ 智能 AI 系統平台",
    "desc": "王俊甫（Wang Junfu），AI 與數位轉型、萬加 ONE+ 智能 AI 系統平台系統開發。10 年餐飲業、5 年不動產業務、倉儲管理實務，從第一線工作流程找出費工環節，協助企業客製系統、節省時間與人力。",
@@ -7432,5 +7455,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T13:06:00Z"
+ "generated": "2026-11-19T13:13:55Z"
 }
