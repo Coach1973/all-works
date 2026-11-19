@@ -2,6 +2,31 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "superpower-1120",
+   "name": "邀約是一種超能力｜1120 實戰訓練互動網頁｜大樹教練",
+   "desc": "1120 邀約超能力訓練互動網頁：抗拒點 +1 即時統計、命運轉盤、金質導師轉椅、48 小時回訪 SOP、破解方案庫。課後回到這裡，就能看到大家的答案。",
+   "url": "https://event.bymyway.com/curated/superpower-1120/",
+   "repoUrl": "https://github.com/Coach1973/superpower-1120",
+   "repo": "superpower-1120",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/superpower-1120",
+    "event.bymyway.com/curated/superpower-1120",
+    "event.bymyway.com/superpower-1120",
+    "superpower-1120.bymyway.com",
+    "superpower-1120.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "zheng-lisi-muse",
    "name": "鄭儷絲 Christian｜中華網紅協會創會理事長・台灣網紅直播界教母",
    "desc": "從報紙、電視、廣播一路走到直播間：資深媒體人鄭儷絲 Christian，帶著中華網紅協會推動網紅經濟、短影音教育與台灣品牌出海。",
@@ -110,6 +135,29 @@
     "zeng-siyuan-muse.netlify.app"
    ],
    "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "zeng-siyuan",
+   "name": "曾思遠 Giga｜把 AI Agent 放進企業的日常工作流",
+   "desc": "曾思遠 Giga：AI Agent 企業導入顧問、企業內訓講師，旋宇科技（Nautilus AI）執行長。工程師的手、交易員的腦、老師的嘴，近 20 年把複雜的東西做成別人用得起來的產品。",
+   "url": "https://event.bymyway.com/curated/zeng-siyuan/",
+   "repoUrl": "https://github.com/Coach1973/zeng-siyuan",
+   "repo": "zeng-siyuan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zeng-siyuan",
+    "event.bymyway.com/curated/zeng-siyuan",
+    "event.bymyway.com/zeng-siyuan",
+    "zeng-siyuan.bymyway.com",
+    "zeng-siyuan.netlify.app"
+   ],
+   "cat": "策展・樂",
    "updated": "2026-11-19",
    "inRegistry": true,
    "delisted": false,
@@ -467,6 +515,29 @@
    "aliases": []
   },
   {
+   "id": "tidda",
+   "name": "台灣形象設計發展協會｜Taiwan Image Design Development Association",
+   "desc": "台灣形象設計發展協會（2017 年成立）整合美業專業、教育培訓、人脈連結與舞台曝光，推動形象設計與國際禮儀美學。現任理事長 林家旭 博士。",
+   "url": "https://event.bymyway.com/curated/tidda/",
+   "repoUrl": "https://github.com/Coach1973/tidda",
+   "repo": "tidda",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tidda",
+    "event.bymyway.com/curated/tidda",
+    "event.bymyway.com/tidda",
+    "tidda.bymyway.com",
+    "tidda.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "team-invite-muse",
    "name": "大樹教練團隊邀請函｜30 分鐘合作洽談快速預約",
    "desc": "大樹教練誠摯邀請您撥 30 分鐘，聊聊一起合作的機會。想進一步了解就挑一個最近兩三天線上的 30 分鐘，現階段沒辦法也可以一鍵婉拒。",
@@ -630,6 +701,29 @@
    "aliases": []
   },
   {
+   "id": "rs-demo",
+   "name": "反向技能書 14 招示範",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/rs-demo/",
+   "repoUrl": "https://github.com/Coach1973/rs-demo",
+   "repo": "rs-demo",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rs-demo",
+    "event.bymyway.com/curated/rs-demo",
+    "event.bymyway.com/rs-demo",
+    "rs-demo.bymyway.com",
+    "rs-demo.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "rpl-leadership",
    "name": "結繩領導學苑｜心中有尺．手中有線．眼裡有光",
    "desc": "結繩領導學苑官方網站：《結繩領導學》兩日實戰工作坊、企業講座、企業教練，以及繩乎奇技傘繩 DIY 工作坊、線上課程與傘繩作品。創辦人蔡曜隆（曜董）：近 40 年大地工程、50 年結繩經驗。",
@@ -678,6 +772,31 @@
    "aliases": []
   },
   {
+   "id": "reverse-skill",
+   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
+   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
+   "url": "https://event.bymyway.com/curated/reverse-skill/",
+   "repoUrl": "https://github.com/Coach1973/reverse-skill",
+   "repo": "reverse-skill",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/reverse-skill",
+    "event.bymyway.com/curated/reverse-skill",
+    "event.bymyway.com/reverse-skill",
+    "reverse-skill.bymyway.com",
+    "reverse-skill.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "qiu-yurong-muse",
    "name": "邱裕榮｜二十年媒體閱歷，以 AI 賦能企業未來",
    "desc": "邱裕榮：才榮數位總經理、AI 傳道學院創辦人、AI 媒體聯盟總編輯。二十多年財經記者與主持人，榮樹下節目與吳大樹談古論今聊家常。",
@@ -698,6 +817,29 @@
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "qiu-weihuang",
+   "name": "邱偉晃 Andy｜卡堤咖啡有限公司負責人",
+   "desc": "邱偉晃 Andy Chiu，卡堤咖啡有限公司負責人。1991 年起以專業教學在餐飲界服務，1999 年創立卡堤咖啡，著有調酒、咖啡、茶飲、冰沙四本飲品專書。",
+   "url": "https://event.bymyway.com/curated/qiu-weihuang/",
+   "repoUrl": "https://github.com/Coach1973/qiu-weihuang",
+   "repo": "qiu-weihuang",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/qiu-weihuang",
+    "event.bymyway.com/curated/qiu-weihuang",
+    "event.bymyway.com/qiu-weihuang",
+    "qiu-weihuang.bymyway.com",
+    "qiu-weihuang.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-19 13:06",
    "aliases": []
   },
   {
@@ -936,6 +1078,29 @@
    "aliases": []
   },
   {
+   "id": "li-meifen",
+   "name": "李美芬｜政府與企業間最堅實的橋樑",
+   "desc": "李美芬：高雄市職能發展協會理事長、宸霖智權科技總經理、慶霖智權科技董事。23 年企業輔導經驗，陪伴 300 餘家企業成長，114 年度帶領高雄團隊勇奪全國第一。",
+   "url": "https://event.bymyway.com/curated/li-meifen/",
+   "repoUrl": "https://github.com/Coach1973/li-meifen",
+   "repo": "li-meifen",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/li-meifen",
+    "event.bymyway.com/curated/li-meifen",
+    "event.bymyway.com/li-meifen",
+    "li-meifen.bymyway.com",
+    "li-meifen.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-19",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "lee-chungmin",
    "name": "李中閔｜港都的主持人、AI 影音講師與商圈推手",
    "desc": "李中閔：高雄市網紅部落客聯盟協會成立大會主持人、社團法人高雄市職能發展協會常務理事、AI 數位培力講師、長明商圈總幹事、AI 影音房仲。",
@@ -1126,6 +1291,29 @@
    "aliases": []
   },
   {
+   "id": "course-signup-playbook",
+   "name": "課程推廣報名網頁｜開工指令與製作經驗",
+   "desc": "",
+   "url": "https://coach1973.github.io/course-signup-playbook/",
+   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
+   "repo": "course-signup-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/course-signup-playbook",
+    "course-signup-playbook.bymyway.com",
+    "course-signup-playbook.netlify.app",
+    "event.bymyway.com/course-signup-playbook",
+    "event.bymyway.com/curated/course-signup-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "coach888",
    "name": "大樹AI作品總覽（個人專用）",
    "desc": "",
@@ -1265,6 +1453,29 @@
    "aliases": []
   },
   {
+   "id": "association-site-playbook",
+   "name": "協會官網｜開工指令與製作經驗",
+   "desc": "協會官網｜開工指令與製作經驗",
+   "url": "https://coach1973.github.io/association-site-playbook/",
+   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
+   "repo": "association-site-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "association-site-playbook.bymyway.com",
+    "association-site-playbook.netlify.app",
+    "coach1973.github.io/association-site-playbook",
+    "event.bymyway.com/association-site-playbook",
+    "event.bymyway.com/curated/association-site-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "all-works",
    "name": "完整作品一覽（教練自用清單，noindex）",
    "desc": "完整作品一覽（教練自用清單，noindex）",
@@ -1311,6 +1522,31 @@
    "aliases": [
     "邱博士",
     "阿老師"
+   ]
+  },
+  {
+   "id": "ai-go",
+   "name": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
+   "desc": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
+   "url": "https://coach1973.github.io/ai-go/",
+   "repoUrl": "https://github.com/Coach1973/ai-go",
+   "repo": "ai-go",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "ai-go.bymyway.com",
+    "ai-go.netlify.app",
+    "coach1973.github.io/ai-go",
+    "event.bymyway.com/ai-go",
+    "event.bymyway.com/curated/ai-go"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-19",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
    ]
   },
   {
@@ -1476,29 +1712,6 @@
    "aliases": []
   },
   {
-   "id": "rs-demo",
-   "name": "反向技能書 14 招示範",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/rs-demo/",
-   "repoUrl": "https://github.com/Coach1973/rs-demo",
-   "repo": "rs-demo",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rs-demo",
-    "event.bymyway.com/curated/rs-demo",
-    "event.bymyway.com/rs-demo",
-    "rs-demo.bymyway.com",
-    "rs-demo.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "rpl-diy",
    "name": "傘繩 DIY-4｜三款鑰匙圈・半天手作教室 | 光線尺顧問有限公司",
    "desc": "半天（約 3～3.5 小時）專業教室實作，親手完成並帶回 3 款質感傘繩鑰匙圈吊飾。個人標準 NT$1,280／人，三人同行 NT$3,000。",
@@ -1566,31 +1779,6 @@
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
    "aliases": []
-  },
-  {
-   "id": "reverse-skill",
-   "name": "反向操作技能書｜看到喜歡的網頁，拆解後換成你的產品重做",
-   "desc": "大樹教練的反向操作技能書：把別人網站上的特效拆開、看懂，再換成自己的產品與服務重做。附開工指令、技法庫、製作經驗與交付檢查表。",
-   "url": "https://event.bymyway.com/curated/reverse-skill/",
-   "repoUrl": "https://github.com/Coach1973/reverse-skill",
-   "repo": "reverse-skill",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/reverse-skill",
-    "event.bymyway.com/curated/reverse-skill",
-    "event.bymyway.com/reverse-skill",
-    "reverse-skill.bymyway.com",
-    "reverse-skill.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "hsiuli",
@@ -1734,29 +1922,6 @@
    "aliases": []
   },
   {
-   "id": "course-signup-playbook",
-   "name": "課程推廣報名網頁｜開工指令與製作經驗",
-   "desc": "",
-   "url": "https://coach1973.github.io/course-signup-playbook/",
-   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
-   "repo": "course-signup-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/course-signup-playbook",
-    "course-signup-playbook.bymyway.com",
-    "course-signup-playbook.netlify.app",
-    "event.bymyway.com/course-signup-playbook",
-    "event.bymyway.com/curated/course-signup-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "bai-sheng",
    "name": "百聖廣告設計工程有限公司｜台南大圖輸出・廣告工程・活動場佈施工",
    "desc": "台南百聖廣告設計工程有限公司。大圖輸出、戶外UV帆布、無接縫燈箱、招牌發光字、客製化壓克力保麗龍、啟動儀式道具、舞台結構與展場佈置施工。趕件、加班、南北一條龍。電話 06-356-5711。",
@@ -1806,29 +1971,6 @@
    ]
   },
   {
-   "id": "association-site-playbook",
-   "name": "協會官網｜開工指令與製作經驗",
-   "desc": "協會官網｜開工指令與製作經驗",
-   "url": "https://coach1973.github.io/association-site-playbook/",
-   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
-   "repo": "association-site-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "association-site-playbook.bymyway.com",
-    "association-site-playbook.netlify.app",
-    "coach1973.github.io/association-site-playbook",
-    "event.bymyway.com/association-site-playbook",
-    "event.bymyway.com/curated/association-site-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-18",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "zhou-liangdun",
    "name": "周良敦｜一字一佛的國寶級書法家",
    "desc": "周良敦，1951 年生於花蓮，師事陳其銓。以《法華經》六萬九千兩百八十四字書成佛陀法相，楷書《論語》孔子聖像圖獲臺北故宮典藏；近三十年在臺中監獄教書法，奉行「人品為上，書法次之」。",
@@ -1846,52 +1988,6 @@
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-17",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "qiu-weihuang",
-   "name": "邱偉晃 Andy｜卡堤咖啡有限公司負責人",
-   "desc": "邱偉晃 Andy Chiu，卡堤咖啡有限公司負責人。1991 年起以專業教學在餐飲界服務，1999 年創立卡堤咖啡，著有調酒、咖啡、茶飲、冰沙四本飲品專書。",
-   "url": "https://event.bymyway.com/curated/qiu-weihuang/",
-   "repoUrl": "https://github.com/Coach1973/qiu-weihuang",
-   "repo": "qiu-weihuang",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/qiu-weihuang",
-    "event.bymyway.com/curated/qiu-weihuang",
-    "event.bymyway.com/qiu-weihuang",
-    "qiu-weihuang.bymyway.com",
-    "qiu-weihuang.netlify.app"
-   ],
-   "cat": "策展・食",
-   "updated": "2026-11-17",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-19 13:06",
-   "aliases": []
-  },
-  {
-   "id": "zeng-siyuan",
-   "name": "曾思遠 Giga｜把 AI Agent 放進企業的日常工作流",
-   "desc": "曾思遠 Giga：AI Agent 企業導入顧問、企業內訓講師，旋宇科技（Nautilus AI）執行長。工程師的手、交易員的腦、老師的嘴，近 20 年把複雜的東西做成別人用得起來的產品。",
-   "url": "https://event.bymyway.com/curated/zeng-siyuan/",
-   "repoUrl": "https://github.com/Coach1973/zeng-siyuan",
-   "repo": "zeng-siyuan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zeng-siyuan",
-    "event.bymyway.com/curated/zeng-siyuan",
-    "event.bymyway.com/zeng-siyuan",
-    "zeng-siyuan.bymyway.com",
-    "zeng-siyuan.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-16",
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
@@ -1967,29 +2063,6 @@
    "aliases": []
   },
   {
-   "id": "li-meifen",
-   "name": "李美芬｜政府與企業間最堅實的橋樑",
-   "desc": "李美芬：高雄市職能發展協會理事長、宸霖智權科技總經理、慶霖智權科技董事。23 年企業輔導經驗，陪伴 300 餘家企業成長，114 年度帶領高雄團隊勇奪全國第一。",
-   "url": "https://event.bymyway.com/curated/li-meifen/",
-   "repoUrl": "https://github.com/Coach1973/li-meifen",
-   "repo": "li-meifen",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/li-meifen",
-    "event.bymyway.com/curated/li-meifen",
-    "event.bymyway.com/li-meifen",
-    "li-meifen.bymyway.com",
-    "li-meifen.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -2008,29 +2081,6 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-11-15",
    "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tidda",
-   "name": "台灣形象設計發展協會｜Taiwan Image Design Development Association",
-   "desc": "台灣形象設計發展協會（2017 年成立）整合美業專業、教育培訓、人脈連結與舞台曝光，推動形象設計與國際禮儀美學。現任理事長 林家旭 博士。",
-   "url": "https://event.bymyway.com/curated/tidda/",
-   "repoUrl": "https://github.com/Coach1973/tidda",
-   "repo": "tidda",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tidda",
-    "event.bymyway.com/curated/tidda",
-    "event.bymyway.com/tidda",
-    "tidda.bymyway.com",
-    "tidda.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-15",
-   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -3789,31 +3839,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "ai-go",
-   "name": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
-   "desc": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
-   "url": "https://coach1973.github.io/ai-go/",
-   "repoUrl": "https://github.com/Coach1973/ai-go",
-   "repo": "ai-go",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "ai-go.bymyway.com",
-    "ai-go.netlify.app",
-    "coach1973.github.io/ai-go",
-    "event.bymyway.com/ai-go",
-    "event.bymyway.com/curated/ai-go"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-10-30",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "zhang-qiongfang",
@@ -7572,5 +7597,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T15:13:39Z"
+ "generated": "2026-11-19T23:13:03Z"
 }
