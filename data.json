@@ -2,6 +2,218 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhu-zhicheng",
+   "name": "朱志成顧問｜連鎖品牌・加盟總部・HRM 經營顧問",
+   "desc": "35 年海內外連鎖餐飲經營實務，經濟部創業暨品牌輔導顧問朱志成：品牌診斷、連鎖加盟總部建置、HRM 人資制度與 AI 經營應用。",
+   "url": "https://event.bymyway.com/curated/zhu-zhicheng/",
+   "repoUrl": "https://github.com/Coach1973/zhu-zhicheng",
+   "repo": "zhu-zhicheng",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhu-zhicheng",
+    "event.bymyway.com/curated/zhu-zhicheng",
+    "event.bymyway.com/zhu-zhicheng",
+    "zhu-zhicheng.bymyway.com",
+    "zhu-zhicheng.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "zhou-ruiqi",
+   "name": "周睿麒｜把一塊布，種成一面綠牆",
+   "desc": "周睿麒：永樂市場資深布商、永樂商圈發展協會創會理事長、布思綠創辦人。以機能布取代土壤，推動無耗材種植與城市綠化。",
+   "url": "https://event.bymyway.com/curated/zhou-ruiqi/",
+   "repoUrl": "https://github.com/Coach1973/zhou-ruiqi",
+   "repo": "zhou-ruiqi",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhou-ruiqi",
+    "event.bymyway.com/curated/zhou-ruiqi",
+    "event.bymyway.com/zhou-ruiqi",
+    "zhou-ruiqi.bymyway.com",
+    "zhou-ruiqi.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": [
+    "布創辦人"
+   ]
+  },
+  {
+   "id": "yu-ruiming-muse",
+   "name": "余瑞銘｜三十年陪台灣小店開店的創業顧問",
+   "desc": "余瑞銘：乙太未來商業顧問總經理、中華流通顧問協會創會理事長。三十年連鎖加盟實務，輔導上千家中小企業與青年創業者開店。",
+   "url": "https://event.bymyway.com/curated/yu-ruiming-muse/",
+   "repoUrl": "https://github.com/Coach1973/yu-ruiming-muse",
+   "repo": "yu-ruiming-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yu-ruiming-muse",
+    "event.bymyway.com/curated/yu-ruiming-muse",
+    "event.bymyway.com/yu-ruiming-muse",
+    "yu-ruiming-muse.bymyway.com",
+    "yu-ruiming-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "yijing-ai-backup",
+   "name": "yijing-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/yijing-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
+   "repo": "yijing-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yijing-ai-backup",
+    "event.bymyway.com/curated/yijing-ai-backup",
+    "event.bymyway.com/yijing-ai-backup",
+    "yijing-ai-backup.bymyway.com",
+    "yijing-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-20",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "yang-shang-ru",
+   "name": "楊尚儒 Shang-Ju Yang, D.M.A.｜小提琴・中提琴・弦樂團訓練｜台南",
+   "desc": "楊尚儒（Shang-Ju Yang, D.M.A.），小提琴與中提琴演奏者、弦樂教育者，現居台南。亞利桑那大學音樂藝術博士；曾任 Sierra Vista Symphony Orchestra 協理首席、藝曲愛樂管弦樂團首席（2012–2019）。專注於樂團組建、室內樂訓練與弦…",
+   "url": "https://event.bymyway.com/curated/yang-shang-ru/",
+   "repoUrl": "https://github.com/Coach1973/yang-shang-ru",
+   "repo": "yang-shang-ru",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-shang-ru",
+    "event.bymyway.com/curated/yang-shang-ru",
+    "event.bymyway.com/curated/yang-shang-ru-shang-juyangdma",
+    "event.bymyway.com/yang-shang-ru",
+    "yang-shang-ru.bymyway.com",
+    "yang-shang-ru.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "yang-houngren",
+   "name": "楊弘仁執行長｜讓台灣醫療走進新時代的醫師企業家",
+   "desc": "敏盛醫療體系執行長、盛弘醫藥董事長楊弘仁的個人品牌網頁：學經歷、專長、生活事蹟、公益足跡、媒體報導與照片。",
+   "url": "https://event.bymyway.com/curated/yang-houngren/",
+   "repoUrl": "https://github.com/Coach1973/yang-houngren",
+   "repo": "yang-houngren",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/yang-houngren",
+    "event.bymyway.com/curated/yang-houngren",
+    "event.bymyway.com/yang-houngren",
+    "yang-houngren.bymyway.com",
+    "yang-houngren.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "楊執行長"
+   ]
+  },
+  {
+   "id": "wei-gen",
+   "name": "賴維根｜維根蔬食倡導者・數位農產通路講者",
+   "desc": "賴維根：推動維根（Vegan）蔬食、數位轉型與農業通路變革的企業家與講師。",
+   "url": "https://event.bymyway.com/curated/wei-gen/",
+   "repoUrl": "https://github.com/Coach1973/wei-gen",
+   "repo": "wei-gen",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wei-gen",
+    "event.bymyway.com/curated/wei-gen",
+    "event.bymyway.com/wei-gen",
+    "wei-gen.bymyway.com",
+    "wei-gen.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "wang-xiali",
+   "name": "王夏儷｜音樂與藝術創意・EZ Player 執行長・音樂總監",
+   "desc": "王夏儷，EZ Player 執行長・音樂總監，高雄市港都音樂表演藝術發展協會理事長。結合音樂教育、數位創作與演奏指導，拓展音樂與科技的跨域可能。",
+   "url": "https://event.bymyway.com/curated/wang-xiali/",
+   "repoUrl": "https://github.com/Coach1973/wang-xiali",
+   "repo": "wang-xiali",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wang-xiali",
+    "event.bymyway.com/curated/wang-xiali",
+    "event.bymyway.com/wang-xiali",
+    "wang-xiali.bymyway.com",
+    "wang-xiali.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "tiffany-lee",
+   "name": "李勳婷 Tiffany｜專注細節的市場實戰派・三道門建築文創旅店創辦人",
+   "desc": "李勳婷 Tiffany，三道門建築文創旅店創辦人暨董事長。從豪宅建築的精緻度，到旅店服務流程的細緻度，打造台南綠色低碳文創旅宿。",
+   "url": "https://event.bymyway.com/curated/tiffany-lee/",
+   "repoUrl": "https://github.com/Coach1973/tiffany-lee",
+   "repo": "tiffany-lee",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tiffany-lee",
+    "event.bymyway.com/curated/tiffany-lee",
+    "event.bymyway.com/tiffany-lee",
+    "tiffany-lee.bymyway.com",
+    "tiffany-lee.netlify.app"
+   ],
+   "cat": "策展・住",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-10-29 15:46",
+   "aliases": []
+  },
+  {
    "id": "superpower-1120",
    "name": "邀約是一種超能力｜1120 實戰訓練互動網頁｜大樹教練",
    "desc": "1120 邀約超能力訓練互動網頁：抗拒點 +1 即時統計、命運轉盤、金質導師轉椅、48 小時回訪 SOP、破解方案庫。課後回到這裡，就能看到大家的答案。",
@@ -24,6 +236,596 @@
    "unlistedAt": "",
    "aliases": [
     "大教練"
+   ]
+  },
+  {
+   "id": "social-club",
+   "name": "真公益・企業家俱樂部｜參與，就是公益",
+   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
+   "url": "https://event.bymyway.com/curated/social-club/",
+   "repoUrl": "https://github.com/Coach1973/social-club",
+   "repo": "social-club",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/social-club",
+    "event.bymyway.com/curated/social-club",
+    "event.bymyway.com/social-club",
+    "social-club.bymyway.com",
+    "social-club.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "shi-zheng-yi",
+   "name": "施正益 Allen｜第 10 級 Google 在地嚮導・彰化網購職業工會理事長",
+   "desc": "施正益（Allen），彰化縣網路購物服務人員職業工會理事長、Google 第 10 級在地嚮導團隊導師、TTQS 網路行銷課程講師。用評論、照片與 360 環景，讓好店被看見。",
+   "url": "https://event.bymyway.com/curated/shi-zheng-yi/",
+   "repoUrl": "https://github.com/Coach1973/shi-zheng-yi",
+   "repo": "shi-zheng-yi",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/shi-zheng-yi",
+    "event.bymyway.com/curated/shi-zheng-yi",
+    "event.bymyway.com/shi-zheng-yi",
+    "shi-zheng-yi.bymyway.com",
+    "shi-zheng-yi.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "sendstudio",
+   "name": "鄭憲聰｜憲樂錄音室 SendStudio 創辦人・AI 影音行銷講師",
+   "desc": "鄭憲聰是「憲樂錄音室 SendStudio」創辦人，也是 AI 影音行銷講師，專門協助企業與個人品牌，用錄音、影音、短影音與 AI 工具，打造從內容製作到流量變現的完整系統。",
+   "url": "https://event.bymyway.com/curated/sendstudio/",
+   "repoUrl": "https://github.com/Coach1973/sendstudio",
+   "repo": "sendstudio",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/sendstudio",
+    "event.bymyway.com/curated/sendstudio",
+    "event.bymyway.com/sendstudio",
+    "sendstudio.bymyway.com",
+    "sendstudio.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "rpl-leadership",
+   "name": "結繩領導學苑｜心中有尺．手中有線．眼裡有光",
+   "desc": "結繩領導學苑官方網站：《結繩領導學》兩日實戰工作坊、企業講座、企業教練，以及繩乎奇技傘繩 DIY 工作坊、線上課程與傘繩作品。創辦人蔡曜隆（曜董）：近 40 年大地工程、50 年結繩經驗。",
+   "url": "https://event.bymyway.com/curated/rpl-leadership/",
+   "repoUrl": "https://github.com/Coach1973/rpl-leadership",
+   "repo": "rpl-leadership",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rpl-leadership",
+    "event.bymyway.com/curated/rpl-leadership",
+    "event.bymyway.com/rpl-leadership",
+    "rpl-leadership.bymyway.com",
+    "rpl-leadership.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "企教練"
+   ]
+  },
+  {
+   "id": "rpl-class",
+   "name": "西洋傘繩藝術 DIY｜快拆求生手環 線上教學 — 結繩領導學苑",
+   "desc": "一條傘繩，平時是有型的手環，需要時還能快速拆解成實用繩索。跟著 50 年結繩達人、《結繩領導學》作者蔡曜隆，學會五款西洋快拆求生手環。",
+   "url": "https://event.bymyway.com/curated/rpl-class/",
+   "repoUrl": "https://github.com/Coach1973/rpl-class",
+   "repo": "rpl-class",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rpl-class",
+    "event.bymyway.com/curated/rpl-class",
+    "event.bymyway.com/rpl-class",
+    "rpl-class.bymyway.com",
+    "rpl-class.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-20",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-20",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "lovingfamily",
+   "name": "戀家大叔 李忠儒｜戀家小舖創辦人・20 年電商實戰家",
+   "desc": "戀家大叔李忠儒（Allen）：2006 年創辦台灣自製寢具品牌戀家小舖，渠道商學院共同創辦人，20 年電商實戰經驗。學經歷、專長、故事、公益足跡、媒體報導與照片。",
+   "url": "https://event.bymyway.com/curated/lovingfamily/",
+   "repoUrl": "https://github.com/Coach1973/lovingfamily",
+   "repo": "lovingfamily",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lovingfamily",
+    "event.bymyway.com/curated/lovingfamily",
+    "event.bymyway.com/lovingfamily",
+    "lovingfamily.bymyway.com",
+    "lovingfamily.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "liu-weihua",
+   "name": "劉維華｜從上市鐘聲到上課鐘聲",
+   "desc": "劉維華先生：美國加州大學研究所工程及管理學位，資本市場顧問有限公司團隊成員，曾協助新浪、網易、搜狐、攜程赴 NASDAQ 上市，北京清華大學產業與資本研究中心主任，並每年帶領兩岸大學生支教隊赴雲南、四川。",
+   "url": "https://event.bymyway.com/curated/liu-weihua/",
+   "repoUrl": "https://github.com/Coach1973/liu-weihua",
+   "repo": "liu-weihua",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/liu-weihua",
+    "event.bymyway.com/curated/liu-weihua",
+    "event.bymyway.com/liu-weihua",
+    "liu-weihua.bymyway.com",
+    "liu-weihua.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "lior",
+   "name": "洪誠佑 Lior｜愛喝茶的品牌經營者",
+   "desc": "洪誠佑 Lior：象楠茗茶、象楠地板品牌經營者，象楠國際有限公司代表人，林口幸福扶輪社服務計畫委員會主委。",
+   "url": "https://event.bymyway.com/curated/lior/",
+   "repoUrl": "https://github.com/Coach1973/lior",
+   "repo": "lior",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lior",
+    "event.bymyway.com/curated/lior",
+    "event.bymyway.com/lior",
+    "lior.bymyway.com",
+    "lior.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "lin-hunang-yi",
+   "name": "林晃誼老師｜甜彩虹音樂藝術中心 — 讓音樂走進生活",
+   "desc": "林晃誼老師，幼兒教育學士、音樂教育碩士，台南甜彩虹音樂藝術中心主持老師，能操作 15 種樂器，結合音樂、藝術與優雅儀態，教學經驗超過 25 年。",
+   "url": "https://event.bymyway.com/curated/lin-hunang-yi/",
+   "repoUrl": "https://github.com/Coach1973/lin-hunang-yi",
+   "repo": "lin-hunang-yi",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lin-hunang-yi",
+    "event.bymyway.com/curated/lin-hunang-yi",
+    "event.bymyway.com/lin-hunang-yi",
+    "lin-hunang-yi.bymyway.com",
+    "lin-hunang-yi.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "林老師"
+   ]
+  },
+  {
+   "id": "lin-fulang-muse",
+   "name": "林富郎｜千山律師事務所主持律師",
+   "desc": "林富郎：前台灣高等法院台南分院、台南地方法院及嘉義地方法院法官，25 年審判經驗，民國 111 年底退休，於台南安平開設千山律師事務所。",
+   "url": "https://event.bymyway.com/curated/lin-fulang-muse/",
+   "repoUrl": "https://github.com/Coach1973/lin-fulang-muse",
+   "repo": "lin-fulang-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lin-fulang-muse",
+    "event.bymyway.com/curated/lin-fulang-muse",
+    "event.bymyway.com/lin-fulang-muse",
+    "lin-fulang-muse.bymyway.com",
+    "lin-fulang-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "千律師"
+   ]
+  },
+  {
+   "id": "lia-chih-ming",
+   "name": "賴志明｜漢唐集成總經理・台灣高科技廠房設施協會理事長",
+   "desc": "賴志明，漢唐集成（2404）總經理、台灣高科技廠房設施協會（HTFA）第三屆理事長。從台積電新廠規劃、千附實業總經理到帶領漢唐全球建廠。",
+   "url": "https://event.bymyway.com/curated/lia-chih-ming/",
+   "repoUrl": "https://github.com/Coach1973/lia-chih-ming",
+   "repo": "lia-chih-ming",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lia-chih-ming",
+    "event.bymyway.com/curated/lia-chih-ming",
+    "event.bymyway.com/lia-chih-ming",
+    "lia-chih-ming.bymyway.com",
+    "lia-chih-ming.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "li-wen-cai",
+   "name": "李文財｜點亮青年創業的高雄青創推手",
+   "desc": "李文財：高雄市創新創業協會名譽理事長、全國創新創業總會南區區會長、以諾科技負責人。從 LED 照明、太陽光電到青年創業陪跑。",
+   "url": "https://event.bymyway.com/curated/li-wen-cai/",
+   "repoUrl": "https://github.com/Coach1973/li-wen-cai",
+   "repo": "li-wen-cai",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/li-wen-cai",
+    "event.bymyway.com/curated/li-wen-cai",
+    "event.bymyway.com/li-wen-cai",
+    "li-wen-cai.bymyway.com",
+    "li-wen-cai.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kunting",
+   "name": "昆廷老師 鄒昆廷｜企業 AI 導入顧問 × 易經決策",
+   "desc": "昆廷老師（鄒昆廷）：朋昶數位科技總監、ISO/IEC 42001 主導稽核員。近 18 年企業系統經驗、近 20 年文王卦經驗，陪中小企業主先問對問題，再讓 AI 把事做完。",
+   "url": "https://event.bymyway.com/curated/kunting/",
+   "repoUrl": "https://github.com/Coach1973/kunting",
+   "repo": "kunting",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kunting",
+    "event.bymyway.com/curated/kunting",
+    "event.bymyway.com/kunting",
+    "kunting.bymyway.com",
+    "kunting.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": [
+    "昆老師"
+   ]
+  },
+  {
+   "id": "kueilan",
+   "name": "奎嵐 KueiLan｜用 AI 幫你提早下班",
+   "desc": "奎嵐 KueiLan，台大政治系畢業的自媒體內容創作者、AI 教學講師與社群操盤手，現居美國加州，教上班族用 AI 提早下班。",
+   "url": "https://event.bymyway.com/curated/kueilan/",
+   "repoUrl": "https://github.com/Coach1973/kueilan",
+   "repo": "kueilan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kueilan",
+    "event.bymyway.com/curated/kueilan",
+    "event.bymyway.com/kueilan",
+    "kueilan.bymyway.com",
+    "kueilan.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-20",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "da-a-brother",
+   "name": "大A師兄 陳杉榕｜從銷售講台走進山林的種樹達人",
+   "desc": "大A師兄 陳杉榕：早年 HP 工程師、銷售培訓講師、理財書作者，2014 年後回鄉種樹、投入沉香植菌，提出「為世界種70億棵樹，為地球降溫2度」，以「您消費我捐錢」推動公益。",
+   "url": "https://event.bymyway.com/curated/da-a-brother/",
+   "repoUrl": "https://github.com/Coach1973/da-a-brother",
+   "repo": "da-a-brother",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/da-a-brother",
+    "da-a-brother.bymyway.com",
+    "da-a-brother.netlify.app",
+    "event.bymyway.com/curated/da-a-brother",
+    "event.bymyway.com/da-a-brother"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "chuanfeng",
+   "name": "陳川豐 總經理｜凱景實業・把鋼板烤出顏色的人",
+   "desc": "陳川豐，凱景實業股份有限公司總經理、高雄臨海產業園區廠商協進會下屆理事長。凱景集團第二代，延續父母自 1969 年起的「誠信勤成」，把冷冰冰的鋼，烤出顏色。",
+   "url": "https://event.bymyway.com/curated/chuanfeng/",
+   "repoUrl": "https://github.com/Coach1973/chuanfeng",
+   "repo": "chuanfeng",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chuanfeng.bymyway.com",
+    "chuanfeng.netlify.app",
+    "coach1973.github.io/chuanfeng",
+    "event.bymyway.com/chuanfeng",
+    "event.bymyway.com/curated/chuanfeng"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "chen-qianhe",
+   "name": "陳千禾｜水兵 Riley・壽險顧問・《中年勇敢轉職，經營你的人生》作者",
+   "desc": "從 14 年海軍職業軍人到壽險顧問與作家。陳千禾（水兵 Riley）用親身經歷陪伴每一位想重新掌握人生的人。量身保險找千禾。",
+   "url": "https://event.bymyway.com/curated/chen-qianhe/",
+   "repoUrl": "https://github.com/Coach1973/chen-qianhe",
+   "repo": "chen-qianhe",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chen-qianhe.bymyway.com",
+    "chen-qianhe.netlify.app",
+    "coach1973.github.io/chen-qianhe",
+    "event.bymyway.com/chen-qianhe",
+    "event.bymyway.com/curated/chen-qianhe"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "chen-alice",
+   "name": "陳彥玲博士｜讓理解，成為成長的力量",
+   "desc": "認識陳彥玲博士：全球健康發展協會代理理事長，親職教育、兒童發展與身心關懷的跨領域教育工作者。",
+   "url": "https://event.bymyway.com/curated/chen-alice/",
+   "repoUrl": "https://github.com/Coach1973/chen-alice",
+   "repo": "chen-alice",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "chen-alice.bymyway.com",
+    "chen-alice.netlify.app",
+    "coach1973.github.io/chen-alice",
+    "event.bymyway.com/chen-alice",
+    "event.bymyway.com/curated/chen-alice"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "陳博士"
+   ]
+  },
+  {
+   "id": "angel-sister",
+   "name": "陳淑玲｜CBMC 高雄一分會會長・職場宣教者",
+   "desc": "CBMC 國際基督徒工商人員協會高雄一分會會長陳淑玲。護理師出身，人生三次因病轉型，用耶穌基督的愛與能力轉化工商職場。",
+   "url": "https://event.bymyway.com/curated/angel-sister/",
+   "repoUrl": "https://github.com/Coach1973/angel-sister",
+   "repo": "angel-sister",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "angel-sister.bymyway.com",
+    "angel-sister.netlify.app",
+    "coach1973.github.io/angel-sister",
+    "event.bymyway.com/angel-sister",
+    "event.bymyway.com/curated/angel-sister"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "andy-chen",
+   "name": "陳顯立執行長｜好廣告數據創辦人・《信任效應》作者",
+   "desc": "陳顯立（Andy Chen），好廣告數據創辦人暨執行長、《信任效應》作者、東吳大學企管系專技副教授。25 年數位與零售轉型經驗，連續 20 年每月認養家扶學童。",
+   "url": "https://event.bymyway.com/curated/andy-chen/",
+   "repoUrl": "https://github.com/Coach1973/andy-chen",
+   "repo": "andy-chen",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "andy-chen.bymyway.com",
+    "andy-chen.netlify.app",
+    "coach1973.github.io/andy-chen",
+    "event.bymyway.com/andy-chen",
+    "event.bymyway.com/curated/andy-chen"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "陳執行長"
+   ]
+  },
+  {
+   "id": "ale-brand",
+   "name": "邱貴揚 阿樂老師｜唱片製作人・可澄音樂文創創辦人暨音樂總監",
+   "desc": "阿樂老師（邱貴揚博士）：資深唱片製作人、詞曲作者、編曲混音師，三度入圍金曲獎，《中國好聲音》官方唱片製作人，可澄音樂文創有限公司創辦人暨音樂總監。",
+   "url": "https://event.bymyway.com/curated/ale-brand/",
+   "repoUrl": "https://github.com/Coach1973/ale-brand",
+   "repo": "ale-brand",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "ale-brand.bymyway.com",
+    "ale-brand.netlify.app",
+    "coach1973.github.io/ale-brand",
+    "event.bymyway.com/ale-brand",
+    "event.bymyway.com/curated/ale-brand"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-20",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "邱博士",
+    "阿老師"
    ]
   },
   {
@@ -158,29 +960,6 @@
     "zeng-siyuan.netlify.app"
    ],
    "cat": "策展・樂",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "yu-ruiming-muse",
-   "name": "余瑞銘｜三十年陪台灣小店開店的創業顧問",
-   "desc": "余瑞銘：乙太未來商業顧問總經理、中華流通顧問協會創會理事長。三十年連鎖加盟實務，輔導上千家中小企業與青年創業者開店。",
-   "url": "https://event.bymyway.com/curated/yu-ruiming-muse/",
-   "repoUrl": "https://github.com/Coach1973/yu-ruiming-muse",
-   "repo": "yu-ruiming-muse",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yu-ruiming-muse",
-    "event.bymyway.com/curated/yu-ruiming-muse",
-    "event.bymyway.com/yu-ruiming-muse",
-    "yu-ruiming-muse.bymyway.com",
-    "yu-ruiming-muse.netlify.app"
-   ],
-   "cat": "教練個人創作",
    "updated": "2026-11-19",
    "inRegistry": true,
    "delisted": false,
@@ -655,52 +1434,6 @@
    "aliases": []
   },
   {
-   "id": "social-club",
-   "name": "真公益・企業家俱樂部｜參與，就是公益",
-   "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
-   "url": "https://event.bymyway.com/curated/social-club/",
-   "repoUrl": "https://github.com/Coach1973/social-club",
-   "repo": "social-club",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/social-club",
-    "event.bymyway.com/curated/social-club",
-    "event.bymyway.com/social-club",
-    "social-club.bymyway.com",
-    "social-club.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "rs-demo",
    "name": "反向技能書 14 招示範",
    "desc": "",
@@ -722,31 +1455,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "rpl-leadership",
-   "name": "結繩領導學苑｜心中有尺．手中有線．眼裡有光",
-   "desc": "結繩領導學苑官方網站：《結繩領導學》兩日實戰工作坊、企業講座、企業教練，以及繩乎奇技傘繩 DIY 工作坊、線上課程與傘繩作品。創辦人蔡曜隆（曜董）：近 40 年大地工程、50 年結繩經驗。",
-   "url": "https://event.bymyway.com/curated/rpl-leadership/",
-   "repoUrl": "https://github.com/Coach1973/rpl-leadership",
-   "repo": "rpl-leadership",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rpl-leadership",
-    "event.bymyway.com/curated/rpl-leadership",
-    "event.bymyway.com/rpl-leadership",
-    "rpl-leadership.bymyway.com",
-    "rpl-leadership.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "企教練"
-   ]
   },
   {
    "id": "rongtree",
@@ -866,29 +1574,6 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-19",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "my-tools",
    "name": "大樹的常用查詢網站（個人專用）",
    "desc": "",
@@ -905,29 +1590,6 @@
     "my-tools.netlify.app"
    ],
    "cat": "GitHub 網頁",
-   "updated": "2026-11-19",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
    "updated": "2026-11-19",
    "inRegistry": false,
    "delisted": false,
@@ -1028,31 +1690,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "lin-fulang-muse",
-   "name": "林富郎｜千山律師事務所主持律師",
-   "desc": "林富郎：前台灣高等法院台南分院、台南地方法院及嘉義地方法院法官，25 年審判經驗，民國 111 年底退休，於台南安平開設千山律師事務所。",
-   "url": "https://event.bymyway.com/curated/lin-fulang-muse/",
-   "repoUrl": "https://github.com/Coach1973/lin-fulang-muse",
-   "repo": "lin-fulang-muse",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lin-fulang-muse",
-    "event.bymyway.com/curated/lin-fulang-muse",
-    "event.bymyway.com/lin-fulang-muse",
-    "lin-fulang-muse.bymyway.com",
-    "lin-fulang-muse.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "千律師"
-   ]
   },
   {
    "id": "li-ruihui-muse",
@@ -1499,32 +2136,6 @@
    "aliases": []
   },
   {
-   "id": "ale-brand",
-   "name": "邱貴揚 阿樂老師｜唱片製作人・可澄音樂文創創辦人暨音樂總監",
-   "desc": "阿樂老師（邱貴揚博士）：資深唱片製作人、詞曲作者、編曲混音師，三度入圍金曲獎，《中國好聲音》官方唱片製作人，可澄音樂文創有限公司創辦人暨音樂總監。",
-   "url": "https://event.bymyway.com/curated/ale-brand/",
-   "repoUrl": "https://github.com/Coach1973/ale-brand",
-   "repo": "ale-brand",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "ale-brand.bymyway.com",
-    "ale-brand.netlify.app",
-    "coach1973.github.io/ale-brand",
-    "event.bymyway.com/ale-brand",
-    "event.bymyway.com/curated/ale-brand"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "邱博士",
-    "阿老師"
-   ]
-  },
-  {
    "id": "ai-go",
    "name": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
    "desc": "🌳 大樹教練 AI 特助心法 — 一鍵注入任何 AI（Claude/ChatGPT/Gemini/Grok）",
@@ -1570,30 +2181,6 @@
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "yang-shang-ru",
-   "name": "楊尚儒 Shang-Ju Yang, D.M.A.｜小提琴・中提琴・弦樂團訓練｜台南",
-   "desc": "楊尚儒（Shang-Ju Yang, D.M.A.），小提琴與中提琴演奏者、弦樂教育者，現居台南。亞利桑那大學音樂藝術博士；曾任 Sierra Vista Symphony Orchestra 協理首席、藝曲愛樂管弦樂團首席（2012–2019）。專注於樂團組建、室內樂訓練與弦…",
-   "url": "https://event.bymyway.com/curated/yang-shang-ru/",
-   "repoUrl": "https://github.com/Coach1973/yang-shang-ru",
-   "repo": "yang-shang-ru",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yang-shang-ru",
-    "event.bymyway.com/curated/yang-shang-ru",
-    "event.bymyway.com/curated/yang-shang-ru-shang-juyangdma",
-    "event.bymyway.com/yang-shang-ru",
-    "yang-shang-ru.bymyway.com",
-    "yang-shang-ru.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
    "aliases": []
   },
   {
@@ -1726,29 +2313,6 @@
     "event.bymyway.com/rpl-diy",
     "rpl-diy.bymyway.com",
     "rpl-diy.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "rpl-class",
-   "name": "美式傘繩藝術 DIY｜快拆求生手環 線上教學 — 結繩領導學苑",
-   "desc": "一條傘繩，平時是有型的手環，需要時還能快速拆解成實用繩索。跟著 50 年結繩達人、《結繩領導學》作者蔡曜隆，學會五款美式快拆求生手環。",
-   "url": "https://event.bymyway.com/curated/rpl-class/",
-   "repoUrl": "https://github.com/Coach1973/rpl-class",
-   "repo": "rpl-class",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rpl-class",
-    "event.bymyway.com/curated/rpl-class",
-    "event.bymyway.com/rpl-class",
-    "rpl-class.bymyway.com",
-    "rpl-class.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-18",
@@ -1899,29 +2463,6 @@
    "aliases": []
   },
   {
-   "id": "da-a-brother",
-   "name": "大A師兄 陳杉榕｜從銷售講台走進山林的種樹達人",
-   "desc": "大A師兄 陳杉榕：早年 HP 工程師、銷售培訓講師、理財書作者，2014 年後回鄉種樹、投入沉香植菌，提出「為世界種70億棵樹，為地球降溫2度」，以「您消費我捐錢」推動公益。",
-   "url": "https://event.bymyway.com/curated/da-a-brother/",
-   "repoUrl": "https://github.com/Coach1973/da-a-brother",
-   "repo": "da-a-brother",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/da-a-brother",
-    "da-a-brother.bymyway.com",
-    "da-a-brother.netlify.app",
-    "event.bymyway.com/curated/da-a-brother",
-    "event.bymyway.com/da-a-brother"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "bai-sheng",
    "name": "百聖廣告設計工程有限公司｜台南大圖輸出・廣告工程・活動場佈施工",
    "desc": "台南百聖廣告設計工程有限公司。大圖輸出、戶外UV帆布、無接縫燈箱、招牌發光字、客製化壓克力保麗龍、啟動儀式道具、舞台結構與展場佈置施工。趕件、加班、南北一條龍。電話 06-356-5711。",
@@ -2012,98 +2553,6 @@
    "cat": "策展・樂",
    "updated": "2026-11-16",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "lia-chih-ming",
-   "name": "賴志明｜漢唐集成總經理・台灣高科技廠房設施協會理事長",
-   "desc": "賴志明，漢唐集成（2404）總經理、台灣高科技廠房設施協會（HTFA）第三屆理事長。從台積電新廠規劃、千附實業總經理到帶領漢唐全球建廠。",
-   "url": "https://event.bymyway.com/curated/lia-chih-ming/",
-   "repoUrl": "https://github.com/Coach1973/lia-chih-ming",
-   "repo": "lia-chih-ming",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lia-chih-ming",
-    "event.bymyway.com/curated/lia-chih-ming",
-    "event.bymyway.com/lia-chih-ming",
-    "lia-chih-ming.bymyway.com",
-    "lia-chih-ming.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "li-wen-cai",
-   "name": "李文財｜點亮青年創業的高雄青創推手",
-   "desc": "李文財：高雄市創新創業協會名譽理事長、全國創新創業總會南區區會長、以諾科技負責人。從 LED 照明、太陽光電到青年創業陪跑。",
-   "url": "https://event.bymyway.com/curated/li-wen-cai/",
-   "repoUrl": "https://github.com/Coach1973/li-wen-cai",
-   "repo": "li-wen-cai",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/li-wen-cai",
-    "event.bymyway.com/curated/li-wen-cai",
-    "event.bymyway.com/li-wen-cai",
-    "li-wen-cai.bymyway.com",
-    "li-wen-cai.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-16",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "yijing-ai-backup",
-   "name": "yijing-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/yijing-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/yijing-ai-backup",
-   "repo": "yijing-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yijing-ai-backup",
-    "event.bymyway.com/curated/yijing-ai-backup",
-    "event.bymyway.com/yijing-ai-backup",
-    "yijing-ai-backup.bymyway.com",
-    "yijing-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-15",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-15",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -2277,31 +2726,6 @@
    ]
   },
   {
-   "id": "zhou-ruiqi",
-   "name": "周睿麒｜把一塊布，種成一面綠牆",
-   "desc": "周睿麒：永樂市場資深布商、永樂商圈發展協會創會理事長、布思綠創辦人。以機能布取代土壤，推動無耗材種植與城市綠化。",
-   "url": "https://event.bymyway.com/curated/zhou-ruiqi/",
-   "repoUrl": "https://github.com/Coach1973/zhou-ruiqi",
-   "repo": "zhou-ruiqi",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zhou-ruiqi",
-    "event.bymyway.com/curated/zhou-ruiqi",
-    "event.bymyway.com/zhou-ruiqi",
-    "zhou-ruiqi.bymyway.com",
-    "zhou-ruiqi.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": [
-    "布創辦人"
-   ]
-  },
-  {
    "id": "zhang-jiaren",
    "name": "張嘉仁顧問｜iSquare 愛斯奎科技管理顧問工作室",
    "desc": "張嘉仁顧問，愛斯奎科技管理顧問工作室（iSquare）創辦人暨產業顧問。前金屬中心計畫主持人、APIAA 認證產業分析師，30 年以上研發創新、產業分析與政府補助計畫輔導經驗。",
@@ -2339,29 +2763,6 @@
     "event.bymyway.com/wufan",
     "wufan.bymyway.com",
     "wufan.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "shi-zheng-yi",
-   "name": "施正益 Allen｜第 10 級 Google 在地嚮導・彰化網購職業工會理事長",
-   "desc": "施正益（Allen），彰化縣網路購物服務人員職業工會理事長、Google 第 10 級在地嚮導團隊導師、TTQS 網路行銷課程講師。用評論、照片與 360 環景，讓好店被看見。",
-   "url": "https://event.bymyway.com/curated/shi-zheng-yi/",
-   "repoUrl": "https://github.com/Coach1973/shi-zheng-yi",
-   "repo": "shi-zheng-yi",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/shi-zheng-yi",
-    "event.bymyway.com/curated/shi-zheng-yi",
-    "event.bymyway.com/shi-zheng-yi",
-    "shi-zheng-yi.bymyway.com",
-    "shi-zheng-yi.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-13",
@@ -2467,52 +2868,6 @@
    ]
   },
   {
-   "id": "lovingfamily",
-   "name": "戀家大叔 李忠儒｜戀家小舖創辦人・20 年電商實戰家",
-   "desc": "戀家大叔李忠儒（Allen）：2006 年創辦台灣自製寢具品牌戀家小舖，渠道商學院共同創辦人，20 年電商實戰經驗。學經歷、專長、故事、公益足跡、媒體報導與照片。",
-   "url": "https://event.bymyway.com/curated/lovingfamily/",
-   "repoUrl": "https://github.com/Coach1973/lovingfamily",
-   "repo": "lovingfamily",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lovingfamily",
-    "event.bymyway.com/curated/lovingfamily",
-    "event.bymyway.com/lovingfamily",
-    "lovingfamily.bymyway.com",
-    "lovingfamily.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "lior",
-   "name": "洪誠佑 Lior｜愛喝茶的品牌經營者",
-   "desc": "洪誠佑 Lior：象楠茗茶、象楠地板品牌經營者，象楠國際有限公司代表人，林口幸福扶輪社服務計畫委員會主委。",
-   "url": "https://event.bymyway.com/curated/lior/",
-   "repoUrl": "https://github.com/Coach1973/lior",
-   "repo": "lior",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lior",
-    "event.bymyway.com/curated/lior",
-    "event.bymyway.com/lior",
-    "lior.bymyway.com",
-    "lior.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "lianchiyu",
    "name": "連啓佑老師｜台灣搜尋產業先驅・SEO × GEO 搜尋行銷顧問",
    "desc": "連啓佑，將能數位行銷創辦人暨執行長，27 年搜尋產業經驗，2002 年推出台灣最早的 SEO 服務。著有《AI 搜尋策略優化與實務》《人生演算法》《網站績效分析與管理》。",
@@ -2536,29 +2891,6 @@
    "aliases": [
     "連老師"
    ]
-  },
-  {
-   "id": "kueilan",
-   "name": "奎嵐 KueiLan｜用 AI 幫你提早下班",
-   "desc": "奎嵐 KueiLan，台大政治系畢業的自媒體內容創作者、AI 教學講師與社群操盤手，現居美國加州，教上班族用 AI 提早下班。",
-   "url": "https://event.bymyway.com/curated/kueilan/",
-   "repoUrl": "https://github.com/Coach1973/kueilan",
-   "repo": "kueilan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kueilan",
-    "event.bymyway.com/curated/kueilan",
-    "event.bymyway.com/kueilan",
-    "kueilan.bymyway.com",
-    "kueilan.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
   },
   {
    "id": "jiang-yilun",
@@ -2648,29 +2980,6 @@
     "event.bymyway.com/global-health",
     "global-health.bymyway.com",
     "global-health.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-13",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "chuanfeng",
-   "name": "陳川豐 總經理｜凱景實業・把鋼板烤出顏色的人",
-   "desc": "陳川豐，凱景實業股份有限公司總經理、高雄臨海產業園區廠商協進會下屆理事長。凱景集團第二代，延續父母自 1969 年起的「誠信勤成」，把冷冰冰的鋼，烤出顏色。",
-   "url": "https://event.bymyway.com/curated/chuanfeng/",
-   "repoUrl": "https://github.com/Coach1973/chuanfeng",
-   "repo": "chuanfeng",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "chuanfeng.bymyway.com",
-    "chuanfeng.netlify.app",
-    "coach1973.github.io/chuanfeng",
-    "event.bymyway.com/chuanfeng",
-    "event.bymyway.com/curated/chuanfeng"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-13",
@@ -2867,31 +3176,6 @@
    "aliases": []
   },
   {
-   "id": "chen-alice",
-   "name": "陳彥玲博士｜讓理解，成為成長的力量",
-   "desc": "認識陳彥玲博士：全球健康發展協會代理理事長，親職教育、兒童發展與身心關懷的跨領域教育工作者。",
-   "url": "https://event.bymyway.com/curated/chen-alice/",
-   "repoUrl": "https://github.com/Coach1973/chen-alice",
-   "repo": "chen-alice",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "chen-alice.bymyway.com",
-    "chen-alice.netlify.app",
-    "coach1973.github.io/chen-alice",
-    "event.bymyway.com/chen-alice",
-    "event.bymyway.com/curated/chen-alice"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-12",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "陳博士"
-   ]
-  },
-  {
    "id": "zhengui-guests",
    "name": "真貴籌備會 邀約來賓戰情儀表板",
    "desc": "",
@@ -3005,29 +3289,6 @@
    "cat": "GitHub 網頁",
    "updated": "2026-11-11",
    "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "zhu-zhicheng",
-   "name": "朱志成顧問｜連鎖品牌・加盟總部・HRM 經營顧問",
-   "desc": "35 年海內外連鎖餐飲經營實務，經濟部創業暨品牌輔導顧問朱志成：品牌診斷、連鎖加盟總部建置、HRM 人資制度與 AI 經營應用。",
-   "url": "https://event.bymyway.com/curated/zhu-zhicheng/",
-   "repoUrl": "https://github.com/Coach1973/zhu-zhicheng",
-   "repo": "zhu-zhicheng",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zhu-zhicheng",
-    "event.bymyway.com/curated/zhu-zhicheng",
-    "event.bymyway.com/zhu-zhicheng",
-    "zhu-zhicheng.bymyway.com",
-    "zhu-zhicheng.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-10",
-   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -3152,31 +3413,6 @@
    "aliases": []
   },
   {
-   "id": "yang-houngren",
-   "name": "楊弘仁執行長｜讓台灣醫療走進新時代的醫師企業家",
-   "desc": "敏盛醫療體系執行長、盛弘醫藥董事長楊弘仁的個人品牌網頁：學經歷、專長、生活事蹟、公益足跡、媒體報導與照片。",
-   "url": "https://event.bymyway.com/curated/yang-houngren/",
-   "repoUrl": "https://github.com/Coach1973/yang-houngren",
-   "repo": "yang-houngren",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/yang-houngren",
-    "event.bymyway.com/curated/yang-houngren",
-    "event.bymyway.com/yang-houngren",
-    "yang-houngren.bymyway.com",
-    "yang-houngren.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-06",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "楊執行長"
-   ]
-  },
-  {
    "id": "wu-jinchang",
    "name": "吳錦昌董事長｜順發電腦創辦人・用消費改變世界",
    "desc": "順發電腦創辦人暨董事長吳錦昌。2010 年起承諾捐出淨利 20%，17 年累積捐款 3 億 3,016 萬元；Run for Future 公益路跑發起人。",
@@ -3200,29 +3436,6 @@
    "aliases": [
     "吳董事長"
    ]
-  },
-  {
-   "id": "liu-weihua",
-   "name": "劉維華｜從上市鐘聲到上課鐘聲",
-   "desc": "劉維華先生：美國加州大學研究所工程及管理學位，資本市場顧問有限公司團隊成員，曾協助新浪、網易、搜狐、攜程赴 NASDAQ 上市，北京清華大學產業與資本研究中心主任，並每年帶領兩岸大學生支教隊赴雲南、四川。",
-   "url": "https://event.bymyway.com/curated/liu-weihua/",
-   "repoUrl": "https://github.com/Coach1973/liu-weihua",
-   "repo": "liu-weihua",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/liu-weihua",
-    "event.bymyway.com/curated/liu-weihua",
-    "event.bymyway.com/liu-weihua",
-    "liu-weihua.bymyway.com",
-    "liu-weihua.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-06",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "kang-pastor",
@@ -3285,29 +3498,6 @@
     "event.bymyway.com/yang-xiaoxi",
     "yang-xiaoxi.bymyway.com",
     "yang-xiaoxi.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-05",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "wei-gen",
-   "name": "賴維根｜維根蔬食倡導者・數位農產通路講者",
-   "desc": "賴維根：推動維根（Vegan）蔬食、數位轉型與農業通路變革的企業家與講師。",
-   "url": "https://event.bymyway.com/curated/wei-gen/",
-   "repoUrl": "https://github.com/Coach1973/wei-gen",
-   "repo": "wei-gen",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/wei-gen",
-    "event.bymyway.com/curated/wei-gen",
-    "event.bymyway.com/wei-gen",
-    "wei-gen.bymyway.com",
-    "wei-gen.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-05",
@@ -3699,31 +3889,6 @@
    "aliases": []
   },
   {
-   "id": "lin-hunang-yi",
-   "name": "林晃誼老師｜甜彩虹音樂藝術中心 — 讓音樂走進生活",
-   "desc": "林晃誼老師，幼兒教育學士、音樂教育碩士，台南甜彩虹音樂藝術中心主持老師，能操作 15 種樂器，結合音樂、藝術與優雅儀態，教學經驗超過 25 年。",
-   "url": "https://event.bymyway.com/curated/lin-hunang-yi/",
-   "repoUrl": "https://github.com/Coach1973/lin-hunang-yi",
-   "repo": "lin-hunang-yi",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lin-hunang-yi",
-    "event.bymyway.com/curated/lin-hunang-yi",
-    "event.bymyway.com/lin-hunang-yi",
-    "lin-hunang-yi.bymyway.com",
-    "lin-hunang-yi.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-30",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "林老師"
-   ]
-  },
-  {
    "id": "idea-center",
    "name": "AI 好點子收集中心｜把你的「欸，如果……」丟過來",
    "desc": "AI 好點子收集中心是一個公益平台。主辦：順發公益運動協會，發起人：大樹教練。歡迎每個人與 NPO 夥伴，放心丟出任何公益好點子。",
@@ -3795,29 +3960,6 @@
    "aliases": []
   },
   {
-   "id": "chen-qianhe",
-   "name": "陳千禾｜水兵 Riley・壽險顧問・《中年勇敢轉職，經營你的人生》作者",
-   "desc": "從 14 年海軍職業軍人到壽險顧問與作家。陳千禾（水兵 Riley）用親身經歷陪伴每一位想重新掌握人生的人。量身保險找千禾。",
-   "url": "https://event.bymyway.com/curated/chen-qianhe/",
-   "repoUrl": "https://github.com/Coach1973/chen-qianhe",
-   "repo": "chen-qianhe",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "chen-qianhe.bymyway.com",
-    "chen-qianhe.netlify.app",
-    "coach1973.github.io/chen-qianhe",
-    "event.bymyway.com/chen-qianhe",
-    "event.bymyway.com/curated/chen-qianhe"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-30",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "bigtree-skills",
    "name": "大樹常用技能表：點卡片進入各技能網頁",
    "desc": "大樹常用技能表：點卡片進入各技能網頁",
@@ -3864,29 +4006,6 @@
    "aliases": [
     "創理事長"
    ]
-  },
-  {
-   "id": "tiffany-lee",
-   "name": "李勳婷 Tiffany｜專注細節的市場實戰派・三道門建築文創旅店創辦人",
-   "desc": "李勳婷 Tiffany，三道門建築文創旅店創辦人暨董事長。從豪宅建築的精緻度，到旅店服務流程的細緻度，打造台南綠色低碳文創旅宿。",
-   "url": "https://event.bymyway.com/curated/tiffany-lee/",
-   "repoUrl": "https://github.com/Coach1973/tiffany-lee",
-   "repo": "tiffany-lee",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tiffany-lee",
-    "event.bymyway.com/curated/tiffany-lee",
-    "event.bymyway.com/tiffany-lee",
-    "tiffany-lee.bymyway.com",
-    "tiffany-lee.netlify.app"
-   ],
-   "cat": "策展・住",
-   "updated": "2026-10-29",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-10-29 15:46",
-   "aliases": []
   },
   {
    "id": "rongtree-sop",
@@ -4151,29 +4270,6 @@
    ]
   },
   {
-   "id": "wang-xiali",
-   "name": "王夏儷｜音樂與藝術創意・EZ Player 執行長・音樂總監",
-   "desc": "王夏儷，EZ Player 執行長・音樂總監，高雄市港都音樂表演藝術發展協會理事長。結合音樂教育、數位創作與演奏指導，拓展音樂與科技的跨域可能。",
-   "url": "https://event.bymyway.com/curated/wang-xiali/",
-   "repoUrl": "https://github.com/Coach1973/wang-xiali",
-   "repo": "wang-xiali",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/wang-xiali",
-    "event.bymyway.com/curated/wang-xiali",
-    "event.bymyway.com/wang-xiali",
-    "wang-xiali.bymyway.com",
-    "wang-xiali.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-10-25",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
    "id": "suchin",
    "name": "蘇秦老師｜英語教學 × AI 工具應用",
    "desc": "蘇秦老師：高師大英語系畢業，AI 融入英語教學講師與作者，100 多場校園演講，著有《英語教學神助手》《英語自學神助手》《Gemini Notebook 任務神助手》。",
@@ -4197,29 +4293,6 @@
    "aliases": [
     "蘇老師"
    ]
-  },
-  {
-   "id": "sendstudio",
-   "name": "鄭憲聰｜憲樂錄音室 SendStudio 創辦人・AI 影音行銷講師",
-   "desc": "鄭憲聰是「憲樂錄音室 SendStudio」創辦人，也是 AI 影音行銷講師，專門協助企業與個人品牌，用錄音、影音、短影音與 AI 工具，打造從內容製作到流量變現的完整系統。",
-   "url": "https://event.bymyway.com/curated/sendstudio/",
-   "repoUrl": "https://github.com/Coach1973/sendstudio",
-   "repo": "sendstudio",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/sendstudio",
-    "event.bymyway.com/curated/sendstudio",
-    "event.bymyway.com/sendstudio",
-    "sendstudio.bymyway.com",
-    "sendstudio.netlify.app"
-   ],
-   "cat": "策展・衣",
-   "updated": "2026-10-25",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
   },
   {
    "id": "linbaohua",
@@ -4670,31 +4743,6 @@
    "aliases": []
   },
   {
-   "id": "kunting",
-   "name": "昆廷老師 鄒昆廷｜企業 AI 導入顧問 × 易經決策",
-   "desc": "昆廷老師（鄒昆廷）：朋昶數位科技總監、ISO/IEC 42001 主導稽核員。近 18 年企業系統經驗、近 20 年文王卦經驗，陪中小企業主先問對問題，再讓 AI 把事做完。",
-   "url": "https://event.bymyway.com/curated/kunting/",
-   "repoUrl": "https://github.com/Coach1973/kunting",
-   "repo": "kunting",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kunting",
-    "event.bymyway.com/curated/kunting",
-    "event.bymyway.com/kunting",
-    "kunting.bymyway.com",
-    "kunting.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": [
-    "昆老師"
-   ]
-  },
-  {
    "id": "kong-ling-feng",
    "name": "孔令峯｜先降溫，再講理的家庭陪伴者",
    "desc": "從憲兵排長、保險經理、企業顧問到家庭協談同工——孔令峯陪伴許多家庭在衝突中看見盲點、重新對焦。",
@@ -5085,54 +5133,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "angel-sister",
-   "name": "陳淑玲｜CBMC 高雄一分會會長・職場宣教者",
-   "desc": "CBMC 國際基督徒工商人員協會高雄一分會會長陳淑玲。護理師出身，人生三次因病轉型，用耶穌基督的愛與能力轉化工商職場。",
-   "url": "https://event.bymyway.com/curated/angel-sister/",
-   "repoUrl": "https://github.com/Coach1973/angel-sister",
-   "repo": "angel-sister",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "angel-sister.bymyway.com",
-    "angel-sister.netlify.app",
-    "coach1973.github.io/angel-sister",
-    "event.bymyway.com/angel-sister",
-    "event.bymyway.com/curated/angel-sister"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "andy-chen",
-   "name": "陳顯立執行長｜好廣告數據創辦人・《信任效應》作者",
-   "desc": "陳顯立（Andy Chen），好廣告數據創辦人暨執行長、《信任效應》作者、東吳大學企管系專技副教授。25 年數位與零售轉型經驗，連續 20 年每月認養家扶學童。",
-   "url": "https://event.bymyway.com/curated/andy-chen/",
-   "repoUrl": "https://github.com/Coach1973/andy-chen",
-   "repo": "andy-chen",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "andy-chen.bymyway.com",
-    "andy-chen.netlify.app",
-    "coach1973.github.io/andy-chen",
-    "event.bymyway.com/andy-chen",
-    "event.bymyway.com/curated/andy-chen"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "陳執行長"
-   ]
   },
   {
    "id": "8ccafe",
@@ -7597,5 +7597,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-19T23:13:03Z"
+ "generated": "2026-11-20T16:13:09Z"
 }
