@@ -27,6 +27,30 @@
    ]
   },
   {
+   "id": "tut-alumni",
+   "name": "台南應用科技大學校友會 召集令",
+   "desc": "",
+   "url": "https://event.bymyway.com/tut/",
+   "repoUrl": "https://github.com/Coach1973/tut-alumni",
+   "repo": "tut-alumni",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-alumni",
+    "event.bymyway.com/curated/tut-alumni",
+    "event.bymyway.com/tut",
+    "event.bymyway.com/tut-alumni",
+    "tut-alumni.bymyway.com",
+    "tut-alumni.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tava-to-claude",
    "name": "手機做網頁｜TAVA 交給 Claude",
    "desc": "",
@@ -233,6 +257,29 @@
    "cat": "GitHub 網頁",
    "updated": "2026-11-21",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bossread-0107",
+   "name": "《高手都在用的行銷策略》｜大樹教育顧問 實戰行銷專題講座",
+   "desc": "讀懂客戶心理，運用溝通與影響力提升銷售力。116/01/07(四)14:00~15:00，優雅客台北松江南京創業空間。",
+   "url": "https://event.bymyway.com/curated/bossread-0107/",
+   "repoUrl": "https://github.com/Coach1973/bossread-0107",
+   "repo": "bossread-0107",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bossread-0107.bymyway.com",
+    "bossread-0107.netlify.app",
+    "coach1973.github.io/bossread-0107",
+    "event.bymyway.com/bossread-0107",
+    "event.bymyway.com/curated/bossread-0107"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-21",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -520,30 +567,6 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
-   "id": "tut-alumni",
-   "name": "台南應用科技大學校友會 召集令",
-   "desc": "",
-   "url": "https://event.bymyway.com/tut/",
-   "repoUrl": "https://github.com/Coach1973/tut-alumni",
-   "repo": "tut-alumni",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-alumni",
-    "event.bymyway.com/curated/tut-alumni",
-    "event.bymyway.com/tut",
-    "event.bymyway.com/tut-alumni",
-    "tut-alumni.bymyway.com",
-    "tut-alumni.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-20",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -3297,12 +3320,12 @@
   },
   {
    "id": "dashu-coach-ai-lessons",
-   "name": "大樹教練的 AI 經驗庫 - 記錄所有 AI 相關踩坑與解決方案",
-   "desc": "大樹教練的 AI 經驗庫 - 記錄所有 AI 相關踩坑與解決方案",
+   "name": "dashu-coach-ai-lessons",
+   "desc": "",
    "url": "https://github.com/Coach1973/dashu-coach-ai-lessons",
    "repoUrl": "https://github.com/Coach1973/dashu-coach-ai-lessons",
    "repo": "dashu-coach-ai-lessons",
-   "private": false,
+   "private": true,
    "archived": false,
    "keys": [
     "coach1973.github.io/dashu-coach-ai-lessons",
@@ -3316,9 +3339,7 @@
    "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
+   "aliases": []
   },
   {
    "id": "bni-dna",
@@ -7647,5 +7668,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-21T10:06:47Z"
+ "generated": "2026-11-21T11:18:44Z"
 }
