@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "works-map",
+   "name": "大樹作品分類表",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/works-map/",
+   "repoUrl": "https://github.com/Coach1973/works-map",
+   "repo": "works-map",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/works-map",
+    "event.bymyway.com/curated/works-map",
+    "event.bymyway.com/works-map",
+    "works-map.bymyway.com",
+    "works-map.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-21",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "watercolor-1202",
    "name": "時尚水彩課｜林家旭教授親授・精緻小班五席｜12/02（三）六淨山房",
    "desc": "12/02（三）09:30–12:00，台灣形象設計發展協會理事長林家旭教授親自手把手指導，水墨飛白時尚水彩小班，僅五席。含飲品點心、2 張自畫像、專屬攝影師與影片剪輯紀錄。地點：台南六淨山房（知事官邸）。",
@@ -186,6 +209,29 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-11-21",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "invite-superpower",
+   "name": "邀約超能力｜全方位人才邀約心法 互動式教材",
+   "desc": "將推銷轉化為連結——人才邀約超能力實戰工作坊。打破被拒絕的恐懼，從單打推銷員躍升為跨界資源整合者。原汁逐字語錄、八大抗拒點拆招、48 小時黃金回訪 SOP 與四大互動演練。",
+   "url": "https://event.bymyway.com/curated/invite-superpower/",
+   "repoUrl": "https://github.com/Coach1973/invite-superpower",
+   "repo": "invite-superpower",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/invite-superpower",
+    "event.bymyway.com/curated/invite-superpower",
+    "event.bymyway.com/invite-superpower",
+    "invite-superpower.bymyway.com",
+    "invite-superpower.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-21",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -3319,6 +3365,29 @@
    "aliases": []
   },
   {
+   "id": "dashu-coach-ai-lessons",
+   "name": "dashu-coach-ai-lessons",
+   "desc": "",
+   "url": "https://github.com/Coach1973/dashu-coach-ai-lessons",
+   "repoUrl": "https://github.com/Coach1973/dashu-coach-ai-lessons",
+   "repo": "dashu-coach-ai-lessons",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/dashu-coach-ai-lessons",
+    "dashu-coach-ai-lessons.bymyway.com",
+    "dashu-coach-ai-lessons.netlify.app",
+    "event.bymyway.com/curated/dashu-coach-ai-lessons",
+    "event.bymyway.com/dashu-coach-ai-lessons"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-11",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "bni-dna",
    "name": "大台南南區 DnA 團隊戰情儀表板",
    "desc": "",
@@ -3365,29 +3434,6 @@
    "aliases": [
     "洪老師"
    ]
-  },
-  {
-   "id": "works-map",
-   "name": "大樹作品分類表",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/works-map/",
-   "repoUrl": "https://github.com/Coach1973/works-map",
-   "repo": "works-map",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/works-map",
-    "event.bymyway.com/curated/works-map",
-    "event.bymyway.com/works-map",
-    "works-map.bymyway.com",
-    "works-map.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-09",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "a-to-b",
@@ -7645,5 +7691,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-21T11:18:44Z"
+ "generated": "2026-11-21T12:48:35Z"
 }
