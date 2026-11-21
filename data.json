@@ -2,6 +2,54 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "watercolor-1202",
+   "name": "時尚水彩課｜林家旭教授親授・精緻小班五席｜12/02（三）六淨山房",
+   "desc": "12/02（三）09:30–12:00，台灣形象設計發展協會理事長林家旭教授親自手把手指導，水墨飛白時尚水彩小班，僅五席。含飲品點心、2 張自畫像、專屬攝影師與影片剪輯紀錄。地點：台南六淨山房（知事官邸）。",
+   "url": "https://event.bymyway.com/curated/watercolor-1202/",
+   "repoUrl": "https://github.com/Coach1973/watercolor-1202",
+   "repo": "watercolor-1202",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/watercolor-1202",
+    "event.bymyway.com/curated/watercolor-1202",
+    "event.bymyway.com/watercolor-1202",
+    "watercolor-1202.bymyway.com",
+    "watercolor-1202.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-21",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "林教授"
+   ]
+  },
+  {
+   "id": "tava-to-claude",
+   "name": "手機做網頁｜TAVA 交給 Claude",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-to-claude/",
+   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
+   "repo": "tava-to-claude",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-to-claude",
+    "event.bymyway.com/curated/tava-to-claude",
+    "event.bymyway.com/tava-to-claude",
+    "tava-to-claude.bymyway.com",
+    "tava-to-claude.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tava-brand-web-playbook",
    "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
    "desc": "",
@@ -144,6 +192,52 @@
    ]
   },
   {
+   "id": "course-signup-playbook",
+   "name": "課程推廣報名網頁｜開工指令與製作經驗",
+   "desc": "",
+   "url": "https://coach1973.github.io/course-signup-playbook/",
+   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
+   "repo": "course-signup-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/course-signup-playbook",
+    "course-signup-playbook.bymyway.com",
+    "course-signup-playbook.netlify.app",
+    "event.bymyway.com/course-signup-playbook",
+    "event.bymyway.com/curated/course-signup-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "大樹AI作品總覽（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "bigtree-web-guide",
    "name": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
    "desc": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
@@ -192,6 +286,29 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "association-site-playbook",
+   "name": "協會官網｜開工指令與製作經驗",
+   "desc": "協會官網｜開工指令與製作經驗",
+   "url": "https://coach1973.github.io/association-site-playbook/",
+   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
+   "repo": "association-site-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "association-site-playbook.bymyway.com",
+    "association-site-playbook.netlify.app",
+    "coach1973.github.io/association-site-playbook",
+    "event.bymyway.com/association-site-playbook",
+    "event.bymyway.com/curated/association-site-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "all-works",
@@ -450,29 +567,6 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-10-29 15:46",
-   "aliases": []
-  },
-  {
-   "id": "tava-to-claude",
-   "name": "手機做網頁｜TAVA 交給 Claude",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-to-claude/",
-   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
-   "repo": "tava-to-claude",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-to-claude",
-    "event.bymyway.com/curated/tava-to-claude",
-    "event.bymyway.com/tava-to-claude",
-    "tava-to-claude.bymyway.com",
-    "tava-to-claude.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-20",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -875,29 +969,6 @@
    "aliases": []
   },
   {
-   "id": "coach888",
-   "name": "大樹AI作品總覽（個人專用）",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-20",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "chuanfeng",
    "name": "陳川豐 總經理｜凱景實業・把鋼板烤出顏色的人",
    "desc": "陳川豐，凱景實業股份有限公司總經理、高雄臨海產業園區廠商協進會下屆理事長。凱景集團第二代，延續父母自 1969 年起的「誠信勤成」，把冷冰冰的鋼，烤出顏色。",
@@ -967,29 +1038,6 @@
    "aliases": [
     "陳博士"
    ]
-  },
-  {
-   "id": "association-site-playbook",
-   "name": "協會官網｜開工指令與製作經驗",
-   "desc": "協會官網｜開工指令與製作經驗",
-   "url": "https://coach1973.github.io/association-site-playbook/",
-   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
-   "repo": "association-site-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "association-site-playbook.bymyway.com",
-    "association-site-playbook.netlify.app",
-    "coach1973.github.io/association-site-playbook",
-    "event.bymyway.com/association-site-playbook",
-    "event.bymyway.com/curated/association-site-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-20",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "angel-sister",
@@ -2065,29 +2113,6 @@
    "cat": "策展・樂",
    "updated": "2026-11-19",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "course-signup-playbook",
-   "name": "課程推廣報名網頁｜開工指令與製作經驗",
-   "desc": "",
-   "url": "https://coach1973.github.io/course-signup-playbook/",
-   "repoUrl": "https://github.com/Coach1973/course-signup-playbook",
-   "repo": "course-signup-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/course-signup-playbook",
-    "course-signup-playbook.bymyway.com",
-    "course-signup-playbook.netlify.app",
-    "event.bymyway.com/course-signup-playbook",
-    "event.bymyway.com/curated/course-signup-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-19",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -7622,5 +7647,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-21T09:50:52Z"
+ "generated": "2026-11-21T10:06:47Z"
 }
