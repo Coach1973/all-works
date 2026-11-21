@@ -2,6 +2,173 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "tava-brand-web-playbook",
+   "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
+   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
+   "repo": "tava-brand-web-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-brand-web-playbook",
+    "event.bymyway.com/curated/tava-brand-web-playbook",
+    "event.bymyway.com/tava-brand-web-playbook",
+    "tava-brand-web-playbook.bymyway.com",
+    "tava-brand-web-playbook.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "rpl-leadership",
+   "name": "結繩領導學官方網站",
+   "desc": "結繩領導學官方網站：《結繩領導學》兩日實戰工作坊、企業講座、企業教練，以及繩乎奇技傘繩 DIY 工作坊、線上課程與傘繩作品。創辦人蔡曜隆（曜董）：近 40 年大地工程、50 年結繩經驗。",
+   "url": "https://event.bymyway.com/curated/rpl-leadership/",
+   "repoUrl": "https://github.com/Coach1973/rpl-leadership",
+   "repo": "rpl-leadership",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rpl-leadership",
+    "event.bymyway.com/curated/rpl-leadership",
+    "event.bymyway.com/rpl-leadership",
+    "rpl-leadership.bymyway.com",
+    "rpl-leadership.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-21",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "企教練"
+   ]
+  },
+  {
+   "id": "rpl-diy",
+   "name": "傘繩 DIY-4｜三款鑰匙圈・半天手作教室 | 光線尺顧問有限公司",
+   "desc": "半天（約 3～3.5 小時）專業教室實作，親手完成並帶回 3 款質感傘繩鑰匙圈吊飾。個人標準 NT$1,280／人，三人同行 NT$3,000。",
+   "url": "https://event.bymyway.com/curated/rpl-diy/",
+   "repoUrl": "https://github.com/Coach1973/rpl-diy",
+   "repo": "rpl-diy",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rpl-diy",
+    "event.bymyway.com/curated/rpl-diy",
+    "event.bymyway.com/rpl-diy",
+    "rpl-diy.bymyway.com",
+    "rpl-diy.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-21",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-21",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "bigtree",
+   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "url": "https://coach1973.github.io/bigtree/",
+   "repoUrl": "https://github.com/Coach1973/bigtree",
+   "repo": "bigtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree.bymyway.com",
+    "bigtree.netlify.app",
+    "coach1973.github.io/bigtree",
+    "event.bymyway.com/bigtree",
+    "event.bymyway.com/curated/bigtree"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "zhu-zhicheng",
    "name": "朱志成顧問｜連鎖品牌・加盟總部・HRM 經營顧問",
    "desc": "35 年海內外連鎖餐飲經營實務，經濟部創業暨品牌輔導顧問朱志成：品牌診斷、連鎖加盟總部建置、HRM 人資制度與 AI 經營應用。",
@@ -191,6 +358,30 @@
    "aliases": []
   },
   {
+   "id": "tut-alumni",
+   "name": "台南應用科技大學校友會 召集令",
+   "desc": "",
+   "url": "https://event.bymyway.com/tut/",
+   "repoUrl": "https://github.com/Coach1973/tut-alumni",
+   "repo": "tut-alumni",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-alumni",
+    "event.bymyway.com/curated/tut-alumni",
+    "event.bymyway.com/tut",
+    "event.bymyway.com/tut-alumni",
+    "tut-alumni.bymyway.com",
+    "tut-alumni.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-20",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "tiffany-lee",
    "name": "李勳婷 Tiffany｜專注細節的市場實戰派・三道門建築文創旅店創辦人",
    "desc": "李勳婷 Tiffany，三道門建築文創旅店創辦人暨董事長。從豪宅建築的精緻度，到旅店服務流程的細緻度，打造台南綠色低碳文創旅宿。",
@@ -211,6 +402,29 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-10-29 15:46",
+   "aliases": []
+  },
+  {
+   "id": "tava-to-claude",
+   "name": "手機做網頁｜TAVA 交給 Claude",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-to-claude/",
+   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
+   "repo": "tava-to-claude",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-to-claude",
+    "event.bymyway.com/curated/tava-to-claude",
+    "event.bymyway.com/tava-to-claude",
+    "tava-to-claude.bymyway.com",
+    "tava-to-claude.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-20",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -331,33 +545,8 @@
    "aliases": []
   },
   {
-   "id": "rpl-leadership",
-   "name": "結繩領導學苑｜心中有尺．手中有線．眼裡有光",
-   "desc": "結繩領導學苑官方網站：《結繩領導學》兩日實戰工作坊、企業講座、企業教練，以及繩乎奇技傘繩 DIY 工作坊、線上課程與傘繩作品。創辦人蔡曜隆（曜董）：近 40 年大地工程、50 年結繩經驗。",
-   "url": "https://event.bymyway.com/curated/rpl-leadership/",
-   "repoUrl": "https://github.com/Coach1973/rpl-leadership",
-   "repo": "rpl-leadership",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rpl-leadership",
-    "event.bymyway.com/curated/rpl-leadership",
-    "event.bymyway.com/rpl-leadership",
-    "rpl-leadership.bymyway.com",
-    "rpl-leadership.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-20",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "企教練"
-   ]
-  },
-  {
    "id": "rpl-class",
-   "name": "西洋傘繩藝術 DIY｜快拆求生手環 線上教學 — 結繩領導學苑",
+   "name": "西洋傘繩藝術 DIY｜快拆求生手環 線上教學 — 結繩領導學",
    "desc": "一條傘繩，平時是有型的手環，需要時還能快速拆解成實用繩索。跟著 50 年結繩達人、《結繩領導學》作者蔡曜隆，學會五款西洋快拆求生手環。",
    "url": "https://event.bymyway.com/curated/rpl-class/",
    "repoUrl": "https://github.com/Coach1973/rpl-class",
@@ -374,52 +563,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-20",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-20",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-20",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -684,6 +827,29 @@
    "aliases": []
   },
   {
+   "id": "coach888",
+   "name": "大樹AI作品總覽（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-20",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "chuanfeng",
    "name": "陳川豐 總經理｜凱景實業・把鋼板烤出顏色的人",
    "desc": "陳川豐，凱景實業股份有限公司總經理、高雄臨海產業園區廠商協進會下屆理事長。凱景集團第二代，延續父母自 1969 年起的「誠信勤成」，把冷冰冰的鋼，烤出顏色。",
@@ -755,6 +921,29 @@
    ]
   },
   {
+   "id": "association-site-playbook",
+   "name": "協會官網｜開工指令與製作經驗",
+   "desc": "協會官網｜開工指令與製作經驗",
+   "url": "https://coach1973.github.io/association-site-playbook/",
+   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
+   "repo": "association-site-playbook",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "association-site-playbook.bymyway.com",
+    "association-site-playbook.netlify.app",
+    "coach1973.github.io/association-site-playbook",
+    "event.bymyway.com/association-site-playbook",
+    "event.bymyway.com/curated/association-site-playbook"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-20",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "angel-sister",
    "name": "陳淑玲｜CBMC 高雄一分會會長・職場宣教者",
    "desc": "CBMC 國際基督徒工商人員協會高雄一分會會長陳淑玲。護理師出身，人生三次因病轉型，用耶穌基督的愛與能力轉化工商職場。",
@@ -801,6 +990,29 @@
    "aliases": [
     "陳執行長"
    ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-20",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "ale-brand",
@@ -1222,30 +1434,6 @@
    "aliases": []
   },
   {
-   "id": "tut-alumni",
-   "name": "台南應用科技大學校友會 召集令",
-   "desc": "",
-   "url": "https://event.bymyway.com/tut/",
-   "repoUrl": "https://github.com/Coach1973/tut-alumni",
-   "repo": "tut-alumni",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-alumni",
-    "event.bymyway.com/curated/tut-alumni",
-    "event.bymyway.com/tut",
-    "event.bymyway.com/tut-alumni",
-    "tut-alumni.bymyway.com",
-    "tut-alumni.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-19",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "tina-hsu",
    "name": "許鳳翎 Tina｜剪刀手造型美學會館 共同創辦人・執行長",
    "desc": "許鳳翎 Tina，台中「剪刀手造型美學會館」共同創辦人兼執行長。1994 年與 BOSS 葉宗賢在豐原創業，深耕美業三十餘年，國際扶輪 3460 地區 2014-15 年度社長，長年帶領團隊公益義剪。",
@@ -1340,52 +1528,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "tava-to-claude",
-   "name": "手機做網頁｜TAVA 交給 Claude",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-to-claude/",
-   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
-   "repo": "tava-to-claude",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-to-claude",
-    "event.bymyway.com/curated/tava-to-claude",
-    "event.bymyway.com/tava-to-claude",
-    "tava-to-claude.bymyway.com",
-    "tava-to-claude.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-19",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tava-brand-web-playbook",
-   "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-brand-web-playbook/",
-   "repoUrl": "https://github.com/Coach1973/tava-brand-web-playbook",
-   "repo": "tava-brand-web-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-brand-web-playbook",
-    "event.bymyway.com/curated/tava-brand-web-playbook",
-    "event.bymyway.com/tava-brand-web-playbook",
-    "tava-brand-web-playbook.bymyway.com",
-    "tava-brand-web-playbook.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-19",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "taipeiema1017",
@@ -1880,31 +2022,6 @@
    ]
   },
   {
-   "id": "go",
-   "name": "大樹入口",
-   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
-   "url": "https://event.bymyway.com/curated/go/",
-   "repoUrl": "https://github.com/Coach1973/go",
-   "repo": "go",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/go",
-    "event.bymyway.com/curated/go",
-    "event.bymyway.com/go",
-    "go.bymyway.com",
-    "go.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
    "id": "fu-enping",
    "name": "傅恩平｜商務英漢通譯・榮益齋有限公司",
    "desc": "傅恩平（En-Ping Fu），臺南善化商務英漢通譯專家，榮益齋有限公司負責人。會議口譯、文件筆譯、出版有聲、留遊學諮詢。",
@@ -1942,29 +2059,6 @@
     "course-signup-playbook.netlify.app",
     "event.bymyway.com/course-signup-playbook",
     "event.bymyway.com/curated/course-signup-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-19",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "大樹AI作品總覽（個人專用）",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-19",
@@ -2081,52 +2175,6 @@
     "coach1973.github.io/bni-chapters",
     "event.bymyway.com/bni-chapters",
     "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-19",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "association-site-playbook",
-   "name": "協會官網｜開工指令與製作經驗",
-   "desc": "協會官網｜開工指令與製作經驗",
-   "url": "https://coach1973.github.io/association-site-playbook/",
-   "repoUrl": "https://github.com/Coach1973/association-site-playbook",
-   "repo": "association-site-playbook",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "association-site-playbook.bymyway.com",
-    "association-site-playbook.netlify.app",
-    "coach1973.github.io/association-site-playbook",
-    "event.bymyway.com/association-site-playbook",
-    "event.bymyway.com/curated/association-site-playbook"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-19",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-19",
@@ -2290,29 +2338,6 @@
     "event.bymyway.com/stickerkit",
     "stickerkit.bymyway.com",
     "stickerkit.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "rpl-diy",
-   "name": "傘繩 DIY-4｜三款鑰匙圈・半天手作教室 | 光線尺顧問有限公司",
-   "desc": "半天（約 3～3.5 小時）專業教室實作，親手完成並帶回 3 款質感傘繩鑰匙圈吊飾。個人標準 NT$1,280／人，三人同行 NT$3,000。",
-   "url": "https://event.bymyway.com/curated/rpl-diy/",
-   "repoUrl": "https://github.com/Coach1973/rpl-diy",
-   "repo": "rpl-diy",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rpl-diy",
-    "event.bymyway.com/curated/rpl-diy",
-    "event.bymyway.com/rpl-diy",
-    "rpl-diy.bymyway.com",
-    "rpl-diy.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-18",
@@ -2651,31 +2676,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "bigtree",
-   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "url": "https://coach1973.github.io/bigtree/",
-   "repoUrl": "https://github.com/Coach1973/bigtree",
-   "repo": "bigtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bigtree.bymyway.com",
-    "bigtree.netlify.app",
-    "coach1973.github.io/bigtree",
-    "event.bymyway.com/bigtree",
-    "event.bymyway.com/curated/bigtree"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-14",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "ai-image1202",
@@ -7597,5 +7597,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-20T16:13:09Z"
+ "generated": "2026-11-21T09:39:44Z"
 }
