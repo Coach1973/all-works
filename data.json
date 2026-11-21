@@ -144,6 +144,31 @@
    ]
   },
   {
+   "id": "bigtree-web-guide",
+   "name": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
+   "desc": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
+   "url": "https://coach1973.github.io/bigtree-web-guide/",
+   "repoUrl": "https://github.com/Coach1973/bigtree-web-guide",
+   "repo": "bigtree-web-guide",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree-web-guide.bymyway.com",
+    "bigtree-web-guide.netlify.app",
+    "coach1973.github.io/bigtree-web-guide",
+    "event.bymyway.com/bigtree-web-guide",
+    "event.bymyway.com/curated/bigtree-web-guide"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "bigtree",
    "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
    "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
@@ -167,6 +192,29 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-21",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "zhu-zhicheng",
@@ -990,29 +1038,6 @@
    "aliases": [
     "陳執行長"
    ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-20",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "ale-brand",
@@ -7597,5 +7622,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-21T09:39:44Z"
+ "generated": "2026-11-21T09:50:52Z"
 }
