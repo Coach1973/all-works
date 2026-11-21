@@ -3319,29 +3319,6 @@
    "aliases": []
   },
   {
-   "id": "dashu-coach-ai-lessons",
-   "name": "dashu-coach-ai-lessons",
-   "desc": "",
-   "url": "https://github.com/Coach1973/dashu-coach-ai-lessons",
-   "repoUrl": "https://github.com/Coach1973/dashu-coach-ai-lessons",
-   "repo": "dashu-coach-ai-lessons",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/dashu-coach-ai-lessons",
-    "dashu-coach-ai-lessons.bymyway.com",
-    "dashu-coach-ai-lessons.netlify.app",
-    "event.bymyway.com/curated/dashu-coach-ai-lessons",
-    "event.bymyway.com/dashu-coach-ai-lessons"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-11",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "bni-dna",
    "name": "大台南南區 DnA 團隊戰情儀表板",
    "desc": "",
