@@ -2,6 +2,31 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zhou-ruiqi",
+   "name": "周睿麒｜把一塊布，種成一面綠牆",
+   "desc": "周睿麒：永樂市場資深布商、永樂商圈發展協會創會理事長、布思綠創辦人。以機能布取代土壤，推動無耗材種植與城市綠化。",
+   "url": "https://event.bymyway.com/curated/zhou-ruiqi/",
+   "repoUrl": "https://github.com/Coach1973/zhou-ruiqi",
+   "repo": "zhou-ruiqi",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zhou-ruiqi",
+    "event.bymyway.com/curated/zhou-ruiqi",
+    "event.bymyway.com/zhou-ruiqi",
+    "zhou-ruiqi.bymyway.com",
+    "zhou-ruiqi.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": [
+    "布創辦人"
+   ]
+  },
+  {
    "id": "yijing-ai-backup",
    "name": "yijing-ai-backup",
    "desc": "",
@@ -20,6 +45,29 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-11-22",
    "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "skyteam",
+   "name": "人才軍火庫顧問師天團",
+   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
+   "url": "https://event.bymyway.com/curated/skyteam/",
+   "repoUrl": "https://github.com/Coach1973/skyteam",
+   "repo": "skyteam",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/skyteam",
+    "event.bymyway.com/curated/skyteam",
+    "event.bymyway.com/skyteam",
+    "skyteam.bymyway.com",
+    "skyteam.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-22",
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -48,6 +96,75 @@
    "aliases": []
   },
   {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-22",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "lin-mengkuan-muse",
+   "name": "林孟寬｜從賣場到瓜棚，從瓜棚到能源",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/lin-mengkuan-muse/",
+   "repoUrl": "https://github.com/Coach1973/lin-mengkuan-muse",
+   "repo": "lin-mengkuan-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lin-mengkuan-muse",
+    "event.bymyway.com/curated/lin-mengkuan-muse",
+    "event.bymyway.com/lin-mengkuan-muse",
+    "lin-mengkuan-muse.bymyway.com",
+    "lin-mengkuan-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "lidie",
+   "name": "張麗蝶｜T1科技 ‧ 元照科技照明 董事長 — 讓每一盞燈照亮健康，也照亮社會",
+   "desc": "張麗蝶，T1科技股份有限公司／元照科技照明有限公司董事長。從銀行高階主管轉身投入全光譜健康照明，長年陪伴社福團體、推動時間銀行與企業 ESG。",
+   "url": "https://event.bymyway.com/curated/lidie/",
+   "repoUrl": "https://github.com/Coach1973/lidie",
+   "repo": "lidie",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lidie",
+    "event.bymyway.com/curated/lidie",
+    "event.bymyway.com/lidie",
+    "lidie.bymyway.com",
+    "lidie.netlify.app"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": []
+  },
+  {
    "id": "lai-boyang-muse",
    "name": "賴柏仰｜康傑國際總經理・企業培訓講師・《積極致富》作者",
    "desc": "賴柏仰：政大經濟系、中山EMBA，康傑國際與欣力企管總經理，中華元極研究會總會秘書長。2006 年出版《積極致富》，輔導授課橫跨企業、社團、學校、保險業 40 餘個單位。",
@@ -71,6 +188,56 @@
    "aliases": []
   },
   {
+   "id": "kunting",
+   "name": "昆廷老師 鄒昆廷｜企業 AI 導入顧問 × 易經決策",
+   "desc": "昆廷老師（鄒昆廷）：朋昶數位科技總監、ISO/IEC 42001 主導稽核員。近 18 年企業系統經驗、近 20 年文王卦經驗，陪中小企業主先問對問題，再讓 AI 把事做完。",
+   "url": "https://event.bymyway.com/curated/kunting/",
+   "repoUrl": "https://github.com/Coach1973/kunting",
+   "repo": "kunting",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kunting",
+    "event.bymyway.com/curated/kunting",
+    "event.bymyway.com/kunting",
+    "kunting.bymyway.com",
+    "kunting.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-14 19:46",
+   "aliases": [
+    "昆老師"
+   ]
+  },
+  {
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "coach888",
    "name": "大樹AI作品總覽（個人專用）",
    "desc": "",
@@ -85,6 +252,54 @@
     "coach888.netlify.app",
     "event.bymyway.com/coach888",
     "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-22",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bigtree-web-guide",
+   "name": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
+   "desc": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
+   "url": "https://coach1973.github.io/bigtree-web-guide/",
+   "repoUrl": "https://github.com/Coach1973/bigtree-web-guide",
+   "repo": "bigtree-web-guide",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree-web-guide.bymyway.com",
+    "bigtree-web-guide.netlify.app",
+    "coach1973.github.io/bigtree-web-guide",
+    "event.bymyway.com/bigtree-web-guide",
+    "event.bymyway.com/curated/bigtree-web-guide"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-22",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
    ],
    "cat": "GitHub 網頁",
    "updated": "2026-11-22",
@@ -260,29 +475,6 @@
    "aliases": []
   },
   {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-21",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "invite-superpower",
    "name": "邀約超能力｜全方位人才邀約心法 互動式教材",
    "desc": "將推銷轉化為連結——人才邀約超能力實戰工作坊。打破被拒絕的恐懼，從單打推銷員躍升為跨界資源整合者。原汁逐字語錄、八大抗拒點拆招、48 小時黃金回訪 SOP 與四大互動演練。",
@@ -304,31 +496,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "go",
-   "name": "大樹入口",
-   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
-   "url": "https://event.bymyway.com/curated/go/",
-   "repoUrl": "https://github.com/Coach1973/go",
-   "repo": "go",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/go",
-    "event.bymyway.com/curated/go",
-    "event.bymyway.com/go",
-    "go.bymyway.com",
-    "go.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-21",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "course-signup-playbook",
@@ -375,31 +542,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "bigtree-web-guide",
-   "name": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
-   "desc": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
-   "url": "https://coach1973.github.io/bigtree-web-guide/",
-   "repoUrl": "https://github.com/Coach1973/bigtree-web-guide",
-   "repo": "bigtree-web-guide",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bigtree-web-guide.bymyway.com",
-    "bigtree-web-guide.netlify.app",
-    "coach1973.github.io/bigtree-web-guide",
-    "event.bymyway.com/bigtree-web-guide",
-    "event.bymyway.com/curated/bigtree-web-guide"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-21",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "bigtree",
@@ -450,29 +592,6 @@
    "aliases": []
   },
   {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-21",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "zhu-zhicheng",
    "name": "朱志成顧問｜連鎖品牌・加盟總部・HRM 經營顧問",
    "desc": "35 年海內外連鎖餐飲經營實務，經濟部創業暨品牌輔導顧問朱志成：品牌診斷、連鎖加盟總部建置、HRM 人資制度與 AI 經營應用。",
@@ -494,31 +613,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "zhou-ruiqi",
-   "name": "周睿麒｜把一塊布，種成一面綠牆",
-   "desc": "周睿麒：永樂市場資深布商、永樂商圈發展協會創會理事長、布思綠創辦人。以機能布取代土壤，推動無耗材種植與城市綠化。",
-   "url": "https://event.bymyway.com/curated/zhou-ruiqi/",
-   "repoUrl": "https://github.com/Coach1973/zhou-ruiqi",
-   "repo": "zhou-ruiqi",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zhou-ruiqi",
-    "event.bymyway.com/curated/zhou-ruiqi",
-    "event.bymyway.com/zhou-ruiqi",
-    "zhou-ruiqi.bymyway.com",
-    "zhou-ruiqi.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-11-20",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": [
-    "布創辦人"
-   ]
   },
   {
    "id": "yu-ruiming-muse",
@@ -703,29 +797,6 @@
     "social-club.netlify.app"
    ],
    "cat": "策展・樂",
-   "updated": "2026-11-20",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "skyteam",
-   "name": "人才軍火庫顧問師天團",
-   "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
-   "url": "https://event.bymyway.com/curated/skyteam/",
-   "repoUrl": "https://github.com/Coach1973/skyteam",
-   "repo": "skyteam",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/skyteam",
-    "event.bymyway.com/curated/skyteam",
-    "event.bymyway.com/skyteam",
-    "skyteam.bymyway.com",
-    "skyteam.netlify.app"
-   ],
-   "cat": "教練個人創作",
    "updated": "2026-11-20",
    "inRegistry": true,
    "delisted": false,
@@ -965,31 +1036,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "kunting",
-   "name": "昆廷老師 鄒昆廷｜企業 AI 導入顧問 × 易經決策",
-   "desc": "昆廷老師（鄒昆廷）：朋昶數位科技總監、ISO/IEC 42001 主導稽核員。近 18 年企業系統經驗、近 20 年文王卦經驗，陪中小企業主先問對問題，再讓 AI 把事做完。",
-   "url": "https://event.bymyway.com/curated/kunting/",
-   "repoUrl": "https://github.com/Coach1973/kunting",
-   "repo": "kunting",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/kunting",
-    "event.bymyway.com/curated/kunting",
-    "event.bymyway.com/kunting",
-    "kunting.bymyway.com",
-    "kunting.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-20",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": [
-    "昆老師"
-   ]
   },
   {
    "id": "kueilan",
@@ -4837,29 +4883,6 @@
    "aliases": []
   },
   {
-   "id": "lidie",
-   "name": "張麗蝶｜T1科技 ‧ 元照科技照明 董事長 — 讓每一盞燈照亮健康，也照亮社會",
-   "desc": "張麗蝶，T1科技股份有限公司／元照科技照明有限公司董事長。從銀行高階主管轉身投入全光譜健康照明，長年陪伴社福團體、推動時間銀行與企業 ESG。",
-   "url": "https://event.bymyway.com/curated/lidie/",
-   "repoUrl": "https://github.com/Coach1973/lidie",
-   "repo": "lidie",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lidie",
-    "event.bymyway.com/curated/lidie",
-    "event.bymyway.com/lidie",
-    "lidie.bymyway.com",
-    "lidie.netlify.app"
-   ],
-   "cat": "策展・育",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
    "id": "kong-ling-feng",
    "name": "孔令峯｜先降溫，再講理的家庭陪伴者",
    "desc": "從憲兵排長、保險經理、企業顧問到家庭協談同工——孔令峯陪伴許多家庭在衝突中看見盲點、重新對焦。",
@@ -7714,5 +7737,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-22T04:56:29Z"
+ "generated": "2026-11-22T07:21:58Z"
 }
