@@ -48,6 +48,29 @@
    "aliases": []
   },
   {
+   "id": "ai-skill-training",
+   "name": "AI技能培訓班 New女力新商業智慧｜婦女再就業專案",
+   "desc": "離開職場一陣子，不代表妳落後了。一天線上課，AI 數位應用、行銷創業、自媒體變現、新商業模式、多元收入，5 大主題 8 小時。第一梯 2027/1/29（五）、第二梯 2027/2/20（六），學費 12,000 元。",
+   "url": "https://event.bymyway.com/curated/ai-skill-training/",
+   "repoUrl": "https://github.com/Coach1973/ai-skill-training",
+   "repo": "ai-skill-training",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "ai-skill-training.bymyway.com",
+    "ai-skill-training.netlify.app",
+    "coach1973.github.io/ai-skill-training",
+    "event.bymyway.com/ai-skill-training",
+    "event.bymyway.com/curated/ai-skill-training"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-23",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhou-ruiqi",
    "name": "周睿麒｜把一塊布，種成一面綠牆",
    "desc": "周睿麒：永樂市場資深布商、永樂商圈發展協會創會理事長、布思綠創辦人。以機能布取代土壤，推動無耗材種植與城市綠化。",
@@ -137,6 +160,29 @@
    "cat": "教練個人創作",
    "updated": "2026-11-22",
    "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "大臺南商圈整合計劃 · 大台南策展中心",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-22",
+   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -1995,29 +2041,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "tainan-shangquan",
-   "name": "大臺南商圈整合計劃 · 大台南策展中心",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-19",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "rs-demo",
@@ -7854,5 +7877,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-22T18:10:07Z"
+ "generated": "2026-11-22T18:19:00Z"
 }
