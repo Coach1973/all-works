@@ -48,6 +48,29 @@
    "aliases": []
   },
   {
+   "id": "li-yuyan",
+   "name": "李羽妍 Iris Lee｜以科技連結美學，讓學習成為生命轉型的力量",
+   "desc": "李羽妍 Iris Lee，R.C. Aesthetics AI Lab 創辦人、AI 數位與美學應用講師。讓科技有溫度，讓美學走進生活；讓每個人都能透過學習，重新看見自己的價值。",
+   "url": "https://event.bymyway.com/curated/li-yuyan/",
+   "repoUrl": "https://github.com/Coach1973/li-yuyan",
+   "repo": "li-yuyan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/li-yuyan",
+    "event.bymyway.com/curated/li-yuyan",
+    "event.bymyway.com/li-yuyan",
+    "li-yuyan.bymyway.com",
+    "li-yuyan.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-23",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "ai-skill-training",
    "name": "AI技能培訓班 New女力新商業智慧｜婦女再就業專案",
    "desc": "離開職場一陣子，不代表妳落後了。一天線上課，AI 數位應用、行銷創業、自媒體變現、新商業模式、多元收入，5 大主題 8 小時。第一梯 2027/1/29（五）、第二梯 2027/2/20（六），學費 12,000 元。",
@@ -461,6 +484,29 @@
     "event.bymyway.com/invite-superpower",
     "invite-superpower.bymyway.com",
     "invite-superpower.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "hnv-cc",
+   "name": "楊博士｜一滴水裡的細胞能量學",
+   "desc": "楊博士與漢諾威研發團隊：常溫石墨烯物理降氘技術，讓低氘水走進一般家庭。",
+   "url": "https://event.bymyway.com/curated/hnv-cc/",
+   "repoUrl": "https://github.com/Coach1973/hnv-cc",
+   "repo": "hnv-cc",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/hnv-cc",
+    "event.bymyway.com/curated/hnv-cc",
+    "event.bymyway.com/hnv-cc",
+    "hnv-cc.bymyway.com",
+    "hnv-cc.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-22",
@@ -5207,29 +5253,6 @@
    "aliases": []
   },
   {
-   "id": "hnv-cc",
-   "name": "楊博士｜一滴水裡的細胞能量學",
-   "desc": "楊博士與漢諾威研發團隊：常溫石墨烯物理降氘技術，讓低氘水走進一般家庭。",
-   "url": "https://event.bymyway.com/curated/hnv-cc/",
-   "repoUrl": "https://github.com/Coach1973/hnv-cc",
-   "repo": "hnv-cc",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/hnv-cc",
-    "event.bymyway.com/curated/hnv-cc",
-    "event.bymyway.com/hnv-cc",
-    "hnv-cc.bymyway.com",
-    "hnv-cc.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-10-24",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "historic-residence",
    "name": "六淨山房 · 知事官邸古蹟餐廳｜百年官邸 · 茶香咖啡 · 光影時光",
    "desc": "六淨山房 LiuJingShanFang，台南知事官邸古蹟餐廳。古樹茶、靜心茶會、六吋輕乳酪蛋糕與官邸包場。",
@@ -7877,5 +7900,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-22T18:19:00Z"
+ "generated": "2026-11-22T18:59:23Z"
 }
