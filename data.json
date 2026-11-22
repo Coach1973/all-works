@@ -50,6 +50,56 @@
    "aliases": []
   },
   {
+   "id": "superpower-game",
+   "name": "邀約是一種超能力｜實戰訓練互動網頁｜大樹教練",
+   "desc": "邀約超能力訓練互動網頁：抗拒點 +1 即時統計、命運轉盤、8 位金質導師、導師轉盤點評、48 小時回訪 SOP、破解方案庫。課後回到這裡，就能看到大家的答案。",
+   "url": "https://event.bymyway.com/curated/superpower-game/",
+   "repoUrl": "https://github.com/Coach1973/superpower-game",
+   "repo": "superpower-game",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/superpower-game",
+    "event.bymyway.com/curated/superpower-game",
+    "event.bymyway.com/superpower-game",
+    "superpower-game.bymyway.com",
+    "superpower-game.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "superpower-1120",
+   "name": "邀約是一種超能力｜1120 實戰訓練互動網頁｜大樹教練",
+   "desc": "1120 邀約超能力訓練互動網頁：抗拒點 +1 即時統計、命運轉盤、金質導師轉椅、48 小時回訪 SOP、破解方案庫。課後回到這裡，就能看到大家的答案。",
+   "url": "https://event.bymyway.com/curated/superpower-1120/",
+   "repoUrl": "https://github.com/Coach1973/superpower-1120",
+   "repo": "superpower-1120",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/superpower-1120",
+    "event.bymyway.com/curated/superpower-1120",
+    "event.bymyway.com/superpower-1120",
+    "superpower-1120.bymyway.com",
+    "superpower-1120.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "skyteam",
    "name": "人才軍火庫顧問師天團",
    "desc": "人才軍火庫・顧問師天團。匯聚 AI、品牌、教育、藝術、財金與永續領域的跨界專家，從深厚經歷找到值得同行的專業夥伴。",
@@ -114,29 +164,6 @@
    "cat": "程式／內部倉庫",
    "updated": "2026-11-22",
    "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "lin-mengkuan-muse",
-   "name": "林孟寬｜從賣場到瓜棚，從瓜棚到能源",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/lin-mengkuan-muse/",
-   "repoUrl": "https://github.com/Coach1973/lin-mengkuan-muse",
-   "repo": "lin-mengkuan-muse",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lin-mengkuan-muse",
-    "event.bymyway.com/curated/lin-mengkuan-muse",
-    "event.bymyway.com/lin-mengkuan-muse",
-    "lin-mengkuan-muse.bymyway.com",
-    "lin-mengkuan-muse.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-22",
-   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -397,6 +424,29 @@
    "updated": "2026-11-22",
    "inRegistry": true,
    "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "_archived_lin-mengkuan-muse",
+   "name": "【封存副本】lin-mengkuan-muse",
+   "desc": "",
+   "url": "https://github.com/Coach1973/_archived_lin-mengkuan-muse",
+   "repoUrl": "https://github.com/Coach1973/_archived_lin-mengkuan-muse",
+   "repo": "_archived_lin-mengkuan-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "_archived_lin-mengkuan-muse.bymyway.com",
+    "_archived_lin-mengkuan-muse.netlify.app",
+    "coach1973.github.io/_archived_lin-mengkuan-muse",
+    "event.bymyway.com/_archived_lin-mengkuan-muse",
+    "event.bymyway.com/curated/_archived_lin-mengkuan-muse"
+   ],
+   "cat": "封存副本",
+   "updated": "2026-11-22",
+   "inRegistry": false,
+   "delisted": true,
    "unlistedAt": "",
    "aliases": []
   },
@@ -823,31 +873,6 @@
    "delisted": true,
    "unlistedAt": "2026-10-29 15:46",
    "aliases": []
-  },
-  {
-   "id": "superpower-1120",
-   "name": "邀約是一種超能力｜1120 實戰訓練互動網頁｜大樹教練",
-   "desc": "1120 邀約超能力訓練互動網頁：抗拒點 +1 即時統計、命運轉盤、金質導師轉椅、48 小時回訪 SOP、破解方案庫。課後回到這裡，就能看到大家的答案。",
-   "url": "https://event.bymyway.com/curated/superpower-1120/",
-   "repoUrl": "https://github.com/Coach1973/superpower-1120",
-   "repo": "superpower-1120",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/superpower-1120",
-    "event.bymyway.com/curated/superpower-1120",
-    "event.bymyway.com/superpower-1120",
-    "superpower-1120.bymyway.com",
-    "superpower-1120.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-20",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "social-club",
@@ -7783,5 +7808,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-22T10:44:49Z"
+ "generated": "2026-11-22T11:59:52Z"
 }
