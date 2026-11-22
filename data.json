@@ -25,6 +25,29 @@
    "aliases": []
   },
   {
+   "id": "real-ai",
+   "name": "真 AI 線上分會 — 真 AI 線上團隊．商業導師席",
+   "desc": "真 AI 線上分會：二十八位顧問，一整套團隊技能。這裡沒有競爭，卻能讓您擁有無與倫比的商務競爭力。點進去，就能認識每一位顧問。",
+   "url": "https://event.bymyway.com/curated/real-ai/",
+   "repoUrl": "https://github.com/Coach1973/real-ai",
+   "repo": "real-ai",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/real-ai",
+    "event.bymyway.com/curated/real-ai",
+    "event.bymyway.com/real-ai",
+    "real-ai.bymyway.com",
+    "real-ai.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-23",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhou-ruiqi",
    "name": "周睿麒｜把一塊布，種成一面綠牆",
    "desc": "周睿麒：永樂市場資深布商、永樂商圈發展協會創會理事長、布思綠創辦人。以機能布取代土壤，推動無耗材種植與城市綠化。",
@@ -7831,5 +7854,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-22T16:37:39Z"
+ "generated": "2026-11-22T18:10:07Z"
 }
