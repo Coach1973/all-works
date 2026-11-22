@@ -142,6 +142,29 @@
    "aliases": []
   },
   {
+   "id": "lin-mengkuan",
+   "name": "林孟寬｜把現場的需求，變成可以執行的計畫",
+   "desc": "林孟寬：沅泰科技有限公司總經理、青山永續農業生技營運長兼財務長、經濟部中小及新創企業署創業顧問。從大潤發 16 年營運管理，到種出可以生吃的水果絲瓜，再到企業節能與能源管理。",
+   "url": "https://event.bymyway.com/curated/lin-mengkuan/",
+   "repoUrl": "https://github.com/Coach1973/lin-mengkuan",
+   "repo": "lin-mengkuan",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lin-mengkuan",
+    "event.bymyway.com/curated/lin-mengkuan",
+    "event.bymyway.com/lin-mengkuan",
+    "lin-mengkuan.bymyway.com",
+    "lin-mengkuan.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "lidie",
    "name": "張麗蝶｜T1科技 ‧ 元照科技照明 董事長 — 讓每一盞燈照亮健康，也照亮社會",
    "desc": "張麗蝶，T1科技股份有限公司／元照科技照明有限公司董事長。從銀行高階主管轉身投入全光譜健康照明，長年陪伴社福團體、推動時間銀行與企業 ESG。",
@@ -211,6 +234,29 @@
    "aliases": [
     "昆老師"
    ]
+  },
+  {
+   "id": "invite-superpower",
+   "name": "邀約超能力｜全方位人才邀約心法 互動式教材",
+   "desc": "將推銷轉化為連結——人才邀約超能力實戰工作坊。打破被拒絕的恐懼，從單打推銷員躍升為跨界資源整合者。原汁逐字語錄、八大抗拒點拆招、48 小時黃金回訪 SOP 與四大互動演練。",
+   "url": "https://event.bymyway.com/curated/invite-superpower/",
+   "repoUrl": "https://github.com/Coach1973/invite-superpower",
+   "repo": "invite-superpower",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/invite-superpower",
+    "event.bymyway.com/curated/invite-superpower",
+    "event.bymyway.com/invite-superpower",
+    "invite-superpower.bymyway.com",
+    "invite-superpower.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-22",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "go",
@@ -512,29 +558,6 @@
     "event.bymyway.com/rpl-diy",
     "rpl-diy.bymyway.com",
     "rpl-diy.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-21",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "invite-superpower",
-   "name": "邀約超能力｜全方位人才邀約心法 互動式教材",
-   "desc": "將推銷轉化為連結——人才邀約超能力實戰工作坊。打破被拒絕的恐懼，從單打推銷員躍升為跨界資源整合者。原汁逐字語錄、八大抗拒點拆招、48 小時黃金回訪 SOP 與四大互動演練。",
-   "url": "https://event.bymyway.com/curated/invite-superpower/",
-   "repoUrl": "https://github.com/Coach1973/invite-superpower",
-   "repo": "invite-superpower",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/invite-superpower",
-    "event.bymyway.com/curated/invite-superpower",
-    "event.bymyway.com/invite-superpower",
-    "invite-superpower.bymyway.com",
-    "invite-superpower.netlify.app"
    ],
    "cat": "教練個人創作",
    "updated": "2026-11-21",
@@ -7760,5 +7783,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-22T09:25:08Z"
+ "generated": "2026-11-22T10:44:49Z"
 }
