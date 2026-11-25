@@ -2,6 +2,170 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-25",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "大樹AI作品總覽（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-25",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "aerogel-muse",
+   "name": "新一代高效保暖材料｜氣凝膠保暖解決方案・品牌招商",
+   "desc": "氣凝膠保暖絨與保暖絮片，輕盈、保暖、耐久。找同業來代理、代工、加盟、經營，一起打市場。",
+   "url": "https://event.bymyway.com/curated/aerogel-muse/",
+   "repoUrl": "https://github.com/Coach1973/aerogel-muse",
+   "repo": "aerogel-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "aerogel-muse.bymyway.com",
+    "aerogel-muse.netlify.app",
+    "coach1973.github.io/aerogel-muse",
+    "event.bymyway.com/aerogel-muse",
+    "event.bymyway.com/curated/aerogel-muse"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-25",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tut-alumni",
+   "name": "台南應用科技大學校友會 召集令",
+   "desc": "",
+   "url": "https://event.bymyway.com/tut/",
+   "repoUrl": "https://github.com/Coach1973/tut-alumni",
+   "repo": "tut-alumni",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-alumni",
+    "event.bymyway.com/curated/tut-alumni",
+    "event.bymyway.com/tut",
+    "event.bymyway.com/tut-alumni",
+    "tut-alumni.bymyway.com",
+    "tut-alumni.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-24",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "rpl-leadership",
+   "name": "結繩領導學官方網站",
+   "desc": "結繩領導學官方網站：《結繩領導學》兩日實戰工作坊、企業講座、企業教練，以及繩乎奇技傘繩 DIY 工作坊、線上課程與傘繩作品。創辦人蔡曜隆（曜董）：近 40 年大地工程、50 年結繩經驗。",
+   "url": "https://event.bymyway.com/curated/rpl-leadership/",
+   "repoUrl": "https://github.com/Coach1973/rpl-leadership",
+   "repo": "rpl-leadership",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/rpl-leadership",
+    "event.bymyway.com/curated/rpl-leadership",
+    "event.bymyway.com/rpl-leadership",
+    "rpl-leadership.bymyway.com",
+    "rpl-leadership.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-24",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "企教練"
+   ]
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-24",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "kong-ai-backup",
+   "name": "kong-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/kong-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
+   "repo": "kong-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/kong-ai-backup",
+    "event.bymyway.com/curated/kong-ai-backup",
+    "event.bymyway.com/kong-ai-backup",
+    "kong-ai-backup.bymyway.com",
+    "kong-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-24",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "zhen-ai-summit",
    "name": "真 AI 線上峰會 — 真 AI 線上團隊．商業導師席",
    "desc": "真 AI 線上峰會：十六位顧問，一整套團隊技能。這裡沒有競爭，卻能讓您擁有無與倫比的商務競爭力。點進去，就能認識每一位顧問。",
@@ -142,52 +306,6 @@
    "aliases": []
   },
   {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-23",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-23",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "lidie",
    "name": "張麗蝶｜T1科技 ‧ 元照科技照明 董事長 — 讓每一盞燈照亮健康，也照亮社會",
    "desc": "張麗蝶，T1科技股份有限公司／元照科技照明有限公司董事長。從銀行高階主管轉身投入全光譜健康照明，長年陪伴社福團體、推動時間銀行與企業 ESG。",
@@ -259,27 +377,29 @@
    ]
   },
   {
-   "id": "kong-ai-backup",
-   "name": "kong-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/kong-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/kong-ai-backup",
-   "repo": "kong-ai-backup",
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
    "private": true,
    "archived": false,
    "keys": [
-    "coach1973.github.io/kong-ai-backup",
-    "event.bymyway.com/curated/kong-ai-backup",
-    "event.bymyway.com/kong-ai-backup",
-    "kong-ai-backup.bymyway.com",
-    "kong-ai-backup.netlify.app"
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
    ],
-   "cat": "程式／內部倉庫",
+   "cat": "教練個人創作",
    "updated": "2026-11-23",
-   "inRegistry": false,
+   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
+   "aliases": [
+    "大教練"
+   ]
   },
   {
    "id": "bossread-0107",
@@ -328,6 +448,29 @@
    "aliases": [
     "佩老師"
    ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-23",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "ai-skill-training",
@@ -729,31 +872,6 @@
    "aliases": []
   },
   {
-   "id": "go",
-   "name": "大樹入口",
-   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
-   "url": "https://event.bymyway.com/curated/go/",
-   "repoUrl": "https://github.com/Coach1973/go",
-   "repo": "go",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/go",
-    "event.bymyway.com/curated/go",
-    "event.bymyway.com/go",
-    "go.bymyway.com",
-    "go.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-22",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
    "id": "drsoonlin",
    "name": "Dr. Soonlin｜教學進化學院創辦人・個人品牌網頁",
    "desc": "Dr. Soonlin，教學進化學院創辦人、UNESCO 課程講師、ELEVATE 講師進化系統設計者。10 年、250+ 場講座與培訓、15,000+ 名參與學員。",
@@ -774,29 +892,6 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "大樹AI作品總覽（個人專用）",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-22",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -847,29 +942,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-22",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "aerospect",
@@ -966,30 +1038,6 @@
    ]
   },
   {
-   "id": "tut-alumni",
-   "name": "台南應用科技大學校友會 召集令",
-   "desc": "",
-   "url": "https://event.bymyway.com/tut/",
-   "repoUrl": "https://github.com/Coach1973/tut-alumni",
-   "repo": "tut-alumni",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-alumni",
-    "event.bymyway.com/curated/tut-alumni",
-    "event.bymyway.com/tut",
-    "event.bymyway.com/tut-alumni",
-    "tut-alumni.bymyway.com",
-    "tut-alumni.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-21",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "tava-brand-web-playbook",
    "name": "個人行銷／品牌網頁｜開工指令與製作經驗",
    "desc": "",
@@ -1011,31 +1059,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "rpl-leadership",
-   "name": "結繩領導學官方網站",
-   "desc": "結繩領導學官方網站：《結繩領導學》兩日實戰工作坊、企業講座、企業教練，以及繩乎奇技傘繩 DIY 工作坊、線上課程與傘繩作品。創辦人蔡曜隆（曜董）：近 40 年大地工程、50 年結繩經驗。",
-   "url": "https://event.bymyway.com/curated/rpl-leadership/",
-   "repoUrl": "https://github.com/Coach1973/rpl-leadership",
-   "repo": "rpl-leadership",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/rpl-leadership",
-    "event.bymyway.com/curated/rpl-leadership",
-    "event.bymyway.com/rpl-leadership",
-    "rpl-leadership.bymyway.com",
-    "rpl-leadership.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-21",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "企教練"
-   ]
   },
   {
    "id": "rpl-diy",
@@ -7925,5 +7948,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-23T17:23:45Z"
+ "generated": "2026-11-25T06:56:59Z"
 }
