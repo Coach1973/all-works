@@ -2,6 +2,29 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "huang-xiaojuan-muse",
+   "name": "黃小娟 Maple｜雪格緹諾生化科技 總監・台中中英扶輪社 社長",
+   "desc": "黃小娟（Maple）：雪格緹諾 SEGO-TINO 總監，1990 年起投入美容美體與芳療事業；台中中英扶輪社社長、世界華人工商婦女企管協會台中市分會第 21 屆會長、2019 十大傑出女企業家。",
+   "url": "https://event.bymyway.com/curated/huang-xiaojuan-muse/",
+   "repoUrl": "https://github.com/Coach1973/huang-xiaojuan-muse",
+   "repo": "huang-xiaojuan-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/huang-xiaojuan-muse",
+    "event.bymyway.com/curated/huang-xiaojuan-muse",
+    "event.bymyway.com/huang-xiaojuan-muse",
+    "huang-xiaojuan-muse.bymyway.com",
+    "huang-xiaojuan-muse.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-26",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "xiaohong",
    "name": "小渱老師 倪英渱｜情緒花園創辦人・從身體覺醒，讓生命改變",
    "desc": "情緒花園創辦人、澳洲花晶授權國際培訓導師倪英渱（小渱老師）。台大土木、政大廣電所碩士，2014 年創立情緒花園，著有《花鑰心流》《從身體覺醒》、城邦音頻課《聆聽身體》。",
@@ -25,6 +48,30 @@
    "aliases": [
     "小老師"
    ]
+  },
+  {
+   "id": "tut-alumni",
+   "name": "台南應用科技大學校友會 召集令",
+   "desc": "",
+   "url": "https://event.bymyway.com/tut/",
+   "repoUrl": "https://github.com/Coach1973/tut-alumni",
+   "repo": "tut-alumni",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-alumni",
+    "event.bymyway.com/curated/tut-alumni",
+    "event.bymyway.com/tut",
+    "event.bymyway.com/tut-alumni",
+    "tut-alumni.bymyway.com",
+    "tut-alumni.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-25",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "social-club",
@@ -144,6 +191,31 @@
    "aliases": []
   },
   {
+   "id": "bigtree",
+   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
+   "url": "https://coach1973.github.io/bigtree/",
+   "repoUrl": "https://github.com/Coach1973/bigtree",
+   "repo": "bigtree",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree.bymyway.com",
+    "bigtree.netlify.app",
+    "coach1973.github.io/bigtree",
+    "event.bymyway.com/bigtree",
+    "event.bymyway.com/curated/bigtree"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-25",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "all-works",
    "name": "完整作品一覽（教練自用清單，noindex）",
    "desc": "完整作品一覽（教練自用清單，noindex）",
@@ -185,30 +257,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "tut-alumni",
-   "name": "台南應用科技大學校友會 召集令",
-   "desc": "",
-   "url": "https://event.bymyway.com/tut/",
-   "repoUrl": "https://github.com/Coach1973/tut-alumni",
-   "repo": "tut-alumni",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-alumni",
-    "event.bymyway.com/curated/tut-alumni",
-    "event.bymyway.com/tut",
-    "event.bymyway.com/tut-alumni",
-    "tut-alumni.bymyway.com",
-    "tut-alumni.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-24",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -1153,31 +1201,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "bigtree",
-   "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
-   "url": "https://coach1973.github.io/bigtree/",
-   "repoUrl": "https://github.com/Coach1973/bigtree",
-   "repo": "bigtree",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bigtree.bymyway.com",
-    "bigtree.netlify.app",
-    "coach1973.github.io/bigtree",
-    "event.bymyway.com/bigtree",
-    "event.bymyway.com/curated/bigtree"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-21",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
   },
   {
    "id": "association-site-playbook",
@@ -7973,5 +7996,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-25T07:57:38Z"
+ "generated": "2026-11-25T22:07:47Z"
 }
