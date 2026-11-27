@@ -2,6 +2,570 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "zeng-siyuan",
+   "name": "曾思遠 Giga｜把 AI Agent 放進企業的日常工作流",
+   "desc": "曾思遠 Giga：AI Agent 企業導入顧問、企業內訓講師，旋宇科技（Nautilus AI）執行長。工程師的手、交易員的腦、老師的嘴，近 20 年把複雜的東西做成別人用得起來的產品。",
+   "url": "https://event.bymyway.com/curated/zeng-siyuan/",
+   "repoUrl": "https://github.com/Coach1973/zeng-siyuan",
+   "repo": "zeng-siyuan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/zeng-siyuan",
+    "event.bymyway.com/curated/zeng-siyuan",
+    "event.bymyway.com/zeng-siyuan",
+    "zeng-siyuan.bymyway.com",
+    "zeng-siyuan.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "xie-jingying",
+   "name": "謝京穎 Jessica｜婚禮顧問・瑪樂法創辦人",
+   "desc": "謝京穎（Nanu），台東大鳥部落出身的婚禮顧問，2021 年創立瑪樂法婚禮顧問整合行銷，以原民文化為根基，打造中西式與原住民族風格婚禮。",
+   "url": "https://event.bymyway.com/curated/xie-jingying/",
+   "repoUrl": "https://github.com/Coach1973/xie-jingying",
+   "repo": "xie-jingying",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/xie-jingying",
+    "event.bymyway.com/curated/xie-jingying",
+    "event.bymyway.com/xie-jingying",
+    "xie-jingying.bymyway.com",
+    "xie-jingying.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "瑪創辦人"
+   ]
+  },
+  {
+   "id": "watercolor-1202",
+   "name": "時尚水彩課｜林家旭教授親授・精緻小班五席｜12/02（三）六淨山房",
+   "desc": "12/02（三）09:30–12:00，台灣形象設計發展協會理事長林家旭教授親自手把手指導，水墨飛白時尚水彩小班，僅五席。含飲品點心、2 張自畫像、專屬攝影師與影片剪輯紀錄。地點：台南六淨山房（知事官邸）。",
+   "url": "https://event.bymyway.com/curated/watercolor-1202/",
+   "repoUrl": "https://github.com/Coach1973/watercolor-1202",
+   "repo": "watercolor-1202",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/watercolor-1202",
+    "event.bymyway.com/curated/watercolor-1202",
+    "event.bymyway.com/watercolor-1202",
+    "watercolor-1202.bymyway.com",
+    "watercolor-1202.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "林教授"
+   ]
+  },
+  {
+   "id": "wang-junfu",
+   "name": "王俊甫｜AI 與數位轉型・萬加 ONE+ 智能 AI 系統平台",
+   "desc": "王俊甫（Wang Junfu），AI 與數位轉型、萬加 ONE+ 智能 AI 系統平台系統開發。10 年餐飲業、5 年不動產業務、倉儲管理實務，從第一線工作流程找出費工環節，協助企業客製系統、節省時間與人力。",
+   "url": "https://event.bymyway.com/curated/wang-junfu/",
+   "repoUrl": "https://github.com/Coach1973/wang-junfu",
+   "repo": "wang-junfu",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/wang-junfu",
+    "event.bymyway.com/curated/wang-junfu",
+    "event.bymyway.com/wang-junfu",
+    "wang-junfu.bymyway.com",
+    "wang-junfu.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-19 13:05",
+   "aliases": []
+  },
+  {
+   "id": "tava-to-claude",
+   "name": "手機做網頁｜TAVA 交給 Claude",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-to-claude/",
+   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
+   "repo": "tava-to-claude",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-to-claude",
+    "event.bymyway.com/curated/tava-to-claude",
+    "event.bymyway.com/tava-to-claude",
+    "tava-to-claude.bymyway.com",
+    "tava-to-claude.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-shangquan",
+   "name": "大臺南商圈整合計劃 · 大台南策展中心",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-shangquan/",
+   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
+   "repo": "tainan-shangquan",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-shangquan",
+    "event.bymyway.com/curated/tainan-shangquan",
+    "event.bymyway.com/tainan-shangquan",
+    "tainan-shangquan.bymyway.com",
+    "tainan-shangquan.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tainan-calender",
+   "name": "2026 全年度行事曆",
+   "desc": "",
+   "url": "https://event.bymyway.com/tainan-calender/",
+   "repoUrl": "https://github.com/Coach1973/tainan-calender",
+   "repo": "tainan-calender",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tainan-calender",
+    "event.bymyway.com/curated/tainan-calender",
+    "event.bymyway.com/tainan-calender",
+    "tainan-calender.bymyway.com",
+    "tainan-calender.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "real-ai",
+   "name": "真 AI 線上分會 — 真 AI 線上團隊．商業導師席",
+   "desc": "真 AI 線上分會：二十八位顧問，一整套團隊技能。這裡沒有競爭，卻能讓您擁有無與倫比的商務競爭力。點進去，就能認識每一位顧問。",
+   "url": "https://event.bymyway.com/curated/real-ai/",
+   "repoUrl": "https://github.com/Coach1973/real-ai",
+   "repo": "real-ai",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/real-ai",
+    "event.bymyway.com/curated/real-ai",
+    "event.bymyway.com/real-ai",
+    "real-ai.bymyway.com",
+    "real-ai.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "qiu-weihuang",
+   "name": "邱偉晃 Andy｜卡堤咖啡有限公司負責人",
+   "desc": "邱偉晃 Andy Chiu，卡堤咖啡有限公司負責人。1991 年起以專業教學在餐飲界服務，1999 年創立卡堤咖啡，著有調酒、咖啡、茶飲、冰沙四本飲品專書。",
+   "url": "https://event.bymyway.com/curated/qiu-weihuang/",
+   "repoUrl": "https://github.com/Coach1973/qiu-weihuang",
+   "repo": "qiu-weihuang",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/qiu-weihuang",
+    "event.bymyway.com/curated/qiu-weihuang",
+    "event.bymyway.com/qiu-weihuang",
+    "qiu-weihuang.bymyway.com",
+    "qiu-weihuang.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": true,
+   "unlistedAt": "2026-11-19 13:06",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "liu-yaping",
+   "name": "劉雅萍｜世界旗袍皇后大會主席・臺南世旗理事長",
+   "desc": "劉雅萍，臺南市臺灣世界旗袍文化推展聯合會理事長、2025年世界旗袍皇后國際大賽大會主席。從台南村莊出發，以旗袍連結文化、城市與女性成長。",
+   "url": "https://event.bymyway.com/curated/liu-yaping/",
+   "repoUrl": "https://github.com/Coach1973/liu-yaping",
+   "repo": "liu-yaping",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/liu-yaping",
+    "event.bymyway.com/curated/liu-yaping",
+    "event.bymyway.com/liu-yaping",
+    "liu-yaping.bymyway.com",
+    "liu-yaping.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "liu-huihua",
+   "name": "劉惠華 博士｜從茶席到雲端 — AI 創新應用專家",
+   "desc": "劉惠華博士：世新傳播博士、福建理工大學人文學院助理教授、亞威 ISO 17024 AI 師資認證南區分院長、台灣正念茶師創始人。博士論文寫茶文化，著作寫元宇宙茶文化與生成式 AI——從茶席到雲端。",
+   "url": "https://event.bymyway.com/curated/liu-huihua/",
+   "repoUrl": "https://github.com/Coach1973/liu-huihua",
+   "repo": "liu-huihua",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/liu-huihua",
+    "event.bymyway.com/curated/liu-huihua",
+    "event.bymyway.com/liu-huihua",
+    "liu-huihua.bymyway.com",
+    "liu-huihua.netlify.app"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "劉博士"
+   ]
+  },
+  {
+   "id": "lin-hongcheng",
+   "name": "林泓丞｜鏡頭後面的人 — 台南應用科技大學兼任講師",
+   "desc": "林泓丞，台南應用科技大學兼任講師、導演、南應大運動傳播團隊帶隊老師。帶著學生把賽事直播出去，帶著空拍機把城市拍成故事。",
+   "url": "https://event.bymyway.com/curated/lin-hongcheng/",
+   "repoUrl": "https://github.com/Coach1973/lin-hongcheng",
+   "repo": "lin-hongcheng",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/lin-hongcheng",
+    "event.bymyway.com/curated/lin-hongcheng",
+    "event.bymyway.com/lin-hongcheng",
+    "lin-hongcheng.bymyway.com",
+    "lin-hongcheng.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "hao-zhenping",
+   "name": "郝振平 Bedouin Hao｜照相雞攝影工房創辦人・台南劇場攝影",
+   "desc": "郝振平 Bedouin Hao，照相雞攝影工房創辦人兼藝術總監、南城當代書寫影像有限公司負責人。深耕台南的劇場與表演藝術攝影師，五大品牌部門、六個劇團與藝術節平面攝影合作，長榮大學推廣教育中心影像書課程講師。",
+   "url": "https://event.bymyway.com/curated/hao-zhenping/",
+   "repoUrl": "https://github.com/Coach1973/hao-zhenping",
+   "repo": "hao-zhenping",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/hao-zhenping",
+    "event.bymyway.com/curated/hao-zhenping",
+    "event.bymyway.com/hao-zhenping",
+    "hao-zhenping.bymyway.com",
+    "hao-zhenping.netlify.app"
+   ],
+   "cat": "策展・衣",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "fu-enping",
+   "name": "傅恩平｜商務英漢通譯・榮益齋有限公司",
+   "desc": "傅恩平（En-Ping Fu），臺南善化商務英漢通譯專家，榮益齋有限公司負責人。會議口譯、文件筆譯、出版有聲、留遊學諮詢。",
+   "url": "https://event.bymyway.com/curated/fu-enping/",
+   "repoUrl": "https://github.com/Coach1973/fu-enping",
+   "repo": "fu-enping",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/fu-enping",
+    "event.bymyway.com/curated/fu-enping",
+    "event.bymyway.com/fu-enping",
+    "fu-enping.bymyway.com",
+    "fu-enping.netlify.app"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "大樹AI作品總覽（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "chen-long",
+   "name": "陳龍｜姓名學教授師《改變今生》— 名中透玄機，字裡藏乾坤",
+   "desc": "陳龍，姓名學教授師。1991 年初出茅廬，貓空、公館、東湖、民生社區茶館駐點論命；主持廣播電台 call in 節目三年；受邀電視節目嘉賓專訪；各大社團講座主講暨企業內訓。名中透玄機，字裡藏乾坤。改變今生專線 0958110365。",
+   "url": "https://event.bymyway.com/curated/chen-long/",
+   "repoUrl": "https://github.com/Coach1973/chen-long",
+   "repo": "chen-long",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "chen-long.bymyway.com",
+    "chen-long.netlify.app",
+    "coach1973.github.io/chen-long",
+    "event.bymyway.com/chen-long",
+    "event.bymyway.com/curated/chen-long"
+   ],
+   "cat": "策展・食",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "姓教授"
+   ]
+  },
+  {
+   "id": "chen-jian-daming",
+   "name": "陳建大明 C.C. Da Ming｜沐光而行",
+   "desc": "陳建大明，臺灣當代藝術家、策展人、無界學院發起人。1968年生於嘉義，紐約 ISCP 駐村藝術家，高雄駁二藝術特區首任藝術總監。創作融入五行宇宙觀、量子力學與生命哲學。",
+   "url": "https://event.bymyway.com/curated/chen-jian-daming/",
+   "repoUrl": "https://github.com/Coach1973/chen-jian-daming",
+   "repo": "chen-jian-daming",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "chen-jian-daming.bymyway.com",
+    "chen-jian-daming.netlify.app",
+    "coach1973.github.io/chen-jian-daming",
+    "event.bymyway.com/chen-jian-daming",
+    "event.bymyway.com/curated/chen-jian-daming"
+   ],
+   "cat": "策展・樂",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bni-chapters",
+   "name": "BNI大台南南區・分會列表",
+   "desc": "",
+   "url": "https://chapters.bymyway.com/",
+   "repoUrl": "https://github.com/Coach1973/bni-chapters",
+   "repo": "bni-chapters",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "bni-chapters.bymyway.com",
+    "bni-chapters.netlify.app",
+    "chapters.bymyway.com",
+    "coach1973.github.io/bni-chapters",
+    "event.bymyway.com/bni-chapters",
+    "event.bymyway.com/curated/bni-chapters"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "bigtree-web-guide",
+   "name": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
+   "desc": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
+   "url": "https://coach1973.github.io/bigtree-web-guide/",
+   "repoUrl": "https://github.com/Coach1973/bigtree-web-guide",
+   "repo": "bigtree-web-guide",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "bigtree-web-guide.bymyway.com",
+    "bigtree-web-guide.netlify.app",
+    "coach1973.github.io/bigtree-web-guide",
+    "event.bymyway.com/bigtree-web-guide",
+    "event.bymyway.com/curated/bigtree-web-guide"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
+   "id": "aerogel-muse",
+   "name": "新一代高效保暖材料｜氣凝膠保暖解決方案・品牌招商",
+   "desc": "氣凝膠保暖絨與保暖絮片，輕盈、保暖、耐久。找同業來代理、代工、加盟、經營，一起打市場。",
+   "url": "https://event.bymyway.com/curated/aerogel-muse/",
+   "repoUrl": "https://github.com/Coach1973/aerogel-muse",
+   "repo": "aerogel-muse",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "aerogel-muse.bymyway.com",
+    "aerogel-muse.netlify.app",
+    "coach1973.github.io/aerogel-muse",
+    "event.bymyway.com/aerogel-muse",
+    "event.bymyway.com/curated/aerogel-muse"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tut-memory",
+   "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
+   "desc": "",
+   "url": "https://event.bymyway.com/curated/tut-memory/",
+   "repoUrl": "https://github.com/Coach1973/tut-memory",
+   "repo": "tut-memory",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-memory",
+    "event.bymyway.com/curated/tut-memory",
+    "event.bymyway.com/tut-memory",
+    "tut-memory.bymyway.com",
+    "tut-memory.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-26",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "tut-alumni",
+   "name": "台南應用科技大學校友會 召集令",
+   "desc": "",
+   "url": "https://event.bymyway.com/tut/",
+   "repoUrl": "https://github.com/Coach1973/tut-alumni",
+   "repo": "tut-alumni",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tut-alumni",
+    "event.bymyway.com/curated/tut-alumni",
+    "event.bymyway.com/tut",
+    "event.bymyway.com/tut-alumni",
+    "tut-alumni.bymyway.com",
+    "tut-alumni.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-26",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
    "id": "huang-xiaojuan-muse",
    "name": "黃小娟 Maple｜雪格緹諾生化科技 總監・台中中英扶輪社 社長",
    "desc": "黃小娟（Maple）：雪格緹諾 SEGO-TINO 總監，1990 年起投入美容美體與芳療事業；台中中英扶輪社社長、世界華人工商婦女企管協會台中市分會第 21 屆會長、2019 十大傑出女企業家。",
@@ -50,30 +614,6 @@
    ]
   },
   {
-   "id": "tut-alumni",
-   "name": "台南應用科技大學校友會 召集令",
-   "desc": "",
-   "url": "https://event.bymyway.com/tut/",
-   "repoUrl": "https://github.com/Coach1973/tut-alumni",
-   "repo": "tut-alumni",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-alumni",
-    "event.bymyway.com/curated/tut-alumni",
-    "event.bymyway.com/tut",
-    "event.bymyway.com/tut-alumni",
-    "tut-alumni.bymyway.com",
-    "tut-alumni.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "social-club",
    "name": "真公益・企業家俱樂部｜參與，就是公益",
    "desc": "真公益企業家俱樂部：公益不一定要很花錢，參與就是公益。以順發電腦 17 年「消費做公益」為示範，邀請企業家一起把好事做大。",
@@ -92,52 +632,6 @@
    "cat": "策展・樂",
    "updated": "2026-11-25",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-25",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -166,29 +660,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "coach888",
-   "name": "大樹AI作品總覽（個人專用）",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "bigtree",
@@ -234,29 +705,6 @@
    "cat": "GitHub 網頁",
    "updated": "2026-11-25",
    "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "aerogel-muse",
-   "name": "新一代高效保暖材料｜氣凝膠保暖解決方案・品牌招商",
-   "desc": "氣凝膠保暖絨與保暖絮片，輕盈、保暖、耐久。找同業來代理、代工、加盟、經營，一起打市場。",
-   "url": "https://event.bymyway.com/curated/aerogel-muse/",
-   "repoUrl": "https://github.com/Coach1973/aerogel-muse",
-   "repo": "aerogel-muse",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "aerogel-muse.bymyway.com",
-    "aerogel-muse.netlify.app",
-    "coach1973.github.io/aerogel-muse",
-    "event.bymyway.com/aerogel-muse",
-    "event.bymyway.com/curated/aerogel-muse"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-25",
-   "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -381,29 +829,6 @@
    ]
   },
   {
-   "id": "tava-to-claude",
-   "name": "手機做網頁｜TAVA 交給 Claude",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-to-claude/",
-   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
-   "repo": "tava-to-claude",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-to-claude",
-    "event.bymyway.com/curated/tava-to-claude",
-    "event.bymyway.com/tava-to-claude",
-    "tava-to-claude.bymyway.com",
-    "tava-to-claude.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-23",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "richrd-tsai",
    "name": "蔡曜隆 Richard Tsai｜總工程師．企業教練．《結繩領導學》作者",
    "desc": "大地工程碩士、近 40 年土木大地工程實戰、50 年結繩匠人、BNI 台灣國家培訓董事暨國家發展董事，《結繩領導學》作者蔡曜隆的個人品牌網頁。",
@@ -424,29 +849,6 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
-   "id": "real-ai",
-   "name": "真 AI 線上分會 — 真 AI 線上團隊．商業導師席",
-   "desc": "真 AI 線上分會：二十八位顧問，一整套團隊技能。這裡沒有競爭，卻能讓您擁有無與倫比的商務競爭力。點進去，就能認識每一位顧問。",
-   "url": "https://event.bymyway.com/curated/real-ai/",
-   "repoUrl": "https://github.com/Coach1973/real-ai",
-   "repo": "real-ai",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/real-ai",
-    "event.bymyway.com/curated/real-ai",
-    "event.bymyway.com/real-ai",
-    "real-ai.bymyway.com",
-    "real-ai.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-23",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -734,29 +1136,6 @@
    "aliases": []
   },
   {
-   "id": "tainan-shangquan",
-   "name": "大臺南商圈整合計劃 · 大台南策展中心",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-shangquan/",
-   "repoUrl": "https://github.com/Coach1973/tainan-shangquan",
-   "repo": "tainan-shangquan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-shangquan",
-    "event.bymyway.com/curated/tainan-shangquan",
-    "event.bymyway.com/tainan-shangquan",
-    "tainan-shangquan.bymyway.com",
-    "tainan-shangquan.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-22",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "superpower-game",
    "name": "邀約是一種超能力｜實戰訓練互動網頁｜大樹教練",
    "desc": "邀約超能力訓練互動網頁：抗拒點 +1 即時統計、命運轉盤、8 位金質導師、導師轉盤點評、48 小時回訪 SOP、破解方案庫。課後回到這裡，就能看到大家的答案。",
@@ -991,55 +1370,6 @@
    "aliases": []
   },
   {
-   "id": "bni-chapters",
-   "name": "BNI大台南南區・分會列表",
-   "desc": "",
-   "url": "https://chapters.bymyway.com/",
-   "repoUrl": "https://github.com/Coach1973/bni-chapters",
-   "repo": "bni-chapters",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "bni-chapters.bymyway.com",
-    "bni-chapters.netlify.app",
-    "chapters.bymyway.com",
-    "coach1973.github.io/bni-chapters",
-    "event.bymyway.com/bni-chapters",
-    "event.bymyway.com/curated/bni-chapters"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-22",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "bigtree-web-guide",
-   "name": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
-   "desc": "大樹教練製作網頁的綜合指令集（TAVA AI／MUSE 共用）",
-   "url": "https://coach1973.github.io/bigtree-web-guide/",
-   "repoUrl": "https://github.com/Coach1973/bigtree-web-guide",
-   "repo": "bigtree-web-guide",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "bigtree-web-guide.bymyway.com",
-    "bigtree-web-guide.netlify.app",
-    "coach1973.github.io/bigtree-web-guide",
-    "event.bymyway.com/bigtree-web-guide",
-    "event.bymyway.com/curated/bigtree-web-guide"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-22",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
    "id": "aerospect",
    "name": "AEROSPECT 彩繪光電｜宸田國際有限公司",
    "desc": "AEROSPECT 彩繪光電：彩繪發電 × 建築美學 × 永續未來。讓每一面建築表面，都能發電、說故事、創造價值。宸田國際有限公司。",
@@ -1107,31 +1437,6 @@
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
-  },
-  {
-   "id": "watercolor-1202",
-   "name": "時尚水彩課｜林家旭教授親授・精緻小班五席｜12/02（三）六淨山房",
-   "desc": "12/02（三）09:30–12:00，台灣形象設計發展協會理事長林家旭教授親自手把手指導，水墨飛白時尚水彩小班，僅五席。含飲品點心、2 張自畫像、專屬攝影師與影片剪輯紀錄。地點：台南六淨山房（知事官邸）。",
-   "url": "https://event.bymyway.com/curated/watercolor-1202/",
-   "repoUrl": "https://github.com/Coach1973/watercolor-1202",
-   "repo": "watercolor-1202",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/watercolor-1202",
-    "event.bymyway.com/curated/watercolor-1202",
-    "event.bymyway.com/watercolor-1202",
-    "watercolor-1202.bymyway.com",
-    "watercolor-1202.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-21",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "林教授"
-   ]
   },
   {
    "id": "tava-brand-web-playbook",
@@ -1930,29 +2235,6 @@
    "aliases": []
   },
   {
-   "id": "zeng-siyuan",
-   "name": "曾思遠 Giga｜把 AI Agent 放進企業的日常工作流",
-   "desc": "曾思遠 Giga：AI Agent 企業導入顧問、企業內訓講師，旋宇科技（Nautilus AI）執行長。工程師的手、交易員的腦、老師的嘴，近 20 年把複雜的東西做成別人用得起來的產品。",
-   "url": "https://event.bymyway.com/curated/zeng-siyuan/",
-   "repoUrl": "https://github.com/Coach1973/zeng-siyuan",
-   "repo": "zeng-siyuan",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/zeng-siyuan",
-    "event.bymyway.com/curated/zeng-siyuan",
-    "event.bymyway.com/zeng-siyuan",
-    "zeng-siyuan.bymyway.com",
-    "zeng-siyuan.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "yu-ruiming",
    "name": "余瑞銘｜流通顧問・創業導師・AI 應用企業顧問",
    "desc": "余瑞銘（Jack Yu），乙太未來商業顧問總經理、社團法人中華流通顧問協會創會理事長。30 年實戰經驗，把開店變成一門有公式的學問。",
@@ -2068,31 +2350,6 @@
    "aliases": []
   },
   {
-   "id": "xie-jingying",
-   "name": "謝京穎 Jessica｜婚禮顧問・瑪樂法創辦人",
-   "desc": "謝京穎（Nanu），台東大鳥部落出身的婚禮顧問，2021 年創立瑪樂法婚禮顧問整合行銷，以原民文化為根基，打造中西式與原住民族風格婚禮。",
-   "url": "https://event.bymyway.com/curated/xie-jingying/",
-   "repoUrl": "https://github.com/Coach1973/xie-jingying",
-   "repo": "xie-jingying",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/xie-jingying",
-    "event.bymyway.com/curated/xie-jingying",
-    "event.bymyway.com/xie-jingying",
-    "xie-jingying.bymyway.com",
-    "xie-jingying.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "瑪創辦人"
-   ]
-  },
-  {
    "id": "wu-riqin",
    "name": "吳日勤 Chin Wu｜台灣當代藝術家・東方抽象書寫",
    "desc": "吳日勤（Chin Wu），台灣當代藝術家，英國東倫敦大學藝術博士。以東方書法線條結合西方油畫肌理，30 餘場個展遍及紐約、倫敦、舊金山、北京與台灣。",
@@ -2159,29 +2416,6 @@
    "inRegistry": true,
    "delisted": false,
    "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "wang-junfu",
-   "name": "王俊甫｜AI 與數位轉型・萬加 ONE+ 智能 AI 系統平台",
-   "desc": "王俊甫（Wang Junfu），AI 與數位轉型、萬加 ONE+ 智能 AI 系統平台系統開發。10 年餐飲業、5 年不動產業務、倉儲管理實務，從第一線工作流程找出費工環節，協助企業客製系統、節省時間與人力。",
-   "url": "https://event.bymyway.com/curated/wang-junfu/",
-   "repoUrl": "https://github.com/Coach1973/wang-junfu",
-   "repo": "wang-junfu",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/wang-junfu",
-    "event.bymyway.com/curated/wang-junfu",
-    "event.bymyway.com/wang-junfu",
-    "wang-junfu.bymyway.com",
-    "wang-junfu.netlify.app"
-   ],
-   "cat": "策展・食",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-19 13:05",
    "aliases": []
   },
   {
@@ -2302,29 +2536,6 @@
    "aliases": []
   },
   {
-   "id": "qiu-weihuang",
-   "name": "邱偉晃 Andy｜卡堤咖啡有限公司負責人",
-   "desc": "邱偉晃 Andy Chiu，卡堤咖啡有限公司負責人。1991 年起以專業教學在餐飲界服務，1999 年創立卡堤咖啡，著有調酒、咖啡、茶飲、冰沙四本飲品專書。",
-   "url": "https://event.bymyway.com/curated/qiu-weihuang/",
-   "repoUrl": "https://github.com/Coach1973/qiu-weihuang",
-   "repo": "qiu-weihuang",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/qiu-weihuang",
-    "event.bymyway.com/curated/qiu-weihuang",
-    "event.bymyway.com/qiu-weihuang",
-    "qiu-weihuang.bymyway.com",
-    "qiu-weihuang.netlify.app"
-   ],
-   "cat": "策展・食",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": true,
-   "unlistedAt": "2026-11-19 13:06",
-   "aliases": []
-  },
-  {
    "id": "qiu-jinxiu",
    "name": "邱錦秀｜一本初衷，一盞溫暖的燈",
    "desc": "邱錦秀，臺南市家庭教育中心志工督導、警四分局志工中隊長。志工生涯近三十載，2019年雙金獎、2026年全國終身學習楷模教學者組優等。",
@@ -2348,54 +2559,6 @@
    "aliases": []
   },
   {
-   "id": "liu-yaping",
-   "name": "劉雅萍｜世界旗袍皇后大會主席・臺南世旗理事長",
-   "desc": "劉雅萍，臺南市臺灣世界旗袍文化推展聯合會理事長、2025年世界旗袍皇后國際大賽大會主席。從台南村莊出發，以旗袍連結文化、城市與女性成長。",
-   "url": "https://event.bymyway.com/curated/liu-yaping/",
-   "repoUrl": "https://github.com/Coach1973/liu-yaping",
-   "repo": "liu-yaping",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/liu-yaping",
-    "event.bymyway.com/curated/liu-yaping",
-    "event.bymyway.com/liu-yaping",
-    "liu-yaping.bymyway.com",
-    "liu-yaping.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "liu-huihua",
-   "name": "劉惠華 博士｜從茶席到雲端 — AI 創新應用專家",
-   "desc": "劉惠華博士：世新傳播博士、福建理工大學人文學院助理教授、亞威 ISO 17024 AI 師資認證南區分院長、台灣正念茶師創始人。博士論文寫茶文化，著作寫元宇宙茶文化與生成式 AI——從茶席到雲端。",
-   "url": "https://event.bymyway.com/curated/liu-huihua/",
-   "repoUrl": "https://github.com/Coach1973/liu-huihua",
-   "repo": "liu-huihua",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/liu-huihua",
-    "event.bymyway.com/curated/liu-huihua",
-    "event.bymyway.com/liu-huihua",
-    "liu-huihua.bymyway.com",
-    "liu-huihua.netlify.app"
-   ],
-   "cat": "策展・食",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "劉博士"
-   ]
-  },
-  {
    "id": "lin-jialing-muse",
    "name": "林佳伶 Lavi｜荷緻形象創辦人・國際形象顧問",
    "desc": "Lavi 林佳伶，LAVision Image 荷緻形象創辦人、國際形象顧問。13 年以上影劇、舞台與商務形象經驗，以形象策略串聯個人品牌、視覺與故事，讓專業跨越語言與文化。",
@@ -2413,29 +2576,6 @@
     "lin-jialing-muse.netlify.app"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "lin-hongcheng",
-   "name": "林泓丞｜鏡頭後面的人 — 台南應用科技大學兼任講師",
-   "desc": "林泓丞，台南應用科技大學兼任講師、導演、南應大運動傳播團隊帶隊老師。帶著學生把賽事直播出去，帶著空拍機把城市拍成故事。",
-   "url": "https://event.bymyway.com/curated/lin-hongcheng/",
-   "repoUrl": "https://github.com/Coach1973/lin-hongcheng",
-   "repo": "lin-hongcheng",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/lin-hongcheng",
-    "event.bymyway.com/curated/lin-hongcheng",
-    "event.bymyway.com/lin-hongcheng",
-    "lin-hongcheng.bymyway.com",
-    "lin-hongcheng.netlify.app"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-11-19",
    "inRegistry": true,
    "delisted": false,
@@ -2583,29 +2723,6 @@
    "aliases": []
   },
   {
-   "id": "hao-zhenping",
-   "name": "郝振平 Bedouin Hao｜照相雞攝影工房創辦人・台南劇場攝影",
-   "desc": "郝振平 Bedouin Hao，照相雞攝影工房創辦人兼藝術總監、南城當代書寫影像有限公司負責人。深耕台南的劇場與表演藝術攝影師，五大品牌部門、六個劇團與藝術節平面攝影合作，長榮大學推廣教育中心影像書課程講師。",
-   "url": "https://event.bymyway.com/curated/hao-zhenping/",
-   "repoUrl": "https://github.com/Coach1973/hao-zhenping",
-   "repo": "hao-zhenping",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/hao-zhenping",
-    "event.bymyway.com/curated/hao-zhenping",
-    "event.bymyway.com/hao-zhenping",
-    "hao-zhenping.bymyway.com",
-    "hao-zhenping.netlify.app"
-   ],
-   "cat": "策展・衣",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "guo-jingjing",
    "name": "郭靜靜｜DEAR CHING 台南郭靜靜專業美學",
    "desc": "DEAR CHING 台南郭靜靜專業美學，由靜靜老師創立的女性保養與身體護理工作室。專注女性健康管理｜美胸保養｜全方位臀療 17 技。台南市永康區振興路 34 號，預約制。",
@@ -2629,29 +2746,6 @@
    "aliases": [
     "由老師"
    ]
-  },
-  {
-   "id": "fu-enping",
-   "name": "傅恩平｜商務英漢通譯・榮益齋有限公司",
-   "desc": "傅恩平（En-Ping Fu），臺南善化商務英漢通譯專家，榮益齋有限公司負責人。會議口譯、文件筆譯、出版有聲、留遊學諮詢。",
-   "url": "https://event.bymyway.com/curated/fu-enping/",
-   "repoUrl": "https://github.com/Coach1973/fu-enping",
-   "repo": "fu-enping",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/fu-enping",
-    "event.bymyway.com/curated/fu-enping",
-    "event.bymyway.com/fu-enping",
-    "fu-enping.bymyway.com",
-    "fu-enping.netlify.app"
-   ],
-   "cat": "策展・樂",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "chen-shuling-muse-2",
@@ -2716,29 +2810,6 @@
     "event.bymyway.com/curated/chen-jianhua-muse"
    ],
    "cat": "教練個人創作",
-   "updated": "2026-11-19",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "chen-jian-daming",
-   "name": "陳建大明 C.C. Da Ming｜沐光而行",
-   "desc": "陳建大明，臺灣當代藝術家、策展人、無界學院發起人。1968年生於嘉義，紐約 ISCP 駐村藝術家，高雄駁二藝術特區首任藝術總監。創作融入五行宇宙觀、量子力學與生命哲學。",
-   "url": "https://event.bymyway.com/curated/chen-jian-daming/",
-   "repoUrl": "https://github.com/Coach1973/chen-jian-daming",
-   "repo": "chen-jian-daming",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "chen-jian-daming.bymyway.com",
-    "chen-jian-daming.netlify.app",
-    "coach1973.github.io/chen-jian-daming",
-    "event.bymyway.com/chen-jian-daming",
-    "event.bymyway.com/curated/chen-jian-daming"
-   ],
-   "cat": "策展・樂",
    "updated": "2026-11-19",
    "inRegistry": true,
    "delisted": false,
@@ -2814,29 +2885,6 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-14 19:46",
-   "aliases": []
-  },
-  {
-   "id": "tut-memory",
-   "name": "南應大校友互動記憶牆 ｜ TUT Alumni Memory Wall",
-   "desc": "",
-   "url": "https://event.bymyway.com/curated/tut-memory/",
-   "repoUrl": "https://github.com/Coach1973/tut-memory",
-   "repo": "tut-memory",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tut-memory",
-    "event.bymyway.com/curated/tut-memory",
-    "event.bymyway.com/tut-memory",
-    "tut-memory.bymyway.com",
-    "tut-memory.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-18",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -6496,29 +6544,6 @@
    ]
   },
   {
-   "id": "tainan-calender",
-   "name": "2026 全年度行事曆",
-   "desc": "",
-   "url": "https://event.bymyway.com/tainan-calender/",
-   "repoUrl": "https://github.com/Coach1973/tainan-calender",
-   "repo": "tainan-calender",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tainan-calender",
-    "event.bymyway.com/curated/tainan-calender",
-    "event.bymyway.com/tainan-calender",
-    "tainan-calender.bymyway.com",
-    "tainan-calender.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-09-17",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "bigtree-1003",
    "name": "用手機就能玩 AI ｜ 10/3（六）KR養生廚房．大樹教練",
    "desc": "零基礎學AI第四場，這次主題「用手機就能玩AI」。10/3（六）14:00–16:30，台南KR養生廚房，免費入場。現場做網頁、用SUNO做音樂、玩NotebookLM、AI出圖，全程只用你手上那支手機。",
@@ -7996,5 +8021,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-25T22:07:47Z"
+ "generated": "2026-11-27T15:11:32Z"
 }
