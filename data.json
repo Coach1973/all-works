@@ -2,6 +2,146 @@
  "owner": "Coach1973",
  "items": [
   {
+   "id": "tava-to-claude",
+   "name": "手機做網頁｜TAVA 交給 Claude",
+   "desc": "",
+   "url": "https://coach1973.github.io/tava-to-claude/",
+   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
+   "repo": "tava-to-claude",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/tava-to-claude",
+    "event.bymyway.com/curated/tava-to-claude",
+    "event.bymyway.com/tava-to-claude",
+    "tava-to-claude.bymyway.com",
+    "tava-to-claude.netlify.app"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "peipei-ai-backup",
+   "name": "peipei-ai-backup",
+   "desc": "",
+   "url": "https://github.com/Coach1973/peipei-ai-backup",
+   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
+   "repo": "peipei-ai-backup",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/peipei-ai-backup",
+    "event.bymyway.com/curated/peipei-ai-backup",
+    "event.bymyway.com/peipei-ai-backup",
+    "peipei-ai-backup.bymyway.com",
+    "peipei-ai-backup.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "mac-openclaw-workflows",
+   "name": "mac-openclaw-workflows",
+   "desc": "",
+   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
+   "repo": "mac-openclaw-workflows",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/mac-openclaw-workflows",
+    "event.bymyway.com/curated/mac-openclaw-workflows",
+    "event.bymyway.com/mac-openclaw-workflows",
+    "mac-openclaw-workflows.bymyway.com",
+    "mac-openclaw-workflows.netlify.app"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "dashu-coach-ai-lessons",
+   "name": "dashu-coach-ai-lessons",
+   "desc": "",
+   "url": "https://github.com/Coach1973/dashu-coach-ai-lessons",
+   "repoUrl": "https://github.com/Coach1973/dashu-coach-ai-lessons",
+   "repo": "dashu-coach-ai-lessons",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/dashu-coach-ai-lessons",
+    "dashu-coach-ai-lessons.bymyway.com",
+    "dashu-coach-ai-lessons.netlify.app",
+    "event.bymyway.com/curated/dashu-coach-ai-lessons",
+    "event.bymyway.com/dashu-coach-ai-lessons"
+   ],
+   "cat": "程式／內部倉庫",
+   "updated": "2026-11-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "coach888",
+   "name": "大樹AI作品總覽（個人專用）",
+   "desc": "",
+   "url": "https://coach1973.github.io/coach888/",
+   "repoUrl": "https://github.com/Coach1973/coach888",
+   "repo": "coach888",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/coach888",
+    "coach888.bymyway.com",
+    "coach888.netlify.app",
+    "event.bymyway.com/coach888",
+    "event.bymyway.com/curated/coach888"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-28",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
+  },
+  {
+   "id": "chen-long-ai-1204",
+   "name": "姓名學 × 零基礎 AI 講座｜2026/12/04（五）台北・立馬吃一鍋 仁愛店",
+   "desc": "名字裡的玄機 × 手機裡的魔法——陳龍 × 大樹教練首次合辦。2026/12/04（五）15:30 台北立馬吃一鍋仁愛店，現場做出一首歌、一張 AI 圖、一個上線的網站。",
+   "url": "https://event.bymyway.com/curated/chen-long-ai-1204/",
+   "repoUrl": "https://github.com/Coach1973/chen-long-ai-1204",
+   "repo": "chen-long-ai-1204",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "chen-long-ai-1204.bymyway.com",
+    "chen-long-ai-1204.netlify.app",
+    "coach1973.github.io/chen-long-ai-1204",
+    "event.bymyway.com/chen-long-ai-1204",
+    "event.bymyway.com/curated/chen-long-ai-1204"
+   ],
+   "cat": "策展・育",
+   "updated": "2026-11-28",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "zeng-siyuan",
    "name": "曾思遠 Giga｜把 AI Agent 放進企業的日常工作流",
    "desc": "曾思遠 Giga：AI Agent 企業導入顧問、企業內訓講師，旋宇科技（Nautilus AI）執行長。工程師的手、交易員的腦、老師的嘴，近 20 年把複雜的東西做成別人用得起來的產品。",
@@ -98,29 +238,6 @@
    "aliases": []
   },
   {
-   "id": "tava-to-claude",
-   "name": "手機做網頁｜TAVA 交給 Claude",
-   "desc": "",
-   "url": "https://coach1973.github.io/tava-to-claude/",
-   "repoUrl": "https://github.com/Coach1973/tava-to-claude",
-   "repo": "tava-to-claude",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/tava-to-claude",
-    "event.bymyway.com/curated/tava-to-claude",
-    "event.bymyway.com/tava-to-claude",
-    "tava-to-claude.bymyway.com",
-    "tava-to-claude.netlify.app"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-27",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
    "id": "tainan-shangquan",
    "name": "大臺南商圈整合計劃 · 大台南策展中心",
    "desc": "",
@@ -210,52 +327,6 @@
    "inRegistry": true,
    "delisted": true,
    "unlistedAt": "2026-11-19 13:06",
-   "aliases": []
-  },
-  {
-   "id": "peipei-ai-backup",
-   "name": "peipei-ai-backup",
-   "desc": "",
-   "url": "https://github.com/Coach1973/peipei-ai-backup",
-   "repoUrl": "https://github.com/Coach1973/peipei-ai-backup",
-   "repo": "peipei-ai-backup",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/peipei-ai-backup",
-    "event.bymyway.com/curated/peipei-ai-backup",
-    "event.bymyway.com/peipei-ai-backup",
-    "peipei-ai-backup.bymyway.com",
-    "peipei-ai-backup.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-27",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "mac-openclaw-workflows",
-   "name": "mac-openclaw-workflows",
-   "desc": "",
-   "url": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repoUrl": "https://github.com/Coach1973/mac-openclaw-workflows",
-   "repo": "mac-openclaw-workflows",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/mac-openclaw-workflows",
-    "event.bymyway.com/curated/mac-openclaw-workflows",
-    "event.bymyway.com/mac-openclaw-workflows",
-    "mac-openclaw-workflows.bymyway.com",
-    "mac-openclaw-workflows.netlify.app"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-27",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
    "aliases": []
   },
   {
@@ -353,6 +424,31 @@
    "aliases": []
   },
   {
+   "id": "go",
+   "name": "大樹入口",
+   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
+   "url": "https://event.bymyway.com/curated/go/",
+   "repoUrl": "https://github.com/Coach1973/go",
+   "repo": "go",
+   "private": true,
+   "archived": false,
+   "keys": [
+    "coach1973.github.io/go",
+    "event.bymyway.com/curated/go",
+    "event.bymyway.com/go",
+    "go.bymyway.com",
+    "go.netlify.app"
+   ],
+   "cat": "教練個人創作",
+   "updated": "2026-11-27",
+   "inRegistry": true,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": [
+    "大教練"
+   ]
+  },
+  {
    "id": "fu-enping",
    "name": "傅恩平｜商務英漢通譯・榮益齋有限公司",
    "desc": "傅恩平（En-Ping Fu），臺南善化商務英漢通譯專家，榮益齋有限公司負責人。會議口譯、文件筆譯、出版有聲、留遊學諮詢。",
@@ -371,29 +467,6 @@
    "cat": "策展・樂",
    "updated": "2026-11-27",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "coach888",
-   "name": "大樹AI作品總覽（個人專用）",
-   "desc": "",
-   "url": "https://coach1973.github.io/coach888/",
-   "repoUrl": "https://github.com/Coach1973/coach888",
-   "repo": "coach888",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/coach888",
-    "coach888.bymyway.com",
-    "coach888.netlify.app",
-    "event.bymyway.com/coach888",
-    "event.bymyway.com/curated/coach888"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-27",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -494,6 +567,29 @@
    "aliases": [
     "大教練"
    ]
+  },
+  {
+   "id": "all-works",
+   "name": "完整作品一覽（教練自用清單，noindex）",
+   "desc": "完整作品一覽（教練自用清單，noindex）",
+   "url": "https://coach1973.github.io/all-works/",
+   "repoUrl": "https://github.com/Coach1973/all-works",
+   "repo": "all-works",
+   "private": false,
+   "archived": false,
+   "keys": [
+    "all-works.bymyway.com",
+    "all-works.netlify.app",
+    "coach1973.github.io/all-works",
+    "event.bymyway.com/all-works",
+    "event.bymyway.com/curated/all-works"
+   ],
+   "cat": "GitHub 網頁",
+   "updated": "2026-11-27",
+   "inRegistry": false,
+   "delisted": false,
+   "unlistedAt": "",
+   "aliases": []
   },
   {
    "id": "aerogel-muse",
@@ -637,31 +733,6 @@
    "aliases": []
   },
   {
-   "id": "go",
-   "name": "大樹入口",
-   "desc": "大樹教練的總入口：六大系列、最常用排行、全部作品一次搜尋。",
-   "url": "https://event.bymyway.com/curated/go/",
-   "repoUrl": "https://github.com/Coach1973/go",
-   "repo": "go",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/go",
-    "event.bymyway.com/curated/go",
-    "event.bymyway.com/go",
-    "go.bymyway.com",
-    "go.netlify.app"
-   ],
-   "cat": "教練個人創作",
-   "updated": "2026-11-25",
-   "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": [
-    "大教練"
-   ]
-  },
-  {
    "id": "bigtree",
    "name": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
    "desc": "大樹教練 7/1 創業 x 政府 x AI 主題講座 EDM",
@@ -685,29 +756,6 @@
    "aliases": [
     "大教練"
    ]
-  },
-  {
-   "id": "all-works",
-   "name": "完整作品一覽（教練自用清單，noindex）",
-   "desc": "完整作品一覽（教練自用清單，noindex）",
-   "url": "https://coach1973.github.io/all-works/",
-   "repoUrl": "https://github.com/Coach1973/all-works",
-   "repo": "all-works",
-   "private": false,
-   "archived": false,
-   "keys": [
-    "all-works.bymyway.com",
-    "all-works.netlify.app",
-    "coach1973.github.io/all-works",
-    "event.bymyway.com/all-works",
-    "event.bymyway.com/curated/all-works"
-   ],
-   "cat": "GitHub 網頁",
-   "updated": "2026-11-25",
-   "inRegistry": false,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
   },
   {
    "id": "rpl-leadership",
@@ -3828,29 +3876,6 @@
    "cat": "教練個人創作",
    "updated": "2026-11-11",
    "inRegistry": true,
-   "delisted": false,
-   "unlistedAt": "",
-   "aliases": []
-  },
-  {
-   "id": "dashu-coach-ai-lessons",
-   "name": "dashu-coach-ai-lessons",
-   "desc": "",
-   "url": "https://github.com/Coach1973/dashu-coach-ai-lessons",
-   "repoUrl": "https://github.com/Coach1973/dashu-coach-ai-lessons",
-   "repo": "dashu-coach-ai-lessons",
-   "private": true,
-   "archived": false,
-   "keys": [
-    "coach1973.github.io/dashu-coach-ai-lessons",
-    "dashu-coach-ai-lessons.bymyway.com",
-    "dashu-coach-ai-lessons.netlify.app",
-    "event.bymyway.com/curated/dashu-coach-ai-lessons",
-    "event.bymyway.com/dashu-coach-ai-lessons"
-   ],
-   "cat": "程式／內部倉庫",
-   "updated": "2026-11-11",
-   "inRegistry": false,
    "delisted": false,
    "unlistedAt": "",
    "aliases": []
@@ -8021,5 +8046,5 @@
    "aliases": []
   }
  ],
- "generated": "2026-11-27T15:11:32Z"
+ "generated": "2026-11-28T11:00:54Z"
 }
